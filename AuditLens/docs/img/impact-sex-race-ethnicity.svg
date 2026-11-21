@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 588" width="760" height="588" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Impact ratios by Sex × Race/Ethnicity">
+<rect width="760" height="588" fill="#ffffff" rx="10"/>
+<text x="16" y="26" font-size="15" font-weight="600" fill="#0f172a">Impact ratio by Sex × Race/Ethnicity</text>
+<line x1="317.0" y1="38" x2="317.0" y2="558" stroke="#eef2f7"/>
+<text x="317.0" y="574" font-size="11" fill="#64748b" text-anchor="middle">0.0</text>
+<line x1="379.2" y1="38" x2="379.2" y2="558" stroke="#eef2f7"/>
+<text x="379.2" y="574" font-size="11" fill="#64748b" text-anchor="middle">0.2</text>
+<line x1="441.3" y1="38" x2="441.3" y2="558" stroke="#eef2f7"/>
+<text x="441.3" y="574" font-size="11" fill="#64748b" text-anchor="middle">0.4</text>
+<line x1="503.5" y1="38" x2="503.5" y2="558" stroke="#eef2f7"/>
+<text x="503.5" y="574" font-size="11" fill="#64748b" text-anchor="middle">0.6</text>
+<line x1="565.7" y1="38" x2="565.7" y2="558" stroke="#eef2f7"/>
+<text x="565.7" y="574" font-size="11" fill="#64748b" text-anchor="middle">0.8</text>
+<line x1="627.8" y1="38" x2="627.8" y2="558" stroke="#eef2f7"/>
+<text x="627.8" y="574" font-size="11" fill="#64748b" text-anchor="middle">1.0</text>
+<line x1="690.0" y1="38" x2="690.0" y2="558" stroke="#eef2f7"/>
+<text x="690.0" y="574" font-size="11" fill="#64748b" text-anchor="middle">1.2</text>
+<rect x="317" y="38" width="248.7" height="520" fill="#fef2f2" opacity="0.7"/>
+<line x1="565.7" y1="34" x2="565.7" y2="558" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="569.7" y="32" font-size="11" fill="#dc2626">0.8 threshold</text>
+<text x="307" y="63.0" font-size="12" fill="#1e293b" text-anchor="end">Non-binary × Two or More Races</text>
+<rect x="317" y="50" width="373.0" height="18" rx="3" fill="#cbd5e1"/>
+<line x1="669.9" y1="59.0" x2="690.0" y2="59.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="669.9" y1="54.0" x2="669.9" y2="64.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="690.0" y1="54.0" x2="690.0" y2="64.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="63.0" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">2.09</text>
+<text x="307" y="93.0" font-size="12" fill="#1e293b" text-anchor="end">Non-binary × White</text>
+<rect x="317" y="80" width="373.0" height="18" rx="3" fill="#cbd5e1"/>
+<line x1="580.1" y1="89.0" x2="690.0" y2="89.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="580.1" y1="84.0" x2="580.1" y2="94.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="690.0" y1="84.0" x2="690.0" y2="94.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="93.0" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">1.31</text>
+<text x="307" y="123.0" font-size="12" fill="#1e293b" text-anchor="end">Male × Native American or Alaska Native</text>
+<rect x="317" y="110" width="373.0" height="18" rx="3" fill="#cbd5e1"/>
+<line x1="566.4" y1="119.0" x2="690.0" y2="119.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="566.4" y1="114.0" x2="566.4" y2="124.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="690.0" y1="114.0" x2="690.0" y2="124.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="123.0" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">1.26</text>
+<text x="307" y="153.0" font-size="12" fill="#1e293b" text-anchor="end">Male × Two or More Races</text>
+<rect x="317" y="140" width="310.8" height="18" rx="3" fill="#2563eb"/>
+<text x="748" y="153.0" font-size="12" font-weight="600" fill="#2563eb" text-anchor="end">1.00</text>
+<text x="307" y="183.0" font-size="12" fill="#1e293b" text-anchor="end">Male × White</text>
+<rect x="317" y="170" width="294.3" height="18" rx="3" fill="#0f9d76"/>
+<line x1="547.9" y1="179.0" x2="690.0" y2="179.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="547.9" y1="174.0" x2="547.9" y2="184.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="690.0" y1="174.0" x2="690.0" y2="184.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="183.0" font-size="12" font-weight="600" fill="#0f9d76" text-anchor="end">0.95</text>
+<text x="307" y="213.0" font-size="12" fill="#1e293b" text-anchor="end">Male × Asian</text>
+<rect x="317" y="200" width="285.5" height="18" rx="3" fill="#0f9d76"/>
+<line x1="536.1" y1="209.0" x2="689.1" y2="209.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="536.1" y1="204.0" x2="536.1" y2="214.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="689.1" y1="204.0" x2="689.1" y2="214.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="213.0" font-size="12" font-weight="600" fill="#0f9d76" text-anchor="end">0.92</text>
+<text x="307" y="243.0" font-size="12" fill="#1e293b" text-anchor="end">Non-binary × Asian</text>
+<rect x="317" y="230" width="259.9" height="18" rx="3" fill="#cbd5e1"/>
+<line x1="415.1" y1="239.0" x2="690.0" y2="239.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="415.1" y1="234.0" x2="415.1" y2="244.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="690.0" y1="234.0" x2="690.0" y2="244.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="243.0" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">0.84</text>
+<text x="307" y="273.0" font-size="12" fill="#1e293b" text-anchor="end">Female × White</text>
+<rect x="317" y="260" width="254.3" height="18" rx="3" fill="#0f9d76"/>
+<line x1="515.8" y1="269.0" x2="642.3" y2="269.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="515.8" y1="264.0" x2="515.8" y2="274.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="642.3" y1="264.0" x2="642.3" y2="274.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="273.0" font-size="12" font-weight="600" fill="#0f9d76" text-anchor="end">0.82</text>
+<text x="307" y="303.0" font-size="12" fill="#1e293b" text-anchor="end">Female × Two or More Races</text>
+<rect x="317" y="290" width="246.5" height="18" rx="3" fill="#d97706"/>
+<line x1="487.5" y1="299.0" x2="673.2" y2="299.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="487.5" y1="294.0" x2="487.5" y2="304.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="673.2" y1="294.0" x2="673.2" y2="304.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="303.0" font-size="12" font-weight="600" fill="#d97706" text-anchor="end">0.79</text>
+<text x="307" y="333.0" font-size="12" fill="#1e293b" text-anchor="end">Male × Hispanic or Latino</text>
+<rect x="317" y="320" width="245.5" height="18" rx="3" fill="#d97706"/>
+<line x1="505.5" y1="329.0" x2="636.9" y2="329.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="505.5" y1="324.0" x2="505.5" y2="334.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="636.9" y1="324.0" x2="636.9" y2="334.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="333.0" font-size="12" font-weight="600" fill="#d97706" text-anchor="end">0.79</text>
+<text x="307" y="363.0" font-size="12" fill="#1e293b" text-anchor="end">Male × Black or African American</text>
+<rect x="317" y="350" width="237.8" height="18" rx="3" fill="#d97706"/>
+<line x1="499.0" y1="359.0" x2="627.6" y2="359.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="499.0" y1="354.0" x2="499.0" y2="364.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="627.6" y1="354.0" x2="627.6" y2="364.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="363.0" font-size="12" font-weight="600" fill="#d97706" text-anchor="end">0.76</text>
+<text x="307" y="393.0" font-size="12" fill="#1e293b" text-anchor="end">Female × Hispanic or Latino</text>
+<rect x="317" y="380" width="229.2" height="18" rx="3" fill="#dc2626"/>
+<line x1="492.5" y1="389.0" x2="616.3" y2="389.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="492.5" y1="384.0" x2="492.5" y2="394.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="616.3" y1="384.0" x2="616.3" y2="394.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="393.0" font-size="12" font-weight="600" fill="#dc2626" text-anchor="end">0.74</text>
+<text x="307" y="423.0" font-size="12" fill="#1e293b" text-anchor="end">Female × Black or African American</text>
+<rect x="317" y="410" width="227.1" height="18" rx="3" fill="#dc2626"/>
+<line x1="490.2" y1="419.0" x2="614.8" y2="419.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="490.2" y1="414.0" x2="490.2" y2="424.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="614.8" y1="414.0" x2="614.8" y2="424.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="423.0" font-size="12" font-weight="600" fill="#dc2626" text-anchor="end">0.73</text>
+<text x="307" y="453.0" font-size="12" fill="#1e293b" text-anchor="end">Female × Asian</text>
+<rect x="317" y="440" width="218.9" height="18" rx="3" fill="#dc2626"/>
+<line x1="483.1" y1="449.0" x2="605.4" y2="449.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="483.1" y1="444.0" x2="483.1" y2="454.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="605.4" y1="444.0" x2="605.4" y2="454.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="453.0" font-size="12" font-weight="600" fill="#dc2626" text-anchor="end">0.70</text>
+<text x="307" y="483.0" font-size="12" fill="#1e293b" text-anchor="end">Female × Native American or Alaska Native</text>
+<rect x="317" y="470" width="216.6" height="18" rx="3" fill="#cbd5e1"/>
+<line x1="434.6" y1="479.0" x2="690.0" y2="479.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="434.6" y1="474.0" x2="434.6" y2="484.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="690.0" y1="474.0" x2="690.0" y2="484.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="483.0" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">0.70</text>
+<text x="307" y="513.0" font-size="12" fill="#1e293b" text-anchor="end">Non-binary × Black or African American</text>
+<rect x="317" y="500" width="162.4" height="18" rx="3" fill="#cbd5e1"/>
+<line x1="374.1" y1="509.0" x2="690.0" y2="509.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="374.1" y1="504.0" x2="374.1" y2="514.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="690.0" y1="504.0" x2="690.0" y2="514.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="513.0" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">0.52</text>
+<text x="307" y="543.0" font-size="12" fill="#1e293b" text-anchor="end">Non-binary × Hispanic or Latino</text>
+<rect x="317" y="530" width="123.8" height="18" rx="3" fill="#cbd5e1"/>
+<line x1="350.6" y1="539.0" x2="690.0" y2="539.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="350.6" y1="534.0" x2="350.6" y2="544.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="690.0" y1="534.0" x2="690.0" y2="544.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="543.0" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">0.40</text>
+</svg>

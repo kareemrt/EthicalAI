@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 138" width="760" height="138" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Impact ratios by Age">
+<rect width="760" height="138" fill="#ffffff" rx="10"/>
+<text x="16" y="26" font-size="15" font-weight="600" fill="#0f172a">Impact ratio by Age</text>
+<line x1="107.0" y1="38" x2="107.0" y2="108" stroke="#eef2f7"/>
+<text x="107.0" y="124" font-size="11" fill="#64748b" text-anchor="middle">0.0</text>
+<line x1="204.2" y1="38" x2="204.2" y2="108" stroke="#eef2f7"/>
+<text x="204.2" y="124" font-size="11" fill="#64748b" text-anchor="middle">0.2</text>
+<line x1="301.3" y1="38" x2="301.3" y2="108" stroke="#eef2f7"/>
+<text x="301.3" y="124" font-size="11" fill="#64748b" text-anchor="middle">0.4</text>
+<line x1="398.5" y1="38" x2="398.5" y2="108" stroke="#eef2f7"/>
+<text x="398.5" y="124" font-size="11" fill="#64748b" text-anchor="middle">0.6</text>
+<line x1="495.7" y1="38" x2="495.7" y2="108" stroke="#eef2f7"/>
+<text x="495.7" y="124" font-size="11" fill="#64748b" text-anchor="middle">0.8</text>
+<line x1="592.8" y1="38" x2="592.8" y2="108" stroke="#eef2f7"/>
+<text x="592.8" y="124" font-size="11" fill="#64748b" text-anchor="middle">1.0</text>
+<line x1="690.0" y1="38" x2="690.0" y2="108" stroke="#eef2f7"/>
+<text x="690.0" y="124" font-size="11" fill="#64748b" text-anchor="middle">1.2</text>
+<rect x="107" y="38" width="388.7" height="70" fill="#fef2f2" opacity="0.7"/>
+<line x1="495.7" y1="34" x2="495.7" y2="108" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="499.7" y="32" font-size="11" fill="#dc2626">0.8 threshold</text>
+<text x="97" y="63.0" font-size="12" fill="#1e293b" text-anchor="end">Under 40</text>
+<rect x="107" y="50" width="485.8" height="18" rx="3" fill="#2563eb"/>
+<text x="748" y="63.0" font-size="12" font-weight="600" fill="#2563eb" text-anchor="end">1.00</text>
+<text x="97" y="93.0" font-size="12" fill="#1e293b" text-anchor="end">40 and over</text>
+<rect x="107" y="80" width="359.5" height="18" rx="3" fill="#dc2626"/>
+<line x1="435.3" y1="89.0" x2="500.6" y2="89.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="435.3" y1="84.0" x2="435.3" y2="94.0" stroke="#0f172a" stroke-width="1.2"/>
+<line x1="500.6" y1="84.0" x2="500.6" y2="94.0" stroke="#0f172a" stroke-width="1.2"/>
+<text x="748" y="93.0" font-size="12" font-weight="600" fill="#dc2626" text-anchor="end">0.74</text>
+</svg>

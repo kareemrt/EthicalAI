@@ -1,0 +1,696 @@
+{
+  "title": "Resume Screener — Selection Audit",
+  "mode": "selection",
+  "outcome": "advanced",
+  "total": 6000,
+  "positives": 1800,
+  "threshold": 0.8,
+  "min_share": 0.02,
+  "alpha": 0.05,
+  "min_group_size": 30,
+  "median_score": null,
+  "dimensions": [
+    {
+      "name": "Sex",
+      "columns": [
+        "sex"
+      ],
+      "groups": [
+        {
+          "category": "Non-binary",
+          "n": 77,
+          "positives": 26,
+          "rate": 0.33766233766233766,
+          "rate_ci": [
+            0.24199921857053475,
+            0.44875351691077503
+          ],
+          "share": 0.013095238095238096,
+          "impact_ratio": 1.0573301832720563,
+          "impact_ratio_ci": [
+            0.769861705232834,
+            1.4521401816187396
+          ],
+          "p_value": 0.7338672087595843,
+          "excluded": true,
+          "status": "excluded (<2% of sample)"
+        },
+        {
+          "category": "Male",
+          "n": 2909,
+          "positives": 929,
+          "rate": 0.31935372980405635,
+          "rate_ci": [
+            0.30265914260780213,
+            0.3365247900372953
+          ],
+          "share": 0.4947278911564626,
+          "impact_ratio": 1.0,
+          "impact_ratio_ci": null,
+          "p_value": null,
+          "excluded": false,
+          "status": "reference"
+        },
+        {
+          "category": "Female",
+          "n": 2894,
+          "positives": 796,
+          "rate": 0.2750518313752592,
+          "rate_ci": [
+            0.2590891293480516,
+            0.2916109284356956
+          ],
+          "share": 0.4921768707482993,
+          "impact_ratio": 0.8612764020135942,
+          "impact_ratio_ci": [
+            0.7954918834519057,
+            0.9325010802707083
+          ],
+          "p_value": 0.00022257265752689825,
+          "excluded": false,
+          "status": "ok"
+        }
+      ],
+      "reference": "Male",
+      "unknown": 120
+    },
+    {
+      "name": "Race/Ethnicity",
+      "columns": [
+        "race_ethnicity"
+      ],
+      "groups": [
+        {
+          "category": "Native American or Alaska Native",
+          "n": 68,
+          "positives": 24,
+          "rate": 0.35294117647058826,
+          "rate_ci": [
+            0.25001976884865196,
+            0.4715894477748983
+          ],
+          "share": 0.01154891304347826,
+          "impact_ratio": 1.0547195622435022,
+          "impact_ratio_ci": [
+            0.7321180474431366,
+            1.519472657263687
+          ],
+          "p_value": 0.7765923610182126,
+          "excluded": true,
+          "status": "excluded (<2% of sample)"
+        },
+        {
+          "category": "Two or More Races",
+          "n": 257,
+          "positives": 86,
+          "rate": 0.3346303501945525,
+          "rate_ci": [
+            0.2797510328138769,
+            0.3943805243998475
+          ],
+          "share": 0.04364809782608696,
+          "impact_ratio": 1.0,
+          "impact_ratio_ci": null,
+          "p_value": null,
+          "excluded": false,
+          "status": "reference"
+        },
+        {
+          "category": "White",
+          "n": 2381,
+          "positives": 763,
+          "rate": 0.32045359092818143,
+          "rate_ci": [
+            0.30201174593227553,
+            0.33947385604027736
+          ],
+          "share": 0.40438179347826086,
+          "impact_ratio": 0.9576345682388678,
+          "impact_ratio_ci": [
+            0.7982457445144165,
+            1.1488491765701865
+          ],
+          "p_value": 0.6439595273144278,
+          "excluded": false,
+          "status": "ok"
+        },
+        {
+          "category": "Asian",
+          "n": 950,
+          "positives": 278,
+          "rate": 0.2926315789473684,
+          "rate_ci": [
+            0.2645815491662916,
+            0.3223519015068088
+          ],
+          "share": 0.16134510869565216,
+          "impact_ratio": 0.8744920440636476,
+          "impact_ratio_ci": [
+            0.7168802218203527,
+            1.0667560798214577
+          ],
+          "p_value": 0.1930771828597011,
+          "excluded": false,
+          "status": "ok"
+        },
+        {
+          "category": "Hispanic or Latino",
+          "n": 1156,
+          "positives": 319,
+          "rate": 0.2759515570934256,
+          "rate_ci": [
+            0.2509582945801431,
+            0.3024289411833612
+          ],
+          "share": 0.19633152173913043,
+          "impact_ratio": 0.8246459322443068,
+          "impact_ratio_ci": [
+            0.6778276468548406,
+            1.0032652352297975
+          ],
+          "p_value": 0.05988289932379809,
+          "excluded": false,
+          "status": "ok"
+        },
+        {
+          "category": "Black or African American",
+          "n": 1076,
+          "positives": 288,
+          "rate": 0.26765799256505574,
+          "rate_ci": [
+            0.24206483697821168,
+            0.29490422832693497
+          ],
+          "share": 0.1827445652173913,
+          "impact_ratio": 0.7998616754560387,
+          "impact_ratio_ci": [
+            0.6557110371163054,
+            0.9757021975365376
+          ],
+          "p_value": 0.03179083736167998,
+          "excluded": false,
+          "status": "adverse impact"
+        }
+      ],
+      "reference": "Two or More Races",
+      "unknown": 112
+    },
+    {
+      "name": "Age",
+      "columns": [
+        "age_band"
+      ],
+      "groups": [
+        {
+          "category": "Under 40",
+          "n": 4091,
+          "positives": 1338,
+          "rate": 0.3270593986800293,
+          "rate_ci": [
+            0.3128515671483046,
+            0.3415917088051636
+          ],
+          "share": 0.6818333333333333,
+          "impact_ratio": 1.0,
+          "impact_ratio_ci": null,
+          "p_value": null,
+          "excluded": false,
+          "status": "reference"
+        },
+        {
+          "category": "40 and over",
+          "n": 1909,
+          "positives": 462,
+          "rate": 0.24201152435830278,
+          "rate_ci": [
+            0.2233289718027427,
+            0.2617302862670439
+          ],
+          "share": 0.31816666666666665,
+          "impact_ratio": 0.7399619926381291,
+          "impact_ratio_ci": [
+            0.6757709074424042,
+            0.8102505516570461
+          ],
+          "p_value": 2.1464385824288e-11,
+          "excluded": false,
+          "status": "adverse impact"
+        }
+      ],
+      "reference": "Under 40",
+      "unknown": 0
+    },
+    {
+      "name": "Sex × Race/Ethnicity",
+      "columns": [
+        "sex",
+        "race_ethnicity"
+      ],
+      "groups": [
+        {
+          "category": "Non-binary × Two or More Races",
+          "n": 4,
+          "positives": 3,
+          "rate": 0.75,
+          "rate_ci": [
+            0.30064184258240184,
+            0.9544127391902995
+          ],
+          "share": 0.0006931207762952695,
+          "impact_ratio": 2.0904255319148937,
+          "impact_ratio_ci": [
+            1.1354338022437926,
+            3.8486426032465393
+          ],
+          "p_value": 0.11046602634775238,
+          "excluded": true,
+          "status": "excluded (<2% of sample)"
+        },
+        {
+          "category": "Non-binary × White",
+          "n": 32,
+          "positives": 15,
+          "rate": 0.46875,
+          "rate_ci": [
+            0.30869387108068835,
+            0.6355048288102536
+          ],
+          "share": 0.005544966210362156,
+          "impact_ratio": 1.3065159574468086,
+          "impact_ratio_ci": [
+            0.8464055942751553,
+            2.016744641822669
+          ],
+          "p_value": 0.2506568623010357,
+          "excluded": true,
+          "status": "excluded (<2% of sample)"
+        },
+        {
+          "category": "Male × Native American or Alaska Native",
+          "n": 31,
+          "positives": 14,
+          "rate": 0.45161290322580644,
+          "rate_ci": [
+            0.29161735980520015,
+            0.6222783236264549
+          ],
+          "share": 0.005371686016288338,
+          "impact_ratio": 1.2587508579272477,
+          "impact_ratio_ci": [
+            0.8022754918882795,
+            1.9749496754578968
+          ],
+          "p_value": 0.33740506133099557,
+          "excluded": true,
+          "status": "excluded (<2% of sample)"
+        },
+        {
+          "category": "Male × Two or More Races",
+          "n": 131,
+          "positives": 47,
+          "rate": 0.35877862595419846,
+          "rate_ci": [
+            0.2817450752586219,
+            0.4438586053630712
+          ],
+          "share": 0.022699705423670075,
+          "impact_ratio": 1.0,
+          "impact_ratio_ci": null,
+          "p_value": null,
+          "excluded": false,
+          "status": "reference"
+        },
+        {
+          "category": "Male × White",
+          "n": 1163,
+          "positives": 395,
+          "rate": 0.33963886500429924,
+          "rate_ci": [
+            0.3129884240757215,
+            0.36734518321915094
+          ],
+          "share": 0.20152486570784958,
+          "impact_ratio": 0.9466530067141107,
+          "impact_ratio_ci": [
+            0.7427660803192372,
+            1.2065062458637104
+          ],
+          "p_value": 0.6614417619683797,
+          "excluded": false,
+          "status": "ok"
+        },
+        {
+          "category": "Male × Asian",
+          "n": 440,
+          "positives": 145,
+          "rate": 0.32954545454545453,
+          "rate_ci": [
+            0.28726616515984293,
+            0.37477532055770035
+          ],
+          "share": 0.07624328539247964,
+          "impact_ratio": 0.9185203094777563,
+          "impact_ratio_ci": [
+            0.7047656846678481,
+            1.197106467124225
+          ],
+          "p_value": 0.5341345510697306,
+          "excluded": false,
+          "status": "ok"
+        },
+        {
+          "category": "Non-binary × Asian",
+          "n": 10,
+          "positives": 3,
+          "rate": 0.3,
+          "rate_ci": [
+            0.10779126740630099,
+            0.6032218525388546
+          ],
+          "share": 0.0017328019407381737,
+          "impact_ratio": 0.8361702127659575,
+          "impact_ratio_ci": [
+            0.31570066254930107,
+            2.2146948285478487
+          ],
+          "p_value": 0.7080277938398982,
+          "excluded": true,
+          "status": "excluded (<2% of sample)"
+        },
+        {
+          "category": "Female × White",
+          "n": 1131,
+          "positives": 332,
+          "rate": 0.29354553492484525,
+          "rate_ci": [
+            0.2677403916196522,
+            0.3207483824111295
+          ],
+          "share": 0.19597989949748743,
+          "impact_ratio": 0.8181801079820156,
+          "impact_ratio_ci": [
+            0.6396658635428485,
+            1.0465130738567563
+          ],
+          "p_value": 0.12309063027986866,
+          "excluded": false,
+          "status": "ok"
+        },
+        {
+          "category": "Female × Two or More Races",
+          "n": 116,
+          "positives": 33,
+          "rate": 0.28448275862068967,
+          "rate_ci": [
+            0.21032013962697085,
+            0.37246197524356317
+          ],
+          "share": 0.020100502512562814,
+          "impact_ratio": 0.7929200293470287,
+          "impact_ratio_ci": [
+            0.5485872724245926,
+            1.1460750267882223
+          ],
+          "p_value": 0.2130209067606974,
+          "excluded": false,
+          "status": "below threshold (not significant)"
+        },
+        {
+          "category": "Male × Hispanic or Latino",
+          "n": 554,
+          "positives": 157,
+          "rate": 0.2833935018050541,
+          "rate_ci": [
+            0.24745913488711987,
+            0.32231109963906157
+          ],
+          "share": 0.09599722751689482,
+          "impact_ratio": 0.7898840156694062,
+          "impact_ratio_ci": [
+            0.6063266782452885,
+            1.0290108956044026
+          ],
+          "p_value": 0.08973211949519211,
+          "excluded": false,
+          "status": "below threshold (not significant)"
+        },
+        {
+          "category": "Male × Black or African American",
+          "n": 532,
+          "positives": 146,
+          "rate": 0.2744360902255639,
+          "rate_ci": [
+            0.23823627420911758,
+            0.3138700511801055
+          ],
+          "share": 0.09218506324727084,
+          "impact_ratio": 0.764917613181891,
+          "impact_ratio_ci": [
+            0.5854460232825952,
+            0.9994071728000334
+          ],
+          "p_value": 0.05696709643250464,
+          "excluded": false,
+          "status": "below threshold (not significant)"
+        },
+        {
+          "category": "Female × Hispanic or Latino",
+          "n": 567,
+          "positives": 150,
+          "rate": 0.26455026455026454,
+          "rate_ci": [
+            0.22991567888696246,
+            0.30235375271389325
+          ],
+          "share": 0.09824987003985444,
+          "impact_ratio": 0.7373635033209501,
+          "impact_ratio_ci": [
+            0.5646272619240824,
+            0.9629448889466645
+          ],
+          "p_value": 0.03079932083289383,
+          "excluded": false,
+          "status": "adverse impact"
+        },
+        {
+          "category": "Female × Black or African American",
+          "n": 515,
+          "positives": 135,
+          "rate": 0.2621359223300971,
+          "rate_ci": [
+            0.22601338240641805,
+            0.3017807137768838
+          ],
+          "share": 0.08923929994801594,
+          "impact_ratio": 0.730634166494526,
+          "impact_ratio_ci": [
+            0.5572305181511616,
+            0.9579990109305858
+          ],
+          "p_value": 0.028129030817543255,
+          "excluded": false,
+          "status": "adverse impact"
+        },
+        {
+          "category": "Female × Asian",
+          "n": 479,
+          "positives": 121,
+          "rate": 0.25260960334029225,
+          "rate_ci": [
+            0.21577138630024534,
+            0.29338426785825295
+          ],
+          "share": 0.08300121296135851,
+          "impact_ratio": 0.704082085905921,
+          "impact_ratio_ci": [
+            0.5343044413721588,
+            0.9278073422345765
+          ],
+          "p_value": 0.015932312416814476,
+          "excluded": false,
+          "status": "adverse impact"
+        },
+        {
+          "category": "Female × Native American or Alaska Native",
+          "n": 36,
+          "positives": 9,
+          "rate": 0.25,
+          "rate_ci": [
+            0.13750477662994837,
+            0.4107045376672835
+          ],
+          "share": 0.006238086986657425,
+          "impact_ratio": 0.6968085106382979,
+          "impact_ratio_ci": [
+            0.3784779340812641,
+            1.2828808677488466
+          ],
+          "p_value": 0.22079086817285587,
+          "excluded": true,
+          "status": "excluded (<2% of sample)"
+        },
+        {
+          "category": "Non-binary × Black or African American",
+          "n": 16,
+          "positives": 3,
+          "rate": 0.1875,
+          "rate_ci": [
+            0.06591599071428142,
+            0.4300888096197414
+          ],
+          "share": 0.002772483105181078,
+          "impact_ratio": 0.5226063829787234,
+          "impact_ratio_ci": [
+            0.18372789546664803,
+            1.4865321939078264
+          ],
+          "p_value": 0.17219975192973602,
+          "excluded": true,
+          "status": "excluded (<2% of sample)"
+        },
+        {
+          "category": "Non-binary × Hispanic or Latino",
+          "n": 14,
+          "positives": 2,
+          "rate": 0.14285714285714285,
+          "rate_ci": [
+            0.040093921271464966,
+            0.39941379496970353
+          ],
+          "share": 0.002425922717033443,
+          "impact_ratio": 0.39817629179331304,
+          "impact_ratio_ci": [
+            0.10815164565815498,
+            1.4659449551734014
+          ],
+          "p_value": 0.10448769612190945,
+          "excluded": true,
+          "status": "excluded (<2% of sample)"
+        }
+      ],
+      "reference": "Male × Two or More Races",
+      "unknown": 229
+    }
+  ],
+  "timeline": [
+    {
+      "period": "2026-Q1",
+      "dimension": "Sex",
+      "min_impact_ratio": 0.9180092667354013,
+      "worst_category": "Female",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q1",
+      "dimension": "Race/Ethnicity",
+      "min_impact_ratio": 0.892094861660079,
+      "worst_category": "Black or African American",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q1",
+      "dimension": "Age",
+      "min_impact_ratio": 0.7232900745633273,
+      "worst_category": "40 and over",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q1",
+      "dimension": "Sex × Race/Ethnicity",
+      "min_impact_ratio": 0.7319651741293532,
+      "worst_category": "Male × Hispanic or Latino",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q2",
+      "dimension": "Sex",
+      "min_impact_ratio": 0.9697888631969978,
+      "worst_category": "Female",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q2",
+      "dimension": "Race/Ethnicity",
+      "min_impact_ratio": 0.7651006711409397,
+      "worst_category": "Hispanic or Latino",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q2",
+      "dimension": "Age",
+      "min_impact_ratio": 0.7165826911677533,
+      "worst_category": "40 and over",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q2",
+      "dimension": "Sex × Race/Ethnicity",
+      "min_impact_ratio": 0.6135029354207436,
+      "worst_category": "Female × Hispanic or Latino",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q3",
+      "dimension": "Sex",
+      "min_impact_ratio": 0.8229989949289597,
+      "worst_category": "Female",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q3",
+      "dimension": "Race/Ethnicity",
+      "min_impact_ratio": 0.5890909090909091,
+      "worst_category": "Black or African American",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q3",
+      "dimension": "Age",
+      "min_impact_ratio": 0.7481684981684981,
+      "worst_category": "40 and over",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q3",
+      "dimension": "Sex × Race/Ethnicity",
+      "min_impact_ratio": 0.5204244031830239,
+      "worst_category": "Female × Black or African American",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q4",
+      "dimension": "Sex",
+      "min_impact_ratio": 0.7502474467989383,
+      "worst_category": "Female",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q4",
+      "dimension": "Race/Ethnicity",
+      "min_impact_ratio": 0.6913580246913581,
+      "worst_category": "Hispanic or Latino",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q4",
+      "dimension": "Age",
+      "min_impact_ratio": 0.7700917800941617,
+      "worst_category": "40 and over",
+      "n": 1500
+    },
+    {
+      "period": "2026-Q4",
+      "dimension": "Sex × Race/Ethnicity",
+      "min_impact_ratio": 0.552947236735595,
+      "worst_category": "Female × Hispanic or Latino",
+      "n": 1500
+    }
+  ],
+  "warnings": [
+    "Sex: 120 record(s) (2.0%) have an unknown category and are excluded from this dimension.",
+    "Race/Ethnicity: 112 record(s) (1.9%) have an unknown category and are excluded from this dimension.",
+    "Sex × Race/Ethnicity: 229 record(s) (3.8%) have an unknown category and are excluded from this dimension."
+  ],
+  "overall_rate": 0.3,
+  "verdict": "ADVERSE IMPACT DETECTED"
+}
