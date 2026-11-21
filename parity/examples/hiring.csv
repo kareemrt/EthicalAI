@@ -1,0 +1,4001 @@
+applicant_id,sex,race,score,advanced
+A00000,Female,White,62.7,0
+A00001,Male,White,54.6,0
+A00002,Female,White,38.0,0
+A00003,Female,Black or African American,59.1,0
+A00004,Female,Hispanic or Latino,55.9,0
+A00005,Female,Hispanic or Latino,52.5,0
+A00006,Male,Hispanic or Latino,67.1,1
+A00007,Female,Two or More Races,79.7,1
+A00008,Female,Hispanic or Latino,61.9,0
+A00009,Male,Hispanic or Latino,40.5,0
+A00010,Female,Hispanic or Latino,31.6,0
+A00011,Male,White,51.7,0
+A00012,Female,White,45.6,0
+A00013,Male,Black or African American,63.3,0
+A00014,Male,White,74.1,1
+A00015,Female,White,52.3,0
+A00016,Male,Hispanic or Latino,56.7,0
+A00017,Male,White,63.9,0
+A00018,Female,White,57.3,0
+A00019,Female,White,64.8,0
+A00020,Female,White,76.2,1
+A00021,Female,White,65.3,0
+A00022,Male,White,57.0,0
+A00023,Male,White,64.4,0
+A00024,Female,White,59.7,0
+A00025,Male,White,46.3,0
+A00026,Female,Hispanic or Latino,71.1,1
+A00027,Female,White,62.4,0
+A00028,Male,White,31.3,0
+A00029,Male,Black or African American,53.0,0
+A00030,Unknown,White,50.4,0
+A00031,Female,Asian,59.7,0
+A00032,Female,White,69.0,1
+A00033,Male,White,75.8,1
+A00034,Female,Hispanic or Latino,55.5,0
+A00035,Female,Hispanic or Latino,67.4,1
+A00036,Male,White,45.1,0
+A00037,Female,Black or African American,48.5,0
+A00038,Female,Hispanic or Latino,64.1,0
+A00039,Male,Asian,53.9,0
+A00040,Female,White,33.3,0
+A00041,Female,Hispanic or Latino,76.2,1
+A00042,Female,White,79.3,1
+A00043,Male,Hispanic or Latino,90.6,1
+A00044,Female,White,80.0,1
+A00045,Female,White,57.3,0
+A00046,Female,White,36.6,0
+A00047,Unknown,White,68.1,1
+A00048,Female,Asian,51.4,0
+A00049,Male,White,86.8,1
+A00050,Male,Black or African American,76.4,1
+A00051,Female,Hispanic or Latino,57.7,0
+A00052,Female,White,66.7,1
+A00053,Female,,67.0,1
+A00054,Male,Hispanic or Latino,77.3,1
+A00055,Female,White,61.8,0
+A00056,Female,Black or African American,48.6,0
+A00057,Female,White,53.6,0
+A00058,Male,Hispanic or Latino,61.9,0
+A00059,Female,White,95.1,1
+A00060,Female,White,78.8,1
+A00061,Male,White,68.7,1
+A00062,Female,White,44.2,0
+A00063,Male,White,56.9,0
+A00064,Female,Black or African American,68.7,1
+A00065,Male,White,70.3,1
+A00066,Male,Hispanic or Latino,61.6,0
+A00067,Male,,43.3,0
+A00068,Male,Black or African American,52.0,0
+A00069,Female,White,57.2,0
+A00070,Male,White,49.9,0
+A00071,Female,,65.8,0
+A00072,Female,White,51.6,0
+A00073,Female,White,76.9,1
+A00074,Female,White,68.5,1
+A00075,Male,White,52.9,0
+A00076,Male,White,69.1,1
+A00077,Female,White,45.2,0
+A00078,Female,Black or African American,87.1,1
+A00079,Male,Asian,61.8,0
+A00080,Female,White,52.0,0
+A00081,Male,White,71.5,1
+A00082,Male,Black or African American,33.8,0
+A00083,Female,Black or African American,50.4,0
+A00084,Male,White,50.0,0
+A00085,Female,Hispanic or Latino,68.2,1
+A00086,Female,Asian,51.6,0
+A00087,Female,White,69.7,1
+A00088,Male,Asian,61.8,0
+A00089,Female,White,65.5,0
+A00090,Male,White,69.6,1
+A00091,Male,Asian,63.2,0
+A00092,Male,White,45.9,0
+A00093,Female,White,73.3,1
+A00094,Male,Black or African American,38.0,0
+A00095,Male,Hispanic or Latino,60.4,0
+A00096,Female,White,50.3,0
+A00097,Female,White,33.7,0
+A00098,Female,White,74.3,1
+A00099,Male,White,73.6,1
+A00100,Female,White,53.7,0
+A00101,Female,Two or More Races,58.2,0
+A00102,Female,Asian,50.4,0
+A00103,Male,White,62.6,0
+A00104,Female,White,73.8,1
+A00105,Female,White,66.0,1
+A00106,Female,White,58.8,0
+A00107,Female,Two or More Races,67.5,1
+A00108,Female,White,47.3,0
+A00109,Female,White,57.9,0
+A00110,Male,White,55.9,0
+A00111,Male,White,60.6,0
+A00112,Male,Hispanic or Latino,62.1,0
+A00113,Male,White,65.2,0
+A00114,Male,Black or African American,61.4,0
+A00115,Female,Black or African American,75.6,1
+A00116,Female,Hispanic or Latino,57.0,0
+A00117,Female,White,48.2,0
+A00118,Male,Hispanic or Latino,57.0,0
+A00119,Female,Hispanic or Latino,50.1,0
+A00120,Female,Asian,48.5,0
+A00121,Female,Black or African American,17.4,0
+A00122,Male,Asian,68.7,1
+A00123,Male,Asian,57.5,0
+A00124,Male,White,49.3,0
+A00125,Female,White,39.6,0
+A00126,Male,White,67.0,1
+A00127,Female,White,39.5,0
+A00128,Female,White,59.1,0
+A00129,Female,Asian,62.3,0
+A00130,Female,Asian,44.5,0
+A00131,Female,White,48.4,0
+A00132,Female,White,69.2,1
+A00133,Male,Black or African American,67.1,1
+A00134,Male,White,75.4,1
+A00135,Female,Black or African American,67.1,1
+A00136,Female,White,45.7,0
+A00137,Male,White,29.1,0
+A00138,Male,Hispanic or Latino,49.8,0
+A00139,Male,White,65.0,0
+A00140,Male,Black or African American,60.5,0
+A00141,Female,White,46.7,0
+A00142,Male,Black or African American,55.9,0
+A00143,Female,Black or African American,86.3,1
+A00144,Male,Asian,64.7,0
+A00145,Female,Black or African American,73.8,1
+A00146,Male,Asian,73.2,1
+A00147,Female,White,80.7,1
+A00148,Female,White,56.0,0
+A00149,Male,White,76.6,1
+A00150,Unknown,Hispanic or Latino,60.5,0
+A00151,Female,Black or African American,66.7,1
+A00152,Female,White,74.3,1
+A00153,Male,White,67.7,1
+A00154,Female,White,76.1,1
+A00155,Female,White,64.8,0
+A00156,Male,Black or African American,45.6,0
+A00157,Female,Hispanic or Latino,44.6,0
+A00158,Female,,45.7,0
+A00159,Male,Asian,74.6,1
+A00160,Male,White,51.2,0
+A00161,Male,White,64.2,0
+A00162,Female,White,61.8,0
+A00163,Male,Hispanic or Latino,64.8,0
+A00164,Female,Hispanic or Latino,74.4,1
+A00165,Female,Black or African American,75.9,1
+A00166,Female,Asian,41.8,0
+A00167,Male,Hispanic or Latino,63.9,0
+A00168,Female,Hispanic or Latino,86.5,1
+A00169,Male,White,53.8,0
+A00170,Male,Black or African American,77.4,1
+A00171,Male,White,76.8,1
+A00172,Female,White,65.2,0
+A00173,Female,White,79.4,1
+A00174,Female,White,70.9,1
+A00175,Male,Black or African American,56.9,0
+A00176,Female,Hispanic or Latino,58.0,0
+A00177,Female,White,81.1,1
+A00178,Male,Black or African American,71.0,1
+A00179,Male,White,78.7,1
+A00180,Female,Black or African American,44.8,0
+A00181,Female,Asian,84.9,1
+A00182,Male,White,56.1,0
+A00183,Male,Black or African American,56.6,0
+A00184,Male,Black or African American,70.9,1
+A00185,Female,Asian,54.8,0
+A00186,Female,White,71.6,1
+A00187,Female,Two or More Races,64.0,0
+A00188,Unknown,Black or African American,53.3,0
+A00189,Female,White,72.9,1
+A00190,Male,White,75.6,1
+A00191,Female,Hispanic or Latino,45.7,0
+A00192,Male,Hispanic or Latino,64.8,0
+A00193,Male,White,52.9,0
+A00194,Female,White,47.6,0
+A00195,Male,Black or African American,60.1,0
+A00196,Female,Black or African American,62.3,0
+A00197,Male,White,45.3,0
+A00198,Female,Hispanic or Latino,40.4,0
+A00199,Female,White,65.9,0
+A00200,Female,White,78.3,1
+A00201,Male,White,64.0,0
+A00202,Female,Hispanic or Latino,77.4,1
+A00203,Male,White,61.9,0
+A00204,Male,,63.1,0
+A00205,Male,White,71.6,1
+A00206,Male,White,68.0,1
+A00207,Male,White,60.1,0
+A00208,Male,White,67.0,1
+A00209,Female,Asian,66.0,0
+A00210,Male,Asian,56.2,0
+A00211,Male,White,74.0,1
+A00212,Male,White,61.0,0
+A00213,Male,White,62.6,0
+A00214,Female,White,71.1,1
+A00215,Male,Hispanic or Latino,67.9,1
+A00216,Male,White,49.8,0
+A00217,Female,White,64.7,0
+A00218,Male,White,68.2,1
+A00219,Unknown,Hispanic or Latino,65.5,0
+A00220,Male,Black or African American,80.6,1
+A00221,Female,White,80.5,1
+A00222,Male,Hispanic or Latino,42.8,0
+A00223,Female,Hispanic or Latino,40.6,0
+A00224,Male,Asian,49.6,0
+A00225,Female,White,59.8,0
+A00226,Female,Hispanic or Latino,66.5,1
+A00227,Female,White,52.2,0
+A00228,Female,,50.2,0
+A00229,Male,,71.6,1
+A00230,Male,White,47.0,0
+A00231,Male,Black or African American,78.1,1
+A00232,Female,Two or More Races,49.9,0
+A00233,Female,White,63.1,0
+A00234,Female,Hispanic or Latino,37.1,0
+A00235,Male,Hispanic or Latino,52.1,0
+A00236,Male,White,95.1,1
+A00237,Male,Two or More Races,69.0,1
+A00238,Female,,40.2,0
+A00239,Female,White,43.3,0
+A00240,Male,Asian,49.6,0
+A00241,Male,White,83.4,1
+A00242,Male,White,48.2,0
+A00243,Male,Black or African American,55.6,0
+A00244,Male,Asian,73.9,1
+A00245,Female,White,59.0,0
+A00246,Female,White,69.5,1
+A00247,Female,Hispanic or Latino,54.8,0
+A00248,Male,White,56.9,0
+A00249,Male,Black or African American,66.1,1
+A00250,Female,White,33.7,0
+A00251,Female,Hispanic or Latino,63.7,0
+A00252,Male,Asian,56.8,0
+A00253,Unknown,White,69.9,1
+A00254,Male,White,56.6,0
+A00255,Female,Black or African American,65.0,0
+A00256,Female,White,69.3,1
+A00257,Female,Hispanic or Latino,77.6,1
+A00258,Female,Asian,67.1,1
+A00259,Male,Black or African American,46.9,0
+A00260,Male,White,69.4,1
+A00261,Male,White,55.6,0
+A00262,Female,White,50.1,0
+A00263,Male,Hispanic or Latino,75.8,1
+A00264,Female,Native American or Alaska Native,85.2,1
+A00265,Female,Black or African American,55.4,0
+A00266,Female,White,59.9,0
+A00267,Female,Hispanic or Latino,67.3,1
+A00268,Female,White,43.4,0
+A00269,Male,Black or African American,42.3,0
+A00270,Male,White,59.8,0
+A00271,Female,Asian,35.4,0
+A00272,Female,White,51.7,0
+A00273,Male,White,53.1,0
+A00274,Female,Black or African American,86.4,1
+A00275,Male,White,99.8,1
+A00276,Female,,72.7,1
+A00277,Male,Hispanic or Latino,31.4,0
+A00278,Female,White,44.1,0
+A00279,Female,Hispanic or Latino,62.2,0
+A00280,Male,Asian,60.8,0
+A00281,Male,Black or African American,58.4,0
+A00282,Male,Asian,58.4,0
+A00283,Male,White,55.3,0
+A00284,Female,White,66.9,1
+A00285,Male,Black or African American,62.7,0
+A00286,Male,White,37.7,0
+A00287,Female,Asian,68.8,1
+A00288,Male,White,71.0,1
+A00289,Female,White,52.0,0
+A00290,Male,Hispanic or Latino,41.2,0
+A00291,Male,Hispanic or Latino,57.7,0
+A00292,Female,Hispanic or Latino,78.5,1
+A00293,Male,White,76.7,1
+A00294,Male,White,72.9,1
+A00295,Female,Asian,63.6,0
+A00296,Male,Black or African American,60.8,0
+A00297,Female,,33.4,0
+A00298,Male,Hispanic or Latino,29.4,0
+A00299,Male,Hispanic or Latino,54.2,0
+A00300,Female,Hispanic or Latino,55.0,0
+A00301,Female,White,67.4,1
+A00302,Male,White,71.7,1
+A00303,Male,White,76.7,1
+A00304,Male,Native Hawaiian or Pacific Islander,51.9,0
+A00305,Male,White,81.7,1
+A00306,Female,Hispanic or Latino,33.3,0
+A00307,Male,Native Hawaiian or Pacific Islander,64.0,0
+A00308,Unknown,Black or African American,54.0,0
+A00309,Unknown,Asian,62.2,0
+A00310,Female,White,43.9,0
+A00311,Female,White,65.2,0
+A00312,Male,Hispanic or Latino,53.2,0
+A00313,Male,White,82.6,1
+A00314,Male,White,67.7,1
+A00315,Male,White,81.2,1
+A00316,Female,White,94.4,1
+A00317,Female,White,75.1,1
+A00318,Female,White,68.2,1
+A00319,Female,Hispanic or Latino,79.1,1
+A00320,Male,White,60.6,0
+A00321,Female,White,82.7,1
+A00322,Male,White,57.4,0
+A00323,Female,White,52.7,0
+A00324,Female,Hispanic or Latino,77.1,1
+A00325,Male,Black or African American,70.0,1
+A00326,Female,Asian,58.3,0
+A00327,Female,Asian,45.7,0
+A00328,Male,White,44.5,0
+A00329,Male,Hispanic or Latino,58.2,0
+A00330,Female,Hispanic or Latino,76.0,1
+A00331,Female,White,70.5,1
+A00332,Male,Black or African American,78.0,1
+A00333,Male,Hispanic or Latino,56.8,0
+A00334,Male,White,43.5,0
+A00335,Male,White,74.6,1
+A00336,Female,White,59.7,0
+A00337,Female,White,42.3,0
+A00338,Female,White,62.6,0
+A00339,Male,White,63.9,0
+A00340,Male,Black or African American,61.1,0
+A00341,Male,Black or African American,69.0,1
+A00342,Female,White,71.5,1
+A00343,Male,White,32.9,0
+A00344,Female,White,52.9,0
+A00345,Male,White,66.8,1
+A00346,Female,Asian,74.7,1
+A00347,Male,White,46.0,0
+A00348,Female,White,55.4,0
+A00349,Male,White,77.9,1
+A00350,Female,White,70.6,1
+A00351,Male,,54.6,0
+A00352,Male,Hispanic or Latino,39.1,0
+A00353,Female,White,52.1,0
+A00354,Male,Asian,77.9,1
+A00355,Female,Black or African American,59.4,0
+A00356,Female,White,41.7,0
+A00357,Male,White,60.0,0
+A00358,Male,White,32.9,0
+A00359,Female,Black or African American,83.2,1
+A00360,Female,Hispanic or Latino,47.0,0
+A00361,Male,Asian,75.7,1
+A00362,Female,White,59.0,0
+A00363,Unknown,Two or More Races,28.8,0
+A00364,Female,Hispanic or Latino,78.5,1
+A00365,Male,White,80.8,1
+A00366,Female,Hispanic or Latino,50.3,0
+A00367,Female,Asian,60.7,0
+A00368,Male,White,52.2,0
+A00369,Male,Hispanic or Latino,64.2,0
+A00370,Male,Hispanic or Latino,57.8,0
+A00371,Male,White,85.6,1
+A00372,Male,White,63.8,0
+A00373,Female,Hispanic or Latino,42.2,0
+A00374,Male,Asian,77.0,1
+A00375,Male,White,52.2,0
+A00376,Male,White,27.7,0
+A00377,Female,White,48.5,0
+A00378,Female,Black or African American,62.9,0
+A00379,Female,,40.4,0
+A00380,Female,White,42.5,0
+A00381,Male,Hispanic or Latino,52.9,0
+A00382,Male,Hispanic or Latino,71.6,1
+A00383,Female,White,62.6,0
+A00384,Female,Hispanic or Latino,59.7,0
+A00385,Female,Hispanic or Latino,69.6,1
+A00386,Male,Asian,63.1,0
+A00387,Male,Hispanic or Latino,48.9,0
+A00388,Male,Hispanic or Latino,61.2,0
+A00389,Female,Hispanic or Latino,64.5,0
+A00390,Male,,71.0,1
+A00391,Male,White,54.5,0
+A00392,Female,White,58.5,0
+A00393,Male,White,79.8,1
+A00394,Female,Asian,82.0,1
+A00395,Female,White,63.6,0
+A00396,Male,Asian,52.6,0
+A00397,Female,Black or African American,62.6,0
+A00398,Male,Hispanic or Latino,65.7,0
+A00399,Female,Hispanic or Latino,66.3,1
+A00400,Female,White,57.2,0
+A00401,Male,Native American or Alaska Native,84.9,1
+A00402,Female,White,65.4,0
+A00403,Male,Hispanic or Latino,45.4,0
+A00404,Male,Black or African American,57.4,0
+A00405,Female,White,63.0,0
+A00406,Male,White,75.4,1
+A00407,Female,White,35.7,0
+A00408,Female,White,44.7,0
+A00409,Female,Two or More Races,43.0,0
+A00410,Female,Asian,71.3,1
+A00411,Male,White,46.6,0
+A00412,Female,White,62.3,0
+A00413,Male,White,75.3,1
+A00414,Male,White,57.9,0
+A00415,Male,White,54.2,0
+A00416,Female,Asian,60.3,0
+A00417,Unknown,White,73.1,1
+A00418,Female,Black or African American,74.7,1
+A00419,Male,Hispanic or Latino,73.3,1
+A00420,Male,,58.2,0
+A00421,Unknown,White,69.6,1
+A00422,Female,Hispanic or Latino,85.3,1
+A00423,Male,Asian,57.9,0
+A00424,Female,White,59.5,0
+A00425,Male,White,85.8,1
+A00426,Male,Two or More Races,74.8,1
+A00427,Unknown,,54.1,0
+A00428,Male,Asian,73.4,1
+A00429,Female,Black or African American,45.9,0
+A00430,Male,White,50.4,0
+A00431,Male,Hispanic or Latino,68.6,1
+A00432,Male,White,49.6,0
+A00433,Male,White,57.3,0
+A00434,Male,White,70.9,1
+A00435,Male,Black or African American,63.6,0
+A00436,Male,Asian,61.3,0
+A00437,Female,White,62.3,0
+A00438,Female,White,45.0,0
+A00439,Male,Black or African American,76.8,1
+A00440,Female,White,57.0,0
+A00441,Female,Hispanic or Latino,53.7,0
+A00442,Male,Black or African American,68.8,1
+A00443,Female,White,51.1,0
+A00444,Male,White,59.5,0
+A00445,Male,White,41.7,0
+A00446,Male,White,69.5,1
+A00447,Female,Black or African American,51.2,0
+A00448,Male,Black or African American,50.3,0
+A00449,Male,Black or African American,65.3,0
+A00450,Female,White,44.9,0
+A00451,Male,White,50.6,0
+A00452,Male,White,48.9,0
+A00453,Female,White,76.1,1
+A00454,Female,White,74.8,1
+A00455,Female,White,61.6,0
+A00456,Male,White,68.3,1
+A00457,Female,Hispanic or Latino,66.3,1
+A00458,Male,Hispanic or Latino,36.4,0
+A00459,Female,Hispanic or Latino,76.8,1
+A00460,Male,Hispanic or Latino,58.8,0
+A00461,Female,Black or African American,83.2,1
+A00462,Male,Asian,48.6,0
+A00463,Female,White,64.5,0
+A00464,Male,White,59.5,0
+A00465,Female,Black or African American,62.2,0
+A00466,Female,White,81.3,1
+A00467,Female,Black or African American,87.4,1
+A00468,Female,White,61.2,0
+A00469,Male,Hispanic or Latino,61.5,0
+A00470,Male,White,62.2,0
+A00471,Male,Hispanic or Latino,78.7,1
+A00472,Female,Black or African American,67.5,1
+A00473,Male,Hispanic or Latino,64.3,0
+A00474,Female,Hispanic or Latino,63.9,0
+A00475,Male,White,71.9,1
+A00476,Male,White,43.3,0
+A00477,Male,White,64.1,0
+A00478,Female,Asian,25.6,0
+A00479,Male,Hispanic or Latino,60.4,0
+A00480,Female,White,56.6,0
+A00481,Female,Hispanic or Latino,54.3,0
+A00482,Unknown,White,48.3,0
+A00483,Female,Asian,96.2,1
+A00484,Female,Black or African American,61.4,0
+A00485,Female,White,100,1
+A00486,Male,Asian,53.0,0
+A00487,Male,White,53.2,0
+A00488,Male,White,63.0,0
+A00489,Male,Hispanic or Latino,43.1,0
+A00490,Male,White,64.8,0
+A00491,Male,White,76.5,1
+A00492,Male,Hispanic or Latino,49.1,0
+A00493,Male,White,85.7,1
+A00494,Male,Black or African American,72.1,1
+A00495,Female,Hispanic or Latino,48.7,0
+A00496,Male,White,77.2,1
+A00497,Male,White,64.2,0
+A00498,Male,White,74.4,1
+A00499,Male,Asian,23.5,0
+A00500,Male,White,83.8,1
+A00501,Female,White,41.2,0
+A00502,Male,Hispanic or Latino,78.1,1
+A00503,Male,Hispanic or Latino,53.9,0
+A00504,Female,Two or More Races,84.7,1
+A00505,Male,Asian,47.1,0
+A00506,Male,Asian,82.1,1
+A00507,Male,Hispanic or Latino,64.4,0
+A00508,Unknown,Hispanic or Latino,59.0,0
+A00509,Male,White,73.8,1
+A00510,Female,White,70.1,1
+A00511,Female,White,52.5,0
+A00512,Male,White,57.3,0
+A00513,Female,Two or More Races,69.5,1
+A00514,Male,Black or African American,59.9,0
+A00515,Male,Black or African American,62.9,0
+A00516,Male,White,66.0,1
+A00517,Male,White,62.1,0
+A00518,Female,Black or African American,70.6,1
+A00519,Male,Black or African American,44.8,0
+A00520,Male,White,85.9,1
+A00521,Male,White,66.2,1
+A00522,Male,Hispanic or Latino,50.8,0
+A00523,Male,White,43.1,0
+A00524,Male,Black or African American,37.1,0
+A00525,Male,White,84.7,1
+A00526,Female,White,40.3,0
+A00527,Female,Black or African American,66.9,1
+A00528,Female,White,27.4,0
+A00529,Female,Hispanic or Latino,65.0,0
+A00530,Female,Black or African American,50.6,0
+A00531,Male,White,85.3,1
+A00532,Male,Hispanic or Latino,73.5,1
+A00533,Female,Native American or Alaska Native,65.8,0
+A00534,Male,White,65.5,0
+A00535,Male,White,60.9,0
+A00536,Male,Hispanic or Latino,78.2,1
+A00537,Male,White,61.3,0
+A00538,Female,White,81.8,1
+A00539,Female,White,79.1,1
+A00540,Female,Black or African American,26.7,0
+A00541,Male,White,83.0,1
+A00542,Female,Asian,48.2,0
+A00543,Female,Black or African American,59.2,0
+A00544,Female,White,69.5,1
+A00545,Male,White,65.8,0
+A00546,Female,White,65.0,0
+A00547,Female,White,48.7,0
+A00548,Male,White,49.0,0
+A00549,Male,Hispanic or Latino,54.0,0
+A00550,Female,Native American or Alaska Native,66.5,1
+A00551,Male,White,100,1
+A00552,Female,Asian,70.7,1
+A00553,Female,White,72.0,1
+A00554,Female,Black or African American,63.6,0
+A00555,Male,White,71.0,1
+A00556,Male,Black or African American,71.3,1
+A00557,Female,Black or African American,83.7,1
+A00558,Male,White,62.8,0
+A00559,Female,Black or African American,56.8,0
+A00560,Male,White,32.3,0
+A00561,Female,Hispanic or Latino,44.6,0
+A00562,Male,Asian,48.8,0
+A00563,Female,Hispanic or Latino,70.2,1
+A00564,Female,Hispanic or Latino,71.1,1
+A00565,Female,Two or More Races,34.7,0
+A00566,Male,White,63.2,0
+A00567,Male,White,54.1,0
+A00568,Female,Black or African American,59.9,0
+A00569,Female,White,53.2,0
+A00570,Male,,68.9,1
+A00571,Female,Hispanic or Latino,67.3,1
+A00572,Male,Black or African American,54.9,0
+A00573,Female,Two or More Races,44.8,0
+A00574,Female,White,69.2,1
+A00575,Male,Two or More Races,59.6,0
+A00576,Female,White,57.1,0
+A00577,Female,Black or African American,74.9,1
+A00578,Male,White,75.0,1
+A00579,Male,Hispanic or Latino,56.3,0
+A00580,Male,Hispanic or Latino,53.5,0
+A00581,Male,White,63.2,0
+A00582,Male,White,76.1,1
+A00583,Female,White,74.1,1
+A00584,Male,White,47.1,0
+A00585,Female,White,54.6,0
+A00586,Female,White,71.6,1
+A00587,Male,White,71.6,1
+A00588,Male,White,78.6,1
+A00589,Female,White,68.7,1
+A00590,Female,White,79.0,1
+A00591,Male,White,84.9,1
+A00592,Male,White,67.3,1
+A00593,Male,Asian,48.7,0
+A00594,Female,Hispanic or Latino,60.8,0
+A00595,Female,White,60.3,0
+A00596,Female,Asian,67.1,1
+A00597,Unknown,Hispanic or Latino,74.0,1
+A00598,Female,Two or More Races,59.3,0
+A00599,Female,White,67.0,1
+A00600,Male,Hispanic or Latino,68.6,1
+A00601,Female,White,31.1,0
+A00602,Male,White,44.5,0
+A00603,Female,,64.6,0
+A00604,Female,White,88.7,1
+A00605,Male,Hispanic or Latino,53.8,0
+A00606,Male,Asian,57.9,0
+A00607,Female,Hispanic or Latino,63.4,0
+A00608,Female,,46.4,0
+A00609,Female,Hispanic or Latino,39.6,0
+A00610,Female,White,67.0,1
+A00611,Female,Black or African American,61.4,0
+A00612,Female,White,73.9,1
+A00613,Male,Asian,54.9,0
+A00614,Male,White,54.2,0
+A00615,Male,Hispanic or Latino,48.7,0
+A00616,Female,White,61.0,0
+A00617,Female,,37.4,0
+A00618,Female,Hispanic or Latino,59.8,0
+A00619,Female,White,81.8,1
+A00620,Female,White,49.3,0
+A00621,Female,Hispanic or Latino,53.2,0
+A00622,Male,White,69.1,1
+A00623,Female,Hispanic or Latino,78.6,1
+A00624,Female,Hispanic or Latino,56.7,0
+A00625,Male,White,69.8,1
+A00626,Female,White,30.5,0
+A00627,Female,Hispanic or Latino,54.6,0
+A00628,Male,White,67.7,1
+A00629,Male,Black or African American,67.2,1
+A00630,Female,White,52.9,0
+A00631,Female,White,45.2,0
+A00632,Male,White,79.8,1
+A00633,Female,White,49.4,0
+A00634,Male,Asian,54.3,0
+A00635,Female,Two or More Races,63.9,0
+A00636,Female,Black or African American,47.4,0
+A00637,Male,White,70.4,1
+A00638,Female,White,52.0,0
+A00639,Female,White,72.8,1
+A00640,Male,Asian,39.5,0
+A00641,Male,Black or African American,74.8,1
+A00642,Female,White,72.2,1
+A00643,Female,White,53.1,0
+A00644,Male,Hispanic or Latino,80.9,1
+A00645,Female,Black or African American,60.4,0
+A00646,Female,White,81.6,1
+A00647,Male,White,74.6,1
+A00648,Male,White,56.4,0
+A00649,Female,Black or African American,54.9,0
+A00650,Male,Black or African American,36.8,0
+A00651,Female,White,62.8,0
+A00652,Female,White,66.7,1
+A00653,Female,Black or African American,69.5,1
+A00654,Female,Hispanic or Latino,67.2,1
+A00655,Male,Hispanic or Latino,76.7,1
+A00656,Female,Asian,59.9,0
+A00657,Male,White,69.1,1
+A00658,Female,White,43.6,0
+A00659,Male,Black or African American,75.0,1
+A00660,Male,Asian,67.1,1
+A00661,Male,White,54.3,0
+A00662,Male,White,69.5,1
+A00663,Male,White,74.9,1
+A00664,Male,Asian,52.8,0
+A00665,Male,White,70.1,1
+A00666,Female,White,45.8,0
+A00667,Female,Hispanic or Latino,64.7,0
+A00668,Male,Hispanic or Latino,73.2,1
+A00669,Female,White,90.2,1
+A00670,Male,Native Hawaiian or Pacific Islander,63.8,0
+A00671,Female,Hispanic or Latino,58.5,0
+A00672,Female,White,70.8,1
+A00673,Male,White,78.5,1
+A00674,Male,Two or More Races,60.5,0
+A00675,Female,White,56.4,0
+A00676,Female,Hispanic or Latino,75.2,1
+A00677,Male,Black or African American,65.5,0
+A00678,Male,Hispanic or Latino,54.7,0
+A00679,Female,Asian,66.8,1
+A00680,Female,Asian,56.3,0
+A00681,Female,White,36.1,0
+A00682,Female,Asian,49.7,0
+A00683,Male,White,70.1,1
+A00684,Female,White,50.1,0
+A00685,Male,White,69.0,1
+A00686,Female,White,68.0,1
+A00687,Female,White,86.7,1
+A00688,Female,Hispanic or Latino,33.5,0
+A00689,Female,White,77.0,1
+A00690,Female,White,53.0,0
+A00691,Female,White,57.7,0
+A00692,Female,White,85.8,1
+A00693,Female,White,59.1,0
+A00694,Female,Black or African American,48.5,0
+A00695,Male,Asian,79.0,1
+A00696,Male,Black or African American,56.3,0
+A00697,Male,White,59.7,0
+A00698,Male,White,74.7,1
+A00699,Male,Hispanic or Latino,31.1,0
+A00700,Female,White,72.0,1
+A00701,Male,White,41.1,0
+A00702,Female,Asian,100,1
+A00703,Male,White,71.1,1
+A00704,Male,White,63.8,0
+A00705,Female,Hispanic or Latino,63.2,0
+A00706,Female,Black or African American,61.7,0
+A00707,Male,White,65.7,0
+A00708,Female,White,65.9,0
+A00709,Female,Asian,75.4,1
+A00710,Male,White,54.7,0
+A00711,Male,Black or African American,67.1,1
+A00712,Female,Hispanic or Latino,44.8,0
+A00713,Male,White,61.4,0
+A00714,Male,White,96.3,1
+A00715,Female,White,58.0,0
+A00716,Male,Hispanic or Latino,74.9,1
+A00717,Male,Asian,57.4,0
+A00718,Female,Two or More Races,68.8,1
+A00719,Female,Black or African American,44.5,0
+A00720,Male,White,80.7,1
+A00721,Female,White,76.3,1
+A00722,Female,Black or African American,80.3,1
+A00723,Female,Two or More Races,40.0,0
+A00724,Female,Black or African American,61.9,0
+A00725,Unknown,Native American or Alaska Native,42.4,0
+A00726,Female,Asian,60.6,0
+A00727,Male,White,51.2,0
+A00728,Female,White,60.9,0
+A00729,Female,White,48.9,0
+A00730,Male,Black or African American,48.2,0
+A00731,Female,White,66.3,1
+A00732,Male,Asian,70.1,1
+A00733,Male,White,63.2,0
+A00734,Female,Hispanic or Latino,82.5,1
+A00735,Male,White,75.3,1
+A00736,Male,White,74.0,1
+A00737,Unknown,White,72.6,1
+A00738,Female,White,76.3,1
+A00739,Male,White,73.1,1
+A00740,Male,Black or African American,60.9,0
+A00741,Male,Hispanic or Latino,63.4,0
+A00742,Female,White,39.3,0
+A00743,Male,White,70.0,1
+A00744,Male,Hispanic or Latino,89.0,1
+A00745,Male,White,72.0,1
+A00746,Male,Black or African American,65.6,0
+A00747,Male,White,52.6,0
+A00748,Male,White,70.4,1
+A00749,Female,White,65.1,0
+A00750,Female,Asian,46.1,0
+A00751,Male,White,62.6,0
+A00752,Female,Black or African American,46.8,0
+A00753,Male,Hispanic or Latino,43.9,0
+A00754,Male,White,40.5,0
+A00755,Female,Black or African American,60.1,0
+A00756,Male,Asian,72.9,1
+A00757,Unknown,White,68.7,1
+A00758,Male,Asian,61.4,0
+A00759,Male,White,58.1,0
+A00760,Female,White,52.0,0
+A00761,Female,White,44.3,0
+A00762,Male,White,50.2,0
+A00763,Male,Hispanic or Latino,60.7,0
+A00764,Female,Asian,87.0,1
+A00765,Male,White,89.9,1
+A00766,Female,Native American or Alaska Native,63.7,0
+A00767,Male,White,47.5,0
+A00768,Female,Native American or Alaska Native,72.2,1
+A00769,Female,White,40.4,0
+A00770,Unknown,White,45.6,0
+A00771,Male,White,64.5,0
+A00772,Male,White,85.0,1
+A00773,Male,White,47.1,0
+A00774,Male,Hispanic or Latino,50.1,0
+A00775,Male,White,58.5,0
+A00776,Male,White,59.7,0
+A00777,Female,Hispanic or Latino,67.0,1
+A00778,Male,White,51.2,0
+A00779,Male,Hispanic or Latino,56.5,0
+A00780,Male,Black or African American,55.5,0
+A00781,Female,Hispanic or Latino,89.8,1
+A00782,Male,White,52.5,0
+A00783,Male,Hispanic or Latino,34.6,0
+A00784,Female,White,72.0,1
+A00785,Female,White,77.6,1
+A00786,Male,White,82.5,1
+A00787,Male,Hispanic or Latino,35.4,0
+A00788,Male,White,81.7,1
+A00789,Female,Hispanic or Latino,46.4,0
+A00790,Male,White,81.2,1
+A00791,Female,White,57.8,0
+A00792,Male,White,38.5,0
+A00793,Male,White,71.2,1
+A00794,Female,White,72.6,1
+A00795,Male,Hispanic or Latino,80.8,1
+A00796,Male,Black or African American,53.3,0
+A00797,Female,White,74.9,1
+A00798,Female,Hispanic or Latino,70.3,1
+A00799,Male,White,56.8,0
+A00800,Male,White,64.8,0
+A00801,Male,White,55.9,0
+A00802,Male,Black or African American,91.1,1
+A00803,Female,White,72.9,1
+A00804,Female,Black or African American,54.6,0
+A00805,Female,Hispanic or Latino,49.3,0
+A00806,Female,Asian,45.6,0
+A00807,Female,White,60.3,0
+A00808,Male,White,53.4,0
+A00809,Male,,72.4,1
+A00810,Male,Hispanic or Latino,69.8,1
+A00811,Male,White,50.3,0
+A00812,Female,Hispanic or Latino,66.0,0
+A00813,Female,White,66.8,1
+A00814,Female,Black or African American,57.2,0
+A00815,Female,White,69.7,1
+A00816,Male,White,38.7,0
+A00817,Female,White,38.0,0
+A00818,Female,White,46.8,0
+A00819,Male,White,80.9,1
+A00820,Male,,64.0,0
+A00821,Female,White,56.0,0
+A00822,Female,White,60.2,0
+A00823,Female,Black or African American,72.3,1
+A00824,Male,Asian,71.6,1
+A00825,Female,White,67.9,1
+A00826,Female,Hispanic or Latino,90.1,1
+A00827,Male,White,53.0,0
+A00828,Unknown,Asian,88.0,1
+A00829,Female,Native Hawaiian or Pacific Islander,46.6,0
+A00830,Female,White,51.9,0
+A00831,Male,White,50.9,0
+A00832,Male,White,51.9,0
+A00833,Female,Hispanic or Latino,52.0,0
+A00834,Unknown,White,61.6,0
+A00835,Male,Asian,73.4,1
+A00836,Male,Black or African American,70.8,1
+A00837,Female,White,74.3,1
+A00838,Female,Black or African American,67.7,1
+A00839,Female,White,54.8,0
+A00840,Female,White,86.9,1
+A00841,Female,Two or More Races,52.7,0
+A00842,Female,Hispanic or Latino,59.6,0
+A00843,Male,White,62.6,0
+A00844,Male,Hispanic or Latino,82.1,1
+A00845,Female,White,64.4,0
+A00846,Male,Black or African American,56.3,0
+A00847,Male,Black or African American,74.8,1
+A00848,Male,White,93.3,1
+A00849,Female,Two or More Races,70.9,1
+A00850,Female,Asian,52.0,0
+A00851,Female,White,57.7,0
+A00852,Unknown,White,57.7,0
+A00853,Male,,80.3,1
+A00854,Female,White,62.5,0
+A00855,Female,White,55.6,0
+A00856,Male,Native American or Alaska Native,58.7,0
+A00857,Male,Black or African American,64.8,0
+A00858,Male,Hispanic or Latino,58.1,0
+A00859,Male,Native American or Alaska Native,74.1,1
+A00860,Male,,45.5,0
+A00861,Female,Asian,74.0,1
+A00862,Female,White,77.5,1
+A00863,Male,Asian,60.3,0
+A00864,Female,,72.7,1
+A00865,Female,White,72.4,1
+A00866,Male,White,66.2,1
+A00867,Male,White,58.9,0
+A00868,Female,Asian,50.9,0
+A00869,Female,Black or African American,55.5,0
+A00870,Male,Asian,59.9,0
+A00871,Female,White,53.0,0
+A00872,Male,Hispanic or Latino,88.0,1
+A00873,Female,Black or African American,38.3,0
+A00874,Male,White,72.7,1
+A00875,Female,Hispanic or Latino,72.0,1
+A00876,Female,Black or African American,46.8,0
+A00877,Female,White,62.1,0
+A00878,Male,Hispanic or Latino,48.9,0
+A00879,Male,Asian,61.5,0
+A00880,Female,White,73.4,1
+A00881,Female,White,40.9,0
+A00882,Male,White,49.2,0
+A00883,Female,Two or More Races,86.0,1
+A00884,Unknown,White,65.2,0
+A00885,Male,White,55.0,0
+A00886,Unknown,White,54.9,0
+A00887,Male,White,71.7,1
+A00888,Unknown,White,56.8,0
+A00889,Male,White,71.4,1
+A00890,Male,White,67.6,1
+A00891,Female,Black or African American,55.3,0
+A00892,Male,Hispanic or Latino,55.0,0
+A00893,Male,Hispanic or Latino,69.1,1
+A00894,Male,White,60.0,0
+A00895,Female,Hispanic or Latino,54.9,0
+A00896,Male,White,83.5,1
+A00897,Female,White,60.4,0
+A00898,Male,White,69.8,1
+A00899,Male,,60.6,0
+A00900,Male,White,54.2,0
+A00901,Male,Hispanic or Latino,45.7,0
+A00902,Female,White,73.4,1
+A00903,Male,Hispanic or Latino,70.0,1
+A00904,Female,White,78.8,1
+A00905,Male,White,55.2,0
+A00906,Female,Asian,67.5,1
+A00907,Female,Asian,68.7,1
+A00908,Female,Asian,82.0,1
+A00909,Female,White,69.7,1
+A00910,Male,White,60.8,0
+A00911,Male,Black or African American,52.2,0
+A00912,Male,White,68.7,1
+A00913,Male,Black or African American,63.4,0
+A00914,Female,Two or More Races,72.5,1
+A00915,Female,White,75.7,1
+A00916,Female,White,62.7,0
+A00917,Male,White,89.5,1
+A00918,Female,Black or African American,61.8,0
+A00919,Female,Black or African American,53.9,0
+A00920,Female,Asian,49.8,0
+A00921,Male,White,55.3,0
+A00922,Unknown,Asian,64.2,0
+A00923,Female,Asian,54.6,0
+A00924,Male,White,67.0,1
+A00925,Female,Asian,44.2,0
+A00926,Female,White,96.4,1
+A00927,Male,White,56.8,0
+A00928,Male,White,72.3,1
+A00929,Male,Hispanic or Latino,67.3,1
+A00930,Female,White,67.0,1
+A00931,Male,Asian,53.1,0
+A00932,Female,Hispanic or Latino,36.0,0
+A00933,Male,Two or More Races,59.4,0
+A00934,Male,Black or African American,44.0,0
+A00935,Male,White,61.2,0
+A00936,Female,Hispanic or Latino,56.1,0
+A00937,Female,White,59.9,0
+A00938,Female,White,69.5,1
+A00939,Female,Asian,52.4,0
+A00940,Female,White,71.1,1
+A00941,Male,Native American or Alaska Native,58.7,0
+A00942,Female,Black or African American,48.2,0
+A00943,Female,Hispanic or Latino,53.8,0
+A00944,Female,White,48.5,0
+A00945,Male,White,90.6,1
+A00946,Female,Hispanic or Latino,47.4,0
+A00947,Female,White,40.7,0
+A00948,Female,Black or African American,68.4,1
+A00949,Female,White,66.8,1
+A00950,Female,White,53.3,0
+A00951,Unknown,White,57.7,0
+A00952,Female,Hispanic or Latino,45.3,0
+A00953,Male,White,86.0,1
+A00954,Female,Black or African American,46.5,0
+A00955,Female,Black or African American,56.9,0
+A00956,Female,White,72.4,1
+A00957,Female,Two or More Races,46.7,0
+A00958,Male,White,56.7,0
+A00959,Female,Black or African American,83.1,1
+A00960,Female,Two or More Races,84.8,1
+A00961,Male,White,81.7,1
+A00962,Male,White,74.4,1
+A00963,Male,Asian,63.8,0
+A00964,Female,Hispanic or Latino,49.7,0
+A00965,Female,Hispanic or Latino,49.4,0
+A00966,Female,White,63.4,0
+A00967,Female,Black or African American,71.5,1
+A00968,Male,White,55.3,0
+A00969,Male,White,41.9,0
+A00970,Male,Asian,59.8,0
+A00971,Female,White,68.7,1
+A00972,Male,Black or African American,65.2,0
+A00973,Male,Hispanic or Latino,56.8,0
+A00974,Female,White,70.0,1
+A00975,Male,White,61.4,0
+A00976,Male,,66.2,1
+A00977,Female,Black or African American,80.5,1
+A00978,Male,Black or African American,52.4,0
+A00979,Male,White,59.7,0
+A00980,Male,,36.5,0
+A00981,Male,Hispanic or Latino,44.3,0
+A00982,Male,White,75.1,1
+A00983,Male,White,55.5,0
+A00984,Male,White,60.5,0
+A00985,Male,Black or African American,73.7,1
+A00986,Unknown,Black or African American,74.3,1
+A00987,Female,White,68.5,1
+A00988,Male,Hispanic or Latino,58.5,0
+A00989,Female,Hispanic or Latino,78.4,1
+A00990,Male,,72.5,1
+A00991,Female,White,60.8,0
+A00992,Female,White,85.6,1
+A00993,Male,Black or African American,77.9,1
+A00994,Male,Asian,68.1,1
+A00995,Female,Hispanic or Latino,88.7,1
+A00996,Female,White,74.3,1
+A00997,Male,Hispanic or Latino,79.6,1
+A00998,Female,White,81.4,1
+A00999,Male,White,63.7,0
+A01000,Male,White,34.7,0
+A01001,Male,Hispanic or Latino,92.4,1
+A01002,Male,White,72.3,1
+A01003,Male,Asian,54.4,0
+A01004,Female,White,53.5,0
+A01005,Female,Hispanic or Latino,68.9,1
+A01006,Female,White,77.7,1
+A01007,Female,White,53.9,0
+A01008,Male,White,83.4,1
+A01009,Male,Hispanic or Latino,54.7,0
+A01010,Unknown,Hispanic or Latino,59.1,0
+A01011,Male,Native Hawaiian or Pacific Islander,45.4,0
+A01012,Female,White,62.2,0
+A01013,Male,Asian,57.4,0
+A01014,Female,White,59.1,0
+A01015,Female,Hispanic or Latino,56.9,0
+A01016,Female,Asian,54.7,0
+A01017,Female,Black or African American,52.6,0
+A01018,Male,Asian,57.6,0
+A01019,Male,,60.0,0
+A01020,Female,,95.9,1
+A01021,Female,White,47.7,0
+A01022,Female,White,71.5,1
+A01023,Female,White,94.4,1
+A01024,Male,Native American or Alaska Native,59.9,0
+A01025,Female,White,51.0,0
+A01026,Unknown,White,56.9,0
+A01027,Male,Hispanic or Latino,65.1,0
+A01028,Female,Hispanic or Latino,63.9,0
+A01029,Male,Black or African American,51.7,0
+A01030,Female,Hispanic or Latino,45.9,0
+A01031,Male,White,62.7,0
+A01032,Male,Asian,41.6,0
+A01033,Female,Two or More Races,57.1,0
+A01034,Female,White,56.7,0
+A01035,Female,White,71.8,1
+A01036,Female,Black or African American,51.2,0
+A01037,Female,White,59.2,0
+A01038,Female,White,48.7,0
+A01039,Female,White,71.0,1
+A01040,Female,White,76.7,1
+A01041,Male,White,47.6,0
+A01042,Male,White,76.4,1
+A01043,Male,Black or African American,76.7,1
+A01044,Female,White,66.5,1
+A01045,Male,White,83.5,1
+A01046,Female,Hispanic or Latino,48.4,0
+A01047,Male,Black or African American,79.8,1
+A01048,Male,Two or More Races,64.0,0
+A01049,Male,White,50.9,0
+A01050,Unknown,Native Hawaiian or Pacific Islander,59.2,0
+A01051,Female,White,81.3,1
+A01052,Male,White,77.9,1
+A01053,Female,White,83.0,1
+A01054,Female,Black or African American,37.0,0
+A01055,Female,White,52.1,0
+A01056,Male,Hispanic or Latino,52.1,0
+A01057,Male,White,61.8,0
+A01058,Female,White,62.5,0
+A01059,Female,White,59.5,0
+A01060,Male,White,72.7,1
+A01061,Female,White,71.0,1
+A01062,Male,Asian,79.7,1
+A01063,Male,Black or African American,43.2,0
+A01064,Female,Asian,65.7,0
+A01065,Female,White,85.2,1
+A01066,Male,Asian,71.3,1
+A01067,Male,Asian,73.7,1
+A01068,Female,White,36.1,0
+A01069,Female,Hispanic or Latino,81.2,1
+A01070,Male,White,63.5,0
+A01071,Female,Hispanic or Latino,82.4,1
+A01072,Female,White,60.2,0
+A01073,Female,Hispanic or Latino,95.4,1
+A01074,Male,White,74.0,1
+A01075,Male,Hispanic or Latino,51.5,0
+A01076,Female,Asian,89.0,1
+A01077,Female,Hispanic or Latino,45.8,0
+A01078,Male,White,76.5,1
+A01079,Male,Hispanic or Latino,67.5,1
+A01080,Male,Native American or Alaska Native,59.7,0
+A01081,Male,White,49.4,0
+A01082,Male,White,72.4,1
+A01083,Male,White,69.0,1
+A01084,Female,Hispanic or Latino,91.9,1
+A01085,Male,White,59.6,0
+A01086,Female,White,78.2,1
+A01087,Male,White,49.9,0
+A01088,Female,White,79.0,1
+A01089,Male,White,79.8,1
+A01090,Female,White,60.5,0
+A01091,Male,White,48.7,0
+A01092,Female,White,50.8,0
+A01093,Female,White,27.8,0
+A01094,Male,White,66.1,1
+A01095,Male,Asian,65.6,0
+A01096,Male,White,61.9,0
+A01097,Male,White,50.4,0
+A01098,Male,White,79.4,1
+A01099,Unknown,White,55.2,0
+A01100,Male,White,48.5,0
+A01101,Female,Hispanic or Latino,70.2,1
+A01102,Male,White,50.9,0
+A01103,Unknown,Asian,60.6,0
+A01104,Male,Hispanic or Latino,55.6,0
+A01105,Male,White,43.9,0
+A01106,Male,White,62.0,0
+A01107,Male,White,70.4,1
+A01108,Unknown,White,61.2,0
+A01109,Male,Black or African American,63.7,0
+A01110,Male,White,81.3,1
+A01111,Male,Asian,56.7,0
+A01112,Male,White,94.7,1
+A01113,Female,Hispanic or Latino,83.7,1
+A01114,Male,Black or African American,55.6,0
+A01115,Male,Hispanic or Latino,60.6,0
+A01116,Male,White,62.1,0
+A01117,Male,White,55.3,0
+A01118,Female,Asian,70.5,1
+A01119,Male,Black or African American,63.9,0
+A01120,Female,Hispanic or Latino,68.7,1
+A01121,Female,White,56.8,0
+A01122,Male,White,65.0,0
+A01123,Female,White,50.5,0
+A01124,Male,White,47.0,0
+A01125,Female,White,58.2,0
+A01126,Male,White,63.4,0
+A01127,Female,Black or African American,49.6,0
+A01128,Female,White,76.3,1
+A01129,Male,White,61.3,0
+A01130,Male,White,86.1,1
+A01131,Female,White,89.6,1
+A01132,Female,White,40.6,0
+A01133,Male,White,56.6,0
+A01134,Male,White,74.9,1
+A01135,Female,White,66.4,1
+A01136,Male,White,81.0,1
+A01137,Female,White,93.7,1
+A01138,Female,Asian,69.2,1
+A01139,Female,Black or African American,71.6,1
+A01140,Male,Hispanic or Latino,84.2,1
+A01141,Male,Black or African American,91.5,1
+A01142,Female,Hispanic or Latino,62.2,0
+A01143,Male,Asian,62.2,0
+A01144,Male,Hispanic or Latino,69.0,1
+A01145,Male,Hispanic or Latino,63.9,0
+A01146,Male,White,59.2,0
+A01147,Male,White,63.9,0
+A01148,Female,Hispanic or Latino,28.4,0
+A01149,Female,Hispanic or Latino,79.0,1
+A01150,Female,White,75.9,1
+A01151,Male,Black or African American,37.7,0
+A01152,Male,White,68.7,1
+A01153,Male,Hispanic or Latino,61.2,0
+A01154,Female,White,65.0,0
+A01155,Male,White,77.3,1
+A01156,Male,White,66.4,1
+A01157,Female,White,60.5,0
+A01158,Female,White,43.0,0
+A01159,Female,Asian,45.5,0
+A01160,Female,White,32.1,0
+A01161,Female,Black or African American,78.0,1
+A01162,Female,White,64.6,0
+A01163,Female,White,57.0,0
+A01164,Male,White,83.8,1
+A01165,Female,White,72.0,1
+A01166,Male,White,70.3,1
+A01167,Female,,43.9,0
+A01168,Male,White,60.3,0
+A01169,Female,White,63.7,0
+A01170,Male,,75.7,1
+A01171,Male,Hispanic or Latino,75.0,1
+A01172,Male,Hispanic or Latino,91.0,1
+A01173,Male,Asian,84.7,1
+A01174,Female,Asian,64.5,0
+A01175,Male,White,52.8,0
+A01176,Male,,49.1,0
+A01177,Female,Two or More Races,67.1,1
+A01178,Female,Black or African American,48.6,0
+A01179,Female,Asian,38.5,0
+A01180,Female,Black or African American,79.6,1
+A01181,Female,White,91.5,1
+A01182,Female,White,65.4,0
+A01183,Female,White,65.1,0
+A01184,Male,Black or African American,59.7,0
+A01185,Unknown,White,75.7,1
+A01186,Male,Hispanic or Latino,89.0,1
+A01187,Female,Hispanic or Latino,63.2,0
+A01188,Female,Hispanic or Latino,52.8,0
+A01189,Female,White,64.6,0
+A01190,Female,Asian,78.4,1
+A01191,Female,White,69.5,1
+A01192,Female,White,57.5,0
+A01193,Female,Black or African American,54.6,0
+A01194,Female,Asian,82.7,1
+A01195,Male,White,51.5,0
+A01196,Male,Hispanic or Latino,38.4,0
+A01197,Male,Hispanic or Latino,47.3,0
+A01198,Female,White,41.6,0
+A01199,Male,Hispanic or Latino,47.6,0
+A01200,Male,Hispanic or Latino,76.4,1
+A01201,Female,Native Hawaiian or Pacific Islander,54.1,0
+A01202,Male,Asian,56.8,0
+A01203,Male,White,56.6,0
+A01204,Male,White,66.5,1
+A01205,Female,White,39.7,0
+A01206,Female,Black or African American,48.4,0
+A01207,Female,Two or More Races,44.2,0
+A01208,Unknown,White,54.9,0
+A01209,Male,White,68.6,1
+A01210,Female,Asian,65.4,0
+A01211,Female,Black or African American,82.3,1
+A01212,Female,White,58.7,0
+A01213,Female,Black or African American,62.2,0
+A01214,Female,Black or African American,47.0,0
+A01215,Male,White,71.4,1
+A01216,Male,Hispanic or Latino,45.7,0
+A01217,Female,White,46.5,0
+A01218,Female,Black or African American,74.5,1
+A01219,Female,Two or More Races,48.9,0
+A01220,Female,Asian,42.4,0
+A01221,Unknown,Hispanic or Latino,42.8,0
+A01222,Male,White,40.3,0
+A01223,Male,White,43.1,0
+A01224,Male,White,29.1,0
+A01225,Female,White,67.9,1
+A01226,Male,Asian,45.5,0
+A01227,Female,Black or African American,70.4,1
+A01228,Female,Hispanic or Latino,56.9,0
+A01229,Female,White,76.4,1
+A01230,Male,White,84.5,1
+A01231,Male,White,54.4,0
+A01232,Male,Black or African American,59.9,0
+A01233,Male,White,65.5,0
+A01234,Male,White,84.1,1
+A01235,Female,Black or African American,82.3,1
+A01236,Female,White,38.9,0
+A01237,Female,Black or African American,75.6,1
+A01238,Female,White,68.7,1
+A01239,Male,Asian,77.3,1
+A01240,Female,Black or African American,78.4,1
+A01241,Unknown,Native American or Alaska Native,51.0,0
+A01242,Female,Black or African American,40.5,0
+A01243,Male,White,56.3,0
+A01244,Female,White,75.8,1
+A01245,Male,,57.1,0
+A01246,Female,White,54.1,0
+A01247,Male,,34.9,0
+A01248,Male,White,90.5,1
+A01249,Male,White,79.0,1
+A01250,Unknown,,66.6,1
+A01251,Female,White,61.3,0
+A01252,Male,White,59.0,0
+A01253,Male,White,60.8,0
+A01254,Male,Two or More Races,66.2,1
+A01255,Male,Black or African American,48.9,0
+A01256,Male,White,54.5,0
+A01257,Male,Hispanic or Latino,86.9,1
+A01258,Female,Asian,80.1,1
+A01259,Male,White,88.3,1
+A01260,Female,White,67.0,1
+A01261,Female,White,60.8,0
+A01262,Female,White,43.8,0
+A01263,Female,Black or African American,61.4,0
+A01264,Female,White,47.4,0
+A01265,Male,White,67.7,1
+A01266,Male,White,49.9,0
+A01267,Female,Hispanic or Latino,44.8,0
+A01268,Male,Asian,82.8,1
+A01269,Male,Black or African American,59.5,0
+A01270,Male,Hispanic or Latino,56.8,0
+A01271,Male,White,52.4,0
+A01272,Female,Hispanic or Latino,90.2,1
+A01273,Female,White,61.4,0
+A01274,Female,White,55.1,0
+A01275,Male,Hispanic or Latino,46.2,0
+A01276,Male,Black or African American,75.5,1
+A01277,Female,Black or African American,49.4,0
+A01278,Male,Hispanic or Latino,77.3,1
+A01279,Male,White,94.7,1
+A01280,Female,White,37.3,0
+A01281,Female,White,51.6,0
+A01282,Female,Hispanic or Latino,76.2,1
+A01283,Female,Asian,43.4,0
+A01284,Male,Black or African American,59.9,0
+A01285,Female,White,66.8,1
+A01286,Female,White,67.3,1
+A01287,Female,White,57.7,0
+A01288,Male,Asian,45.4,0
+A01289,Female,Native American or Alaska Native,52.0,0
+A01290,Male,Hispanic or Latino,54.9,0
+A01291,Male,Black or African American,46.6,0
+A01292,Female,Black or African American,52.5,0
+A01293,Male,White,63.7,0
+A01294,Male,White,68.0,1
+A01295,Male,White,84.0,1
+A01296,Male,White,55.2,0
+A01297,Unknown,Asian,83.8,1
+A01298,Male,White,57.6,0
+A01299,Unknown,White,92.8,1
+A01300,Male,White,71.5,1
+A01301,Female,White,64.6,0
+A01302,Male,Hispanic or Latino,50.4,0
+A01303,Male,White,76.7,1
+A01304,Female,White,53.3,0
+A01305,Female,Black or African American,53.6,0
+A01306,Male,,40.3,0
+A01307,Male,,44.1,0
+A01308,Male,White,35.6,0
+A01309,Female,White,69.9,1
+A01310,Female,White,56.3,0
+A01311,Male,Black or African American,70.7,1
+A01312,Male,White,55.5,0
+A01313,Male,Black or African American,44.6,0
+A01314,Female,Black or African American,61.0,0
+A01315,Female,White,74.3,1
+A01316,Female,Hispanic or Latino,65.4,0
+A01317,Male,White,65.5,0
+A01318,Male,White,53.1,0
+A01319,Female,White,69.2,1
+A01320,Male,Black or African American,55.3,0
+A01321,Female,Asian,58.7,0
+A01322,Male,White,79.3,1
+A01323,Unknown,Asian,66.1,1
+A01324,Male,,65.7,0
+A01325,Male,White,81.0,1
+A01326,Male,Asian,71.7,1
+A01327,Female,,79.4,1
+A01328,Male,White,71.4,1
+A01329,Female,White,54.5,0
+A01330,Female,Hispanic or Latino,61.8,0
+A01331,Male,Asian,63.1,0
+A01332,Female,White,71.5,1
+A01333,Unknown,Hispanic or Latino,62.8,0
+A01334,Female,Two or More Races,68.1,1
+A01335,Male,White,68.8,1
+A01336,Male,White,52.5,0
+A01337,Male,White,71.8,1
+A01338,Female,Native Hawaiian or Pacific Islander,44.5,0
+A01339,Male,Asian,59.8,0
+A01340,Male,Black or African American,37.7,0
+A01341,Female,White,57.2,0
+A01342,Male,Asian,68.5,1
+A01343,Male,Black or African American,56.1,0
+A01344,Male,White,49.1,0
+A01345,Male,Native American or Alaska Native,62.6,0
+A01346,Female,Hispanic or Latino,81.5,1
+A01347,Unknown,Hispanic or Latino,80.4,1
+A01348,Male,White,59.6,0
+A01349,Female,White,71.4,1
+A01350,Male,Hispanic or Latino,72.0,1
+A01351,Female,Black or African American,50.9,0
+A01352,Female,White,50.4,0
+A01353,Female,White,65.3,0
+A01354,Female,White,66.5,1
+A01355,Unknown,Hispanic or Latino,73.9,1
+A01356,Female,White,79.1,1
+A01357,Female,White,56.7,0
+A01358,Male,White,63.0,0
+A01359,Female,White,68.0,1
+A01360,Male,White,85.7,1
+A01361,Male,White,43.5,0
+A01362,Male,Hispanic or Latino,82.8,1
+A01363,Male,Black or African American,43.2,0
+A01364,Female,White,83.8,1
+A01365,Male,Hispanic or Latino,69.5,1
+A01366,Female,Hispanic or Latino,52.3,0
+A01367,Male,White,86.7,1
+A01368,Male,White,76.2,1
+A01369,Female,,52.0,0
+A01370,Male,White,67.1,1
+A01371,Male,White,70.1,1
+A01372,Female,White,60.5,0
+A01373,Female,Black or African American,55.9,0
+A01374,Female,Hispanic or Latino,64.4,0
+A01375,Female,Hispanic or Latino,46.7,0
+A01376,Female,White,74.0,1
+A01377,Male,Hispanic or Latino,64.5,0
+A01378,Female,Black or African American,77.8,1
+A01379,Female,White,56.1,0
+A01380,Male,White,58.5,0
+A01381,Male,,69.9,1
+A01382,Female,White,84.3,1
+A01383,Female,White,68.2,1
+A01384,Unknown,White,72.6,1
+A01385,Female,Hispanic or Latino,50.7,0
+A01386,Male,White,79.2,1
+A01387,Male,White,41.0,0
+A01388,Female,White,63.6,0
+A01389,Male,Native Hawaiian or Pacific Islander,58.0,0
+A01390,Male,White,56.8,0
+A01391,Male,White,30.0,0
+A01392,Male,White,69.2,1
+A01393,Male,White,80.2,1
+A01394,Female,Asian,77.7,1
+A01395,Male,Black or African American,52.7,0
+A01396,Female,Hispanic or Latino,55.4,0
+A01397,Female,,46.4,0
+A01398,Male,White,66.2,1
+A01399,Male,Two or More Races,68.7,1
+A01400,Female,Black or African American,65.0,0
+A01401,Male,Black or African American,44.0,0
+A01402,Female,White,53.0,0
+A01403,Female,White,58.0,0
+A01404,Female,White,62.0,0
+A01405,Female,Two or More Races,40.5,0
+A01406,Male,Hispanic or Latino,42.1,0
+A01407,Female,Asian,54.7,0
+A01408,Female,White,73.6,1
+A01409,Female,Hispanic or Latino,80.5,1
+A01410,Male,Black or African American,40.9,0
+A01411,Male,White,44.3,0
+A01412,Male,Asian,79.3,1
+A01413,Female,Black or African American,71.3,1
+A01414,Female,Black or African American,70.2,1
+A01415,Male,Asian,62.4,0
+A01416,Male,Native American or Alaska Native,59.6,0
+A01417,Male,White,78.6,1
+A01418,Female,White,59.9,0
+A01419,Female,Two or More Races,67.6,1
+A01420,Female,Black or African American,39.1,0
+A01421,Female,White,66.8,1
+A01422,Male,White,70.1,1
+A01423,Male,Black or African American,53.3,0
+A01424,Male,Native American or Alaska Native,53.9,0
+A01425,Female,Asian,82.0,1
+A01426,Male,White,64.6,0
+A01427,Male,White,69.7,1
+A01428,Male,White,76.4,1
+A01429,Male,White,59.8,0
+A01430,Male,White,73.8,1
+A01431,Male,Hispanic or Latino,52.0,0
+A01432,Male,Asian,46.5,0
+A01433,Female,White,75.3,1
+A01434,Female,Hispanic or Latino,62.9,0
+A01435,Female,White,75.7,1
+A01436,Male,Black or African American,67.9,1
+A01437,Male,White,59.9,0
+A01438,Female,Black or African American,76.9,1
+A01439,Female,White,58.6,0
+A01440,Female,Black or African American,61.9,0
+A01441,Female,Hispanic or Latino,59.3,0
+A01442,Female,White,77.0,1
+A01443,Male,Asian,79.0,1
+A01444,Female,White,49.1,0
+A01445,Male,Asian,62.7,0
+A01446,Male,Hispanic or Latino,62.5,0
+A01447,Male,White,53.0,0
+A01448,Female,White,62.6,0
+A01449,Male,Hispanic or Latino,58.3,0
+A01450,Male,Hispanic or Latino,54.7,0
+A01451,Male,White,67.3,1
+A01452,Male,White,80.2,1
+A01453,Female,White,64.7,0
+A01454,Male,Hispanic or Latino,38.4,0
+A01455,Female,White,37.6,0
+A01456,Female,Asian,54.9,0
+A01457,Female,,48.5,0
+A01458,Female,Black or African American,52.9,0
+A01459,Female,Asian,85.8,1
+A01460,Male,Asian,59.2,0
+A01461,Male,White,49.4,0
+A01462,Female,White,57.3,0
+A01463,Male,White,66.0,1
+A01464,Female,Asian,51.1,0
+A01465,Female,White,65.4,0
+A01466,Female,Asian,57.6,0
+A01467,Male,White,52.0,0
+A01468,Unknown,Black or African American,83.6,1
+A01469,Male,White,67.4,1
+A01470,Female,White,69.3,1
+A01471,Female,Hispanic or Latino,93.8,1
+A01472,Male,Hispanic or Latino,57.2,0
+A01473,Female,Hispanic or Latino,59.3,0
+A01474,Unknown,White,46.9,0
+A01475,Male,White,64.5,0
+A01476,Female,Hispanic or Latino,80.7,1
+A01477,Male,Hispanic or Latino,75.3,1
+A01478,Female,White,56.8,0
+A01479,Female,White,50.2,0
+A01480,Female,White,71.9,1
+A01481,Male,Hispanic or Latino,55.4,0
+A01482,Female,White,58.0,0
+A01483,Male,Hispanic or Latino,51.8,0
+A01484,Male,Hispanic or Latino,48.1,0
+A01485,Unknown,White,35.0,0
+A01486,Female,White,48.9,0
+A01487,Female,Hispanic or Latino,52.8,0
+A01488,Male,White,40.5,0
+A01489,Male,Hispanic or Latino,52.5,0
+A01490,Female,White,71.5,1
+A01491,Female,White,84.2,1
+A01492,Female,White,95.5,1
+A01493,Male,Asian,45.7,0
+A01494,Female,Hispanic or Latino,45.5,0
+A01495,Female,White,69.7,1
+A01496,Male,Asian,60.4,0
+A01497,Male,Native American or Alaska Native,68.5,1
+A01498,Male,Black or African American,69.2,1
+A01499,Female,White,92.5,1
+A01500,Male,White,60.4,0
+A01501,Male,White,72.0,1
+A01502,Female,White,61.1,0
+A01503,Female,White,58.7,0
+A01504,Female,White,50.4,0
+A01505,Male,Black or African American,63.0,0
+A01506,Male,White,61.4,0
+A01507,Female,Black or African American,57.3,0
+A01508,Male,Black or African American,24.3,0
+A01509,Male,White,61.0,0
+A01510,Male,White,48.2,0
+A01511,Female,White,64.2,0
+A01512,Male,White,57.7,0
+A01513,Male,Hispanic or Latino,72.9,1
+A01514,Female,Hispanic or Latino,67.1,1
+A01515,Female,White,77.7,1
+A01516,Female,White,50.2,0
+A01517,Unknown,White,48.3,0
+A01518,Female,White,42.3,0
+A01519,Male,White,48.9,0
+A01520,Female,Hispanic or Latino,59.7,0
+A01521,Male,Hispanic or Latino,58.7,0
+A01522,Male,White,57.9,0
+A01523,Male,,56.4,0
+A01524,Male,Hispanic or Latino,61.4,0
+A01525,Male,White,45.6,0
+A01526,Unknown,Asian,56.5,0
+A01527,Male,White,48.3,0
+A01528,Female,Two or More Races,65.3,0
+A01529,Female,White,51.7,0
+A01530,Male,Black or African American,54.3,0
+A01531,Female,Black or African American,57.1,0
+A01532,Male,,65.4,0
+A01533,Male,White,45.1,0
+A01534,Female,White,53.8,0
+A01535,Female,White,46.3,0
+A01536,Female,White,51.3,0
+A01537,Female,White,63.2,0
+A01538,Female,,55.9,0
+A01539,Male,White,58.6,0
+A01540,Male,Black or African American,72.2,1
+A01541,Male,Two or More Races,81.5,1
+A01542,Male,White,58.2,0
+A01543,Female,White,64.2,0
+A01544,Female,Hispanic or Latino,54.6,0
+A01545,Male,Hispanic or Latino,79.2,1
+A01546,Female,Hispanic or Latino,62.2,0
+A01547,Male,Hispanic or Latino,68.7,1
+A01548,Female,Asian,64.9,0
+A01549,Female,Black or African American,68.8,1
+A01550,Male,Asian,67.4,1
+A01551,Male,Hispanic or Latino,75.0,1
+A01552,Male,White,54.0,0
+A01553,Male,,65.6,0
+A01554,Male,White,64.3,0
+A01555,Female,Asian,63.4,0
+A01556,Female,Asian,43.1,0
+A01557,Male,Two or More Races,32.3,0
+A01558,Male,White,47.7,0
+A01559,Male,White,88.1,1
+A01560,Female,Black or African American,63.7,0
+A01561,Unknown,White,65.6,0
+A01562,Female,Asian,52.6,0
+A01563,Male,White,53.9,0
+A01564,Male,White,62.1,0
+A01565,Female,White,76.8,1
+A01566,Female,Hispanic or Latino,63.9,0
+A01567,Female,White,70.9,1
+A01568,Female,White,69.8,1
+A01569,Male,Asian,56.4,0
+A01570,Male,Asian,57.2,0
+A01571,Male,White,57.0,0
+A01572,Male,Hispanic or Latino,70.0,1
+A01573,Male,White,87.0,1
+A01574,Female,Black or African American,55.6,0
+A01575,Female,Asian,62.0,0
+A01576,Female,White,49.5,0
+A01577,Female,Asian,81.5,1
+A01578,Male,Hispanic or Latino,66.9,1
+A01579,Male,White,58.9,0
+A01580,Male,Asian,61.6,0
+A01581,Male,Hispanic or Latino,51.5,0
+A01582,Female,White,62.1,0
+A01583,Female,Two or More Races,66.9,1
+A01584,Male,White,76.2,1
+A01585,Male,Asian,65.1,0
+A01586,Male,Hispanic or Latino,65.9,0
+A01587,Female,White,62.9,0
+A01588,Male,Hispanic or Latino,53.1,0
+A01589,Female,White,70.2,1
+A01590,Female,Black or African American,48.7,0
+A01591,Male,White,65.4,0
+A01592,Female,Asian,39.9,0
+A01593,Female,White,68.2,1
+A01594,Male,Asian,67.1,1
+A01595,Male,White,57.8,0
+A01596,Male,Black or African American,67.1,1
+A01597,Male,Black or African American,58.3,0
+A01598,Female,Black or African American,75.3,1
+A01599,Female,White,78.2,1
+A01600,Male,Black or African American,69.8,1
+A01601,Female,White,54.9,0
+A01602,Male,Black or African American,78.9,1
+A01603,Female,White,82.9,1
+A01604,Female,Black or African American,55.5,0
+A01605,Female,White,41.3,0
+A01606,Female,White,48.6,0
+A01607,Female,White,59.8,0
+A01608,Unknown,White,54.5,0
+A01609,Male,Asian,65.3,0
+A01610,Unknown,Hispanic or Latino,65.7,0
+A01611,Female,White,55.8,0
+A01612,Male,White,76.5,1
+A01613,Female,Hispanic or Latino,60.4,0
+A01614,Male,White,44.2,0
+A01615,Female,White,58.5,0
+A01616,Male,Asian,73.9,1
+A01617,Female,Two or More Races,35.9,0
+A01618,Male,White,68.9,1
+A01619,Male,White,81.2,1
+A01620,Female,White,57.5,0
+A01621,Female,Asian,43.9,0
+A01622,Female,Black or African American,74.3,1
+A01623,Female,Hispanic or Latino,36.5,0
+A01624,Male,White,69.4,1
+A01625,Male,Asian,52.0,0
+A01626,Male,Asian,57.6,0
+A01627,Female,White,59.2,0
+A01628,Male,White,35.4,0
+A01629,Male,White,84.0,1
+A01630,Male,White,61.4,0
+A01631,Male,White,68.3,1
+A01632,Female,White,51.7,0
+A01633,Female,White,85.0,1
+A01634,Male,Hispanic or Latino,58.1,0
+A01635,Female,White,24.5,0
+A01636,Female,White,40.3,0
+A01637,Female,White,61.1,0
+A01638,Female,White,56.6,0
+A01639,Female,Asian,56.5,0
+A01640,Female,White,74.8,1
+A01641,Female,White,49.6,0
+A01642,Female,White,49.5,0
+A01643,Male,White,72.4,1
+A01644,Female,Hispanic or Latino,70.2,1
+A01645,Male,Hispanic or Latino,53.2,0
+A01646,Male,Asian,82.7,1
+A01647,Unknown,Asian,56.3,0
+A01648,Female,White,31.2,0
+A01649,Male,Asian,43.9,0
+A01650,Male,White,37.2,0
+A01651,Male,Hispanic or Latino,69.3,1
+A01652,Male,White,66.9,1
+A01653,Female,Hispanic or Latino,44.9,0
+A01654,Male,White,57.4,0
+A01655,Male,Asian,66.5,1
+A01656,Male,Asian,59.8,0
+A01657,Male,White,75.1,1
+A01658,Female,White,59.3,0
+A01659,Female,White,58.6,0
+A01660,Female,Hispanic or Latino,68.7,1
+A01661,Male,Asian,53.6,0
+A01662,Female,White,59.1,0
+A01663,Male,White,58.3,0
+A01664,Female,Black or African American,41.1,0
+A01665,Female,White,93.5,1
+A01666,Male,White,59.8,0
+A01667,Unknown,White,52.3,0
+A01668,Male,White,80.5,1
+A01669,Female,White,33.0,0
+A01670,Male,White,56.1,0
+A01671,Female,Hispanic or Latino,71.7,1
+A01672,Male,Black or African American,73.8,1
+A01673,Unknown,White,61.2,0
+A01674,Female,Hispanic or Latino,50.2,0
+A01675,Male,Hispanic or Latino,70.1,1
+A01676,Female,White,55.6,0
+A01677,Female,White,51.4,0
+A01678,Male,White,55.1,0
+A01679,Female,White,57.2,0
+A01680,Male,White,59.8,0
+A01681,Female,White,56.2,0
+A01682,Female,White,57.1,0
+A01683,Male,Hispanic or Latino,74.6,1
+A01684,Male,Hispanic or Latino,72.6,1
+A01685,Female,Asian,62.5,0
+A01686,Female,White,74.2,1
+A01687,Male,Black or African American,63.7,0
+A01688,Male,Hispanic or Latino,58.6,0
+A01689,Unknown,Black or African American,72.6,1
+A01690,Male,Asian,72.8,1
+A01691,Female,Hispanic or Latino,63.3,0
+A01692,Female,Black or African American,64.9,0
+A01693,Female,Hispanic or Latino,53.3,0
+A01694,Female,White,57.7,0
+A01695,Male,White,76.8,1
+A01696,Female,White,48.6,0
+A01697,Female,White,82.3,1
+A01698,Female,Black or African American,69.0,1
+A01699,Female,Hispanic or Latino,89.3,1
+A01700,Female,White,55.1,0
+A01701,Female,White,51.5,0
+A01702,Female,White,76.1,1
+A01703,Male,Asian,47.5,0
+A01704,Female,White,55.6,0
+A01705,Female,White,42.0,0
+A01706,Female,White,76.3,1
+A01707,Male,Native American or Alaska Native,81.7,1
+A01708,Female,White,76.7,1
+A01709,Female,Hispanic or Latino,84.8,1
+A01710,Male,Black or African American,56.2,0
+A01711,Male,White,75.2,1
+A01712,Male,White,74.7,1
+A01713,Male,White,74.4,1
+A01714,Male,White,59.6,0
+A01715,Female,Black or African American,60.3,0
+A01716,Male,Native American or Alaska Native,78.4,1
+A01717,Female,Asian,53.6,0
+A01718,Male,White,69.3,1
+A01719,Female,White,75.3,1
+A01720,Male,White,56.4,0
+A01721,Female,White,60.3,0
+A01722,Female,White,57.6,0
+A01723,Male,Hispanic or Latino,73.6,1
+A01724,Female,White,66.7,1
+A01725,Male,Native Hawaiian or Pacific Islander,43.8,0
+A01726,Male,White,68.4,1
+A01727,Male,Two or More Races,49.9,0
+A01728,Male,Hispanic or Latino,78.9,1
+A01729,Male,White,55.4,0
+A01730,Female,Hispanic or Latino,47.2,0
+A01731,Male,White,50.0,0
+A01732,Male,Hispanic or Latino,39.1,0
+A01733,Male,Black or African American,42.5,0
+A01734,Female,White,55.7,0
+A01735,Male,White,49.9,0
+A01736,Male,Hispanic or Latino,79.5,1
+A01737,Female,Asian,54.2,0
+A01738,Female,White,41.9,0
+A01739,Female,White,56.2,0
+A01740,Female,White,74.3,1
+A01741,Unknown,White,65.8,0
+A01742,Female,Asian,56.9,0
+A01743,Female,White,60.9,0
+A01744,Female,White,59.8,0
+A01745,Female,Asian,58.0,0
+A01746,Female,Two or More Races,62.1,0
+A01747,Male,White,66.3,1
+A01748,Male,White,74.2,1
+A01749,Female,White,65.4,0
+A01750,Female,White,57.7,0
+A01751,Female,Hispanic or Latino,91.4,1
+A01752,Male,Black or African American,80.1,1
+A01753,Female,White,62.4,0
+A01754,Male,White,53.4,0
+A01755,Unknown,Black or African American,61.1,0
+A01756,Male,Black or African American,80.5,1
+A01757,Female,Asian,68.9,1
+A01758,Female,Asian,65.4,0
+A01759,Male,White,82.8,1
+A01760,Unknown,White,52.1,0
+A01761,Male,Black or African American,78.7,1
+A01762,Male,Native American or Alaska Native,70.0,1
+A01763,Male,Hispanic or Latino,76.0,1
+A01764,Female,Hispanic or Latino,73.6,1
+A01765,Male,,72.2,1
+A01766,Male,White,61.2,0
+A01767,Male,White,59.1,0
+A01768,Female,Hispanic or Latino,40.3,0
+A01769,Female,Hispanic or Latino,51.5,0
+A01770,Male,White,69.8,1
+A01771,Male,White,82.3,1
+A01772,Male,White,75.1,1
+A01773,Male,Black or African American,86.3,1
+A01774,Female,White,60.3,0
+A01775,Female,White,52.7,0
+A01776,Female,Hispanic or Latino,66.8,1
+A01777,Male,Black or African American,69.3,1
+A01778,Male,White,74.6,1
+A01779,Female,Hispanic or Latino,57.3,0
+A01780,Male,Hispanic or Latino,70.3,1
+A01781,Female,Hispanic or Latino,65.0,0
+A01782,Male,Hispanic or Latino,69.9,1
+A01783,Male,Asian,86.4,1
+A01784,Male,Two or More Races,60.9,0
+A01785,Male,Hispanic or Latino,76.0,1
+A01786,Male,White,91.9,1
+A01787,Male,White,60.6,0
+A01788,Male,White,61.1,0
+A01789,Male,Hispanic or Latino,55.0,0
+A01790,Female,Hispanic or Latino,66.8,1
+A01791,Female,,70.1,1
+A01792,Female,White,55.6,0
+A01793,Female,Black or African American,40.9,0
+A01794,Male,White,74.9,1
+A01795,Male,White,62.0,0
+A01796,Female,Hispanic or Latino,48.2,0
+A01797,Female,Hispanic or Latino,69.0,1
+A01798,Male,,88.6,1
+A01799,Female,Black or African American,59.2,0
+A01800,Female,White,67.1,1
+A01801,Female,White,69.2,1
+A01802,Male,White,51.5,0
+A01803,Female,White,38.1,0
+A01804,Male,White,100,1
+A01805,Female,Asian,74.8,1
+A01806,Female,Hispanic or Latino,50.7,0
+A01807,Male,,72.9,1
+A01808,Male,Hispanic or Latino,53.5,0
+A01809,Female,White,75.7,1
+A01810,Female,White,60.0,0
+A01811,Female,White,52.1,0
+A01812,Male,White,69.0,1
+A01813,Female,White,41.9,0
+A01814,Male,White,46.5,0
+A01815,Unknown,White,52.4,0
+A01816,Female,White,66.2,1
+A01817,Female,White,92.3,1
+A01818,Unknown,White,60.3,0
+A01819,Male,Black or African American,55.1,0
+A01820,Female,Hispanic or Latino,66.4,1
+A01821,Male,White,67.6,1
+A01822,Female,Hispanic or Latino,51.7,0
+A01823,Male,Hispanic or Latino,47.5,0
+A01824,Male,Hispanic or Latino,67.9,1
+A01825,Female,White,60.2,0
+A01826,Male,Hispanic or Latino,63.3,0
+A01827,Male,White,72.9,1
+A01828,Unknown,White,76.7,1
+A01829,Female,White,62.7,0
+A01830,Female,White,91.7,1
+A01831,Female,White,49.2,0
+A01832,Male,Asian,67.3,1
+A01833,Male,Black or African American,54.9,0
+A01834,Female,Hispanic or Latino,32.4,0
+A01835,Male,Hispanic or Latino,68.7,1
+A01836,Male,Black or African American,53.5,0
+A01837,Female,Hispanic or Latino,49.5,0
+A01838,Female,Asian,79.9,1
+A01839,Female,Hispanic or Latino,50.4,0
+A01840,Male,White,79.8,1
+A01841,Female,White,38.3,0
+A01842,Female,Hispanic or Latino,83.1,1
+A01843,Female,White,68.2,1
+A01844,Female,Black or African American,41.9,0
+A01845,Female,White,56.8,0
+A01846,Female,White,61.4,0
+A01847,Female,,62.6,0
+A01848,Male,White,93.8,1
+A01849,Male,Hispanic or Latino,61.9,0
+A01850,Female,Hispanic or Latino,60.4,0
+A01851,Male,Black or African American,27.8,0
+A01852,Female,White,40.6,0
+A01853,Female,Hispanic or Latino,71.3,1
+A01854,Female,Black or African American,61.9,0
+A01855,Female,Black or African American,37.7,0
+A01856,Female,White,58.2,0
+A01857,Male,Two or More Races,42.1,0
+A01858,Male,White,59.1,0
+A01859,Female,White,54.1,0
+A01860,Male,Black or African American,63.1,0
+A01861,Female,Asian,67.3,1
+A01862,Female,White,89.0,1
+A01863,Male,White,66.5,1
+A01864,Female,Asian,71.4,1
+A01865,Female,Hispanic or Latino,64.2,0
+A01866,Female,Black or African American,66.5,1
+A01867,Female,White,63.8,0
+A01868,Male,White,58.5,0
+A01869,Male,White,48.6,0
+A01870,Female,White,72.6,1
+A01871,Male,Native American or Alaska Native,62.7,0
+A01872,Male,White,41.9,0
+A01873,Female,Black or African American,27.6,0
+A01874,Male,Hispanic or Latino,66.6,1
+A01875,Male,White,67.1,1
+A01876,Female,White,64.8,0
+A01877,Female,White,51.9,0
+A01878,Unknown,Two or More Races,48.4,0
+A01879,Male,Black or African American,55.5,0
+A01880,Female,Hispanic or Latino,44.3,0
+A01881,Female,White,47.7,0
+A01882,Female,Hispanic or Latino,70.0,1
+A01883,Female,Two or More Races,66.0,1
+A01884,Female,Black or African American,54.3,0
+A01885,Male,White,45.4,0
+A01886,Female,White,50.3,0
+A01887,Male,White,44.6,0
+A01888,Female,Asian,69.0,1
+A01889,Female,White,66.3,1
+A01890,Female,Black or African American,54.9,0
+A01891,Female,Hispanic or Latino,48.8,0
+A01892,Male,White,63.5,0
+A01893,Male,White,50.7,0
+A01894,Female,Hispanic or Latino,70.7,1
+A01895,Female,White,75.1,1
+A01896,Unknown,Black or African American,65.2,0
+A01897,Female,White,72.6,1
+A01898,Female,Black or African American,87.7,1
+A01899,Male,White,76.1,1
+A01900,Male,White,77.7,1
+A01901,Female,Hispanic or Latino,71.4,1
+A01902,Male,White,43.7,0
+A01903,Male,Black or African American,73.6,1
+A01904,Female,Black or African American,52.3,0
+A01905,Male,Asian,32.0,0
+A01906,Male,White,78.0,1
+A01907,Male,Hispanic or Latino,65.4,0
+A01908,Male,White,78.8,1
+A01909,Female,Hispanic or Latino,73.6,1
+A01910,Female,White,82.2,1
+A01911,Female,White,78.4,1
+A01912,Female,White,77.9,1
+A01913,Male,White,71.9,1
+A01914,Male,White,83.0,1
+A01915,Male,White,66.4,1
+A01916,Female,Black or African American,51.0,0
+A01917,Male,White,73.9,1
+A01918,Male,White,50.1,0
+A01919,Female,White,57.0,0
+A01920,Female,Asian,76.9,1
+A01921,Female,Hispanic or Latino,55.0,0
+A01922,Male,White,64.3,0
+A01923,Female,White,66.8,1
+A01924,Male,White,70.5,1
+A01925,Female,White,49.0,0
+A01926,Male,Hispanic or Latino,52.8,0
+A01927,Female,White,60.9,0
+A01928,Female,White,47.6,0
+A01929,Unknown,Two or More Races,69.4,1
+A01930,Male,White,81.5,1
+A01931,Male,Hispanic or Latino,51.8,0
+A01932,Female,White,40.2,0
+A01933,Male,White,61.7,0
+A01934,Male,Black or African American,61.0,0
+A01935,Male,White,58.2,0
+A01936,Female,Two or More Races,64.3,0
+A01937,Male,Black or African American,59.8,0
+A01938,Female,White,43.6,0
+A01939,Female,White,59.9,0
+A01940,Male,White,75.6,1
+A01941,Male,White,65.5,0
+A01942,Male,White,75.5,1
+A01943,Male,White,51.2,0
+A01944,Male,White,66.4,1
+A01945,Female,White,67.4,1
+A01946,Female,Hispanic or Latino,35.5,0
+A01947,Female,Asian,58.5,0
+A01948,Male,White,49.8,0
+A01949,Female,Native Hawaiian or Pacific Islander,49.4,0
+A01950,Male,Hispanic or Latino,68.0,1
+A01951,Female,Hispanic or Latino,67.5,1
+A01952,Female,White,74.8,1
+A01953,Male,White,78.0,1
+A01954,Female,White,59.1,0
+A01955,Male,White,66.2,1
+A01956,Female,White,75.4,1
+A01957,Female,White,40.8,0
+A01958,Female,Asian,60.0,0
+A01959,Female,White,65.5,0
+A01960,Male,Hispanic or Latino,75.3,1
+A01961,Female,White,75.3,1
+A01962,Female,White,43.4,0
+A01963,Female,White,52.4,0
+A01964,Unknown,White,51.7,0
+A01965,Male,White,74.1,1
+A01966,Male,White,78.7,1
+A01967,Female,White,60.0,0
+A01968,Male,Hispanic or Latino,42.8,0
+A01969,Female,Hispanic or Latino,84.6,1
+A01970,Female,White,51.7,0
+A01971,Male,Two or More Races,66.6,1
+A01972,Female,Hispanic or Latino,45.9,0
+A01973,Male,Hispanic or Latino,55.9,0
+A01974,Male,White,57.3,0
+A01975,Female,Asian,58.4,0
+A01976,Male,Black or African American,58.5,0
+A01977,Female,Hispanic or Latino,54.5,0
+A01978,Male,Asian,53.5,0
+A01979,Male,White,59.5,0
+A01980,Female,White,74.7,1
+A01981,Male,White,76.8,1
+A01982,Female,Hispanic or Latino,63.5,0
+A01983,Female,White,46.8,0
+A01984,Female,Black or African American,60.2,0
+A01985,Female,Black or African American,29.9,0
+A01986,Female,Asian,47.8,0
+A01987,Female,Black or African American,75.4,1
+A01988,Male,Black or African American,58.1,0
+A01989,Female,,60.3,0
+A01990,Male,White,69.1,1
+A01991,Female,Hispanic or Latino,36.3,0
+A01992,Female,White,67.8,1
+A01993,Male,White,62.6,0
+A01994,Male,Two or More Races,54.2,0
+A01995,Male,Hispanic or Latino,60.8,0
+A01996,Male,White,60.5,0
+A01997,Male,Hispanic or Latino,69.2,1
+A01998,Male,Hispanic or Latino,55.9,0
+A01999,Male,White,58.4,0
+A02000,Male,Hispanic or Latino,82.9,1
+A02001,Male,White,62.3,0
+A02002,Male,White,77.8,1
+A02003,Male,White,38.5,0
+A02004,Female,Black or African American,61.5,0
+A02005,Female,Hispanic or Latino,63.3,0
+A02006,Female,Black or African American,32.2,0
+A02007,Unknown,White,48.0,0
+A02008,Female,Black or African American,61.5,0
+A02009,Female,Hispanic or Latino,59.9,0
+A02010,Male,White,41.1,0
+A02011,Female,White,68.0,1
+A02012,Female,White,60.7,0
+A02013,Female,White,32.2,0
+A02014,Female,White,55.5,0
+A02015,Male,Black or African American,73.6,1
+A02016,Male,White,77.7,1
+A02017,Male,Hispanic or Latino,70.2,1
+A02018,Male,White,69.3,1
+A02019,Female,White,68.8,1
+A02020,Female,Black or African American,47.0,0
+A02021,Female,White,45.9,0
+A02022,Female,Asian,61.1,0
+A02023,Female,White,53.6,0
+A02024,Female,White,73.8,1
+A02025,Female,White,62.4,0
+A02026,Male,Black or African American,67.6,1
+A02027,Female,Asian,37.9,0
+A02028,Male,Black or African American,89.4,1
+A02029,Male,Asian,64.8,0
+A02030,Female,White,74.2,1
+A02031,Female,Hispanic or Latino,66.0,0
+A02032,Female,Native American or Alaska Native,74.0,1
+A02033,Male,White,69.8,1
+A02034,Male,Hispanic or Latino,61.1,0
+A02035,Female,Black or African American,53.2,0
+A02036,Male,White,74.0,1
+A02037,Male,White,60.6,0
+A02038,Male,White,67.1,1
+A02039,Male,White,72.3,1
+A02040,Male,Black or African American,70.0,1
+A02041,Male,White,46.1,0
+A02042,Male,White,74.4,1
+A02043,Female,White,55.4,0
+A02044,Male,White,58.2,0
+A02045,Male,Asian,46.2,0
+A02046,Male,Two or More Races,70.1,1
+A02047,Female,White,53.8,0
+A02048,Male,Black or African American,57.8,0
+A02049,Female,White,74.7,1
+A02050,Female,Asian,63.6,0
+A02051,Male,Black or African American,78.3,1
+A02052,Male,Asian,61.5,0
+A02053,Male,White,50.6,0
+A02054,Female,White,40.4,0
+A02055,Female,White,84.1,1
+A02056,Male,Hispanic or Latino,70.2,1
+A02057,Female,,70.8,1
+A02058,Male,White,41.9,0
+A02059,Female,Hispanic or Latino,51.2,0
+A02060,Female,Black or African American,58.6,0
+A02061,Female,Hispanic or Latino,62.2,0
+A02062,Male,White,61.1,0
+A02063,Male,Hispanic or Latino,66.1,1
+A02064,Female,White,45.8,0
+A02065,Female,Black or African American,59.0,0
+A02066,Female,Native Hawaiian or Pacific Islander,58.6,0
+A02067,Female,Hispanic or Latino,41.2,0
+A02068,Female,White,70.4,1
+A02069,Female,Hispanic or Latino,56.6,0
+A02070,Male,White,79.7,1
+A02071,Male,Hispanic or Latino,50.0,0
+A02072,Male,White,75.0,1
+A02073,Male,Hispanic or Latino,79.8,1
+A02074,Male,White,68.9,1
+A02075,Female,White,66.9,1
+A02076,Female,White,51.9,0
+A02077,Female,White,60.6,0
+A02078,Male,White,72.3,1
+A02079,Female,Hispanic or Latino,69.5,1
+A02080,Female,Two or More Races,73.7,1
+A02081,Female,White,38.3,0
+A02082,Female,White,68.8,1
+A02083,Male,Black or African American,70.9,1
+A02084,Male,Hispanic or Latino,59.4,0
+A02085,Male,Black or African American,58.5,0
+A02086,Male,White,53.5,0
+A02087,Female,Black or African American,56.4,0
+A02088,Male,Hispanic or Latino,42.1,0
+A02089,Male,Black or African American,65.8,0
+A02090,Male,Asian,56.4,0
+A02091,Male,Asian,59.4,0
+A02092,Female,Hispanic or Latino,88.1,1
+A02093,Female,White,62.4,0
+A02094,Male,Black or African American,48.3,0
+A02095,Male,White,50.5,0
+A02096,Female,White,61.4,0
+A02097,Male,Black or African American,46.9,0
+A02098,Female,White,67.2,1
+A02099,Male,Native American or Alaska Native,20.4,0
+A02100,Female,White,68.0,1
+A02101,Female,White,75.7,1
+A02102,Male,White,69.9,1
+A02103,Female,Black or African American,50.7,0
+A02104,Male,Black or African American,64.0,0
+A02105,Male,White,55.1,0
+A02106,Male,Hispanic or Latino,56.3,0
+A02107,Male,Hispanic or Latino,32.1,0
+A02108,Male,Black or African American,68.0,1
+A02109,Female,Black or African American,67.7,1
+A02110,Male,White,54.6,0
+A02111,Male,White,56.0,0
+A02112,Female,Hispanic or Latino,38.9,0
+A02113,Male,,78.5,1
+A02114,Male,Black or African American,34.4,0
+A02115,Female,White,79.1,1
+A02116,Female,Asian,46.1,0
+A02117,Male,White,38.5,0
+A02118,Male,White,67.7,1
+A02119,Male,White,76.0,1
+A02120,Female,White,73.6,1
+A02121,Male,Hispanic or Latino,50.0,0
+A02122,Male,Asian,37.9,0
+A02123,Female,White,78.4,1
+A02124,Male,Asian,59.6,0
+A02125,Female,Hispanic or Latino,65.9,0
+A02126,Male,Black or African American,66.4,1
+A02127,Female,Asian,76.0,1
+A02128,Female,White,59.1,0
+A02129,Female,White,76.3,1
+A02130,Female,White,91.4,1
+A02131,Female,Hispanic or Latino,67.8,1
+A02132,Male,Hispanic or Latino,72.9,1
+A02133,Unknown,White,63.4,0
+A02134,Male,White,60.8,0
+A02135,Female,Black or African American,32.9,0
+A02136,Male,Black or African American,54.0,0
+A02137,Male,Hispanic or Latino,66.0,1
+A02138,Male,Asian,81.9,1
+A02139,Male,White,60.5,0
+A02140,Female,White,61.7,0
+A02141,Female,Black or African American,67.3,1
+A02142,Female,Asian,46.6,0
+A02143,Female,White,64.5,0
+A02144,Female,White,56.5,0
+A02145,Male,,73.6,1
+A02146,Unknown,Black or African American,68.0,1
+A02147,Male,White,52.5,0
+A02148,Male,White,54.6,0
+A02149,Male,Black or African American,39.8,0
+A02150,Male,Black or African American,69.6,1
+A02151,Male,Hispanic or Latino,59.5,0
+A02152,Female,Hispanic or Latino,54.2,0
+A02153,Female,White,58.8,0
+A02154,Male,Hispanic or Latino,69.0,1
+A02155,Female,White,48.3,0
+A02156,Male,White,54.4,0
+A02157,Male,White,79.7,1
+A02158,Male,White,57.8,0
+A02159,Male,White,58.4,0
+A02160,Male,Hispanic or Latino,58.3,0
+A02161,Female,White,57.8,0
+A02162,Female,,71.7,1
+A02163,Male,Asian,75.8,1
+A02164,Male,Asian,96.3,1
+A02165,Female,White,74.1,1
+A02166,Female,White,59.8,0
+A02167,Male,White,46.2,0
+A02168,Male,White,69.1,1
+A02169,Male,White,87.3,1
+A02170,Male,Two or More Races,80.0,1
+A02171,Female,White,44.4,0
+A02172,Female,Asian,68.7,1
+A02173,Male,Black or African American,76.3,1
+A02174,Male,White,56.1,0
+A02175,Female,White,52.8,0
+A02176,Female,White,59.0,0
+A02177,Male,White,66.2,1
+A02178,Female,Asian,63.6,0
+A02179,Male,Black or African American,61.9,0
+A02180,Male,White,85.6,1
+A02181,Female,White,75.2,1
+A02182,Male,White,67.8,1
+A02183,Male,Black or African American,59.7,0
+A02184,Male,White,76.7,1
+A02185,Female,Black or African American,62.4,0
+A02186,Male,White,57.7,0
+A02187,Female,White,48.0,0
+A02188,Unknown,Hispanic or Latino,74.7,1
+A02189,Female,White,69.6,1
+A02190,Male,Black or African American,67.3,1
+A02191,Male,Hispanic or Latino,46.3,0
+A02192,Male,,47.1,0
+A02193,Male,White,83.9,1
+A02194,Male,Hispanic or Latino,57.6,0
+A02195,Male,Black or African American,57.1,0
+A02196,Male,Asian,46.6,0
+A02197,Male,Asian,71.4,1
+A02198,Male,White,63.4,0
+A02199,Female,White,44.8,0
+A02200,Female,White,69.1,1
+A02201,Female,White,65.2,0
+A02202,Male,Asian,92.6,1
+A02203,Female,Hispanic or Latino,37.4,0
+A02204,Male,Asian,62.3,0
+A02205,Female,Hispanic or Latino,53.5,0
+A02206,Male,Black or African American,56.2,0
+A02207,Female,Black or African American,72.5,1
+A02208,Male,White,53.5,0
+A02209,Female,Asian,38.6,0
+A02210,Male,Black or African American,67.4,1
+A02211,Female,Black or African American,97.6,1
+A02212,Male,Black or African American,53.8,0
+A02213,Male,White,51.3,0
+A02214,Female,White,60.3,0
+A02215,Male,Asian,78.8,1
+A02216,Male,Asian,79.5,1
+A02217,Male,White,91.3,1
+A02218,Female,White,73.6,1
+A02219,Male,,100,1
+A02220,Male,Black or African American,47.7,0
+A02221,Male,White,58.6,0
+A02222,Female,Black or African American,48.4,0
+A02223,Female,White,92.2,1
+A02224,Male,Native American or Alaska Native,71.1,1
+A02225,Female,White,45.0,0
+A02226,Female,White,72.5,1
+A02227,Male,White,50.8,0
+A02228,Female,White,82.8,1
+A02229,Male,White,59.2,0
+A02230,Female,Hispanic or Latino,71.2,1
+A02231,Female,Hispanic or Latino,88.8,1
+A02232,Female,White,55.1,0
+A02233,Female,Hispanic or Latino,28.1,0
+A02234,Female,White,56.0,0
+A02235,Unknown,Black or African American,41.3,0
+A02236,Male,Asian,61.1,0
+A02237,Female,Asian,78.2,1
+A02238,Female,Black or African American,65.1,0
+A02239,Female,White,53.7,0
+A02240,Male,Hispanic or Latino,49.1,0
+A02241,Female,White,95.9,1
+A02242,Male,White,59.7,0
+A02243,Female,White,67.3,1
+A02244,Unknown,,60.8,0
+A02245,Female,White,58.2,0
+A02246,Female,White,46.9,0
+A02247,Female,Asian,91.4,1
+A02248,Female,White,55.5,0
+A02249,Male,Hispanic or Latino,63.1,0
+A02250,Female,Hispanic or Latino,66.1,1
+A02251,Male,White,62.4,0
+A02252,Male,White,40.0,0
+A02253,Female,White,62.7,0
+A02254,Male,White,65.2,0
+A02255,Female,Hispanic or Latino,55.6,0
+A02256,Female,Black or African American,58.8,0
+A02257,Male,White,45.1,0
+A02258,Unknown,White,60.5,0
+A02259,Male,White,45.8,0
+A02260,Male,Two or More Races,48.7,0
+A02261,Male,White,59.0,0
+A02262,Female,White,87.3,1
+A02263,Female,Asian,70.0,1
+A02264,Unknown,Hispanic or Latino,70.4,1
+A02265,Female,White,63.5,0
+A02266,Female,Asian,72.1,1
+A02267,Male,Hispanic or Latino,63.3,0
+A02268,Female,Black or African American,87.7,1
+A02269,Male,Black or African American,56.9,0
+A02270,Female,White,65.0,0
+A02271,Female,White,64.9,0
+A02272,Male,Asian,78.4,1
+A02273,Male,Asian,61.6,0
+A02274,Female,Asian,64.3,0
+A02275,Female,White,59.3,0
+A02276,Male,Hispanic or Latino,48.2,0
+A02277,Male,Hispanic or Latino,63.8,0
+A02278,Male,White,76.9,1
+A02279,Female,White,60.9,0
+A02280,Male,Two or More Races,48.2,0
+A02281,Male,Two or More Races,45.6,0
+A02282,Male,Hispanic or Latino,64.5,0
+A02283,Male,Black or African American,46.9,0
+A02284,Male,Black or African American,89.5,1
+A02285,Male,White,37.5,0
+A02286,Male,Asian,43.8,0
+A02287,Male,White,68.8,1
+A02288,Female,Hispanic or Latino,61.5,0
+A02289,Female,White,59.7,0
+A02290,Female,White,64.8,0
+A02291,Female,Hispanic or Latino,78.7,1
+A02292,Female,Hispanic or Latino,58.1,0
+A02293,Female,White,26.7,0
+A02294,Male,White,53.0,0
+A02295,Unknown,Asian,62.7,0
+A02296,Female,Black or African American,46.7,0
+A02297,Female,White,37.0,0
+A02298,Male,White,73.9,1
+A02299,Male,Black or African American,55.4,0
+A02300,Male,Hispanic or Latino,33.3,0
+A02301,Male,White,52.5,0
+A02302,Male,White,67.9,1
+A02303,Male,White,82.9,1
+A02304,Male,White,73.4,1
+A02305,Male,White,69.4,1
+A02306,Female,Asian,46.8,0
+A02307,Male,Black or African American,67.4,1
+A02308,Female,White,80.1,1
+A02309,Female,White,47.3,0
+A02310,Female,White,69.8,1
+A02311,Female,Asian,90.5,1
+A02312,Male,White,60.5,0
+A02313,Male,White,71.7,1
+A02314,Unknown,White,73.0,1
+A02315,Male,Asian,55.2,0
+A02316,Female,White,64.0,0
+A02317,Female,Black or African American,73.3,1
+A02318,Female,Asian,60.2,0
+A02319,Female,White,60.0,0
+A02320,Male,White,75.3,1
+A02321,Male,Black or African American,57.5,0
+A02322,Male,White,82.2,1
+A02323,Male,Native American or Alaska Native,74.0,1
+A02324,Male,Hispanic or Latino,89.9,1
+A02325,Female,Black or African American,63.7,0
+A02326,Female,Asian,63.0,0
+A02327,Female,White,61.8,0
+A02328,Female,White,56.6,0
+A02329,Male,White,52.1,0
+A02330,Male,White,64.5,0
+A02331,Male,Asian,67.8,1
+A02332,Male,Hispanic or Latino,75.1,1
+A02333,Male,White,53.8,0
+A02334,Female,White,60.8,0
+A02335,Male,Black or African American,47.9,0
+A02336,Female,White,82.9,1
+A02337,Female,Asian,53.5,0
+A02338,Female,Two or More Races,46.3,0
+A02339,Female,White,75.8,1
+A02340,Male,Asian,62.8,0
+A02341,Male,White,68.2,1
+A02342,Male,White,60.2,0
+A02343,Female,Asian,70.8,1
+A02344,Female,White,50.9,0
+A02345,Male,Asian,64.5,0
+A02346,Female,White,51.3,0
+A02347,Male,White,82.0,1
+A02348,Female,White,67.6,1
+A02349,Male,Asian,30.4,0
+A02350,Female,White,65.7,0
+A02351,Female,Black or African American,53.9,0
+A02352,Female,White,54.7,0
+A02353,Male,White,79.8,1
+A02354,Male,Black or African American,56.4,0
+A02355,Female,Black or African American,53.8,0
+A02356,Male,White,58.1,0
+A02357,Male,White,74.2,1
+A02358,Male,Hispanic or Latino,51.1,0
+A02359,Male,White,70.1,1
+A02360,Male,White,51.3,0
+A02361,Male,White,63.9,0
+A02362,Female,White,48.8,0
+A02363,Male,Black or African American,60.3,0
+A02364,Male,Black or African American,90.9,1
+A02365,Male,White,56.5,0
+A02366,Female,Hispanic or Latino,73.5,1
+A02367,Female,Black or African American,59.8,0
+A02368,Female,White,54.4,0
+A02369,Female,Black or African American,48.5,0
+A02370,Male,White,67.5,1
+A02371,Male,,43.9,0
+A02372,Male,White,79.5,1
+A02373,Male,White,80.8,1
+A02374,Female,Hispanic or Latino,42.6,0
+A02375,Male,White,79.7,1
+A02376,Female,White,57.3,0
+A02377,Female,White,72.6,1
+A02378,Male,White,36.8,0
+A02379,Male,White,60.3,0
+A02380,Male,White,61.7,0
+A02381,Female,Hispanic or Latino,51.3,0
+A02382,Female,White,60.7,0
+A02383,Female,Asian,70.8,1
+A02384,Female,Hispanic or Latino,57.9,0
+A02385,Female,Hispanic or Latino,76.2,1
+A02386,Male,White,57.4,0
+A02387,Female,White,45.7,0
+A02388,Female,White,45.4,0
+A02389,Male,White,73.2,1
+A02390,Male,White,74.7,1
+A02391,Female,White,64.7,0
+A02392,Male,Black or African American,74.4,1
+A02393,Female,Asian,56.1,0
+A02394,Female,Asian,59.6,0
+A02395,Male,White,65.8,0
+A02396,Male,Two or More Races,77.8,1
+A02397,Female,White,65.2,0
+A02398,Female,Hispanic or Latino,60.1,0
+A02399,Female,White,74.2,1
+A02400,Female,Hispanic or Latino,81.1,1
+A02401,Male,Two or More Races,61.1,0
+A02402,Female,Black or African American,42.6,0
+A02403,Male,Black or African American,74.1,1
+A02404,Male,Asian,70.5,1
+A02405,Female,White,74.2,1
+A02406,Female,White,53.4,0
+A02407,Female,White,60.7,0
+A02408,Male,White,75.4,1
+A02409,Male,Hispanic or Latino,53.7,0
+A02410,Female,Black or African American,59.9,0
+A02411,Female,White,40.1,0
+A02412,Female,Asian,62.0,0
+A02413,Male,White,69.3,1
+A02414,Male,Hispanic or Latino,56.6,0
+A02415,Female,Black or African American,45.0,0
+A02416,Female,Two or More Races,62.5,0
+A02417,Female,White,46.6,0
+A02418,Female,Asian,52.2,0
+A02419,Female,Black or African American,53.3,0
+A02420,Female,White,77.1,1
+A02421,Female,White,51.6,0
+A02422,Male,White,48.1,0
+A02423,Female,White,66.9,1
+A02424,Male,White,66.3,1
+A02425,Female,Black or African American,74.6,1
+A02426,Female,Hispanic or Latino,56.6,0
+A02427,Male,White,83.8,1
+A02428,Female,Asian,80.9,1
+A02429,Female,Native Hawaiian or Pacific Islander,35.7,0
+A02430,Female,White,83.4,1
+A02431,Male,Asian,100,1
+A02432,Female,Black or African American,80.5,1
+A02433,Female,Hispanic or Latino,83.2,1
+A02434,Male,White,78.8,1
+A02435,Female,Black or African American,60.1,0
+A02436,Male,White,56.9,0
+A02437,Female,Asian,80.5,1
+A02438,Male,Black or African American,83.6,1
+A02439,Female,Asian,34.1,0
+A02440,Female,Hispanic or Latino,61.0,0
+A02441,Male,White,67.9,1
+A02442,Male,Asian,63.8,0
+A02443,Male,White,60.6,0
+A02444,Male,White,100.0,1
+A02445,Male,White,51.7,0
+A02446,Male,White,48.8,0
+A02447,Male,Asian,63.5,0
+A02448,Male,Hispanic or Latino,87.7,1
+A02449,Male,Black or African American,68.6,1
+A02450,Female,Hispanic or Latino,53.2,0
+A02451,Female,White,64.3,0
+A02452,Male,White,87.4,1
+A02453,Female,Asian,71.5,1
+A02454,Male,Asian,61.4,0
+A02455,Female,White,67.7,1
+A02456,Unknown,White,72.8,1
+A02457,Male,White,59.3,0
+A02458,Male,Asian,56.4,0
+A02459,Male,White,76.8,1
+A02460,Female,Hispanic or Latino,70.5,1
+A02461,Female,Asian,50.8,0
+A02462,Female,White,53.6,0
+A02463,Male,White,75.1,1
+A02464,Male,White,47.2,0
+A02465,Female,Hispanic or Latino,52.1,0
+A02466,Male,White,42.6,0
+A02467,Female,White,69.7,1
+A02468,Female,,51.6,0
+A02469,Male,White,54.8,0
+A02470,Female,Black or African American,75.7,1
+A02471,Male,White,58.3,0
+A02472,Male,,57.2,0
+A02473,Male,Hispanic or Latino,59.0,0
+A02474,Unknown,White,63.4,0
+A02475,Male,White,72.9,1
+A02476,Female,Hispanic or Latino,43.4,0
+A02477,Male,White,61.9,0
+A02478,Male,White,54.8,0
+A02479,Male,White,53.5,0
+A02480,Male,Asian,65.8,0
+A02481,Male,White,57.6,0
+A02482,Male,White,50.2,0
+A02483,Female,Hispanic or Latino,62.8,0
+A02484,Male,Two or More Races,82.4,1
+A02485,Female,Hispanic or Latino,44.6,0
+A02486,Female,White,77.6,1
+A02487,Female,White,50.7,0
+A02488,Female,White,87.3,1
+A02489,Female,Black or African American,55.8,0
+A02490,Male,White,49.7,0
+A02491,Male,Black or African American,90.1,1
+A02492,Male,White,80.4,1
+A02493,Female,White,50.8,0
+A02494,Female,White,62.0,0
+A02495,Male,White,46.1,0
+A02496,Male,White,74.9,1
+A02497,Female,White,57.0,0
+A02498,Female,Black or African American,44.6,0
+A02499,Male,Asian,54.5,0
+A02500,Male,White,72.2,1
+A02501,Male,Hispanic or Latino,56.6,0
+A02502,Male,White,55.2,0
+A02503,Male,Hispanic or Latino,71.6,1
+A02504,Male,Two or More Races,51.7,0
+A02505,Male,White,41.1,0
+A02506,Female,White,59.8,0
+A02507,Male,White,66.0,0
+A02508,Male,White,44.5,0
+A02509,Male,Two or More Races,69.0,1
+A02510,Male,Asian,51.9,0
+A02511,Female,White,59.2,0
+A02512,Female,White,60.3,0
+A02513,Female,White,59.5,0
+A02514,Male,Hispanic or Latino,100,1
+A02515,Male,White,57.1,0
+A02516,Female,White,38.0,0
+A02517,Female,White,57.3,0
+A02518,Male,Hispanic or Latino,69.7,1
+A02519,Male,Black or African American,47.0,0
+A02520,Male,White,71.3,1
+A02521,Female,White,70.1,1
+A02522,Male,Asian,43.3,0
+A02523,Female,Black or African American,53.5,0
+A02524,Female,Black or African American,50.5,0
+A02525,Male,White,68.8,1
+A02526,Female,White,47.5,0
+A02527,Female,Hispanic or Latino,56.0,0
+A02528,Male,White,48.7,0
+A02529,Female,White,54.1,0
+A02530,Male,Asian,35.8,0
+A02531,Male,White,50.4,0
+A02532,Female,Asian,68.7,1
+A02533,Male,White,68.4,1
+A02534,Male,Hispanic or Latino,61.0,0
+A02535,Female,Hispanic or Latino,83.7,1
+A02536,Female,Black or African American,48.8,0
+A02537,Female,White,55.5,0
+A02538,Male,Black or African American,37.3,0
+A02539,Female,White,39.1,0
+A02540,Male,White,49.6,0
+A02541,Male,Black or African American,58.1,0
+A02542,Female,Asian,65.9,0
+A02543,Female,White,54.2,0
+A02544,Female,White,49.5,0
+A02545,Female,White,74.6,1
+A02546,Male,White,56.9,0
+A02547,Female,White,78.4,1
+A02548,Female,White,46.2,0
+A02549,Male,Asian,43.5,0
+A02550,Male,White,34.0,0
+A02551,Female,White,71.2,1
+A02552,Female,White,43.4,0
+A02553,Male,White,55.3,0
+A02554,Female,Hispanic or Latino,58.7,0
+A02555,Male,Black or African American,71.4,1
+A02556,Male,Black or African American,77.6,1
+A02557,Female,Hispanic or Latino,67.6,1
+A02558,Male,White,52.1,0
+A02559,Female,White,54.3,0
+A02560,Male,White,72.7,1
+A02561,Male,White,29.9,0
+A02562,Male,White,66.9,1
+A02563,Female,White,54.2,0
+A02564,Female,Hispanic or Latino,56.1,0
+A02565,Male,Hispanic or Latino,53.9,0
+A02566,Male,Hispanic or Latino,85.1,1
+A02567,Male,White,61.8,0
+A02568,Unknown,White,83.4,1
+A02569,Male,White,58.4,0
+A02570,Male,Hispanic or Latino,67.2,1
+A02571,Male,Asian,80.9,1
+A02572,Male,White,69.7,1
+A02573,Male,White,78.9,1
+A02574,Male,White,54.1,0
+A02575,Male,White,39.9,0
+A02576,Female,Hispanic or Latino,74.0,1
+A02577,Female,Two or More Races,70.2,1
+A02578,Female,Two or More Races,88.7,1
+A02579,Male,Native American or Alaska Native,81.8,1
+A02580,Female,Hispanic or Latino,57.9,0
+A02581,Female,Black or African American,56.6,0
+A02582,Female,,82.0,1
+A02583,Female,White,69.2,1
+A02584,Female,Asian,72.0,1
+A02585,Male,White,50.5,0
+A02586,Female,Black or African American,49.8,0
+A02587,Female,Black or African American,65.7,0
+A02588,Male,White,47.3,0
+A02589,Female,White,59.8,0
+A02590,Male,White,89.6,1
+A02591,Female,White,61.1,0
+A02592,Male,White,76.7,1
+A02593,Male,Hispanic or Latino,53.8,0
+A02594,Male,Hispanic or Latino,60.1,0
+A02595,Female,White,51.3,0
+A02596,Unknown,White,62.7,0
+A02597,Male,Two or More Races,70.4,1
+A02598,Female,White,33.9,0
+A02599,Male,Asian,73.5,1
+A02600,Female,White,48.9,0
+A02601,Male,White,70.5,1
+A02602,Male,White,29.0,0
+A02603,Female,White,65.2,0
+A02604,Male,Two or More Races,59.4,0
+A02605,Male,,70.9,1
+A02606,Female,Black or African American,75.9,1
+A02607,Female,Black or African American,54.8,0
+A02608,Male,White,50.5,0
+A02609,Unknown,Black or African American,55.3,0
+A02610,Male,Hispanic or Latino,68.6,1
+A02611,Male,Hispanic or Latino,58.0,0
+A02612,Male,White,93.7,1
+A02613,Female,White,57.1,0
+A02614,Female,Black or African American,47.3,0
+A02615,Female,White,39.8,0
+A02616,Male,Hispanic or Latino,41.2,0
+A02617,Female,Black or African American,54.4,0
+A02618,Female,White,64.5,0
+A02619,Female,Black or African American,71.0,1
+A02620,Female,Black or African American,35.7,0
+A02621,Male,White,44.8,0
+A02622,Male,Asian,60.6,0
+A02623,Male,Hispanic or Latino,68.3,1
+A02624,Female,Black or African American,47.4,0
+A02625,Female,White,78.2,1
+A02626,Male,Hispanic or Latino,49.4,0
+A02627,Female,,76.0,1
+A02628,Male,White,77.3,1
+A02629,Female,White,31.8,0
+A02630,Female,White,99.6,1
+A02631,Female,Black or African American,74.3,1
+A02632,Male,White,74.0,1
+A02633,Male,White,41.0,0
+A02634,Male,White,63.3,0
+A02635,Male,White,50.4,0
+A02636,Female,Hispanic or Latino,46.0,0
+A02637,Female,White,64.9,0
+A02638,Male,Asian,36.7,0
+A02639,Female,Hispanic or Latino,38.7,0
+A02640,Male,Black or African American,47.6,0
+A02641,Unknown,Black or African American,33.7,0
+A02642,Female,Asian,69.9,1
+A02643,Female,Asian,50.3,0
+A02644,Female,Hispanic or Latino,86.1,1
+A02645,Female,Asian,79.1,1
+A02646,Male,Hispanic or Latino,57.1,0
+A02647,Male,Hispanic or Latino,83.6,1
+A02648,Female,Hispanic or Latino,54.3,0
+A02649,Male,White,78.6,1
+A02650,Unknown,White,76.5,1
+A02651,Female,White,78.3,1
+A02652,Male,Two or More Races,72.7,1
+A02653,Female,Hispanic or Latino,66.4,1
+A02654,Male,Hispanic or Latino,78.7,1
+A02655,Female,Asian,72.9,1
+A02656,Female,White,74.7,1
+A02657,Female,Asian,72.0,1
+A02658,Male,White,83.6,1
+A02659,Male,White,65.3,0
+A02660,Male,White,97.4,1
+A02661,Male,Black or African American,60.4,0
+A02662,Male,White,69.2,1
+A02663,Female,White,48.3,0
+A02664,Male,White,75.3,1
+A02665,Female,White,69.3,1
+A02666,Female,Black or African American,71.7,1
+A02667,Female,White,74.1,1
+A02668,Female,Asian,72.3,1
+A02669,Male,Native Hawaiian or Pacific Islander,80.2,1
+A02670,Female,Black or African American,54.6,0
+A02671,Male,Hispanic or Latino,53.1,0
+A02672,Male,White,74.2,1
+A02673,Unknown,White,78.5,1
+A02674,Female,White,62.4,0
+A02675,Male,Hispanic or Latino,56.4,0
+A02676,Female,White,50.3,0
+A02677,Male,White,70.4,1
+A02678,Female,White,86.5,1
+A02679,Female,Two or More Races,70.0,1
+A02680,Female,Native American or Alaska Native,73.4,1
+A02681,Female,White,76.9,1
+A02682,Male,Hispanic or Latino,57.2,0
+A02683,Male,Hispanic or Latino,61.2,0
+A02684,Female,White,36.2,0
+A02685,Female,Hispanic or Latino,71.5,1
+A02686,Female,Hispanic or Latino,58.3,0
+A02687,Male,White,51.3,0
+A02688,Female,Hispanic or Latino,60.3,0
+A02689,Female,White,60.6,0
+A02690,Unknown,Asian,59.4,0
+A02691,Male,Hispanic or Latino,81.8,1
+A02692,Female,Asian,54.5,0
+A02693,Male,,71.6,1
+A02694,Male,Black or African American,62.7,0
+A02695,Female,White,75.3,1
+A02696,Female,Hispanic or Latino,75.2,1
+A02697,Female,White,81.0,1
+A02698,Female,White,80.1,1
+A02699,Female,White,67.9,1
+A02700,Female,White,57.4,0
+A02701,Female,Hispanic or Latino,75.4,1
+A02702,Male,White,53.9,0
+A02703,Male,Hispanic or Latino,72.7,1
+A02704,Male,Asian,61.6,0
+A02705,Male,White,81.2,1
+A02706,Male,Two or More Races,61.4,0
+A02707,Female,White,83.5,1
+A02708,Male,White,61.5,0
+A02709,Male,White,50.5,0
+A02710,Male,White,47.0,0
+A02711,Female,White,87.0,1
+A02712,Female,Hispanic or Latino,46.9,0
+A02713,Male,White,59.2,0
+A02714,Male,White,85.4,1
+A02715,Male,White,82.6,1
+A02716,Female,White,50.4,0
+A02717,Male,Hispanic or Latino,56.4,0
+A02718,Male,White,63.8,0
+A02719,Male,White,63.0,0
+A02720,Male,,54.9,0
+A02721,Female,White,78.8,1
+A02722,Female,White,78.9,1
+A02723,Female,Asian,67.5,1
+A02724,Female,White,62.4,0
+A02725,Male,White,51.0,0
+A02726,Male,Asian,50.6,0
+A02727,Male,Asian,86.8,1
+A02728,Male,White,75.6,1
+A02729,Female,White,59.2,0
+A02730,Female,Two or More Races,77.3,1
+A02731,Female,White,65.3,0
+A02732,Male,White,40.1,0
+A02733,Female,White,79.6,1
+A02734,Male,Hispanic or Latino,71.8,1
+A02735,Male,White,76.3,1
+A02736,Male,Hispanic or Latino,41.1,0
+A02737,Male,Asian,50.7,0
+A02738,Male,Black or African American,76.1,1
+A02739,Male,White,71.0,1
+A02740,Female,Two or More Races,43.5,0
+A02741,Male,Black or African American,59.8,0
+A02742,Male,White,49.4,0
+A02743,Unknown,Black or African American,55.8,0
+A02744,Male,Black or African American,74.8,1
+A02745,Male,Asian,67.2,1
+A02746,Male,White,73.9,1
+A02747,Male,White,71.5,1
+A02748,Female,White,75.8,1
+A02749,Male,Black or African American,69.7,1
+A02750,Male,White,83.7,1
+A02751,Male,White,77.3,1
+A02752,Female,Hispanic or Latino,61.1,0
+A02753,Male,Black or African American,59.8,0
+A02754,Male,Black or African American,64.5,0
+A02755,Female,White,45.5,0
+A02756,Female,Asian,60.6,0
+A02757,Male,Hispanic or Latino,65.6,0
+A02758,Female,Asian,60.1,0
+A02759,Female,Black or African American,67.7,1
+A02760,Male,Asian,76.6,1
+A02761,Female,Asian,70.2,1
+A02762,Female,White,30.5,0
+A02763,Female,Two or More Races,43.4,0
+A02764,Female,Asian,41.1,0
+A02765,Female,Native Hawaiian or Pacific Islander,66.4,1
+A02766,Female,White,35.7,0
+A02767,Male,Asian,80.1,1
+A02768,Female,White,54.2,0
+A02769,Female,Asian,69.4,1
+A02770,Female,White,51.9,0
+A02771,Female,Asian,60.9,0
+A02772,Male,White,57.8,0
+A02773,Male,White,82.1,1
+A02774,Male,White,67.7,1
+A02775,Male,Two or More Races,70.0,1
+A02776,Female,White,76.2,1
+A02777,Male,White,59.0,0
+A02778,Male,White,90.7,1
+A02779,Female,White,72.5,1
+A02780,Male,White,62.4,0
+A02781,Male,White,62.4,0
+A02782,Female,White,55.1,0
+A02783,Female,Asian,92.1,1
+A02784,Female,Hispanic or Latino,85.8,1
+A02785,Male,Asian,77.2,1
+A02786,Male,Black or African American,59.3,0
+A02787,Female,Two or More Races,69.7,1
+A02788,Female,Native American or Alaska Native,59.4,0
+A02789,Male,White,89.4,1
+A02790,Female,White,61.4,0
+A02791,Male,Black or African American,23.4,0
+A02792,Female,Black or African American,53.9,0
+A02793,Female,White,73.4,1
+A02794,Male,White,71.4,1
+A02795,Male,White,64.2,0
+A02796,Female,Black or African American,43.5,0
+A02797,Male,White,56.0,0
+A02798,Female,Asian,73.1,1
+A02799,Female,Black or African American,50.6,0
+A02800,Male,White,60.2,0
+A02801,Female,White,68.7,1
+A02802,Male,Hispanic or Latino,63.4,0
+A02803,Female,Hispanic or Latino,36.9,0
+A02804,Female,Asian,52.0,0
+A02805,Male,White,53.0,0
+A02806,Male,Hispanic or Latino,57.7,0
+A02807,Female,White,69.2,1
+A02808,Female,White,49.6,0
+A02809,Male,White,66.9,1
+A02810,Unknown,White,72.3,1
+A02811,Male,Hispanic or Latino,61.9,0
+A02812,Female,Hispanic or Latino,61.0,0
+A02813,Male,White,80.3,1
+A02814,Male,Hispanic or Latino,48.8,0
+A02815,Male,White,65.2,0
+A02816,Male,White,75.5,1
+A02817,Female,Asian,60.2,0
+A02818,Male,White,55.6,0
+A02819,Male,White,71.5,1
+A02820,Male,White,76.6,1
+A02821,Female,Black or African American,75.2,1
+A02822,Female,Hispanic or Latino,93.1,1
+A02823,Female,Hispanic or Latino,65.7,0
+A02824,Female,Hispanic or Latino,68.8,1
+A02825,Female,Black or African American,57.3,0
+A02826,Female,Hispanic or Latino,47.2,0
+A02827,Male,White,78.5,1
+A02828,Male,White,59.9,0
+A02829,Female,White,55.9,0
+A02830,Female,Black or African American,32.7,0
+A02831,Male,White,78.9,1
+A02832,Male,White,79.2,1
+A02833,Male,Hispanic or Latino,62.1,0
+A02834,Male,White,69.4,1
+A02835,Male,White,49.7,0
+A02836,Female,White,49.5,0
+A02837,Female,White,59.0,0
+A02838,Male,Asian,47.3,0
+A02839,Female,White,93.8,1
+A02840,Male,White,75.1,1
+A02841,Female,Asian,66.6,1
+A02842,Male,Asian,52.6,0
+A02843,Male,Hispanic or Latino,79.2,1
+A02844,Female,White,67.1,1
+A02845,Female,White,80.2,1
+A02846,Female,White,61.6,0
+A02847,Male,White,76.2,1
+A02848,Unknown,White,72.1,1
+A02849,Male,Hispanic or Latino,55.0,0
+A02850,Male,White,57.1,0
+A02851,Female,White,36.7,0
+A02852,Female,Hispanic or Latino,74.3,1
+A02853,Female,White,86.2,1
+A02854,Male,White,78.0,1
+A02855,Female,White,71.4,1
+A02856,Male,White,60.8,0
+A02857,Male,Asian,65.7,0
+A02858,Female,Hispanic or Latino,64.9,0
+A02859,Female,White,66.2,1
+A02860,Female,White,32.4,0
+A02861,Female,White,65.5,0
+A02862,Male,Two or More Races,54.0,0
+A02863,Female,White,77.0,1
+A02864,Male,Hispanic or Latino,55.9,0
+A02865,Female,Black or African American,67.1,1
+A02866,Female,Black or African American,54.0,0
+A02867,Female,White,57.7,0
+A02868,Male,Black or African American,65.3,0
+A02869,Female,Hispanic or Latino,42.3,0
+A02870,Male,Asian,90.7,1
+A02871,Unknown,Black or African American,69.7,1
+A02872,Male,Asian,64.3,0
+A02873,Female,Black or African American,59.5,0
+A02874,Female,White,71.7,1
+A02875,Male,White,39.7,0
+A02876,Male,Black or African American,43.5,0
+A02877,Male,White,53.1,0
+A02878,Male,Black or African American,55.2,0
+A02879,Male,Hispanic or Latino,93.7,1
+A02880,Male,Asian,59.8,0
+A02881,Male,White,64.1,0
+A02882,Male,White,47.0,0
+A02883,Male,Asian,60.9,0
+A02884,Female,White,68.2,1
+A02885,Male,Hispanic or Latino,49.2,0
+A02886,Male,Asian,55.2,0
+A02887,Female,White,58.9,0
+A02888,Female,Black or African American,65.5,0
+A02889,Male,White,80.2,1
+A02890,Female,White,69.1,1
+A02891,Male,Black or African American,46.9,0
+A02892,Female,White,49.2,0
+A02893,Female,White,70.8,1
+A02894,Male,Black or African American,62.2,0
+A02895,Male,White,71.2,1
+A02896,Female,Hispanic or Latino,58.9,0
+A02897,Female,Asian,67.5,1
+A02898,Unknown,Black or African American,56.4,0
+A02899,Male,White,45.7,0
+A02900,Male,White,60.8,0
+A02901,Female,White,63.7,0
+A02902,Male,White,42.3,0
+A02903,Male,Black or African American,57.1,0
+A02904,Female,White,56.0,0
+A02905,Unknown,Hispanic or Latino,83.7,1
+A02906,Male,Black or African American,88.0,1
+A02907,Male,Hispanic or Latino,66.6,1
+A02908,Male,Hispanic or Latino,39.0,0
+A02909,Female,Native American or Alaska Native,39.5,0
+A02910,Female,White,59.8,0
+A02911,Male,Hispanic or Latino,63.1,0
+A02912,Male,White,70.6,1
+A02913,Male,White,44.3,0
+A02914,Male,Black or African American,57.1,0
+A02915,Female,Hispanic or Latino,50.8,0
+A02916,Male,Hispanic or Latino,81.7,1
+A02917,Male,White,56.6,0
+A02918,Female,Black or African American,57.2,0
+A02919,Female,White,77.9,1
+A02920,Male,White,58.4,0
+A02921,Male,Asian,86.4,1
+A02922,Male,Hispanic or Latino,69.5,1
+A02923,Male,White,71.4,1
+A02924,Female,White,68.2,1
+A02925,Male,White,58.2,0
+A02926,Male,White,59.6,0
+A02927,Female,White,26.8,0
+A02928,Male,Hispanic or Latino,81.8,1
+A02929,Male,Hispanic or Latino,49.0,0
+A02930,Female,Asian,87.2,1
+A02931,Female,Hispanic or Latino,51.0,0
+A02932,Female,Black or African American,51.5,0
+A02933,Male,Black or African American,73.0,1
+A02934,Male,White,68.5,1
+A02935,Female,Two or More Races,31.4,0
+A02936,Female,Hispanic or Latino,59.3,0
+A02937,Male,Two or More Races,41.3,0
+A02938,Male,Black or African American,26.8,0
+A02939,Male,White,54.9,0
+A02940,Male,Black or African American,75.5,1
+A02941,Male,Black or African American,62.6,0
+A02942,Male,Two or More Races,80.8,1
+A02943,Female,White,53.7,0
+A02944,Unknown,Black or African American,65.5,0
+A02945,Male,White,46.6,0
+A02946,Male,White,76.9,1
+A02947,Male,Hispanic or Latino,67.5,1
+A02948,Female,White,73.7,1
+A02949,Male,Hispanic or Latino,57.3,0
+A02950,Male,Hispanic or Latino,68.3,1
+A02951,Female,White,49.2,0
+A02952,Unknown,White,80.0,1
+A02953,Female,White,67.8,1
+A02954,Female,Hispanic or Latino,63.3,0
+A02955,Female,Hispanic or Latino,49.9,0
+A02956,Female,Hispanic or Latino,46.4,0
+A02957,Female,Black or African American,35.6,0
+A02958,Female,Black or African American,25.7,0
+A02959,Female,White,66.6,1
+A02960,Female,White,69.0,1
+A02961,Female,White,68.9,1
+A02962,Female,White,63.2,0
+A02963,Male,White,71.2,1
+A02964,Female,Hispanic or Latino,62.3,0
+A02965,Male,White,59.3,0
+A02966,Female,White,61.3,0
+A02967,Male,White,16.8,0
+A02968,Male,White,69.1,1
+A02969,Male,White,72.6,1
+A02970,Female,White,75.8,1
+A02971,Female,White,84.2,1
+A02972,Male,Black or African American,73.7,1
+A02973,Female,Hispanic or Latino,67.4,1
+A02974,Female,White,45.8,0
+A02975,Male,White,54.8,0
+A02976,Female,Hispanic or Latino,36.1,0
+A02977,Male,White,77.2,1
+A02978,Female,Black or African American,61.4,0
+A02979,Female,Asian,50.2,0
+A02980,Male,White,73.2,1
+A02981,Male,White,40.2,0
+A02982,Female,White,74.0,1
+A02983,Male,Asian,78.1,1
+A02984,Female,Two or More Races,58.6,0
+A02985,Female,White,51.1,0
+A02986,Male,Asian,63.1,0
+A02987,Male,White,24.7,0
+A02988,Female,White,75.6,1
+A02989,Male,White,60.6,0
+A02990,Male,White,56.5,0
+A02991,Female,Black or African American,64.2,0
+A02992,Female,White,53.6,0
+A02993,Male,Black or African American,84.5,1
+A02994,Female,Black or African American,67.0,1
+A02995,Female,White,53.0,0
+A02996,Male,Hispanic or Latino,57.4,0
+A02997,Male,Black or African American,54.2,0
+A02998,Female,White,55.4,0
+A02999,Male,Hispanic or Latino,65.7,0
+A03000,Female,Hispanic or Latino,62.2,0
+A03001,Male,Native American or Alaska Native,54.8,0
+A03002,Female,White,56.3,0
+A03003,Male,Asian,71.9,1
+A03004,Female,Black or African American,58.7,0
+A03005,Female,Hispanic or Latino,24.1,0
+A03006,Female,Asian,65.3,0
+A03007,Female,Asian,60.7,0
+A03008,Female,Asian,36.3,0
+A03009,Male,Hispanic or Latino,72.6,1
+A03010,Female,White,85.9,1
+A03011,Female,White,45.5,0
+A03012,Male,Black or African American,60.3,0
+A03013,Male,White,66.8,1
+A03014,Female,White,54.1,0
+A03015,Female,,49.0,0
+A03016,Male,White,44.1,0
+A03017,Female,White,56.8,0
+A03018,Male,Hispanic or Latino,57.5,0
+A03019,Unknown,White,85.8,1
+A03020,Male,White,35.3,0
+A03021,Female,White,62.9,0
+A03022,Female,Asian,71.7,1
+A03023,Male,Black or African American,56.5,0
+A03024,Male,White,75.9,1
+A03025,Female,Hispanic or Latino,57.2,0
+A03026,Female,Asian,38.5,0
+A03027,Male,White,41.2,0
+A03028,Female,White,59.1,0
+A03029,Male,White,82.9,1
+A03030,Male,Asian,74.1,1
+A03031,Male,Two or More Races,56.6,0
+A03032,Male,Native American or Alaska Native,73.9,1
+A03033,Female,White,52.2,0
+A03034,Female,Hispanic or Latino,33.2,0
+A03035,Male,Hispanic or Latino,64.0,0
+A03036,Unknown,Hispanic or Latino,76.8,1
+A03037,Male,Two or More Races,62.6,0
+A03038,Female,Black or African American,80.4,1
+A03039,Female,,65.7,0
+A03040,Male,White,40.8,0
+A03041,Male,Native American or Alaska Native,62.6,0
+A03042,Female,Asian,71.6,1
+A03043,Male,Asian,68.4,1
+A03044,Male,Asian,55.2,0
+A03045,Female,White,62.3,0
+A03046,Male,White,61.5,0
+A03047,Male,Hispanic or Latino,53.4,0
+A03048,Male,White,70.5,1
+A03049,Male,Black or African American,39.1,0
+A03050,Male,Hispanic or Latino,74.1,1
+A03051,Female,Two or More Races,42.9,0
+A03052,Male,Asian,60.1,0
+A03053,Female,Hispanic or Latino,53.9,0
+A03054,Male,Two or More Races,25.7,0
+A03055,Female,White,67.0,1
+A03056,Female,White,75.5,1
+A03057,Female,Hispanic or Latino,56.9,0
+A03058,Male,Hispanic or Latino,45.8,0
+A03059,Male,White,80.3,1
+A03060,Male,White,66.7,1
+A03061,Male,Asian,53.1,0
+A03062,Male,White,70.2,1
+A03063,Male,Black or African American,53.2,0
+A03064,Female,Asian,55.0,0
+A03065,Female,Hispanic or Latino,48.9,0
+A03066,Female,White,66.5,1
+A03067,Female,White,46.3,0
+A03068,Female,Black or African American,46.0,0
+A03069,Male,Black or African American,56.2,0
+A03070,Male,Hispanic or Latino,64.8,0
+A03071,Female,White,41.9,0
+A03072,Female,White,65.3,0
+A03073,Male,Asian,65.8,0
+A03074,Male,White,76.9,1
+A03075,Male,White,100,1
+A03076,Female,Black or African American,54.6,0
+A03077,Female,Hispanic or Latino,50.5,0
+A03078,Male,White,29.1,0
+A03079,Female,Black or African American,55.3,0
+A03080,Male,White,72.0,1
+A03081,Female,White,46.7,0
+A03082,Male,Two or More Races,69.8,1
+A03083,Unknown,Two or More Races,49.4,0
+A03084,Male,White,59.3,0
+A03085,Female,White,70.0,1
+A03086,Male,Hispanic or Latino,65.4,0
+A03087,Female,White,61.6,0
+A03088,Male,White,43.1,0
+A03089,Male,White,54.6,0
+A03090,Male,White,69.7,1
+A03091,Male,Hispanic or Latino,41.3,0
+A03092,Male,Hispanic or Latino,72.1,1
+A03093,Male,Hispanic or Latino,74.4,1
+A03094,Male,Hispanic or Latino,77.3,1
+A03095,Female,White,54.4,0
+A03096,Male,Black or African American,62.3,0
+A03097,Male,White,83.1,1
+A03098,Male,Native American or Alaska Native,51.1,0
+A03099,Male,White,52.4,0
+A03100,Male,White,67.6,1
+A03101,Female,Black or African American,53.4,0
+A03102,Male,Hispanic or Latino,80.4,1
+A03103,Male,White,56.1,0
+A03104,Male,Hispanic or Latino,77.0,1
+A03105,Female,White,68.9,1
+A03106,Female,White,60.9,0
+A03107,Female,White,74.5,1
+A03108,Male,White,77.0,1
+A03109,Male,White,64.1,0
+A03110,Male,White,70.9,1
+A03111,Female,White,66.1,1
+A03112,Male,Black or African American,43.6,0
+A03113,Unknown,Asian,56.1,0
+A03114,Female,White,61.6,0
+A03115,Female,Black or African American,63.7,0
+A03116,Male,White,66.1,1
+A03117,Male,White,81.1,1
+A03118,Female,White,77.6,1
+A03119,Female,Asian,61.8,0
+A03120,Male,Asian,41.9,0
+A03121,Male,Hispanic or Latino,67.6,1
+A03122,Male,Asian,80.7,1
+A03123,Female,Native Hawaiian or Pacific Islander,66.5,1
+A03124,Male,White,60.1,0
+A03125,Female,Asian,59.8,0
+A03126,Male,White,58.3,0
+A03127,Male,White,71.6,1
+A03128,Male,White,67.2,1
+A03129,Female,White,77.3,1
+A03130,Female,Two or More Races,64.0,0
+A03131,Female,Black or African American,28.9,0
+A03132,Male,White,59.9,0
+A03133,Female,White,52.4,0
+A03134,Male,Two or More Races,64.5,0
+A03135,Male,Black or African American,56.8,0
+A03136,Male,,65.3,0
+A03137,Female,Two or More Races,46.3,0
+A03138,Male,White,48.6,0
+A03139,Female,White,58.6,0
+A03140,Male,White,55.4,0
+A03141,Female,White,55.9,0
+A03142,Female,White,37.7,0
+A03143,Male,White,63.0,0
+A03144,Unknown,Black or African American,54.5,0
+A03145,Female,Black or African American,78.4,1
+A03146,Female,Two or More Races,44.7,0
+A03147,Male,Hispanic or Latino,76.2,1
+A03148,Female,Hispanic or Latino,65.2,0
+A03149,Female,Hispanic or Latino,58.1,0
+A03150,Female,Native Hawaiian or Pacific Islander,57.1,0
+A03151,Female,White,74.3,1
+A03152,Female,White,77.7,1
+A03153,Female,White,70.4,1
+A03154,Male,White,42.0,0
+A03155,Female,White,54.3,0
+A03156,Female,Hispanic or Latino,76.7,1
+A03157,Female,Black or African American,64.3,0
+A03158,Female,Asian,50.6,0
+A03159,Female,Asian,33.8,0
+A03160,Female,Black or African American,54.5,0
+A03161,Male,Hispanic or Latino,51.7,0
+A03162,Female,Black or African American,70.0,1
+A03163,Male,White,56.7,0
+A03164,Male,White,68.9,1
+A03165,Female,Asian,78.1,1
+A03166,Male,Asian,71.3,1
+A03167,Male,White,66.0,1
+A03168,Female,Hispanic or Latino,71.1,1
+A03169,Unknown,Black or African American,59.6,0
+A03170,Female,White,65.3,0
+A03171,Male,White,68.7,1
+A03172,Female,White,21.5,0
+A03173,Male,Black or African American,83.1,1
+A03174,Male,Hispanic or Latino,61.6,0
+A03175,Male,White,69.4,1
+A03176,Male,White,64.4,0
+A03177,Female,White,53.7,0
+A03178,Female,Hispanic or Latino,47.5,0
+A03179,Female,White,69.2,1
+A03180,Female,Black or African American,59.8,0
+A03181,Female,Asian,42.9,0
+A03182,Female,Hispanic or Latino,47.6,0
+A03183,Female,Asian,55.6,0
+A03184,Female,White,70.4,1
+A03185,Male,Black or African American,68.1,1
+A03186,Female,,75.9,1
+A03187,Male,Two or More Races,59.5,0
+A03188,Male,Black or African American,72.4,1
+A03189,Male,White,70.5,1
+A03190,Female,White,36.7,0
+A03191,Female,Black or African American,65.6,0
+A03192,Female,White,92.6,1
+A03193,Female,White,34.4,0
+A03194,Male,White,81.6,1
+A03195,Female,Asian,80.9,1
+A03196,Male,Hispanic or Latino,67.6,1
+A03197,Male,White,54.7,0
+A03198,Female,White,62.1,0
+A03199,Male,White,42.6,0
+A03200,Female,White,65.5,0
+A03201,Male,White,53.1,0
+A03202,Female,Black or African American,82.7,1
+A03203,Female,White,64.3,0
+A03204,Female,Asian,38.6,0
+A03205,Male,White,60.8,0
+A03206,Female,Black or African American,65.3,0
+A03207,Male,White,64.5,0
+A03208,Female,Black or African American,68.1,1
+A03209,Female,White,44.8,0
+A03210,Female,White,61.6,0
+A03211,Female,White,26.5,0
+A03212,Female,White,75.1,1
+A03213,Female,White,47.9,0
+A03214,Male,White,87.8,1
+A03215,Male,Hispanic or Latino,60.1,0
+A03216,Male,Native American or Alaska Native,75.7,1
+A03217,Female,White,64.6,0
+A03218,Female,Black or African American,72.6,1
+A03219,Male,White,68.5,1
+A03220,Male,White,63.9,0
+A03221,Female,White,71.0,1
+A03222,Female,White,60.8,0
+A03223,Female,Black or African American,67.8,1
+A03224,Male,White,74.9,1
+A03225,Female,White,69.2,1
+A03226,Female,Asian,70.9,1
+A03227,Female,Hispanic or Latino,80.1,1
+A03228,Female,White,50.7,0
+A03229,Female,Hispanic or Latino,25.6,0
+A03230,Female,Native Hawaiian or Pacific Islander,48.6,0
+A03231,Female,White,66.8,1
+A03232,Male,White,74.2,1
+A03233,Male,Hispanic or Latino,60.6,0
+A03234,Female,White,54.1,0
+A03235,Female,White,73.4,1
+A03236,Male,Asian,55.3,0
+A03237,Female,White,49.1,0
+A03238,Male,Black or African American,46.4,0
+A03239,Male,White,46.4,0
+A03240,Female,White,49.4,0
+A03241,Female,White,64.6,0
+A03242,Female,White,57.5,0
+A03243,Male,White,37.7,0
+A03244,Male,White,72.4,1
+A03245,Male,White,77.4,1
+A03246,Female,White,42.8,0
+A03247,Male,Asian,69.7,1
+A03248,Female,White,53.6,0
+A03249,Male,Hispanic or Latino,73.1,1
+A03250,Male,Hispanic or Latino,40.4,0
+A03251,Female,Hispanic or Latino,51.1,0
+A03252,Female,White,66.7,1
+A03253,Male,White,49.1,0
+A03254,Female,White,48.4,0
+A03255,Female,Asian,69.8,1
+A03256,Female,White,33.6,0
+A03257,Female,White,83.1,1
+A03258,Female,,74.5,1
+A03259,Female,Hispanic or Latino,60.8,0
+A03260,Male,Black or African American,65.5,0
+A03261,Male,White,59.4,0
+A03262,Male,White,64.1,0
+A03263,Male,White,68.7,1
+A03264,Male,Black or African American,61.8,0
+A03265,Female,White,72.7,1
+A03266,Male,White,48.2,0
+A03267,Male,White,78.2,1
+A03268,Female,Black or African American,68.4,1
+A03269,Female,Black or African American,62.7,0
+A03270,Female,White,74.2,1
+A03271,Female,White,93.9,1
+A03272,Male,White,52.5,0
+A03273,Unknown,White,51.4,0
+A03274,Male,White,82.8,1
+A03275,Female,Black or African American,52.5,0
+A03276,Male,White,73.9,1
+A03277,Female,White,74.0,1
+A03278,Male,Hispanic or Latino,83.1,1
+A03279,Male,Black or African American,46.2,0
+A03280,Male,Black or African American,44.5,0
+A03281,Male,White,55.7,0
+A03282,Male,White,78.9,1
+A03283,Male,White,55.5,0
+A03284,Male,Black or African American,64.9,0
+A03285,Male,White,34.7,0
+A03286,Male,White,44.7,0
+A03287,Male,Hispanic or Latino,65.0,0
+A03288,Male,Asian,49.0,0
+A03289,Male,Hispanic or Latino,49.9,0
+A03290,Male,White,83.8,1
+A03291,Female,Asian,70.0,1
+A03292,Female,White,54.8,0
+A03293,Female,Native American or Alaska Native,57.3,0
+A03294,Male,Black or African American,42.2,0
+A03295,Female,White,49.2,0
+A03296,Female,Black or African American,39.8,0
+A03297,Female,Black or African American,58.0,0
+A03298,Male,White,39.6,0
+A03299,Female,Asian,66.7,1
+A03300,Female,Asian,53.0,0
+A03301,Female,,73.6,1
+A03302,Male,White,69.3,1
+A03303,Male,,78.4,1
+A03304,Male,Black or African American,58.2,0
+A03305,Female,White,50.9,0
+A03306,Female,White,61.6,0
+A03307,Male,White,81.7,1
+A03308,Female,Asian,60.4,0
+A03309,Female,Black or African American,38.4,0
+A03310,Female,Black or African American,85.4,1
+A03311,Male,Hispanic or Latino,41.2,0
+A03312,Female,White,47.6,0
+A03313,Male,Hispanic or Latino,55.4,0
+A03314,Male,White,68.1,1
+A03315,Female,White,71.8,1
+A03316,Female,Black or African American,51.3,0
+A03317,Female,White,67.1,1
+A03318,Male,White,64.5,0
+A03319,Female,Asian,50.8,0
+A03320,Female,,75.3,1
+A03321,Male,White,59.1,0
+A03322,Male,White,50.5,0
+A03323,Female,Black or African American,55.4,0
+A03324,Female,White,74.6,1
+A03325,Female,White,80.6,1
+A03326,Male,White,69.0,1
+A03327,Female,White,58.3,0
+A03328,Male,White,43.0,0
+A03329,Male,Asian,80.9,1
+A03330,Female,White,86.7,1
+A03331,Female,White,57.0,0
+A03332,Male,White,49.6,0
+A03333,Male,Two or More Races,82.8,1
+A03334,Female,Black or African American,58.2,0
+A03335,Male,Asian,43.1,0
+A03336,Female,White,58.8,0
+A03337,Female,Asian,51.0,0
+A03338,Male,White,42.2,0
+A03339,Male,White,82.6,1
+A03340,Male,Black or African American,67.7,1
+A03341,Female,White,65.3,0
+A03342,Female,White,77.0,1
+A03343,Female,Hispanic or Latino,57.3,0
+A03344,Male,Two or More Races,76.0,1
+A03345,Female,Black or African American,57.4,0
+A03346,Female,Hispanic or Latino,55.5,0
+A03347,Female,White,49.9,0
+A03348,Male,White,55.8,0
+A03349,Female,White,68.6,1
+A03350,Male,Asian,69.1,1
+A03351,Male,White,57.8,0
+A03352,Male,White,79.2,1
+A03353,Female,White,64.1,0
+A03354,Male,White,49.2,0
+A03355,Male,White,82.7,1
+A03356,Female,Hispanic or Latino,57.0,0
+A03357,Female,White,57.9,0
+A03358,Unknown,Hispanic or Latino,55.5,0
+A03359,Female,White,51.8,0
+A03360,Male,Asian,44.1,0
+A03361,Male,White,95.0,1
+A03362,Female,Hispanic or Latino,54.4,0
+A03363,Female,White,43.7,0
+A03364,Male,White,60.3,0
+A03365,Female,White,75.5,1
+A03366,Male,White,86.9,1
+A03367,Female,Hispanic or Latino,52.6,0
+A03368,Female,Black or African American,50.2,0
+A03369,Male,White,57.2,0
+A03370,Female,White,82.8,1
+A03371,Male,Asian,64.8,0
+A03372,Male,White,77.7,1
+A03373,Female,Black or African American,48.2,0
+A03374,Female,White,51.4,0
+A03375,Male,White,50.4,0
+A03376,Female,White,73.1,1
+A03377,Female,White,65.5,0
+A03378,Male,Black or African American,55.7,0
+A03379,Male,White,66.5,1
+A03380,Male,Black or African American,90.6,1
+A03381,Female,White,57.2,0
+A03382,Male,Asian,62.7,0
+A03383,Female,White,62.6,0
+A03384,Male,Hispanic or Latino,73.0,1
+A03385,Female,Hispanic or Latino,70.8,1
+A03386,Female,Black or African American,65.1,0
+A03387,Male,White,67.3,1
+A03388,Female,White,76.0,1
+A03389,Male,Hispanic or Latino,51.9,0
+A03390,Female,White,71.5,1
+A03391,Male,Black or African American,59.0,0
+A03392,Female,White,55.1,0
+A03393,Female,White,57.1,0
+A03394,Male,White,86.4,1
+A03395,Male,Black or African American,62.5,0
+A03396,Male,White,73.0,1
+A03397,Female,White,43.9,0
+A03398,Female,White,60.9,0
+A03399,Female,Black or African American,50.1,0
+A03400,Male,Hispanic or Latino,63.9,0
+A03401,Female,White,69.7,1
+A03402,Female,Black or African American,34.1,0
+A03403,Male,Black or African American,55.1,0
+A03404,Male,White,83.6,1
+A03405,Male,Black or African American,35.6,0
+A03406,Male,Hispanic or Latino,69.8,1
+A03407,Male,White,82.9,1
+A03408,Male,White,65.3,0
+A03409,Male,White,55.6,0
+A03410,Male,White,62.4,0
+A03411,Female,White,76.0,1
+A03412,Female,White,64.6,0
+A03413,Female,White,61.9,0
+A03414,Male,White,54.9,0
+A03415,Female,White,58.9,0
+A03416,Female,White,69.6,1
+A03417,Male,Hispanic or Latino,87.5,1
+A03418,Male,White,53.5,0
+A03419,Female,Hispanic or Latino,55.3,0
+A03420,Female,,64.7,0
+A03421,Female,Hispanic or Latino,75.8,1
+A03422,Female,Hispanic or Latino,45.4,0
+A03423,Female,White,59.0,0
+A03424,Female,Asian,36.4,0
+A03425,Female,Hispanic or Latino,54.7,0
+A03426,Male,White,46.8,0
+A03427,Female,Black or African American,47.2,0
+A03428,Male,White,94.8,1
+A03429,Female,White,82.1,1
+A03430,Male,White,55.8,0
+A03431,Male,White,88.3,1
+A03432,Male,White,55.2,0
+A03433,Female,White,44.1,0
+A03434,Male,Hispanic or Latino,63.4,0
+A03435,Male,White,61.9,0
+A03436,Female,White,82.7,1
+A03437,Male,White,51.4,0
+A03438,Male,White,52.4,0
+A03439,Male,White,78.6,1
+A03440,Male,,57.0,0
+A03441,Female,Two or More Races,47.1,0
+A03442,Female,White,70.6,1
+A03443,Female,Asian,61.0,0
+A03444,Female,White,70.8,1
+A03445,Female,Black or African American,50.4,0
+A03446,Male,,63.0,0
+A03447,Female,White,55.7,0
+A03448,Female,White,55.3,0
+A03449,Female,Asian,78.3,1
+A03450,Female,Hispanic or Latino,60.3,0
+A03451,Male,White,92.2,1
+A03452,Male,White,74.4,1
+A03453,Female,Asian,55.6,0
+A03454,Female,White,76.6,1
+A03455,Female,White,59.8,0
+A03456,Female,Hispanic or Latino,63.1,0
+A03457,Female,Hispanic or Latino,68.5,1
+A03458,Male,Hispanic or Latino,86.7,1
+A03459,Male,White,51.4,0
+A03460,Male,Hispanic or Latino,40.5,0
+A03461,Female,Hispanic or Latino,70.6,1
+A03462,Male,Black or African American,48.2,0
+A03463,Male,Asian,50.7,0
+A03464,Female,Black or African American,61.2,0
+A03465,Male,White,69.1,1
+A03466,Female,White,69.7,1
+A03467,Male,White,16.6,0
+A03468,Male,Hispanic or Latino,78.4,1
+A03469,Male,White,64.4,0
+A03470,Male,White,21.6,0
+A03471,Female,White,96.1,1
+A03472,Female,White,32.4,0
+A03473,Female,White,38.1,0
+A03474,Female,White,59.2,0
+A03475,Female,White,67.3,1
+A03476,Female,Black or African American,67.3,1
+A03477,Female,Black or African American,72.5,1
+A03478,Male,White,50.4,0
+A03479,Female,White,63.2,0
+A03480,Male,White,47.8,0
+A03481,Female,White,56.0,0
+A03482,Male,Two or More Races,66.7,1
+A03483,Female,White,69.8,1
+A03484,Male,Hispanic or Latino,40.3,0
+A03485,Female,Black or African American,55.8,0
+A03486,Female,Asian,64.2,0
+A03487,Male,,72.6,1
+A03488,Male,White,65.9,0
+A03489,Male,Hispanic or Latino,63.7,0
+A03490,Male,White,53.4,0
+A03491,Female,,37.9,0
+A03492,Male,Hispanic or Latino,74.7,1
+A03493,Female,Two or More Races,59.2,0
+A03494,Male,White,67.6,1
+A03495,Female,Black or African American,50.5,0
+A03496,Male,Hispanic or Latino,37.3,0
+A03497,Male,White,71.2,1
+A03498,Female,Asian,80.5,1
+A03499,Female,White,73.9,1
+A03500,Female,Black or African American,78.3,1
+A03501,Male,White,65.8,0
+A03502,Female,White,62.7,0
+A03503,Male,White,69.9,1
+A03504,Unknown,White,62.9,0
+A03505,Unknown,White,93.7,1
+A03506,Female,White,60.9,0
+A03507,Male,White,57.9,0
+A03508,Female,White,40.9,0
+A03509,Female,White,52.1,0
+A03510,Female,Black or African American,64.5,0
+A03511,Male,Hispanic or Latino,49.7,0
+A03512,Female,Black or African American,78.7,1
+A03513,Male,White,79.2,1
+A03514,Male,Asian,44.6,0
+A03515,Male,White,91.9,1
+A03516,Male,White,46.5,0
+A03517,Male,Black or African American,34.4,0
+A03518,Male,Black or African American,55.6,0
+A03519,Female,Hispanic or Latino,66.0,0
+A03520,Female,Black or African American,42.9,0
+A03521,Female,White,83.4,1
+A03522,Male,Two or More Races,67.6,1
+A03523,Male,White,47.4,0
+A03524,Female,White,60.4,0
+A03525,Male,Asian,80.0,1
+A03526,Female,Asian,47.6,0
+A03527,Female,White,85.1,1
+A03528,Female,Two or More Races,69.3,1
+A03529,Female,White,84.1,1
+A03530,Female,Asian,65.2,0
+A03531,Female,Hispanic or Latino,74.6,1
+A03532,Male,Black or African American,69.6,1
+A03533,Female,White,64.9,0
+A03534,Male,White,47.4,0
+A03535,Male,White,65.7,0
+A03536,Male,White,74.4,1
+A03537,Female,White,67.3,1
+A03538,Male,White,42.7,0
+A03539,Female,White,93.4,1
+A03540,Female,Asian,77.4,1
+A03541,Female,,62.7,0
+A03542,Female,White,71.4,1
+A03543,Female,Hispanic or Latino,46.0,0
+A03544,Male,Hispanic or Latino,71.8,1
+A03545,Female,White,73.2,1
+A03546,Female,White,56.5,0
+A03547,Female,Asian,78.7,1
+A03548,Male,Hispanic or Latino,39.5,0
+A03549,Male,White,43.9,0
+A03550,Male,Black or African American,79.9,1
+A03551,Female,Asian,75.2,1
+A03552,Male,Black or African American,75.2,1
+A03553,Male,Hispanic or Latino,97.0,1
+A03554,Female,White,90.9,1
+A03555,Male,White,72.2,1
+A03556,Male,Black or African American,62.2,0
+A03557,Female,Asian,64.6,0
+A03558,Female,Asian,65.2,0
+A03559,Female,White,91.5,1
+A03560,Male,White,57.2,0
+A03561,Female,Hispanic or Latino,50.4,0
+A03562,Male,Hispanic or Latino,64.3,0
+A03563,Male,Two or More Races,63.1,0
+A03564,Male,White,76.5,1
+A03565,Unknown,White,34.3,0
+A03566,Female,White,72.5,1
+A03567,Female,White,84.9,1
+A03568,Male,White,69.7,1
+A03569,Female,White,48.7,0
+A03570,Female,White,69.7,1
+A03571,Female,White,61.6,0
+A03572,Female,White,68.9,1
+A03573,Female,Hispanic or Latino,67.6,1
+A03574,Male,White,56.5,0
+A03575,Male,Asian,84.1,1
+A03576,Female,White,38.0,0
+A03577,Male,White,64.3,0
+A03578,Male,White,83.7,1
+A03579,Male,White,57.3,0
+A03580,Female,White,60.0,0
+A03581,Female,Black or African American,51.1,0
+A03582,Male,Two or More Races,45.6,0
+A03583,Female,Hispanic or Latino,50.2,0
+A03584,Male,Hispanic or Latino,55.1,0
+A03585,Female,Asian,58.5,0
+A03586,Female,White,59.3,0
+A03587,Male,White,43.1,0
+A03588,Female,Hispanic or Latino,75.6,1
+A03589,Female,White,47.7,0
+A03590,Female,White,57.5,0
+A03591,Unknown,Hispanic or Latino,47.9,0
+A03592,Female,Asian,65.5,0
+A03593,Female,Asian,55.0,0
+A03594,Male,White,53.2,0
+A03595,Female,White,70.5,1
+A03596,Male,Asian,56.4,0
+A03597,Male,Black or African American,53.2,0
+A03598,Female,Hispanic or Latino,56.2,0
+A03599,Male,Black or African American,42.0,0
+A03600,Male,Asian,67.6,1
+A03601,Female,White,74.6,1
+A03602,Male,Hispanic or Latino,33.6,0
+A03603,Female,White,86.7,1
+A03604,Female,White,62.4,0
+A03605,Female,Asian,59.3,0
+A03606,Male,White,67.2,1
+A03607,Unknown,White,66.8,1
+A03608,Female,Asian,66.0,1
+A03609,Unknown,White,63.7,0
+A03610,Female,Hispanic or Latino,59.7,0
+A03611,Female,White,80.2,1
+A03612,Male,Black or African American,57.1,0
+A03613,Female,Asian,56.4,0
+A03614,Female,Hispanic or Latino,59.9,0
+A03615,Female,White,55.4,0
+A03616,Male,White,58.7,0
+A03617,Male,White,57.9,0
+A03618,Female,White,77.7,1
+A03619,Male,Asian,61.5,0
+A03620,Male,White,45.7,0
+A03621,Male,Native American or Alaska Native,52.8,0
+A03622,Male,White,83.1,1
+A03623,Male,Two or More Races,42.8,0
+A03624,Female,White,84.8,1
+A03625,Female,Two or More Races,45.0,0
+A03626,Male,White,55.2,0
+A03627,Male,Asian,89.3,1
+A03628,Female,White,83.5,1
+A03629,Female,White,54.0,0
+A03630,Male,Hispanic or Latino,78.1,1
+A03631,Female,Asian,54.7,0
+A03632,Female,Asian,82.8,1
+A03633,Female,Hispanic or Latino,76.5,1
+A03634,Female,Asian,43.2,0
+A03635,Female,White,58.8,0
+A03636,Female,,46.2,0
+A03637,Male,White,64.4,0
+A03638,Male,Black or African American,86.6,1
+A03639,Male,Asian,74.0,1
+A03640,Female,Black or African American,78.6,1
+A03641,Female,White,26.6,0
+A03642,Male,White,70.4,1
+A03643,Female,Asian,77.2,1
+A03644,Male,White,76.0,1
+A03645,Male,White,50.9,0
+A03646,Male,White,88.3,1
+A03647,Male,Hispanic or Latino,71.5,1
+A03648,Female,White,58.9,0
+A03649,Female,White,86.0,1
+A03650,Male,White,66.1,1
+A03651,Female,Black or African American,60.6,0
+A03652,Male,White,72.5,1
+A03653,Female,Black or African American,42.1,0
+A03654,Male,White,41.6,0
+A03655,Female,Hispanic or Latino,70.9,1
+A03656,Female,White,61.3,0
+A03657,Male,White,67.9,1
+A03658,Female,Hispanic or Latino,67.2,1
+A03659,Female,White,44.2,0
+A03660,Female,Black or African American,49.0,0
+A03661,Male,White,51.5,0
+A03662,Female,Black or African American,62.3,0
+A03663,Female,White,74.2,1
+A03664,Female,White,68.0,1
+A03665,Female,White,58.1,0
+A03666,Female,Black or African American,41.7,0
+A03667,Male,Native American or Alaska Native,52.0,0
+A03668,Male,Asian,55.3,0
+A03669,Male,Hispanic or Latino,72.8,1
+A03670,Male,Asian,87.7,1
+A03671,Male,White,63.2,0
+A03672,Male,White,61.7,0
+A03673,Female,Native American or Alaska Native,68.8,1
+A03674,Female,Black or African American,51.9,0
+A03675,Male,White,49.0,0
+A03676,Female,Hispanic or Latino,76.8,1
+A03677,Male,Hispanic or Latino,76.3,1
+A03678,Male,White,58.8,0
+A03679,Male,Black or African American,41.7,0
+A03680,Female,Hispanic or Latino,36.8,0
+A03681,Female,Black or African American,52.1,0
+A03682,Female,Black or African American,79.4,1
+A03683,Female,Hispanic or Latino,59.7,0
+A03684,Female,Black or African American,75.3,1
+A03685,Male,White,65.9,0
+A03686,Male,White,79.4,1
+A03687,Male,Hispanic or Latino,55.4,0
+A03688,Female,White,52.9,0
+A03689,Male,Black or African American,64.2,0
+A03690,Female,White,64.4,0
+A03691,Unknown,Black or African American,69.4,1
+A03692,Female,Asian,75.8,1
+A03693,Female,Asian,41.8,0
+A03694,Male,Asian,57.6,0
+A03695,Female,White,57.3,0
+A03696,Female,Asian,40.1,0
+A03697,Male,White,47.2,0
+A03698,Female,Hispanic or Latino,72.5,1
+A03699,Male,Hispanic or Latino,71.4,1
+A03700,Male,Hispanic or Latino,62.6,0
+A03701,Female,Hispanic or Latino,63.2,0
+A03702,Female,White,65.0,0
+A03703,Male,White,60.4,0
+A03704,Male,White,60.7,0
+A03705,Female,Hispanic or Latino,47.8,0
+A03706,Female,Hispanic or Latino,74.3,1
+A03707,Male,White,80.1,1
+A03708,Male,Hispanic or Latino,75.5,1
+A03709,Female,Hispanic or Latino,72.7,1
+A03710,Unknown,Black or African American,58.2,0
+A03711,Male,Black or African American,69.2,1
+A03712,Female,Hispanic or Latino,45.9,0
+A03713,Female,White,52.7,0
+A03714,Female,Hispanic or Latino,76.0,1
+A03715,Male,Hispanic or Latino,66.0,0
+A03716,Male,White,52.4,0
+A03717,Male,White,53.4,0
+A03718,Female,White,79.5,1
+A03719,Male,White,75.1,1
+A03720,Male,Black or African American,71.4,1
+A03721,Female,Asian,67.2,1
+A03722,Female,Black or African American,51.2,0
+A03723,Female,White,40.1,0
+A03724,Male,White,50.6,0
+A03725,Male,White,71.8,1
+A03726,Male,Asian,61.9,0
+A03727,Male,White,51.2,0
+A03728,Male,White,69.8,1
+A03729,Male,White,77.9,1
+A03730,Male,White,88.8,1
+A03731,Female,White,63.3,0
+A03732,Male,Hispanic or Latino,74.1,1
+A03733,Female,Black or African American,49.2,0
+A03734,Female,White,70.7,1
+A03735,Female,Hispanic or Latino,95.0,1
+A03736,Female,White,47.3,0
+A03737,Male,Black or African American,83.7,1
+A03738,Male,White,76.1,1
+A03739,Male,White,63.5,0
+A03740,Female,White,54.9,0
+A03741,Male,White,57.4,0
+A03742,Male,Hispanic or Latino,82.4,1
+A03743,Male,White,62.8,0
+A03744,Female,Hispanic or Latino,56.7,0
+A03745,Male,Hispanic or Latino,54.4,0
+A03746,Male,Hispanic or Latino,60.2,0
+A03747,Female,Black or African American,44.7,0
+A03748,Male,Asian,88.3,1
+A03749,Female,White,73.0,1
+A03750,Female,Hispanic or Latino,37.5,0
+A03751,Male,White,49.6,0
+A03752,Female,Hispanic or Latino,65.1,0
+A03753,Male,White,69.0,1
+A03754,Unknown,White,76.5,1
+A03755,Female,Hispanic or Latino,64.6,0
+A03756,Female,Black or African American,62.3,0
+A03757,Male,White,63.6,0
+A03758,Male,White,66.0,1
+A03759,Female,White,59.2,0
+A03760,Male,White,58.1,0
+A03761,Female,White,52.8,0
+A03762,Male,Hispanic or Latino,42.4,0
+A03763,Female,White,75.0,1
+A03764,Male,Hispanic or Latino,59.0,0
+A03765,Female,Black or African American,53.9,0
+A03766,Female,Hispanic or Latino,47.8,0
+A03767,Male,White,62.1,0
+A03768,Male,Black or African American,46.4,0
+A03769,Male,White,75.1,1
+A03770,Male,White,79.2,1
+A03771,Male,White,64.1,0
+A03772,Male,Asian,41.7,0
+A03773,Female,Hispanic or Latino,75.4,1
+A03774,Female,White,82.6,1
+A03775,Male,White,79.3,1
+A03776,Male,,91.3,1
+A03777,Female,Hispanic or Latino,39.1,0
+A03778,Male,White,56.1,0
+A03779,Male,Black or African American,46.4,0
+A03780,Female,White,69.0,1
+A03781,Female,White,67.9,1
+A03782,Female,Hispanic or Latino,60.7,0
+A03783,Female,Black or African American,60.2,0
+A03784,Female,White,50.3,0
+A03785,Female,Asian,62.6,0
+A03786,Male,White,57.6,0
+A03787,Female,Asian,75.1,1
+A03788,Unknown,White,61.1,0
+A03789,Male,White,59.2,0
+A03790,Male,White,58.6,0
+A03791,Male,White,61.0,0
+A03792,Male,White,50.8,0
+A03793,Male,White,80.5,1
+A03794,Female,Hispanic or Latino,62.3,0
+A03795,Male,White,51.2,0
+A03796,Male,White,78.1,1
+A03797,Female,Black or African American,78.4,1
+A03798,Male,White,42.0,0
+A03799,Male,Black or African American,60.5,0
+A03800,Female,White,55.8,0
+A03801,Female,White,54.0,0
+A03802,Female,Black or African American,63.8,0
+A03803,Female,Asian,64.6,0
+A03804,Male,White,66.4,1
+A03805,Female,White,62.8,0
+A03806,Female,Black or African American,56.3,0
+A03807,Male,White,76.3,1
+A03808,Female,White,63.3,0
+A03809,Male,White,76.4,1
+A03810,Male,White,84.6,1
+A03811,Female,Hispanic or Latino,65.6,0
+A03812,Female,White,97.4,1
+A03813,Female,Hispanic or Latino,60.2,0
+A03814,Female,White,44.5,0
+A03815,Female,White,34.2,0
+A03816,Male,Black or African American,75.2,1
+A03817,Female,White,59.5,0
+A03818,Female,,80.0,1
+A03819,Male,White,73.1,1
+A03820,Female,White,55.2,0
+A03821,Male,White,64.6,0
+A03822,Unknown,Two or More Races,57.3,0
+A03823,Female,White,36.5,0
+A03824,Male,Black or African American,58.0,0
+A03825,Female,White,65.6,0
+A03826,Male,White,44.3,0
+A03827,Male,White,68.7,1
+A03828,Female,Black or African American,50.7,0
+A03829,Male,White,53.7,0
+A03830,Female,White,66.9,1
+A03831,Male,Hispanic or Latino,51.8,0
+A03832,Female,Two or More Races,48.6,0
+A03833,Female,White,54.5,0
+A03834,Female,White,83.3,1
+A03835,Male,Hispanic or Latino,68.9,1
+A03836,Female,,99.0,1
+A03837,Male,Black or African American,57.2,0
+A03838,Female,White,52.4,0
+A03839,Female,White,60.9,0
+A03840,Male,Hispanic or Latino,51.0,0
+A03841,Male,Hispanic or Latino,63.7,0
+A03842,Male,White,71.5,1
+A03843,Female,Hispanic or Latino,38.8,0
+A03844,Female,White,53.8,0
+A03845,Female,White,70.7,1
+A03846,Female,Asian,55.5,0
+A03847,Male,White,65.9,0
+A03848,Female,Hispanic or Latino,59.6,0
+A03849,Female,Hispanic or Latino,24.1,0
+A03850,Male,White,47.5,0
+A03851,Male,Black or African American,73.7,1
+A03852,Female,White,36.2,0
+A03853,Male,White,55.6,0
+A03854,Male,Asian,49.7,0
+A03855,Male,Black or African American,72.7,1
+A03856,Female,White,63.8,0
+A03857,Female,White,71.0,1
+A03858,Female,Black or African American,54.4,0
+A03859,Male,Asian,71.3,1
+A03860,Female,White,75.6,1
+A03861,Male,Black or African American,85.3,1
+A03862,Male,White,65.0,0
+A03863,Male,White,58.8,0
+A03864,Male,White,65.9,0
+A03865,Male,White,69.1,1
+A03866,Female,Black or African American,78.0,1
+A03867,Male,White,61.9,0
+A03868,Female,White,40.1,0
+A03869,Female,Black or African American,65.0,0
+A03870,Male,Asian,62.0,0
+A03871,Male,White,60.7,0
+A03872,Female,Hispanic or Latino,57.9,0
+A03873,Unknown,White,61.2,0
+A03874,Male,White,64.0,0
+A03875,Male,Black or African American,64.8,0
+A03876,Male,Asian,64.9,0
+A03877,Female,White,84.4,1
+A03878,Male,White,98.9,1
+A03879,Female,Black or African American,36.5,0
+A03880,Male,White,69.8,1
+A03881,Male,White,53.0,0
+A03882,Male,Black or African American,55.3,0
+A03883,Female,White,61.4,0
+A03884,Male,White,63.3,0
+A03885,Male,White,67.9,1
+A03886,Male,Two or More Races,67.6,1
+A03887,Female,Hispanic or Latino,71.6,1
+A03888,Female,Black or African American,59.3,0
+A03889,Female,Black or African American,63.6,0
+A03890,Unknown,White,65.3,0
+A03891,Female,White,55.4,0
+A03892,Male,,47.7,0
+A03893,Male,Hispanic or Latino,86.5,1
+A03894,Male,White,66.0,1
+A03895,Female,White,18.1,0
+A03896,Unknown,Black or African American,66.0,0
+A03897,Female,White,73.9,1
+A03898,Female,Hispanic or Latino,72.2,1
+A03899,Male,White,47.7,0
+A03900,Unknown,Hispanic or Latino,42.1,0
+A03901,Female,White,61.2,0
+A03902,Male,Asian,67.0,1
+A03903,Male,Hispanic or Latino,53.7,0
+A03904,Female,White,68.0,1
+A03905,Male,White,65.7,0
+A03906,Female,Hispanic or Latino,42.4,0
+A03907,Male,Black or African American,69.1,1
+A03908,Female,Asian,54.0,0
+A03909,Female,White,75.1,1
+A03910,Male,Black or African American,80.6,1
+A03911,Female,White,64.5,0
+A03912,Male,Hispanic or Latino,50.9,0
+A03913,Female,White,85.8,1
+A03914,Male,White,63.5,0
+A03915,Male,White,60.0,0
+A03916,Female,White,62.5,0
+A03917,Male,White,56.4,0
+A03918,Female,Hispanic or Latino,27.5,0
+A03919,Female,White,73.3,1
+A03920,Female,Hispanic or Latino,66.1,1
+A03921,Male,White,49.2,0
+A03922,Male,White,59.8,0
+A03923,Female,Black or African American,89.6,1
+A03924,Male,Black or African American,71.3,1
+A03925,Male,White,61.0,0
+A03926,Female,White,51.9,0
+A03927,Male,White,17.7,0
+A03928,Female,White,83.0,1
+A03929,Female,Hispanic or Latino,72.8,1
+A03930,Male,White,36.7,0
+A03931,Female,Black or African American,49.4,0
+A03932,Female,White,66.3,1
+A03933,Male,White,57.7,0
+A03934,Male,White,86.8,1
+A03935,Male,Asian,69.1,1
+A03936,Female,White,63.6,0
+A03937,Male,Black or African American,74.2,1
+A03938,Male,Hispanic or Latino,49.4,0
+A03939,Female,Hispanic or Latino,60.3,0
+A03940,Male,Two or More Races,62.9,0
+A03941,Male,Two or More Races,69.5,1
+A03942,Female,White,74.5,1
+A03943,Female,Black or African American,45.2,0
+A03944,Female,Hispanic or Latino,52.9,0
+A03945,Female,White,74.9,1
+A03946,Female,Two or More Races,69.5,1
+A03947,Male,White,54.7,0
+A03948,Female,Hispanic or Latino,75.9,1
+A03949,Female,Hispanic or Latino,83.3,1
+A03950,Female,White,95.2,1
+A03951,Female,White,77.5,1
+A03952,Female,Two or More Races,47.7,0
+A03953,Male,Asian,38.3,0
+A03954,Female,White,60.3,0
+A03955,Male,Hispanic or Latino,62.1,0
+A03956,Male,White,64.1,0
+A03957,Male,Hispanic or Latino,70.7,1
+A03958,Male,White,61.8,0
+A03959,Male,White,67.6,1
+A03960,Male,White,37.6,0
+A03961,Male,White,50.5,0
+A03962,Male,White,82.0,1
+A03963,Unknown,White,58.9,0
+A03964,Female,Asian,60.0,0
+A03965,Unknown,White,66.5,1
+A03966,Female,White,76.4,1
+A03967,Male,Black or African American,68.1,1
+A03968,Female,Asian,70.1,1
+A03969,Female,Hispanic or Latino,66.9,1
+A03970,Male,White,64.6,0
+A03971,Female,White,78.4,1
+A03972,Male,White,61.6,0
+A03973,Male,White,74.8,1
+A03974,Female,Asian,93.4,1
+A03975,Female,Hispanic or Latino,80.6,1
+A03976,Male,Black or African American,56.3,0
+A03977,Female,White,42.6,0
+A03978,Male,White,58.9,0
+A03979,Female,Asian,64.8,0
+A03980,Female,Hispanic or Latino,64.0,0
+A03981,Female,Hispanic or Latino,72.9,1
+A03982,Female,White,44.1,0
+A03983,Male,White,55.6,0
+A03984,Male,White,77.7,1
+A03985,Female,Hispanic or Latino,74.7,1
+A03986,Female,White,70.1,1
+A03987,Female,White,54.8,0
+A03988,Male,Asian,36.1,0
+A03989,Female,White,78.5,1
+A03990,Male,White,64.4,0
+A03991,Male,Asian,47.6,0
+A03992,Male,Black or African American,72.1,1
+A03993,Female,Black or African American,49.5,0
+A03994,Male,Black or African American,66.9,1
+A03995,Female,Asian,68.6,1
+A03996,Female,White,48.7,0
+A03997,Female,Black or African American,69.3,1
+A03998,Male,Asian,69.4,1
+A03999,Male,Native Hawaiian or Pacific Islander,63.9,0

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 122" width="100%" role="img" aria-label="Impact ratios by sex"><style>
+svg{--ink:#1d2330;--muted:#6b7280;--line:#e5e7eb;--ref:#64748b;--ok:#0f9d7a;--review:#d99a0b;--flag:#d6455d}
+@media (prefers-color-scheme:dark){svg{--ink:#e6e9ef;--muted:#9aa3b2;--line:#2b3240;--ref:#94a3b8;--ok:#34d3a6;--review:#f5b83d;--flag:#ff6b81}}
+
+.t{font:13px system-ui,-apple-system,Segoe UI,sans-serif;fill:var(--ink)}
+.m{fill:var(--muted);font-size:11px}.b{font-weight:600}
+.grid{stroke:var(--line)}.thr{stroke:var(--flag);stroke-dasharray:4 3}
+.reference{fill:var(--ref)}.ok{fill:var(--ok)}.review{fill:var(--review)}.flag{fill:var(--flag)}
+</style><text class="t b" x="0" y="16">Impact ratio by sex</text><line class="grid" x1="270.0" x2="270.0" y1="28" y2="100"/><text class="t m" x="270.0" y="116" text-anchor="middle">0</text><line class="grid" x1="357.5" x2="357.5" y1="28" y2="100"/><text class="t m" x="357.5" y="116" text-anchor="middle">0.25</text><line class="grid" x1="445.0" x2="445.0" y1="28" y2="100"/><text class="t m" x="445.0" y="116" text-anchor="middle">0.5</text><line class="grid" x1="532.5" x2="532.5" y1="28" y2="100"/><text class="t m" x="532.5" y="116" text-anchor="middle">0.75</text><line class="grid" x1="620.0" x2="620.0" y1="28" y2="100"/><text class="t m" x="620.0" y="116" text-anchor="middle">1</text><text class="t" x="260" y="49" text-anchor="end">Male</text><rect class="reference" x="270" y="37" width="350.0" height="17" rx="3"><title>Male: 1.00 (n=1943)</title></rect><text class="t m" x="626.0" y="49">1.00</text><text class="t" x="260" y="79" text-anchor="end">Female</text><rect class="ok" x="270" y="67" width="316.2" height="17" rx="3"><title>Female: 0.90 (n=1937)</title></rect><text class="t m" x="592.2" y="79">0.90</text><line class="thr" x1="550.0" x2="550.0" y1="26" y2="100"/><text class="t m" x="550.0" y="22" text-anchor="middle">0.8 threshold</text></svg>

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "parity-audit"
+version = "0.1.0"
+description = "Zero-dependency bias audit for automated decision systems (NYC LL144 / four-fifths rule)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+parity = "parity.__main__:main"
+
+[tool.setuptools]
+packages = ["parity"]
