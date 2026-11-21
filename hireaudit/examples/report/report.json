@@ -1,0 +1,240 @@
+{
+  "applicants": 4000,
+  "mode": "selection",
+  "outcome": "advanced",
+  "cutoff": null,
+  "positive_rate": 0.2255,
+  "status": "FAIL",
+  "audits": [
+    {
+      "attribute": "sex",
+      "status": "FAIL",
+      "reference": "Male",
+      "unknown": 160,
+      "threshold": 0.8,
+      "alpha": 0.05,
+      "groups": [
+        {
+          "name": "Male",
+          "applicants": 1903,
+          "positive": 493,
+          "rate": 0.259065,
+          "share": 0.495573,
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "status": "PASS"
+        },
+        {
+          "name": "Female",
+          "applicants": 1937,
+          "positive": 371,
+          "rate": 0.191533,
+          "share": 0.504427,
+          "impact_ratio": 0.739326,
+          "p_value": 5.977414459647247e-07,
+          "status": "FAIL"
+        }
+      ]
+    },
+    {
+      "attribute": "race_ethnicity",
+      "status": "FAIL",
+      "reference": "Two or More Races",
+      "unknown": 177,
+      "threshold": 0.8,
+      "alpha": 0.05,
+      "groups": [
+        {
+          "name": "Two or More Races",
+          "applicants": 142,
+          "positive": 38,
+          "rate": 0.267606,
+          "share": 0.037144,
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "status": "PASS"
+        },
+        {
+          "name": "White",
+          "applicants": 1792,
+          "positive": 459,
+          "rate": 0.256138,
+          "share": 0.468742,
+          "impact_ratio": 0.957149,
+          "p_value": 0.7651020037465271,
+          "status": "PASS"
+        },
+        {
+          "name": "Asian",
+          "applicants": 711,
+          "positive": 161,
+          "rate": 0.226442,
+          "share": 0.18598,
+          "impact_ratio": 0.846177,
+          "p_value": 0.32780788554893264,
+          "status": "PASS"
+        },
+        {
+          "name": "Hispanic or Latino",
+          "applicants": 595,
+          "positive": 114,
+          "rate": 0.191597,
+          "share": 0.155637,
+          "impact_ratio": 0.715966,
+          "p_value": 0.04981823414670413,
+          "status": "FAIL"
+        },
+        {
+          "name": "Black or African American",
+          "applicants": 530,
+          "positive": 68,
+          "rate": 0.128302,
+          "share": 0.138635,
+          "impact_ratio": 0.479444,
+          "p_value": 0.00013873589102849322,
+          "status": "FAIL"
+        },
+        {
+          "name": "Native American or Alaska Native",
+          "applicants": 53,
+          "positive": 13,
+          "rate": 0.245283,
+          "share": 0.013863,
+          "impact_ratio": null,
+          "p_value": null,
+          "status": "EXCLUDED"
+        }
+      ]
+    },
+    {
+      "attribute": "sex × race_ethnicity",
+      "status": "FAIL",
+      "reference": "Male × White",
+      "unknown": 331,
+      "threshold": 0.8,
+      "alpha": 0.05,
+      "groups": [
+        {
+          "name": "Male × White",
+          "applicants": 846,
+          "positive": 254,
+          "rate": 0.300236,
+          "share": 0.230581,
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "status": "PASS"
+        },
+        {
+          "name": "Male × Asian",
+          "applicants": 349,
+          "positive": 86,
+          "rate": 0.246418,
+          "share": 0.095121,
+          "impact_ratio": 0.820748,
+          "p_value": 0.06674904055052393,
+          "status": "PASS"
+        },
+        {
+          "name": "Male × Hispanic or Latino",
+          "applicants": 283,
+          "positive": 65,
+          "rate": 0.229682,
+          "share": 0.077133,
+          "impact_ratio": 0.765004,
+          "p_value": 0.02231584011371944,
+          "status": "FAIL"
+        },
+        {
+          "name": "Female × White",
+          "applicants": 867,
+          "positive": 186,
+          "rate": 0.214533,
+          "share": 0.236304,
+          "impact_ratio": 0.714546,
+          "p_value": 5.30812158089863e-05,
+          "status": "FAIL"
+        },
+        {
+          "name": "Female × Asian",
+          "applicants": 338,
+          "positive": 71,
+          "rate": 0.210059,
+          "share": 0.092123,
+          "impact_ratio": 0.699646,
+          "p_value": 0.0015202013962353782,
+          "status": "FAIL"
+        },
+        {
+          "name": "Female × Hispanic or Latino",
+          "applicants": 283,
+          "positive": 42,
+          "rate": 0.14841,
+          "share": 0.077133,
+          "impact_ratio": 0.49431,
+          "p_value": 2.173737075532714e-07,
+          "status": "FAIL"
+        },
+        {
+          "name": "Male × Black or African American",
+          "applicants": 247,
+          "positive": 33,
+          "rate": 0.133603,
+          "share": 0.067321,
+          "impact_ratio": 0.444993,
+          "p_value": 4.699497567220337e-08,
+          "status": "FAIL"
+        },
+        {
+          "name": "Female × Black or African American",
+          "applicants": 267,
+          "positive": 30,
+          "rate": 0.11236,
+          "share": 0.072772,
+          "impact_ratio": 0.374237,
+          "p_value": 1.1869629512610637e-10,
+          "status": "FAIL"
+        },
+        {
+          "name": "Male × Native American or Alaska Native",
+          "applicants": 26,
+          "positive": 9,
+          "rate": 0.346154,
+          "share": 0.007086,
+          "impact_ratio": null,
+          "p_value": null,
+          "status": "EXCLUDED"
+        },
+        {
+          "name": "Male × Two or More Races",
+          "applicants": 65,
+          "positive": 19,
+          "rate": 0.292308,
+          "share": 0.017716,
+          "impact_ratio": null,
+          "p_value": null,
+          "status": "EXCLUDED"
+        },
+        {
+          "name": "Female × Two or More Races",
+          "applicants": 72,
+          "positive": 17,
+          "rate": 0.236111,
+          "share": 0.019624,
+          "impact_ratio": null,
+          "p_value": null,
+          "status": "EXCLUDED"
+        },
+        {
+          "name": "Female × Native American or Alaska Native",
+          "applicants": 26,
+          "positive": 4,
+          "rate": 0.153846,
+          "share": 0.007086,
+          "impact_ratio": null,
+          "p_value": null,
+          "status": "EXCLUDED"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 782 318" width="782" height="318" role="img" aria-label="Impact ratios by sex × race_ethnicity" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="13">
+<style>text{fill:#1f2937}.muted{fill:#6b7280}.grid{stroke:#d1d5db}@media (prefers-color-scheme:dark){text{fill:#e5e7eb}.muted{fill:#9ca3af}.grid{stroke:#4b5563}}</style>
+<text x="16" y="24" font-weight="600" font-size="15">Impact ratio by sex × race_ethnicity</text>
+<line class="grid" x1="252" y1="38" x2="252" y2="290" stroke-width="1"/>
+<text class="muted" x="252" y="306" text-anchor="middle" font-size="11">0</text>
+<line class="grid" x1="342.0" y1="38" x2="342.0" y2="290" stroke-width="1"/>
+<text class="muted" x="342.0" y="306" text-anchor="middle" font-size="11">0.25</text>
+<line class="grid" x1="432.0" y1="38" x2="432.0" y2="290" stroke-width="1"/>
+<text class="muted" x="432.0" y="306" text-anchor="middle" font-size="11">0.5</text>
+<line class="grid" x1="522.0" y1="38" x2="522.0" y2="290" stroke-width="1"/>
+<text class="muted" x="522.0" y="306" text-anchor="middle" font-size="11">0.75</text>
+<line class="grid" x1="612.0" y1="38" x2="612.0" y2="290" stroke-width="1"/>
+<text class="muted" x="612.0" y="306" text-anchor="middle" font-size="11">1</text>
+<line x1="540.0" y1="34" x2="540.0" y2="290" stroke="#d64545" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="544.0" y="32" font-size="11" fill="#d64545" style="fill:#d64545">0.8 threshold</text>
+<text x="242" y="59" text-anchor="end"><title>Male × White</title>Male × White</text>
+<rect x="252" y="47" width="360.0" height="20" rx="3" fill="#1a9e77"/>
+<text x="624" y="59" font-size="12">1.00<tspan class="muted"> · 30.0% of 846</tspan></text>
+<text x="242" y="89" text-anchor="end"><title>Male × Asian</title>Male × Asian</text>
+<rect x="252" y="77" width="295.5" height="20" rx="3" fill="#1a9e77"/>
+<text x="624" y="89" font-size="12">0.82<tspan class="muted"> · 24.6% of 349</tspan></text>
+<text x="242" y="119" text-anchor="end"><title>Male × Hispanic or Latino</title>Male × Hispanic or Latino</text>
+<rect x="252" y="107" width="275.4" height="20" rx="3" fill="#d64545"/>
+<text x="624" y="119" font-size="12">0.77<tspan class="muted"> · 23.0% of 283</tspan></text>
+<text x="242" y="149" text-anchor="end"><title>Female × White</title>Female × White</text>
+<rect x="252" y="137" width="257.2" height="20" rx="3" fill="#d64545"/>
+<text x="624" y="149" font-size="12">0.71<tspan class="muted"> · 21.5% of 867</tspan></text>
+<text x="242" y="179" text-anchor="end"><title>Female × Asian</title>Female × Asian</text>
+<rect x="252" y="167" width="251.9" height="20" rx="3" fill="#d64545"/>
+<text x="624" y="179" font-size="12">0.70<tspan class="muted"> · 21.0% of 338</tspan></text>
+<text x="242" y="209" text-anchor="end"><title>Female × Hispanic or Latino</title>Female × Hispanic or Latino</text>
+<rect x="252" y="197" width="178.0" height="20" rx="3" fill="#d64545"/>
+<text x="624" y="209" font-size="12">0.49<tspan class="muted"> · 14.8% of 283</tspan></text>
+<text x="242" y="239" text-anchor="end"><title>Male × Black or African American</title>Male × Black or African American</text>
+<rect x="252" y="227" width="160.2" height="20" rx="3" fill="#d64545"/>
+<text x="624" y="239" font-size="12">0.44<tspan class="muted"> · 13.4% of 247</tspan></text>
+<text x="242" y="269" text-anchor="end"><title>Female × Black or African American</title>Female × Black or African Ameri…</text>
+<rect x="252" y="257" width="134.7" height="20" rx="3" fill="#d64545"/>
+<text x="624" y="269" font-size="12">0.37<tspan class="muted"> · 11.2% of 267</tspan></text>
+</svg>

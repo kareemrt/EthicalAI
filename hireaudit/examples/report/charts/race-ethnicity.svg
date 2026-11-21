@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 733 228" width="733" height="228" role="img" aria-label="Impact ratios by race_ethnicity" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="13">
+<style>text{fill:#1f2937}.muted{fill:#6b7280}.grid{stroke:#d1d5db}@media (prefers-color-scheme:dark){text{fill:#e5e7eb}.muted{fill:#9ca3af}.grid{stroke:#4b5563}}</style>
+<text x="16" y="24" font-weight="600" font-size="15">Impact ratio by race_ethnicity</text>
+<line class="grid" x1="203" y1="38" x2="203" y2="200" stroke-width="1"/>
+<text class="muted" x="203" y="216" text-anchor="middle" font-size="11">0</text>
+<line class="grid" x1="293.0" y1="38" x2="293.0" y2="200" stroke-width="1"/>
+<text class="muted" x="293.0" y="216" text-anchor="middle" font-size="11">0.25</text>
+<line class="grid" x1="383.0" y1="38" x2="383.0" y2="200" stroke-width="1"/>
+<text class="muted" x="383.0" y="216" text-anchor="middle" font-size="11">0.5</text>
+<line class="grid" x1="473.0" y1="38" x2="473.0" y2="200" stroke-width="1"/>
+<text class="muted" x="473.0" y="216" text-anchor="middle" font-size="11">0.75</text>
+<line class="grid" x1="563.0" y1="38" x2="563.0" y2="200" stroke-width="1"/>
+<text class="muted" x="563.0" y="216" text-anchor="middle" font-size="11">1</text>
+<line x1="491.0" y1="34" x2="491.0" y2="200" stroke="#d64545" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="495.0" y="32" font-size="11" fill="#d64545" style="fill:#d64545">0.8 threshold</text>
+<text x="193" y="59" text-anchor="end"><title>Two or More Races</title>Two or More Races</text>
+<rect x="203" y="47" width="360.0" height="20" rx="3" fill="#1a9e77"/>
+<text x="575" y="59" font-size="12">1.00<tspan class="muted"> · 26.8% of 142</tspan></text>
+<text x="193" y="89" text-anchor="end"><title>White</title>White</text>
+<rect x="203" y="77" width="344.6" height="20" rx="3" fill="#1a9e77"/>
+<text x="575" y="89" font-size="12">0.96<tspan class="muted"> · 25.6% of 1,792</tspan></text>
+<text x="193" y="119" text-anchor="end"><title>Asian</title>Asian</text>
+<rect x="203" y="107" width="304.6" height="20" rx="3" fill="#1a9e77"/>
+<text x="575" y="119" font-size="12">0.85<tspan class="muted"> · 22.6% of 711</tspan></text>
+<text x="193" y="149" text-anchor="end"><title>Hispanic or Latino</title>Hispanic or Latino</text>
+<rect x="203" y="137" width="257.7" height="20" rx="3" fill="#d64545"/>
+<text x="575" y="149" font-size="12">0.72<tspan class="muted"> · 19.2% of 595</tspan></text>
+<text x="193" y="179" text-anchor="end"><title>Black or African American</title>Black or African American</text>
+<rect x="203" y="167" width="172.6" height="20" rx="3" fill="#d64545"/>
+<text x="575" y="179" font-size="12">0.48<tspan class="muted"> · 12.8% of 530</tspan></text>
+</svg>
