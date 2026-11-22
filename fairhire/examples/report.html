@@ -1,0 +1,104 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Bias Audit Report</title><style>
+:root{--bg:#f7f7f5;--card:#fff;--ink:#1c1c1e;--mute:#6b6b70;--line:#e4e4e0;--ok:#2f7d5b;--bad:#c4452f;--na:#a9a9a3;--track:#efefeb}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--card:#1d1d20;--ink:#ececee;--mute:#9a9aa0;--line:#2e2e33;--ok:#4fae84;--bad:#e8694f;--na:#5d5d62;--track:#29292d}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:940px;margin:0 auto;padding:40px 16px 64px}h1{font-size:28px;margin:0 0 4px}h2{font-size:18px;margin:0 0 14px}
+.meta{display:flex;flex-wrap:wrap;gap:6px 22px;color:var(--mute);font-size:13px;margin-bottom:24px}.meta b{color:var(--ink);font-weight:600}
+.verdict{padding:14px 18px;border-radius:10px;border-left:4px solid var(--ok);background:var(--card);margin-bottom:28px;font-weight:500}
+.verdict.warn{border-color:var(--bad)}section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:22px;margin-bottom:20px}
+.scroll{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:14px;margin-top:10px}th,td{padding:7px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+th{color:var(--mute);font-weight:500;font-size:12px;text-transform:uppercase;letter-spacing:.04em}th:first-child,td:first-child,th:last-child,td:last-child{text-align:left}
+.pill{display:inline-block;padding:1px 9px;border-radius:99px;font-size:12px;background:var(--track);color:var(--mute)}.pill.bad{background:var(--bad);color:#fff}.pill.ok{color:var(--ok)}
+svg{width:100%;height:auto;font-size:12px}.lbl{text-anchor:end;fill:var(--ink)}.val{fill:var(--mute)}.track{fill:var(--track)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}.na{fill:var(--na)}
+.rule{stroke:var(--ink);stroke-dasharray:4 3;stroke-width:1.2}.rule-lbl{text-anchor:middle;fill:var(--mute);font-size:11px}
+.note{color:var(--mute);font-size:13px;margin:10px 0 0}footer{color:var(--mute);font-size:12.5px;margin-top:28px}
+</style></head><body><main><h1>Bias Audit Report</h1><div class="meta"><span>Source: <b>applicants.csv</b></span><span>Date: <b>2026-11-22</b></span><span>Rows: <b>2,000</b></span><span>Metric: <b>Selection rate</b></span></div><div class="verdict warn">2 categories below the 0.8 threshold: Female · Asian (0.78), Female · Black (0.73).</div><section><h2>sex</h2><svg viewBox="0 0 770 88" role="img" aria-label="Impact ratio by category">
+<text x="290" y="21" class="lbl"><title>Male</title>Male</text>
+<rect x="300" y="8" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="8" width="400.0" height="18" rx="4" class="ok"/>
+<text x="708.0" y="21" class="val">1.000</text>
+<text x="290" y="51" class="lbl"><title>Female</title>Female</text>
+<rect x="300" y="38" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="38" width="344.8" height="18" rx="4" class="ok"/>
+<text x="708.0" y="51" class="val">0.862</text>
+<line x1="620.0" x2="620.0" y1="0" y2="66" class="rule"/>
+<text x="620.0" y="82" class="rule-lbl">4/5 rule (0.8)</text>
+</svg><div class='scroll'><table><thead><tr><th>Category</th><th>Applicants</th><th>Selected</th><th>Rate</th><th>Impact ratio</th><th>p-value</th><th>Status</th></tr></thead><tbody><tr><td>Male</td><td>984</td><td>486</td><td>49.4%</td><td>1.000</td><td>ref</td><td><span class="pill ok">ok</span></td></tr><tr><td>Female</td><td>949</td><td>404</td><td>42.6%</td><td>0.862</td><td>0.003</td><td><span class="pill ok">ok</span></td></tr></tbody></table></div><p class="note">67 applicant(s) with unknown category excluded from this view.</p></section><section><h2>race_ethnicity</h2><svg viewBox="0 0 770 208" role="img" aria-label="Impact ratio by category">
+<text x="290" y="21" class="lbl"><title>Native Hawaiian or Pacific Islander</title>Native Hawaiian or Pacific Islander</text>
+<rect x="300" y="8" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="8" width="0.0" height="18" rx="4" class="na"/>
+<text x="708.0" y="21" class="val">—</text>
+<text x="290" y="51" class="lbl"><title>Hispanic or Latino</title>Hispanic or Latino</text>
+<rect x="300" y="38" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="38" width="400.0" height="18" rx="4" class="ok"/>
+<text x="708.0" y="51" class="val">1.000</text>
+<text x="290" y="81" class="lbl"><title>White</title>White</text>
+<rect x="300" y="68" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="68" width="390.9" height="18" rx="4" class="ok"/>
+<text x="708.0" y="81" class="val">0.977</text>
+<text x="290" y="111" class="lbl"><title>Two or more races</title>Two or more races</text>
+<rect x="300" y="98" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="98" width="377.6" height="18" rx="4" class="ok"/>
+<text x="708.0" y="111" class="val">0.944</text>
+<text x="290" y="141" class="lbl"><title>Asian</title>Asian</text>
+<rect x="300" y="128" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="128" width="360.6" height="18" rx="4" class="ok"/>
+<text x="708.0" y="141" class="val">0.902</text>
+<text x="290" y="171" class="lbl"><title>Black</title>Black</text>
+<rect x="300" y="158" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="158" width="355.4" height="18" rx="4" class="ok"/>
+<text x="708.0" y="171" class="val">0.888</text>
+<line x1="620.0" x2="620.0" y1="0" y2="186" class="rule"/>
+<text x="620.0" y="202" class="rule-lbl">4/5 rule (0.8)</text>
+</svg><div class='scroll'><table><thead><tr><th>Category</th><th>Applicants</th><th>Selected</th><th>Rate</th><th>Impact ratio</th><th>p-value</th><th>Status</th></tr></thead><tbody><tr><td>Native Hawaiian or Pacific Islander</td><td>20</td><td>12</td><td>60.0%</td><td>—</td><td>—</td><td><span class="pill ">too few</span></td></tr><tr><td>Hispanic or Latino</td><td>386</td><td>188</td><td>48.7%</td><td>1.000</td><td>ref</td><td><span class="pill ok">ok</span></td></tr><tr><td>White</td><td>832</td><td>396</td><td>47.6%</td><td>0.977</td><td>0.719</td><td><span class="pill ok">ok</span></td></tr><tr><td>Two or more races</td><td>87</td><td>40</td><td>46.0%</td><td>0.944</td><td>0.646</td><td><span class="pill ok">ok</span></td></tr><tr><td>Asian</td><td>271</td><td>119</td><td>43.9%</td><td>0.902</td><td>0.225</td><td><span class="pill ok">ok</span></td></tr><tr><td>Black</td><td>379</td><td>164</td><td>43.3%</td><td>0.888</td><td>0.132</td><td><span class="pill ok">ok</span></td></tr></tbody></table></div><p class="note">25 applicant(s) with unknown category excluded from this view.</p></section><section><h2>sex × race_ethnicity</h2><svg viewBox="0 0 770 388" role="img" aria-label="Impact ratio by category">
+<text x="290" y="21" class="lbl"><title>Female · Native Hawaiian or Pacific Islander</title>Female · Native Hawaiian or Pacific Isla…</text>
+<rect x="300" y="8" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="8" width="0.0" height="18" rx="4" class="na"/>
+<text x="708.0" y="21" class="val">—</text>
+<text x="290" y="51" class="lbl"><title>Male · Native Hawaiian or Pacific Islander</title>Male · Native Hawaiian or Pacific Islander</text>
+<rect x="300" y="38" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="38" width="0.0" height="18" rx="4" class="na"/>
+<text x="708.0" y="51" class="val">—</text>
+<text x="290" y="81" class="lbl"><title>Male · Hispanic or Latino</title>Male · Hispanic or Latino</text>
+<rect x="300" y="68" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="68" width="400.0" height="18" rx="4" class="ok"/>
+<text x="708.0" y="81" class="val">1.000</text>
+<text x="290" y="111" class="lbl"><title>Male · White</title>Male · White</text>
+<rect x="300" y="98" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="98" width="392.6" height="18" rx="4" class="ok"/>
+<text x="708.0" y="111" class="val">0.982</text>
+<text x="290" y="141" class="lbl"><title>Male · Black</title>Male · Black</text>
+<rect x="300" y="128" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="128" width="365.3" height="18" rx="4" class="ok"/>
+<text x="708.0" y="141" class="val">0.913</text>
+<text x="290" y="171" class="lbl"><title>Male · Two or more races</title>Male · Two or more races</text>
+<rect x="300" y="158" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="158" width="356.0" height="18" rx="4" class="ok"/>
+<text x="708.0" y="171" class="val">0.890</text>
+<text x="290" y="201" class="lbl"><title>Male · Asian</title>Male · Asian</text>
+<rect x="300" y="188" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="188" width="350.3" height="18" rx="4" class="ok"/>
+<text x="708.0" y="201" class="val">0.876</text>
+<text x="290" y="231" class="lbl"><title>Female · White</title>Female · White</text>
+<rect x="300" y="218" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="218" width="340.8" height="18" rx="4" class="ok"/>
+<text x="708.0" y="231" class="val">0.852</text>
+<text x="290" y="261" class="lbl"><title>Female · Hispanic or Latino</title>Female · Hispanic or Latino</text>
+<rect x="300" y="248" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="248" width="340.5" height="18" rx="4" class="ok"/>
+<text x="708.0" y="261" class="val">0.851</text>
+<text x="290" y="291" class="lbl"><title>Female · Two or more races</title>Female · Two or more races</text>
+<rect x="300" y="278" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="278" width="329.3" height="18" rx="4" class="ok"/>
+<text x="708.0" y="291" class="val">0.823</text>
+<text x="290" y="321" class="lbl"><title>Female · Asian</title>Female · Asian</text>
+<rect x="300" y="308" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="308" width="311.0" height="18" rx="4" class="bad"/>
+<text x="708.0" y="321" class="val">0.777</text>
+<text x="290" y="351" class="lbl"><title>Female · Black</title>Female · Black</text>
+<rect x="300" y="338" width="400" height="18" rx="4" class="track"/>
+<rect x="300" y="338" width="292.3" height="18" rx="4" class="bad"/>
+<text x="708.0" y="351" class="val">0.731</text>
+<line x1="620.0" x2="620.0" y1="0" y2="366" class="rule"/>
+<text x="620.0" y="382" class="rule-lbl">4/5 rule (0.8)</text>
+</svg><div class='scroll'><table><thead><tr><th>Category</th><th>Applicants</th><th>Selected</th><th>Rate</th><th>Impact ratio</th><th>p-value</th><th>Status</th></tr></thead><tbody><tr><td>Female · Native Hawaiian or Pacific Islander</td><td>10</td><td>6</td><td>60.0%</td><td>—</td><td>—</td><td><span class="pill ">too few</span></td></tr><tr><td>Male · Native Hawaiian or Pacific Islander</td><td>9</td><td>5</td><td>55.6%</td><td>—</td><td>—</td><td><span class="pill ">too few</span></td></tr><tr><td>Male · Hispanic or Latino</td><td>194</td><td>101</td><td>52.1%</td><td>1.000</td><td>ref</td><td><span class="pill ok">ok</span></td></tr><tr><td>Male · White</td><td>409</td><td>209</td><td>51.1%</td><td>0.982</td><td>0.825</td><td><span class="pill ok">ok</span></td></tr><tr><td>Male · Black</td><td>183</td><td>87</td><td>47.5%</td><td>0.913</td><td>0.380</td><td><span class="pill ok">ok</span></td></tr><tr><td>Male · Two or more races</td><td>41</td><td>19</td><td>46.3%</td><td>0.890</td><td>0.506</td><td><span class="pill ok">ok</span></td></tr><tr><td>Male · Asian</td><td>136</td><td>62</td><td>45.6%</td><td>0.876</td><td>0.247</td><td><span class="pill ok">ok</span></td></tr><tr><td>Female · White</td><td>399</td><td>177</td><td>44.4%</td><td>0.852</td><td>0.078</td><td><span class="pill ok">ok</span></td></tr><tr><td>Female · Hispanic or Latino</td><td>176</td><td>78</td><td>44.3%</td><td>0.851</td><td>0.137</td><td><span class="pill ok">ok</span></td></tr><tr><td>Female · Two or more races</td><td>42</td><td>18</td><td>42.9%</td><td>0.823</td><td>0.279</td><td><span class="pill ok">ok</span></td></tr><tr><td>Female · Asian</td><td>126</td><td>51</td><td>40.5%</td><td>0.777</td><td>0.043</td><td><span class="pill bad">adverse impact</span></td></tr><tr><td>Female · Black</td><td>184</td><td>70</td><td>38.0%</td><td>0.731</td><td>0.006</td><td><span class="pill bad">adverse impact</span></td></tr></tbody></table></div><p class="note">91 applicant(s) with unknown category excluded from this view.</p></section><footer>Impact ratios are a screening signal, not a verdict. A low ratio warrants investigation; a passing ratio does not prove a process is fair. This report is not legal advice. Generated by FairHire.</footer></main></body></html>
