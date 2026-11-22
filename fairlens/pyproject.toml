@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fairlens"
+version = "0.1.0"
+description = "Dependency-free bias auditor for automated hiring, lending and admissions decisions."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+fairlens = "fairlens.cli:main"
+
+[tool.setuptools]
+packages = ["fairlens"]
