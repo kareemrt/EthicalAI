@@ -1,0 +1,13 @@
+# Blocked the famous ones, forgot the rest — and one rule too many.
+User-agent: GPTBot
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: *
+Allow: /
