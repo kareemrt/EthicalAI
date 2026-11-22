@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 230" width="620" height="230" font-family="system-ui,-apple-system,Segoe UI,sans-serif">
+<style>
+ .t{font-size:15px;font-weight:600;fill:#1f2328} .lbl,.val,.ax{font-size:12px;fill:#59636e}
+ .ok{fill:#4c72b0} .bad{fill:#d1495b} .muted{fill:#b8bec6} .th{stroke:#d1495b;stroke-dasharray:4 3}
+ @media (prefers-color-scheme:dark){.t{fill:#e6edf3} .lbl,.val,.ax{fill:#9198a1} .ok{fill:#6f9ce0} .muted{fill:#545d68}}
+</style>
+<text x="12" y="24" class="t">sex × age_band — impact ratio</text>
+<text x="180" y="60" class="lbl" text-anchor="end">Male × Under 30</text><rect x="190" y="48" width="360.0" height="16" rx="3" class="ok"/><text x="556.0" y="60" class="val">1.00</text><text x="180" y="86" class="lbl" text-anchor="end">Male × 30–49</text><rect x="190" y="74" width="349.9" height="16" rx="3" class="ok"/><text x="545.9" y="86" class="val">0.97</text><text x="180" y="112" class="lbl" text-anchor="end">Female × Under 30</text><rect x="190" y="100" width="320.6" height="16" rx="3" class="ok"/><text x="516.6" y="112" class="val">0.89</text><text x="180" y="138" class="lbl" text-anchor="end">Female × 30–49</text><rect x="190" y="126" width="297.5" height="16" rx="3" class="ok"/><text x="493.5" y="138" class="val">0.83</text><text x="180" y="164" class="lbl" text-anchor="end">Male × 50+</text><rect x="190" y="152" width="167.6" height="16" rx="3" class="bad"/><text x="363.6" y="164" class="val">0.47</text><text x="180" y="190" class="lbl" text-anchor="end">Female × 50+</text><rect x="190" y="178" width="155.8" height="16" rx="3" class="bad"/><text x="351.8" y="190" class="val">0.43</text>
+<line x1="478.0" y1="40" x2="478.0" y2="208" class="th"/>
+<text x="472.0" y="222" class="ax" text-anchor="end">four-fifths line 0.80</text>
+<text x="550" y="222" class="ax" text-anchor="middle">1.00</text>
+<text x="190" y="222" class="ax" text-anchor="middle">0</text>
+</svg>

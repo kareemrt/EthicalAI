@@ -1,0 +1,211 @@
+{
+  "source": "examples/screening.csv",
+  "outcome": "advanced",
+  "threshold": 0.8,
+  "results": {
+    "sex": [
+      {
+        "group": "Male",
+        "n": 2070,
+        "selected": 769,
+        "rate": 0.3714975845410628,
+        "impact_ratio": 1.0,
+        "p_value": 1.0,
+        "tpr": 0.7220412595005429,
+        "flags": []
+      },
+      {
+        "group": "Female",
+        "n": 1930,
+        "selected": 624,
+        "rate": 0.3233160621761658,
+        "impact_ratio": 0.8703046147004724,
+        "p_value": 0.0013927072839023346,
+        "tpr": 0.6143867924528302,
+        "flags": []
+      }
+    ],
+    "race": [
+      {
+        "group": "American Indian or Alaska Native",
+        "n": 40,
+        "selected": 15,
+        "rate": 0.375,
+        "impact_ratio": 1.049187725631769,
+        "p_value": 0.8180917899680692,
+        "tpr": 0.6190476190476191,
+        "flags": [
+          "small-sample"
+        ]
+      },
+      {
+        "group": "White",
+        "n": 2325,
+        "selected": 831,
+        "rate": 0.3574193548387097,
+        "impact_ratio": 1.0,
+        "p_value": 1.0,
+        "tpr": 0.6862367661212705,
+        "flags": []
+      },
+      {
+        "group": "Black or African American",
+        "n": 448,
+        "selected": 154,
+        "rate": 0.34375,
+        "impact_ratio": 0.9617554151624549,
+        "p_value": 0.5798740177637169,
+        "tpr": 0.6632124352331606,
+        "flags": []
+      },
+      {
+        "group": "Asian",
+        "n": 385,
+        "selected": 132,
+        "rate": 0.34285714285714286,
+        "impact_ratio": 0.9592573491490459,
+        "p_value": 0.5802903428406757,
+        "tpr": 0.6707317073170732,
+        "flags": []
+      },
+      {
+        "group": "Two or More Races",
+        "n": 92,
+        "selected": 31,
+        "rate": 0.33695652173913043,
+        "impact_ratio": 0.9427483911473866,
+        "p_value": 0.6877762540934457,
+        "tpr": 0.574468085106383,
+        "flags": []
+      },
+      {
+        "group": "Hispanic or Latino",
+        "n": 685,
+        "selected": 224,
+        "rate": 0.327007299270073,
+        "impact_ratio": 0.9149121188964136,
+        "p_value": 0.1426002802321893,
+        "tpr": 0.6418918918918919,
+        "flags": []
+      },
+      {
+        "group": "Native Hawaiian or Pacific Islander",
+        "n": 25,
+        "selected": 6,
+        "rate": 0.24,
+        "impact_ratio": 0.6714801444043321,
+        "p_value": 0.22266394887742547,
+        "tpr": 0.5555555555555556,
+        "flags": [
+          "small-sample"
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "Under 30",
+        "n": 1245,
+        "selected": 497,
+        "rate": 0.39919678714859436,
+        "impact_ratio": 1.0,
+        "p_value": 1.0,
+        "tpr": 0.7414721723518851,
+        "flags": []
+      },
+      {
+        "group": "30\u201349",
+        "n": 1968,
+        "selected": 747,
+        "rate": 0.3795731707317073,
+        "impact_ratio": 0.9508422486136331,
+        "p_value": 0.26592481114578315,
+        "tpr": 0.7432273262661955,
+        "flags": []
+      },
+      {
+        "group": "50+",
+        "n": 787,
+        "selected": 149,
+        "rate": 0.18932655654383734,
+        "impact_ratio": 0.47426873822349597,
+        "p_value": 4.3058530659840795e-23,
+        "tpr": 0.39118457300275483,
+        "flags": [
+          "adverse-impact",
+          "significant",
+          "opportunity-gap"
+        ]
+      }
+    ],
+    "sex \u00d7 age_band": [
+      {
+        "group": "Male \u00d7 Under 30",
+        "n": 653,
+        "selected": 275,
+        "rate": 0.4211332312404288,
+        "impact_ratio": 1.0,
+        "p_value": 1.0,
+        "tpr": 0.7918088737201365,
+        "flags": []
+      },
+      {
+        "group": "Male \u00d7 30\u201349",
+        "n": 1014,
+        "selected": 415,
+        "rate": 0.40927021696252464,
+        "impact_ratio": 0.9718307333691949,
+        "p_value": 0.6312074649189889,
+        "tpr": 0.7920353982300885,
+        "flags": []
+      },
+      {
+        "group": "Female \u00d7 Under 30",
+        "n": 592,
+        "selected": 222,
+        "rate": 0.375,
+        "impact_ratio": 0.8904545454545455,
+        "p_value": 0.09693066812219471,
+        "tpr": 0.6856060606060606,
+        "flags": []
+      },
+      {
+        "group": "Female \u00d7 30\u201349",
+        "n": 954,
+        "selected": 332,
+        "rate": 0.3480083857442348,
+        "impact_ratio": 0.8263617305126739,
+        "p_value": 0.002981122418426155,
+        "tpr": 0.6876574307304786,
+        "flags": []
+      },
+      {
+        "group": "Male \u00d7 50+",
+        "n": 403,
+        "selected": 79,
+        "rate": 0.19602977667493796,
+        "impact_ratio": 0.4654816151590345,
+        "p_value": 5.1705351889619886e-14,
+        "tpr": 0.42613636363636365,
+        "flags": [
+          "adverse-impact",
+          "significant",
+          "opportunity-gap"
+        ]
+      },
+      {
+        "group": "Female \u00d7 50+",
+        "n": 384,
+        "selected": 70,
+        "rate": 0.18229166666666666,
+        "impact_ratio": 0.4328598484848485,
+        "p_value": 3.2113223133180774e-15,
+        "tpr": 0.3582887700534759,
+        "flags": [
+          "adverse-impact",
+          "significant",
+          "opportunity-gap"
+        ]
+      }
+    ]
+  }
+}
