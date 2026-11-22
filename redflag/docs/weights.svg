@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 500" width="820" height="500" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif">
+<style>.bg{fill:#fcfcfb}.t1{fill:#0b0b0b}.t2{fill:#52514e}.bar{fill:#2a78d6}.grid{stroke:#e4e3df}@media (prefers-color-scheme:dark){.bg{fill:#1a1a19}.t1{fill:#f0efec}.t2{fill:#c3c2b7}.bar{fill:#3987e5}.grid{stroke:#383835}}</style>
+<rect class="bg" width="820" height="500" rx="12"/>
+<text class="t1" x="24" y="34" font-size="17" font-weight="600">What the model learned to fear</text>
+<text class="t2" x="24" y="54" font-size="13">Logistic-regression weight per signal (log-odds). Baseline bias -2.00: a message with no flags scores ~12% risk.</text>
+<line class="grid" x1="340.0" x2="340.0" y1="64" y2="466" stroke-width="1"/>
+<text class="t2" x="340.0" y="484" font-size="12" text-anchor="middle">0</text>
+<line class="grid" x1="487.7" x2="487.7" y1="64" y2="466" stroke-width="1"/>
+<text class="t2" x="487.7" y="484" font-size="12" text-anchor="middle">1</text>
+<line class="grid" x1="635.3" x2="635.3" y1="64" y2="466" stroke-width="1"/>
+<text class="t2" x="635.3" y="484" font-size="12" text-anchor="middle">2</text>
+<text class="t1" x="328" y="82" font-size="13" text-anchor="end">Suspicious link</text>
+<path class="bar" d="M340,70 H746.0 Q750.0,70 750.0,74 V82 Q750.0,86 746.0,86 H340 Z"/>
+<text class="t2" x="758.0" y="82" font-size="12">+2.78</text>
+<text class="t1" x="328" y="112" font-size="13" text-anchor="end">Pressure to act fast</text>
+<path class="bar" d="M340,100 H734.5713256743617 Q738.5713256743617,100 738.5713256743617,104 V112 Q738.5713256743617,116 734.5713256743617,116 H340 Z"/>
+<text class="t2" x="746.6" y="112" font-size="12">+2.70</text>
+<text class="t1" x="328" y="142" font-size="13" text-anchor="end">Threats or scary consequences</text>
+<path class="bar" d="M340,130 H689.2405373284835 Q693.2405373284835,130 693.2405373284835,134 V142 Q693.2405373284835,146 689.2405373284835,146 H340 Z"/>
+<text class="t2" x="701.2" y="142" font-size="12">+2.39</text>
+<text class="t1" x="328" y="172" font-size="13" text-anchor="end">Asks for passwords, codes or personal numbers</text>
+<path class="bar" d="M340,160 H652.5034033204884 Q656.5034033204884,160 656.5034033204884,164 V172 Q656.5034033204884,176 652.5034033204884,176 H340 Z"/>
+<text class="t2" x="664.5" y="172" font-size="12">+2.14</text>
+<text class="t1" x="328" y="202" font-size="13" text-anchor="end">Asks for an unusual payment method</text>
+<path class="bar" d="M340,190 H646.6118774084346 Q650.6118774084346,190 650.6118774084346,194 V202 Q650.6118774084346,206 646.6118774084346,206 H340 Z"/>
+<text class="t2" x="658.6" y="202" font-size="12">+2.10</text>
+<text class="t1" x="328" y="232" font-size="13" text-anchor="end">Too good to be true</text>
+<path class="bar" d="M340,220 H630.5172326862823 Q634.5172326862823,220 634.5172326862823,224 V232 Q634.5172326862823,236 630.5172326862823,236 H340 Z"/>
+<text class="t2" x="642.5" y="232" font-size="12">+1.99</text>
+<text class="t1" x="328" y="262" font-size="13" text-anchor="end">Claims to be an official body or big brand</text>
+<path class="bar" d="M340,250 H523.4804624194187 Q527.4804624194187,250 527.4804624194187,254 V262 Q527.4804624194187,266 523.4804624194187,266 H340 Z"/>
+<text class="t2" x="535.5" y="262" font-size="12">+1.27</text>
+<text class="t1" x="328" y="292" font-size="13" text-anchor="end">Wants control of your device</text>
+<path class="bar" d="M340,280 H479.52288688010947 Q483.52288688010947,280 483.52288688010947,284 V292 Q483.52288688010947,296 479.52288688010947,296 H340 Z"/>
+<text class="t2" x="491.5" y="292" font-size="12">+0.97</text>
+<text class="t1" x="328" y="322" font-size="13" text-anchor="end">Impersonal greeting</text>
+<path class="bar" d="M340,310 H474.84215075449276 Q478.84215075449276,310 478.84215075449276,314 V322 Q478.84215075449276,326 474.84215075449276,326 H340 Z"/>
+<text class="t2" x="486.8" y="322" font-size="12">+0.94</text>
+<text class="t1" x="328" y="352" font-size="13" text-anchor="end">Sudden emergency from a 'loved one'</text>
+<path class="bar" d="M340,340 H473.3951093024093 Q477.3951093024093,340 477.3951093024093,344 V352 Q477.3951093024093,356 473.3951093024093,356 H340 Z"/>
+<text class="t2" x="485.4" y="352" font-size="12">+0.93</text>
+<text class="t1" x="328" y="382" font-size="13" text-anchor="end">Asks you to keep it secret</text>
+<path class="bar" d="M340,370 H470.05805452515574 Q474.05805452515574,370 474.05805452515574,374 V382 Q474.05805452515574,386 470.05805452515574,386 H340 Z"/>
+<text class="t2" x="482.1" y="382" font-size="12">+0.91</text>
+<text class="t1" x="328" y="412" font-size="13" text-anchor="end">Investment or trading pitch</text>
+<path class="bar" d="M340,400 H402.81492419058594 Q406.81492419058594,400 406.81492419058594,404 V412 Q406.81492419058594,416 402.81492419058594,416 H340 Z"/>
+<text class="t2" x="414.8" y="412" font-size="12">+0.45</text>
+<text class="t1" x="328" y="442" font-size="13" text-anchor="end">SHOUTING or excessive punctuation</text>
+<path class="bar" d="M340,430 H344.87420319083805 Q348.87420319083805,430 348.87420319083805,434 V442 Q348.87420319083805,446 344.87420319083805,446 H340 Z"/>
+<text class="t2" x="356.9" y="442" font-size="12">+0.06</text>
+</svg>

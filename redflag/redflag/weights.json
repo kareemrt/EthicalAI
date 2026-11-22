@@ -1,0 +1,18 @@
+{
+  "bias": -1.998,
+  "weights": {
+    "urgency": 2.6993,
+    "threat": 2.3923,
+    "authority": 1.2697,
+    "payment": 2.1036,
+    "credentials": 2.1435,
+    "prize": 1.9946,
+    "secrecy": 0.9079,
+    "remote_access": 0.972,
+    "family_emergency": 0.9305,
+    "generic_greeting": 0.9403,
+    "risky_link": 2.7767,
+    "shouting": 0.0601,
+    "investment": 0.4525
+  }
+}

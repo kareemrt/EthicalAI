@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RedFlag — Is this message a scam?</title>
+<style>
+  :root {
+    --bg: #f7f5f0; --card: #ffffff; --ink: #1d1d1f; --muted: #5b5b63; --line: #e3e0d8;
+    --ok: #1f7a4d; --warn: #b26a00; --danger: #c0262d; --mark: #ffe08a; --accent: #1d1d1f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #141416; --card: #1e1e22; --ink: #f2f2f4; --muted: #a3a3ad; --line: #2e2e34;
+            --ok: #4cc38a; --warn: #f0a742; --danger: #ff6b6b; --mark: #6b5310; --accent: #f2f2f4; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 19px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 2rem; margin: 0 0 4px; letter-spacing: -0.02em; }
+  h1 span { color: var(--danger); }
+  .sub { color: var(--muted); margin: 0 0 28px; }
+  textarea { width: 100%; min-height: 150px; padding: 16px; font: inherit; color: inherit;
+             background: var(--card); border: 2px solid var(--line); border-radius: 14px; resize: vertical; }
+  textarea:focus { outline: none; border-color: var(--accent); }
+  .row { display: flex; gap: 12px; margin-top: 14px; flex-wrap: wrap; }
+  button { font: inherit; font-weight: 600; padding: 12px 26px; border-radius: 12px; cursor: pointer;
+           border: 2px solid var(--accent); background: var(--accent); color: var(--bg); }
+  button.ghost { background: transparent; color: var(--ink); border-color: var(--line); }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 22px; margin-top: 26px; }
+  .verdict { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .verdict h2 { margin: 0; font-size: 1.6rem; }
+  .meter { flex: 1; min-width: 160px; height: 12px; background: var(--line); border-radius: 99px; overflow: hidden; }
+  .meter i { display: block; height: 100%; border-radius: 99px; transition: width .4s ease; }
+  .ok { color: var(--ok); } .warn { color: var(--warn); } .danger { color: var(--danger); }
+  .bg-ok { background: var(--ok); } .bg-warn { background: var(--warn); } .bg-danger { background: var(--danger); }
+  .quote { margin: 18px 0 4px; padding: 14px 16px; border-left: 4px solid var(--line); color: var(--muted); white-space: pre-wrap; }
+  mark { background: var(--mark); color: inherit; border-radius: 4px; padding: 0 2px; }
+  ol { padding-left: 1.3em; margin: 18px 0 0; }
+  li { margin-bottom: 16px; }
+  li b { display: block; }
+  .why { color: var(--muted); }
+  .do { margin-top: 4px; }
+  .do::before { content: "→ "; font-weight: 700; }
+  footer { color: var(--muted); font-size: .9rem; margin-top: 36px; }
+</style>
+</head>
+<body>
+<main>
+  <h1><span>●</span> RedFlag</h1>
+  <p class="sub">Paste a text, email or what a caller said. Get a plain-language second opinion. Nothing leaves this computer.</p>
+
+  <label for="msg" class="sub" style="display:block;margin:0 0 6px">Message</label>
+  <textarea id="msg" placeholder="e.g. URGENT: your account is locked. Verify at secure-bank-login.top"></textarea>
+  <div class="row">
+    <button id="go">Check message</button>
+    <button id="ex" class="ghost">Try an example</button>
+  </div>
+
+  <section id="out" aria-live="polite"></section>
+
+  <footer>RedFlag is a helper, not a guarantee. If in doubt, contact the organisation using a number or website you already trust,
+    or talk it through with someone you know. US: report at reportfraud.ftc.gov · UK: actionfraud.police.uk</footer>
+</main>
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => s.replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const EXAMPLES = [
+  "Hi Grandma, it's me. I'm in jail after a car accident and need bail money. Please don't tell Mom. Can you get Target gift cards?",
+  "IRS FINAL NOTICE: You owe back taxes. A warrant will be issued for your arrest unless you pay today with Google Play cards.",
+  "Dear Customer, your PayPal account is locked. Confirm your card number at paypal-secure-login.com to restore access.",
+  "Your Chase verification code is 482913. Don't share this code with anyone. We will never call to ask for it.",
+];
+let n = 0;
+
+function highlight(text, flags) {
+  const spans = flags.flatMap(f => f.evidence).sort((a, b) => a.start - b.start);
+  let html = "", pos = 0;
+  for (const s of spans) {
+    if (s.start < pos) continue;
+    html += esc(text.slice(pos, s.start)) + "<mark>" + esc(text.slice(s.start, s.end)) + "</mark>";
+    pos = s.end;
+  }
+  return html + esc(text.slice(pos));
+}
+
+async function check() {
+  const text = $("#msg").value.trim();
+  if (!text) return;
+  const r = await (await fetch("/api/check", { method: "POST", body: JSON.stringify({ text }) })).json();
+  const items = r.flags.map(f => `<li><b>${esc(f.label)}</b><span class="why">${esc(f.why)}</span><div class="do">${esc(f.advice)}</div></li>`).join("");
+  $("#out").innerHTML = `
+    <div class="card">
+      <div class="verdict">
+        <h2 class="${r.level}">${esc(r.verdict)}</h2>
+        <div class="meter" role="meter" aria-valuenow="${Math.min(99, Math.round(r.risk * 100))}" aria-valuemin="0" aria-valuemax="100" aria-label="Scam risk">
+          <i class="bg-${r.level}" style="width:${Math.max(4, r.risk * 100)}%"></i></div>
+        <strong>${Math.min(99, Math.round(r.risk * 100))}%</strong>
+      </div>
+      <div class="quote">${highlight(text, r.flags)}</div>
+      ${items ? `<ol>${items}</ol>` : `<p class="why">No known scam patterns found. Still unsure? Contact the sender using details you already trust.</p>`}
+    </div>`;
+}
+$("#go").onclick = check;
+$("#ex").onclick = () => { $("#msg").value = EXAMPLES[n++ % EXAMPLES.length]; check(); };
+$("#msg").addEventListener("keydown", e => { if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) check(); });
+</script>
+</body>
+</html>

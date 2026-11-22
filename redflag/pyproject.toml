@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "redflag"
+version = "0.1.0"
+description = "Explainable, offline scam-message detection that tells people why - and what to do."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+redflag = "redflag.cli:main"
+
+[tool.setuptools]
+packages = ["redflag"]
+
+[tool.setuptools.package-data]
+redflag = ["weights.json", "static/index.html"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
