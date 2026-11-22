@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 742 598" width="742" height="598" font-family="system-ui,-apple-system,Segoe UI,sans-serif">
+<title>Impact ratios for "advanced"</title>
+<text x="16.0" y="34.0" text-anchor="start" font-size="12" font-weight="700" fill="#8b949e">SEX</text>
+<text x="266.0" y="57.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Female</text>
+<rect x="276" y="47" width="292.0" height="14" rx="3" fill="#2a9d8f"/>
+<text x="574.0" y="57.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.81</text>
+<text x="266.0" y="79.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Male</text>
+<rect x="276" y="69" width="360.0" height="14" rx="3" fill="#2a9d8f"/>
+<text x="642.0" y="79.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">1.00</text>
+<text x="16.0" y="114.0" text-anchor="start" font-size="12" font-weight="700" fill="#8b949e">RACE</text>
+<text x="266.0" y="137.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Asian</text>
+<rect x="276" y="127" width="356.1" height="14" rx="3" fill="#2a9d8f"/>
+<text x="638.1" y="137.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.99</text>
+<text x="266.0" y="159.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Black or African American</text>
+<rect x="276" y="149" width="300.4" height="14" rx="3" fill="#2a9d8f"/>
+<text x="582.4" y="159.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.83</text>
+<text x="266.0" y="181.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Hispanic or Latino</text>
+<rect x="276" y="171" width="305.2" height="14" rx="3" fill="#2a9d8f"/>
+<text x="587.2" y="181.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.85</text>
+<text x="266.0" y="203.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Native American or Alaska Native</text>
+<rect x="276" y="193" width="360.0" height="14" rx="3" fill="#8b949e" opacity="0.45"/>
+<text x="642.0" y="203.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">n/a (small)</text>
+<text x="266.0" y="225.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Two or More Races</text>
+<rect x="276" y="215" width="360.0" height="14" rx="3" fill="#8b949e" opacity="0.45"/>
+<text x="642.0" y="225.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">n/a (small)</text>
+<text x="266.0" y="247.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">White</text>
+<rect x="276" y="237" width="360.0" height="14" rx="3" fill="#2a9d8f"/>
+<text x="642.0" y="247.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">1.00</text>
+<text x="16.0" y="282.0" text-anchor="start" font-size="12" font-weight="700" fill="#8b949e">SEX × RACE</text>
+<text x="266.0" y="305.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Female / Asian</text>
+<rect x="276" y="295" width="307.7" height="14" rx="3" fill="#2a9d8f"/>
+<text x="589.7" y="305.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.85</text>
+<text x="266.0" y="327.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Female / Black or African American</text>
+<rect x="276" y="317" width="227.6" height="14" rx="3" fill="#e76f51"/>
+<text x="509.6" y="327.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.63</text>
+<text x="266.0" y="349.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Female / Hispanic or Latino</text>
+<rect x="276" y="339" width="236.8" height="14" rx="3" fill="#e76f51"/>
+<text x="518.8" y="349.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.66</text>
+<text x="266.0" y="371.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Female / Native American or Alaska Native</text>
+<rect x="276" y="361" width="278.4" height="14" rx="3" fill="#8b949e" opacity="0.45"/>
+<text x="560.4" y="371.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">n/a (small)</text>
+<text x="266.0" y="393.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Female / Two or More Races</text>
+<rect x="276" y="383" width="292.3" height="14" rx="3" fill="#8b949e" opacity="0.45"/>
+<text x="574.3" y="393.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">n/a (small)</text>
+<text x="266.0" y="415.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Female / White</text>
+<rect x="276" y="405" width="309.6" height="14" rx="3" fill="#2a9d8f"/>
+<text x="591.6" y="415.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.86</text>
+<text x="266.0" y="437.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Male / Asian</text>
+<rect x="276" y="427" width="357.3" height="14" rx="3" fill="#2a9d8f"/>
+<text x="639.3" y="437.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.99</text>
+<text x="266.0" y="459.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Male / Black or African American</text>
+<rect x="276" y="449" width="337.1" height="14" rx="3" fill="#2a9d8f"/>
+<text x="619.1" y="459.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.94</text>
+<text x="266.0" y="481.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Male / Hispanic or Latino</text>
+<rect x="276" y="471" width="324.6" height="14" rx="3" fill="#2a9d8f"/>
+<text x="606.6" y="481.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">0.90</text>
+<text x="266.0" y="503.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Male / Native American or Alaska Native</text>
+<rect x="276" y="493" width="360.0" height="14" rx="3" fill="#8b949e" opacity="0.45"/>
+<text x="642.0" y="503.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">n/a (small)</text>
+<text x="266.0" y="525.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Male / Two or More Races</text>
+<rect x="276" y="515" width="360.0" height="14" rx="3" fill="#8b949e" opacity="0.45"/>
+<text x="642.0" y="525.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">n/a (small)</text>
+<text x="266.0" y="547.0" text-anchor="end" font-size="12" font-weight="400" fill="#8b949e">Male / White</text>
+<rect x="276" y="537" width="360.0" height="14" rx="3" fill="#2a9d8f"/>
+<text x="642.0" y="547.0" text-anchor="start" font-size="12" font-weight="400" fill="#8b949e">1.00</text>
+<line x1="564.0" y1="16" x2="564.0" y2="564" stroke="#e76f51" stroke-dasharray="4 3"/>
+<text x="564.0" y="578.0" text-anchor="middle" font-size="12" font-weight="400" fill="#e76f51">80% threshold (four-fifths rule)</text>
+</svg>
