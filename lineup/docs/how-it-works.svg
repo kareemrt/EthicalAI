@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 262" width="760" height="262" role="img"
+  aria-label="Lineup pipeline: detect columns, measure risk, generalize, verify">
+<style>
+  .bg { fill: #fcfcfb; } .box { fill: #ffffff; stroke: #c3c2b7; stroke-width: 1.2; }
+  .hot { fill: #fdeee8; stroke: #eb6834; } .ok { fill: #e7f2fb; stroke: #2a78d6; }
+  .arrow { stroke: #8a8983; stroke-width: 1.5; fill: none; marker-end: url(#a); }
+  text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #0b0b0b; }
+  .h { font-size: 14px; font-weight: 600; } .b { font-size: 11.5px; fill: #52514e; }
+  .m { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11px; fill: #52514e; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #1a1a19; } .box { fill: #232322; stroke: #52514e; }
+    .hot { fill: #3a2219; stroke: #d95926; } .ok { fill: #182a3d; stroke: #3987e5; }
+    text { fill: #f0efec; } .b, .m { fill: #c3c2b7; }
+  }
+</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+  <path d="M0,0 L10,5 L0,10 z" fill="#8a8983"/></marker></defs>
+<rect class="bg" width="760" height="262" rx="10"/>
+
+<rect class="box" x="20" y="40" width="160" height="150" rx="8"/>
+<text class="h" x="36" y="66">1 · Detect</text>
+<text class="b" x="36" y="88">direct identifiers</text>
+<text class="m" x="36" y="104">name, email, ids</text>
+<text class="b" x="36" y="128">quasi-identifiers</text>
+<text class="m" x="36" y="144">zip, birth_date, sex</text>
+<text class="b" x="36" y="168">sensitive columns</text>
+<text class="m" x="36" y="182">diagnosis</text>
+
+<rect class="box hot" x="210" y="40" width="160" height="150" rx="8"/>
+<text class="h" x="226" y="66">2 · Measure</text>
+<text class="b" x="226" y="88">k-anonymity</text>
+<text class="b" x="226" y="108">unique / at-risk records</text>
+<text class="b" x="226" y="128">avg + worst-case risk</text>
+<text class="b" x="226" y="148">l-diversity</text>
+<text class="b" x="226" y="168">risk drivers per column</text>
+
+<rect class="box" x="400" y="40" width="160" height="150" rx="8"/>
+<text class="h" x="416" y="66">3 · Generalize</text>
+<text class="m" x="416" y="90">02139 → 021**</text>
+<text class="m" x="416" y="110">1984-07-12 → 1980s</text>
+<text class="m" x="416" y="130">37 → 35-39</text>
+<text class="m" x="416" y="150">rare job → Other</text>
+<text class="b" x="416" y="174">+ suppress ≤ 5% outliers</text>
+
+<rect class="box ok" x="590" y="40" width="150" height="150" rx="8"/>
+<text class="h" x="606" y="66">4 · Verify</text>
+<text class="b" x="606" y="88">re-measure the output</text>
+<text class="b" x="606" y="108">report information loss</text>
+<text class="b" x="606" y="128">exit 0 only if k is met</text>
+<text class="m" x="606" y="156">safe.csv</text>
+<text class="m" x="606" y="172">report.md / .json</text>
+
+<path class="arrow" d="M182,115 H206"/>
+<path class="arrow" d="M372,115 H396"/>
+<path class="arrow" d="M562,115 H586"/>
+<path class="arrow" d="M480,192 V218 H290 V194"/>
+<text class="b" x="190" y="244">↺ greedy loop: most records protected per unit of detail lost</text>
+</svg>

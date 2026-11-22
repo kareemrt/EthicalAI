@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350" role="img"
+  aria-label="Records by equivalence-class size, before and after anonymization">
+<style>
+  .bg { fill: #fcfcfb; } .bar { fill: #2a78d6; } .axis { stroke: #c3c2b7; stroke-width: 1; }
+  text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #0b0b0b; }
+  .t { font-size: 15px; font-weight: 600; } .s { font-size: 12px; fill: #52514e; }
+  .v { font-size: 12px; text-anchor: middle; font-variant-numeric: tabular-nums; }
+  .l { font-size: 11px; fill: #52514e; text-anchor: middle; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #1a1a19; } .bar { fill: #3987e5; } .axis { stroke: #52514e; }
+    text { fill: #f0efec; } .s, .l { fill: #c3c2b7; }
+  }
+</style>
+<rect class="bg" width="760" height="350" rx="10"/>
+<text x="56.0" y="54" class="t">Before: raw extract</text>
+<text x="56.0" y="74" class="s">k = 1 · 100% unique</text>
+<line x1="56.0" x2="356.0" y1="292" y2="292" class="axis"/>
+<path class="bar" d="M63.0,292 V120.0 Q63.0,116.0 67.0,116.0 H105.0 Q109.0,116.0 109.0,120.0 V292 Z"><title>1 (unique): 1,000 records</title></path>
+<text x="86.0" y="110.0" class="v">1,000</text>
+<text x="86.0" y="310" class="l">1</text>
+<text x="146.0" y="286.0" class="v">0</text>
+<text x="146.0" y="310" class="l">2-4</text>
+<text x="206.0" y="286.0" class="v">0</text>
+<text x="206.0" y="310" class="l">5-9</text>
+<text x="266.0" y="286.0" class="v">0</text>
+<text x="266.0" y="310" class="l">10-49</text>
+<text x="326.0" y="286.0" class="v">0</text>
+<text x="326.0" y="310" class="l">50+</text>
+<text x="206.0" y="330" class="l">records by equivalence-class size</text>
+<text x="404.0" y="54" class="t">After: lineup fix --k 5</text>
+<text x="404.0" y="74" class="s">k = 5 · 0% unique</text>
+<line x1="404.0" x2="704.0" y1="292" y2="292" class="axis"/>
+<text x="434.0" y="286.0" class="v">0</text>
+<text x="434.0" y="310" class="l">1</text>
+<text x="494.0" y="286.0" class="v">0</text>
+<text x="494.0" y="310" class="l">2-4</text>
+<path class="bar" d="M531.0,292 V274.9 Q531.0,270.9 535.0,270.9 H573.0 Q577.0,270.9 577.0,274.9 V292 Z"><title>5-9: 120 records</title></path>
+<text x="554.0" y="264.9" class="v">120</text>
+<text x="554.0" y="310" class="l">5-9</text>
+<path class="bar" d="M591.0,292 V156.1 Q591.0,152.1 595.0,152.1 H633.0 Q637.0,152.1 637.0,156.1 V292 Z"><title>10-49: 795 records</title></path>
+<text x="614.0" y="146.1" class="v">795</text>
+<text x="614.0" y="310" class="l">10-49</text>
+<path class="bar" d="M651.0,292 V287.0 Q651.0,283.0 655.0,283.0 H693.0 Q697.0,283.0 697.0,287.0 V292 Z"><title>50+: 51 records</title></path>
+<text x="674.0" y="277.0" class="v">51</text>
+<text x="674.0" y="310" class="l">50+</text>
+<text x="554.0" y="330" class="l">records by equivalence-class size</text>
+</svg>

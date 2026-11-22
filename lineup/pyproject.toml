@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lineup"
+version = "0.1.0"
+description = "Find out whether people in a dataset can be re-identified, then fix it."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+lineup = "lineup.cli:main"
+
+[tool.setuptools]
+packages = ["lineup"]

@@ -1,0 +1,967 @@
+zip,birth_date,sex,race,diagnosis,visits_last_year
+*,1970s,F,Black,Hypertension,6
+*,1980s,F,Black,Asthma,2
+*,1980s,F,White,Back pain,11
+*,1990s,F,White,Hypertension,9
+*,1970s,F,Hispanic,Type 2 diabetes,9
+*,1990s,F,White,Hypertension,9
+*,1940s,M,Asian,Back pain,7
+*,1990s,M,White,Hypertension,12
+*,1990s,M,White,Migraine,8
+*,1940s,M,White,HIV,6
+*,2000s,M,Hispanic,Depression,2
+*,1980s,F,White,Migraine,12
+*,2000s,M,Hispanic,Asthma,1
+*,1950s,M,White,Type 2 diabetes,5
+*,1970s,M,White,Hypertension,8
+*,1960s,M,Hispanic,Type 2 diabetes,12
+*,2000s,F,White,Hypertension,3
+*,1940s,F,White,Type 2 diabetes,1
+*,1980s,M,White,Migraine,9
+*,1980s,M,White,Asthma,7
+*,1990s,F,White,Type 2 diabetes,8
+*,1970s,F,White,Back pain,3
+*,1970s,F,White,Back pain,7
+*,1970s,M,White,Hypertension,8
+*,1980s,F,White,Migraine,6
+*,2000s,F,White,Depression,6
+*,1940s,M,Hispanic,Hypertension,12
+*,1970s,F,Black,Back pain,9
+*,1990s,F,White,Asthma,12
+*,1980s,F,White,Type 2 diabetes,8
+*,2000s,M,Asian,Asthma,6
+*,1940s,F,White,Type 2 diabetes,8
+*,1940s,M,Hispanic,Hypertension,11
+*,2000s,M,White,Depression,11
+*,2000s,M,Asian,Hypertension,12
+*,1950s,M,Hispanic,Hypertension,10
+*,1990s,F,White,Hypertension,12
+*,1950s,F,White,Hypertension,5
+*,1980s,M,White,Back pain,7
+*,1970s,M,Black,Hypertension,9
+*,1950s,F,Hispanic,Hypertension,6
+*,1980s,F,Hispanic,Hypertension,4
+*,1940s,M,Hispanic,Hypertension,2
+*,1990s,F,Asian,Type 2 diabetes,8
+*,1980s,M,Hispanic,Type 2 diabetes,8
+*,1950s,M,White,Back pain,4
+*,1960s,F,Asian,Hypertension,7
+*,1990s,M,Black,Asthma,6
+*,1970s,M,White,Asthma,9
+*,2000s,M,Black,Back pain,5
+*,1950s,F,White,Type 2 diabetes,5
+*,1960s,M,Hispanic,Type 2 diabetes,7
+*,1980s,M,White,Type 2 diabetes,1
+*,1940s,F,White,Hypertension,10
+*,1960s,F,White,Back pain,7
+*,1950s,F,White,Hypertension,5
+*,1950s,M,Black,HIV,4
+*,1980s,M,White,Hypertension,5
+*,1940s,F,Black,Depression,4
+*,1990s,M,Black,Asthma,9
+*,1960s,F,White,Asthma,1
+*,1940s,M,Black,Hypertension,1
+*,1980s,F,Asian,Type 2 diabetes,1
+*,1950s,F,White,Asthma,6
+*,1960s,M,White,Asthma,3
+*,1970s,M,Black,Back pain,4
+*,1940s,F,White,Asthma,10
+*,1940s,F,White,Back pain,9
+*,1970s,M,White,Type 2 diabetes,12
+*,1940s,M,Asian,Migraine,9
+*,1980s,F,Asian,Back pain,12
+*,1940s,M,White,Asthma,8
+*,1990s,F,Black,Type 2 diabetes,1
+*,1980s,F,Asian,Migraine,8
+*,1960s,F,White,Migraine,11
+*,1970s,M,Other,Hypertension,10
+*,1990s,M,Hispanic,Migraine,12
+*,1990s,M,White,Depression,5
+*,2000s,M,Black,Depression,8
+*,1950s,M,White,Type 2 diabetes,8
+*,1980s,F,White,Hypertension,10
+*,1980s,F,Hispanic,Back pain,9
+*,2000s,M,Black,Asthma,1
+*,1980s,M,White,Migraine,3
+*,1970s,M,White,Asthma,6
+*,1950s,M,White,Asthma,2
+*,1990s,M,Other,Type 2 diabetes,1
+*,1940s,F,White,Type 2 diabetes,7
+*,1950s,M,White,HIV,11
+*,1980s,F,White,Migraine,7
+*,1950s,M,Black,Hypertension,9
+*,1980s,M,White,Type 2 diabetes,12
+*,1990s,M,Hispanic,Back pain,7
+*,1990s,F,Black,Depression,9
+*,1960s,M,White,Back pain,4
+*,1950s,F,White,Type 2 diabetes,6
+*,1950s,M,White,Asthma,12
+*,1970s,F,Black,Type 2 diabetes,10
+*,2000s,F,White,Type 2 diabetes,4
+*,1990s,M,White,Hypertension,1
+*,1990s,F,White,Depression,8
+*,1940s,F,Black,Migraine,2
+*,1980s,F,White,Type 2 diabetes,10
+*,1950s,M,Asian,HIV,2
+*,1960s,F,White,Type 2 diabetes,4
+*,1940s,M,White,Asthma,11
+*,1980s,F,White,Asthma,12
+*,1940s,M,White,Type 2 diabetes,4
+*,1960s,M,Asian,Asthma,6
+*,1940s,F,White,Depression,4
+*,1990s,F,Black,Asthma,11
+*,1950s,F,White,Back pain,3
+*,2000s,M,Black,Migraine,6
+*,1950s,F,Hispanic,Depression,12
+*,1960s,M,White,Asthma,8
+*,1940s,F,White,Asthma,2
+*,1970s,M,Black,Hypertension,1
+*,1970s,M,White,Asthma,6
+*,1990s,M,White,Asthma,1
+*,1940s,F,Hispanic,Asthma,6
+*,1990s,M,White,Type 2 diabetes,1
+*,1940s,M,Asian,Depression,7
+*,1980s,M,White,Hypertension,12
+*,1990s,M,Black,Asthma,10
+*,1950s,F,White,Asthma,2
+*,1980s,F,White,Hypertension,2
+*,1940s,M,Black,Migraine,8
+*,1950s,F,Asian,Back pain,11
+*,1960s,M,White,Type 2 diabetes,12
+*,1970s,F,White,Hypertension,5
+*,1960s,M,White,Depression,9
+*,1990s,F,White,Depression,4
+*,1940s,F,White,Type 2 diabetes,10
+*,1940s,F,Black,Back pain,5
+*,1990s,M,White,Hypertension,6
+*,1940s,F,Hispanic,Migraine,11
+*,1960s,M,White,Back pain,5
+*,1940s,M,White,Asthma,2
+*,1950s,F,Hispanic,Hypertension,7
+*,1960s,M,White,Type 2 diabetes,12
+*,1970s,M,Hispanic,Type 2 diabetes,7
+*,1940s,F,White,Hypertension,2
+*,1970s,F,White,Hypertension,1
+*,1990s,M,Asian,Depression,3
+*,1960s,F,White,Hypertension,7
+*,1960s,F,Black,Asthma,1
+*,1940s,F,Hispanic,Type 2 diabetes,10
+*,1950s,F,White,Asthma,9
+*,1970s,F,Asian,Type 2 diabetes,1
+*,1990s,M,Hispanic,Depression,9
+*,1960s,M,White,Back pain,6
+*,1970s,F,Hispanic,Depression,8
+*,1990s,M,White,Depression,7
+*,1950s,M,White,Depression,9
+*,1940s,F,Asian,Asthma,12
+*,1940s,M,Hispanic,Hypertension,1
+*,2000s,F,Black,Type 2 diabetes,3
+*,1970s,M,White,Asthma,10
+*,1950s,M,White,Back pain,5
+*,1960s,F,White,Hypertension,7
+*,2000s,M,White,Type 2 diabetes,2
+*,1990s,M,Hispanic,Depression,10
+*,1990s,M,Other,Hypertension,8
+*,1990s,M,Black,Type 2 diabetes,5
+*,1940s,F,White,Type 2 diabetes,10
+*,1980s,F,White,Depression,4
+*,1940s,M,White,Hypertension,9
+*,1960s,M,Hispanic,Hypertension,4
+*,1980s,F,White,Migraine,3
+*,1940s,M,White,Type 2 diabetes,1
+*,1970s,M,Hispanic,Depression,12
+*,1950s,F,Black,Hypertension,7
+*,1950s,F,White,Back pain,9
+*,1970s,M,Hispanic,Hypertension,9
+*,1960s,M,Asian,Back pain,1
+*,1980s,M,White,Type 2 diabetes,2
+*,1990s,M,Asian,Migraine,5
+*,1990s,M,Asian,Depression,5
+*,1940s,F,White,Type 2 diabetes,12
+*,1960s,M,White,Back pain,4
+*,1980s,F,White,Depression,12
+*,1960s,F,Hispanic,Hypertension,3
+*,1950s,F,White,Hypertension,12
+*,1940s,F,Asian,Hypertension,12
+*,1990s,F,Black,Back pain,2
+*,1960s,F,White,Hypertension,11
+*,1970s,F,White,Type 2 diabetes,5
+*,1960s,M,White,Back pain,12
+*,1940s,F,White,Depression,12
+*,1990s,F,Hispanic,Type 2 diabetes,3
+*,1980s,F,White,Asthma,8
+*,2000s,M,Black,Type 2 diabetes,10
+*,1950s,M,White,Hypertension,11
+*,1970s,M,Hispanic,Hypertension,6
+*,1960s,F,White,Back pain,4
+*,1980s,F,White,Back pain,6
+*,1980s,M,White,Depression,8
+*,1960s,M,Hispanic,Migraine,4
+*,1960s,F,Asian,Hypertension,4
+*,1980s,F,White,Type 2 diabetes,5
+*,1990s,M,White,Hypertension,5
+*,1960s,F,White,Type 2 diabetes,7
+*,1940s,M,Asian,Type 2 diabetes,9
+*,1940s,M,White,Migraine,4
+*,1990s,M,White,Back pain,12
+*,2000s,F,Black,Depression,6
+*,1970s,M,Asian,Migraine,11
+*,1970s,F,Hispanic,Asthma,9
+*,1940s,M,White,Hypertension,5
+*,1950s,F,Black,Asthma,2
+*,1980s,M,Black,Hypertension,11
+*,1970s,M,White,Migraine,3
+*,1950s,M,Hispanic,Hypertension,5
+*,1970s,F,White,Asthma,11
+*,1960s,M,Asian,Asthma,9
+*,1990s,F,White,Asthma,11
+*,2000s,M,White,Migraine,3
+*,1970s,F,Hispanic,Asthma,3
+*,1940s,M,White,Depression,6
+*,1990s,F,Hispanic,Type 2 diabetes,5
+*,1990s,F,White,Opioid use disorder,8
+*,1950s,F,Hispanic,Migraine,10
+*,1990s,M,Asian,Type 2 diabetes,9
+*,2000s,F,White,Asthma,4
+*,1980s,M,Black,Hypertension,12
+*,1980s,F,White,Asthma,8
+*,1990s,M,White,Depression,7
+*,1990s,F,White,Back pain,1
+*,1980s,F,White,Type 2 diabetes,12
+*,1970s,M,White,Depression,9
+*,1960s,M,White,Back pain,1
+*,1970s,M,Black,Type 2 diabetes,9
+*,1990s,F,White,Type 2 diabetes,6
+*,1990s,F,White,Migraine,9
+*,1990s,M,White,Hypertension,1
+*,1990s,F,Black,Back pain,10
+*,1950s,F,White,Hypertension,11
+*,1940s,F,White,Opioid use disorder,2
+*,1950s,M,White,Hypertension,7
+*,1940s,F,Black,Back pain,9
+*,1970s,M,Black,Hypertension,1
+*,1990s,M,Other,Asthma,9
+*,1990s,F,Hispanic,Hypertension,7
+*,2000s,F,White,Hypertension,3
+*,1960s,F,Black,Migraine,12
+*,1970s,F,Asian,HIV,2
+*,2000s,M,White,Migraine,1
+*,1940s,F,White,Type 2 diabetes,5
+*,1980s,M,White,Back pain,12
+*,2000s,F,White,Back pain,3
+*,1970s,M,White,HIV,10
+*,1960s,M,Hispanic,Migraine,1
+*,1960s,F,White,Asthma,11
+*,1960s,F,White,Type 2 diabetes,5
+*,1990s,F,White,Hypertension,10
+*,1980s,M,White,Back pain,2
+*,1980s,F,White,Back pain,1
+*,2000s,M,Hispanic,HIV,1
+*,1980s,M,Black,Depression,10
+*,1950s,F,Asian,Type 2 diabetes,6
+*,1970s,F,White,Hypertension,8
+*,1970s,F,White,Asthma,10
+*,1960s,F,White,Hypertension,4
+*,1990s,M,Other,Type 2 diabetes,7
+*,1990s,M,White,Asthma,4
+*,1940s,F,Hispanic,Asthma,12
+*,1940s,M,White,Migraine,2
+*,1990s,F,Hispanic,Depression,7
+*,1950s,F,White,Hypertension,5
+*,1980s,F,White,Depression,12
+*,1940s,F,White,Migraine,12
+*,1990s,F,Black,Asthma,6
+*,1950s,M,White,Depression,4
+*,1980s,F,White,Hypertension,4
+*,1970s,M,White,Asthma,1
+*,1970s,F,Black,Hypertension,11
+*,1960s,F,White,Migraine,8
+*,1970s,M,White,Type 2 diabetes,3
+*,1990s,F,White,Depression,2
+*,1980s,F,Hispanic,Back pain,4
+*,1960s,F,White,Depression,5
+*,1940s,M,White,Hypertension,12
+*,1990s,M,Black,Hypertension,8
+*,1960s,M,White,Asthma,4
+*,1950s,F,Black,Opioid use disorder,4
+*,1990s,F,Hispanic,Migraine,8
+*,1950s,F,Hispanic,Type 2 diabetes,4
+*,2000s,M,Asian,Hypertension,9
+*,1960s,M,White,Hypertension,7
+*,1990s,F,Hispanic,Asthma,1
+*,1990s,F,White,Depression,8
+*,1950s,F,White,Opioid use disorder,12
+*,1940s,F,Asian,Depression,8
+*,1980s,F,White,Hypertension,4
+*,1950s,M,Hispanic,Hypertension,1
+*,1960s,M,Black,Type 2 diabetes,12
+*,1970s,F,White,Type 2 diabetes,2
+*,1990s,M,White,Hypertension,2
+*,1980s,F,White,Back pain,10
+*,1950s,M,Asian,Asthma,10
+*,1940s,M,White,Asthma,4
+*,1990s,M,Hispanic,Hypertension,6
+*,2000s,M,Hispanic,Back pain,1
+*,1980s,M,Black,Type 2 diabetes,9
+*,1950s,M,Hispanic,Hypertension,1
+*,1960s,M,Hispanic,Back pain,1
+*,1960s,F,Black,Type 2 diabetes,1
+*,1960s,F,White,Hypertension,10
+*,1940s,F,Black,Hypertension,9
+*,1970s,M,White,Migraine,2
+*,1980s,F,Hispanic,Asthma,4
+*,1980s,M,Black,Type 2 diabetes,1
+*,1950s,M,Hispanic,Asthma,1
+*,1960s,M,Black,Type 2 diabetes,5
+*,1940s,F,Hispanic,Hypertension,10
+*,1990s,M,Black,Asthma,12
+*,1960s,F,White,Asthma,11
+*,2000s,M,Black,Hypertension,12
+*,1990s,F,White,Hypertension,1
+*,1990s,M,Hispanic,Hypertension,7
+*,1990s,M,Asian,Depression,5
+*,1970s,M,Hispanic,Asthma,1
+*,1970s,M,White,Depression,10
+*,1960s,M,White,Back pain,4
+*,1970s,F,White,Back pain,8
+*,1960s,M,Black,Depression,12
+*,1980s,M,Black,Hypertension,11
+*,1960s,M,Black,Asthma,11
+*,1950s,M,White,Depression,10
+*,2000s,F,White,Asthma,6
+*,1960s,F,Hispanic,Type 2 diabetes,12
+*,1970s,M,Black,Type 2 diabetes,9
+*,1950s,F,White,Back pain,11
+*,1940s,F,White,Asthma,2
+*,1990s,F,Black,Opioid use disorder,9
+*,1990s,F,Hispanic,Type 2 diabetes,7
+*,1950s,F,White,Hypertension,2
+*,1980s,M,White,Back pain,1
+*,1950s,M,White,Hypertension,1
+*,1990s,F,Black,Back pain,7
+*,1950s,F,Black,Hypertension,10
+*,1950s,F,White,Hypertension,8
+*,1990s,M,White,Type 2 diabetes,11
+*,1950s,M,Asian,Depression,1
+*,1950s,M,White,Hypertension,5
+*,1970s,M,White,Asthma,11
+*,1970s,F,White,Type 2 diabetes,8
+*,1960s,M,Hispanic,Hypertension,6
+*,2000s,F,White,Back pain,3
+*,1980s,M,White,Type 2 diabetes,12
+*,1990s,M,Black,Depression,4
+*,2000s,M,Hispanic,Depression,10
+*,1960s,F,White,HIV,2
+*,1980s,M,White,Back pain,12
+*,1960s,F,Asian,Hypertension,4
+*,1990s,M,Black,HIV,5
+*,2000s,F,White,Hypertension,12
+*,1970s,M,Other,Back pain,11
+*,1950s,M,White,Hypertension,11
+*,1970s,F,White,Type 2 diabetes,2
+*,1950s,F,White,Hypertension,10
+*,1950s,F,White,Migraine,1
+*,1990s,F,Hispanic,Depression,12
+*,1970s,M,White,Hypertension,11
+*,1990s,F,White,Migraine,2
+*,1950s,M,Asian,Hypertension,7
+*,1950s,F,White,Depression,8
+*,2000s,M,Black,Hypertension,11
+*,2000s,F,Black,HIV,4
+*,1960s,M,White,Asthma,2
+*,1950s,M,Hispanic,Depression,4
+*,1980s,F,Hispanic,Asthma,12
+*,2000s,F,White,Back pain,2
+*,1950s,F,Hispanic,Depression,7
+*,2000s,M,Black,Type 2 diabetes,1
+*,1960s,M,Black,Hypertension,3
+*,1980s,M,White,Back pain,2
+*,1980s,F,Asian,Migraine,6
+*,1940s,M,Black,Type 2 diabetes,9
+*,1970s,M,Hispanic,Back pain,12
+*,1940s,F,White,Opioid use disorder,7
+*,1970s,F,White,Migraine,5
+*,1970s,M,White,Type 2 diabetes,6
+*,1970s,F,White,Hypertension,10
+*,1950s,M,Asian,Hypertension,5
+*,1990s,F,White,Hypertension,8
+*,1940s,F,White,Migraine,6
+*,1990s,F,White,Hypertension,11
+*,2000s,M,White,Depression,1
+*,1970s,M,Hispanic,Migraine,6
+*,1980s,M,Black,Depression,7
+*,1970s,F,White,Migraine,11
+*,1990s,M,White,Depression,11
+*,1970s,F,White,Type 2 diabetes,11
+*,1950s,M,Hispanic,Back pain,7
+*,1960s,M,White,Hypertension,4
+*,1980s,F,White,Back pain,2
+*,2000s,M,White,Back pain,8
+*,1990s,F,White,Migraine,2
+*,1980s,F,Hispanic,Migraine,9
+*,2000s,F,White,Back pain,8
+*,1970s,F,White,Type 2 diabetes,1
+*,1940s,F,Black,Type 2 diabetes,2
+*,1940s,F,Hispanic,Hypertension,12
+*,1970s,M,Other,Migraine,11
+*,1950s,M,Asian,Depression,1
+*,1940s,M,Hispanic,Hypertension,1
+*,1970s,M,White,Back pain,8
+*,1980s,M,White,Hypertension,9
+*,1950s,M,Black,Migraine,5
+*,1940s,M,Black,Depression,1
+*,1950s,M,Black,Hypertension,12
+*,1960s,F,White,Asthma,9
+*,1950s,F,White,Hypertension,6
+*,1990s,M,White,Hypertension,6
+*,1960s,F,Black,Back pain,1
+*,1960s,F,Black,Type 2 diabetes,6
+*,1980s,F,Hispanic,Opioid use disorder,2
+*,1990s,F,White,Type 2 diabetes,4
+*,1960s,M,Black,Back pain,4
+*,1980s,F,White,Asthma,3
+*,1940s,M,Black,Asthma,10
+*,1990s,M,Asian,Type 2 diabetes,5
+*,1990s,F,Hispanic,Hypertension,10
+*,1990s,M,Other,Migraine,7
+*,1960s,M,Black,Hypertension,3
+*,2000s,F,White,Depression,4
+*,1980s,F,White,Migraine,1
+*,1940s,M,Asian,Hypertension,1
+*,1980s,F,Hispanic,Asthma,1
+*,1960s,M,White,Back pain,11
+*,1940s,F,White,Back pain,10
+*,1990s,M,White,Hypertension,6
+*,1940s,M,White,Hypertension,1
+*,1950s,F,White,Asthma,7
+*,1990s,M,Other,Hypertension,11
+*,2000s,M,White,Depression,9
+*,1960s,M,White,Back pain,6
+*,1970s,F,Hispanic,Hypertension,2
+*,1980s,F,White,Back pain,6
+*,1950s,M,White,Depression,4
+*,1940s,F,White,Back pain,7
+*,1960s,M,White,Back pain,11
+*,1960s,M,White,Type 2 diabetes,6
+*,1970s,M,Black,Type 2 diabetes,10
+*,1960s,M,White,Hypertension,6
+*,1960s,M,White,Back pain,1
+*,1940s,M,White,Depression,3
+*,1950s,F,White,Type 2 diabetes,3
+*,1940s,M,Asian,Asthma,2
+*,1990s,M,White,Hypertension,10
+*,1990s,F,White,Depression,10
+*,1970s,F,White,Asthma,2
+*,1980s,M,White,Hypertension,4
+*,1990s,F,Black,Asthma,8
+*,1950s,F,White,Migraine,3
+*,1960s,F,Black,Hypertension,7
+*,1960s,F,Hispanic,Depression,9
+*,1960s,M,White,Depression,6
+*,1970s,M,White,Hypertension,11
+*,1990s,M,Asian,Back pain,12
+*,1950s,F,Hispanic,Hypertension,12
+*,2000s,M,Hispanic,Back pain,6
+*,1940s,M,Black,Asthma,10
+*,1960s,M,White,Migraine,2
+*,1960s,M,White,Back pain,9
+*,1960s,M,Asian,Asthma,9
+*,1980s,M,White,Migraine,3
+*,1950s,F,White,Asthma,6
+*,1970s,M,White,Hypertension,6
+*,1980s,F,White,Asthma,5
+*,1970s,F,Hispanic,Asthma,9
+*,1960s,F,White,Back pain,5
+*,1950s,M,White,Type 2 diabetes,4
+*,1940s,M,White,Type 2 diabetes,3
+*,1990s,F,Asian,Depression,7
+*,2000s,M,Black,Back pain,10
+*,1960s,F,Hispanic,Type 2 diabetes,12
+*,1940s,M,White,Hypertension,8
+*,1980s,F,White,Back pain,10
+*,2000s,M,White,Hypertension,8
+*,1950s,F,Hispanic,Type 2 diabetes,12
+*,1980s,M,Hispanic,Asthma,7
+*,1940s,F,Hispanic,Hypertension,2
+*,1950s,F,Asian,Type 2 diabetes,12
+*,1940s,M,Hispanic,Hypertension,7
+*,1960s,F,White,Back pain,5
+*,1940s,M,Hispanic,Type 2 diabetes,9
+*,1970s,M,White,Type 2 diabetes,7
+*,1960s,F,White,Type 2 diabetes,9
+*,1990s,F,White,Asthma,4
+*,1990s,M,White,Back pain,2
+*,1960s,F,Black,Type 2 diabetes,4
+*,1990s,M,White,Type 2 diabetes,1
+*,1990s,F,White,Back pain,8
+*,2000s,F,Black,Type 2 diabetes,11
+*,1980s,F,Black,Hypertension,8
+*,1940s,F,Hispanic,Type 2 diabetes,12
+*,1950s,F,White,Hypertension,8
+*,1990s,F,White,Type 2 diabetes,6
+*,1950s,M,White,Asthma,7
+*,1960s,F,White,Depression,3
+*,1960s,F,White,Asthma,2
+*,1980s,M,White,Hypertension,8
+*,1980s,M,Hispanic,Back pain,9
+*,1950s,F,Hispanic,Type 2 diabetes,1
+*,1940s,F,White,Back pain,5
+*,1960s,M,White,Asthma,12
+*,1940s,F,Asian,Back pain,8
+*,1950s,M,Black,Hypertension,1
+*,1990s,F,White,Back pain,6
+*,1990s,M,White,Back pain,2
+*,1990s,F,White,Hypertension,2
+*,1950s,F,White,Depression,4
+*,1980s,M,White,Type 2 diabetes,5
+*,1950s,F,Asian,Back pain,9
+*,1940s,M,Asian,Back pain,4
+*,1950s,M,White,Depression,7
+*,1940s,F,White,Back pain,10
+*,1960s,F,White,Hypertension,10
+*,1940s,F,White,Asthma,2
+*,1950s,M,White,Hypertension,2
+*,1980s,F,White,Opioid use disorder,3
+*,1950s,F,White,Depression,1
+*,1960s,F,White,Back pain,1
+*,1940s,M,Hispanic,Hypertension,8
+*,1960s,M,White,Migraine,8
+*,1970s,M,Asian,Back pain,9
+*,1960s,F,White,Type 2 diabetes,10
+*,1960s,F,White,Back pain,7
+*,1970s,M,Hispanic,Back pain,7
+*,1960s,F,White,Depression,7
+*,1960s,M,Black,Type 2 diabetes,2
+*,1980s,M,White,Hypertension,5
+*,1970s,F,White,Type 2 diabetes,11
+*,1950s,M,White,Asthma,3
+*,1990s,M,White,Depression,10
+*,1970s,F,White,Hypertension,4
+*,1990s,M,Hispanic,Hypertension,9
+*,1950s,M,Hispanic,Asthma,2
+*,1960s,M,White,Type 2 diabetes,11
+*,2000s,M,Black,Asthma,12
+*,2000s,M,Black,Type 2 diabetes,9
+*,1980s,M,White,Hypertension,5
+*,1990s,F,White,Hypertension,12
+*,1990s,M,Other,Back pain,1
+*,1970s,M,Black,Migraine,6
+*,1950s,F,Black,Asthma,3
+*,1940s,F,Asian,Type 2 diabetes,1
+*,1970s,F,White,Type 2 diabetes,8
+*,1960s,F,Asian,Type 2 diabetes,6
+*,1970s,F,White,Back pain,8
+*,1990s,M,White,Hypertension,5
+*,1990s,M,Other,Hypertension,5
+*,2000s,M,Hispanic,Hypertension,5
+*,1940s,M,White,Back pain,6
+*,1940s,M,Asian,Hypertension,5
+*,1970s,M,White,Hypertension,12
+*,1980s,M,White,Type 2 diabetes,6
+*,1940s,F,Hispanic,Depression,7
+*,1960s,F,White,Type 2 diabetes,11
+*,1950s,F,Asian,Back pain,7
+*,1990s,M,Hispanic,Type 2 diabetes,12
+*,1990s,F,White,Type 2 diabetes,2
+*,1940s,F,White,Asthma,4
+*,1990s,M,White,Depression,1
+*,1980s,F,White,Back pain,8
+*,1960s,M,White,Depression,10
+*,1980s,F,White,Opioid use disorder,3
+*,1960s,F,Hispanic,Type 2 diabetes,12
+*,1950s,M,White,Back pain,1
+*,1960s,F,Hispanic,Depression,10
+*,1980s,M,White,Asthma,10
+*,1970s,F,White,Migraine,9
+*,1940s,F,White,Asthma,4
+*,1990s,M,Hispanic,Asthma,11
+*,1990s,M,White,Hypertension,12
+*,1970s,M,Other,Hypertension,6
+*,1970s,M,Black,Hypertension,6
+*,1950s,M,Black,Asthma,4
+*,1990s,F,Asian,Type 2 diabetes,9
+*,1950s,F,White,Hypertension,4
+*,1970s,F,Black,Opioid use disorder,1
+*,1980s,M,White,Back pain,9
+*,1990s,F,White,Asthma,7
+*,1990s,M,Black,Back pain,10
+*,1990s,F,Black,Hypertension,7
+*,2000s,F,White,Depression,10
+*,2000s,F,White,Asthma,10
+*,1960s,F,White,Hypertension,8
+*,1960s,F,Hispanic,Back pain,10
+*,1940s,F,Black,HIV,2
+*,1950s,M,White,Depression,7
+*,1940s,F,Black,Back pain,10
+*,1980s,F,Hispanic,Back pain,10
+*,1970s,F,White,Hypertension,9
+*,1950s,F,Hispanic,Depression,2
+*,1980s,F,White,Migraine,4
+*,1970s,M,Other,Type 2 diabetes,3
+*,1990s,F,White,Hypertension,2
+*,2000s,F,Black,Asthma,8
+*,1990s,F,White,Hypertension,12
+*,1970s,M,Black,Type 2 diabetes,12
+*,1960s,M,White,Hypertension,3
+*,1990s,M,Other,Back pain,6
+*,1940s,F,White,Type 2 diabetes,9
+*,1940s,F,White,Hypertension,9
+*,1940s,M,White,Hypertension,9
+*,1950s,F,Hispanic,Back pain,9
+*,1980s,F,Hispanic,Type 2 diabetes,4
+*,2000s,F,White,Back pain,8
+*,2000s,M,White,Asthma,5
+*,2000s,M,Hispanic,Back pain,11
+*,1990s,F,Asian,Asthma,5
+*,1940s,F,White,Hypertension,3
+*,1960s,F,Black,Migraine,2
+*,1960s,M,White,Hypertension,4
+*,1960s,F,White,Hypertension,3
+*,1990s,F,White,Depression,2
+*,1960s,F,White,Hypertension,5
+*,1950s,F,White,Asthma,12
+*,1970s,F,White,Hypertension,5
+*,1960s,F,Hispanic,Asthma,6
+*,1940s,M,White,Hypertension,8
+*,1940s,M,Black,Hypertension,4
+*,1940s,F,White,Asthma,8
+*,1970s,F,Black,Type 2 diabetes,8
+*,1990s,F,Black,Depression,1
+*,1950s,M,White,Hypertension,2
+*,1980s,F,White,Depression,11
+*,1950s,M,White,Hypertension,12
+*,1960s,F,Hispanic,Back pain,9
+*,1990s,M,White,Migraine,1
+*,2000s,M,Asian,Hypertension,8
+*,1960s,F,White,Migraine,6
+*,1940s,F,White,Asthma,8
+*,1980s,M,Hispanic,Type 2 diabetes,10
+*,1980s,M,White,Type 2 diabetes,6
+*,1950s,F,Hispanic,Asthma,3
+*,1950s,M,Hispanic,Depression,8
+*,2000s,M,White,Back pain,2
+*,1950s,F,Hispanic,Asthma,1
+*,1970s,M,White,Type 2 diabetes,10
+*,1960s,F,White,Depression,2
+*,1940s,F,White,Asthma,2
+*,1960s,F,Black,Type 2 diabetes,8
+*,2000s,F,Black,Hypertension,10
+*,1970s,M,Hispanic,Type 2 diabetes,7
+*,1960s,F,Asian,Migraine,1
+*,1950s,F,Black,Depression,6
+*,1960s,F,White,Back pain,7
+*,1960s,M,White,Back pain,8
+*,1950s,M,White,Hypertension,9
+*,1990s,F,Black,Back pain,8
+*,1980s,M,White,Hypertension,8
+*,1970s,M,Hispanic,Back pain,4
+*,1950s,M,Hispanic,Type 2 diabetes,3
+*,1980s,F,White,Hypertension,10
+*,1990s,F,White,Hypertension,2
+*,1950s,M,Asian,Type 2 diabetes,1
+*,1940s,F,Black,Asthma,2
+*,1960s,M,White,Asthma,1
+*,1950s,F,Hispanic,Hypertension,12
+*,1960s,M,White,Type 2 diabetes,10
+*,1950s,M,White,Migraine,1
+*,1940s,F,Hispanic,Hypertension,4
+*,1960s,M,Hispanic,Depression,3
+*,1990s,M,White,HIV,5
+*,1980s,F,White,Type 2 diabetes,12
+*,1980s,M,Hispanic,Type 2 diabetes,3
+*,1990s,F,White,Type 2 diabetes,8
+*,1970s,M,White,Opioid use disorder,10
+*,1960s,F,White,Hypertension,11
+*,1940s,F,Black,Migraine,9
+*,1980s,F,White,Back pain,2
+*,1970s,M,Hispanic,Depression,4
+*,1980s,M,Black,Depression,12
+*,1940s,M,White,Back pain,5
+*,1990s,M,Asian,Back pain,1
+*,1990s,M,Black,Hypertension,3
+*,2000s,F,White,Opioid use disorder,11
+*,1940s,M,White,Back pain,10
+*,1960s,M,Asian,Asthma,6
+*,1980s,F,White,Migraine,12
+*,1950s,M,White,Hypertension,5
+*,2000s,M,White,Hypertension,12
+*,1990s,F,White,Back pain,6
+*,1990s,F,White,Type 2 diabetes,6
+*,1960s,M,White,Asthma,5
+*,1940s,F,Hispanic,Hypertension,12
+*,1960s,M,White,Depression,5
+*,1980s,F,White,Hypertension,6
+*,1990s,M,White,Depression,8
+*,1970s,F,White,Asthma,1
+*,1970s,F,Black,Migraine,1
+*,1990s,M,White,Type 2 diabetes,11
+*,1960s,M,Asian,Asthma,10
+*,1990s,M,Black,Asthma,1
+*,1950s,M,Hispanic,Migraine,2
+*,1980s,M,White,Migraine,3
+*,1950s,M,White,Type 2 diabetes,12
+*,1950s,M,White,Asthma,11
+*,1950s,M,Black,Migraine,3
+*,1980s,F,Hispanic,Asthma,9
+*,1940s,F,Hispanic,Asthma,1
+*,1980s,F,Black,Depression,3
+*,1950s,M,White,Depression,3
+*,1990s,M,White,Depression,11
+*,1940s,M,Asian,Hypertension,12
+*,1960s,F,White,Back pain,3
+*,2000s,M,Asian,Back pain,12
+*,1970s,M,White,Depression,2
+*,2000s,M,Black,Hypertension,11
+*,1970s,F,White,Type 2 diabetes,3
+*,1990s,M,White,Back pain,4
+*,1950s,M,White,Depression,5
+*,1980s,M,Black,Type 2 diabetes,8
+*,1980s,F,Black,Hypertension,4
+*,2000s,M,White,Asthma,12
+*,1970s,M,Hispanic,Hypertension,8
+*,1940s,M,White,Depression,11
+*,1990s,F,Asian,Hypertension,11
+*,1960s,F,White,Hypertension,9
+*,1990s,F,White,Hypertension,10
+*,1970s,M,Black,Hypertension,6
+*,1960s,F,White,Type 2 diabetes,7
+*,1990s,M,White,Hypertension,6
+*,1960s,M,White,Migraine,7
+*,1950s,F,White,Type 2 diabetes,4
+*,1970s,F,White,Back pain,9
+*,1970s,M,Asian,Asthma,7
+*,1990s,F,White,Hypertension,3
+*,1940s,F,White,Depression,3
+*,1950s,F,White,Hypertension,7
+*,1970s,F,Black,Hypertension,11
+*,1950s,M,Hispanic,Migraine,11
+*,1980s,F,Black,Back pain,10
+*,1970s,M,Hispanic,Asthma,9
+*,1990s,M,White,Migraine,7
+*,1980s,F,White,Asthma,12
+*,1970s,M,White,Depression,10
+*,1960s,M,White,Back pain,10
+*,2000s,M,Hispanic,Asthma,3
+*,1980s,F,Black,HIV,1
+*,1940s,M,Hispanic,Depression,7
+*,1990s,F,White,Type 2 diabetes,2
+*,1970s,M,White,Migraine,8
+*,1940s,M,White,Hypertension,11
+*,1970s,M,Other,Back pain,12
+*,1990s,M,White,Hypertension,12
+*,1940s,F,White,Back pain,7
+*,1980s,M,White,Hypertension,2
+*,1980s,F,Asian,Type 2 diabetes,6
+*,1950s,F,Hispanic,Hypertension,9
+*,1950s,F,Black,Type 2 diabetes,5
+*,1990s,F,White,Depression,6
+*,1960s,M,Black,Type 2 diabetes,5
+*,2000s,M,White,Hypertension,3
+*,1980s,M,White,Back pain,8
+*,1950s,F,White,Asthma,2
+*,1990s,M,Hispanic,Back pain,3
+*,1960s,F,White,Depression,11
+*,2000s,M,Hispanic,Type 2 diabetes,9
+*,1950s,M,White,Migraine,4
+*,1970s,F,White,Depression,9
+*,2000s,M,White,Type 2 diabetes,11
+*,1960s,F,White,Asthma,10
+*,1970s,F,White,Back pain,4
+*,1940s,F,White,Back pain,12
+*,2000s,F,White,Back pain,12
+*,1960s,M,White,Back pain,1
+*,1970s,M,White,Asthma,12
+*,1950s,M,White,Back pain,3
+*,1950s,F,White,Type 2 diabetes,9
+*,1940s,M,Black,Back pain,1
+*,1970s,F,White,Asthma,4
+*,1990s,M,Black,HIV,1
+*,1980s,F,Hispanic,Hypertension,4
+*,1940s,F,White,Back pain,2
+*,1940s,M,White,Migraine,3
+*,1970s,F,Asian,Depression,7
+*,1940s,F,Hispanic,Hypertension,5
+*,1970s,F,Black,Asthma,3
+*,1970s,M,White,Type 2 diabetes,8
+*,1990s,F,White,Hypertension,9
+*,1970s,M,White,Hypertension,7
+*,1940s,F,White,Back pain,4
+*,1970s,M,White,Type 2 diabetes,2
+*,1980s,M,White,Hypertension,2
+*,1950s,F,Asian,Hypertension,10
+*,1950s,F,White,Back pain,12
+*,1950s,M,White,Migraine,5
+*,1970s,F,White,Back pain,12
+*,1990s,M,Asian,Hypertension,2
+*,2000s,F,White,Asthma,2
+*,1960s,M,Hispanic,Back pain,9
+*,1980s,M,White,Asthma,6
+*,1990s,M,Hispanic,Depression,3
+*,1970s,F,White,Back pain,5
+*,1990s,M,Black,Depression,4
+*,1970s,M,White,Migraine,1
+*,1960s,F,Asian,Depression,6
+*,1970s,M,Asian,Back pain,4
+*,1990s,M,Hispanic,Asthma,12
+*,1980s,M,White,Hypertension,7
+*,2000s,F,White,Asthma,8
+*,1980s,F,White,Depression,1
+*,1970s,M,White,Asthma,3
+*,1970s,F,White,Hypertension,3
+*,1970s,M,Black,Hypertension,2
+*,1980s,M,White,Asthma,7
+*,1990s,F,White,Back pain,11
+*,1960s,F,Asian,Type 2 diabetes,4
+*,1990s,F,Hispanic,Asthma,9
+*,1980s,F,White,Depression,5
+*,1940s,M,White,Type 2 diabetes,11
+*,1960s,M,Hispanic,Hypertension,9
+*,1960s,M,Black,Hypertension,1
+*,1950s,M,White,Type 2 diabetes,8
+*,1940s,F,White,Asthma,1
+*,1980s,M,Black,Asthma,12
+*,1980s,F,White,Type 2 diabetes,9
+*,1970s,M,Hispanic,Back pain,9
+*,1960s,M,White,Asthma,11
+*,1950s,F,White,Hypertension,7
+*,1950s,F,Hispanic,Type 2 diabetes,11
+*,1970s,F,White,Migraine,8
+*,1940s,F,White,Migraine,7
+*,1980s,F,Black,Hypertension,2
+*,1960s,F,Asian,Back pain,3
+*,1960s,F,Asian,Depression,12
+*,1950s,M,Hispanic,Type 2 diabetes,9
+*,1950s,M,Hispanic,Hypertension,6
+*,1980s,F,Hispanic,Hypertension,2
+*,1940s,F,White,Hypertension,3
+*,1940s,F,Black,Hypertension,12
+*,1960s,M,Hispanic,Asthma,10
+*,1970s,F,White,Back pain,12
+*,1950s,M,White,Migraine,2
+*,1990s,F,White,Migraine,5
+*,1940s,M,Hispanic,Back pain,3
+*,1980s,M,White,Type 2 diabetes,5
+*,1960s,M,White,Hypertension,4
+*,1970s,M,Black,Depression,1
+*,1970s,M,Black,Migraine,11
+*,1980s,M,White,Depression,9
+*,1990s,M,Hispanic,Hypertension,5
+*,1990s,M,White,Back pain,10
+*,1970s,M,White,Hypertension,9
+*,1990s,F,Asian,Opioid use disorder,3
+*,2000s,M,Black,Migraine,12
+*,1940s,F,Black,Hypertension,6
+*,1970s,F,White,Migraine,10
+*,1980s,F,Black,Back pain,9
+*,1970s,M,Hispanic,Migraine,10
+*,1950s,M,White,Depression,2
+*,1950s,F,White,Back pain,1
+*,1950s,M,White,Type 2 diabetes,8
+*,1940s,M,White,Asthma,4
+*,1960s,M,Asian,Hypertension,8
+*,1960s,F,White,HIV,7
+*,1970s,M,White,Back pain,9
+*,1990s,M,White,Hypertension,7
+*,1990s,F,Black,Back pain,4
+*,1950s,M,Black,Hypertension,1
+*,1990s,F,Black,Hypertension,5
+*,1950s,F,Hispanic,Type 2 diabetes,1
+*,2000s,F,White,Hypertension,3
+*,1960s,M,White,Back pain,12
+*,1940s,F,White,Hypertension,12
+*,1990s,M,White,Hypertension,9
+*,1980s,F,Black,Type 2 diabetes,7
+*,1980s,M,White,Depression,9
+*,1990s,M,White,Type 2 diabetes,3
+*,1990s,F,Hispanic,Depression,3
+*,1960s,F,White,Hypertension,1
+*,1990s,M,Asian,HIV,2
+*,1970s,F,White,Asthma,3
+*,1940s,F,Hispanic,Hypertension,2
+*,1990s,F,White,Asthma,8
+*,1960s,F,Hispanic,Migraine,2
+*,1960s,F,White,Depression,2
+*,1990s,M,Hispanic,Depression,5
+*,1970s,M,Hispanic,Asthma,5
+*,1990s,F,White,Depression,8
+*,1970s,M,Asian,Type 2 diabetes,6
+*,1980s,F,Black,Depression,5
+*,1950s,F,Hispanic,Hypertension,2
+*,1970s,F,White,Depression,3
+*,1990s,M,Hispanic,Back pain,9
+*,1950s,M,White,Asthma,11
+*,1970s,M,Black,Asthma,4
+*,1980s,M,White,Hypertension,4
+*,1950s,M,Black,Depression,6
+*,1970s,F,White,Hypertension,3
+*,1950s,F,Black,Hypertension,3
+*,1960s,F,White,Type 2 diabetes,7
+*,1950s,F,Black,Back pain,7
+*,1960s,F,White,Back pain,2
+*,1990s,F,White,Depression,5
+*,1980s,M,White,Back pain,8
+*,1970s,F,Asian,Back pain,11
+*,1970s,M,Hispanic,Migraine,6
+*,1970s,F,White,Type 2 diabetes,12
+*,1970s,M,Black,Depression,8
+*,1940s,F,White,Type 2 diabetes,12
+*,1950s,M,White,Asthma,12
+*,1940s,F,White,Hypertension,8
+*,1960s,F,Hispanic,Asthma,4
+*,1990s,M,White,Back pain,9
+*,1940s,M,White,Type 2 diabetes,6
+*,1940s,M,Black,Migraine,8
+*,1990s,M,White,Asthma,11
+*,1990s,M,White,Depression,2
+*,1980s,F,White,Migraine,10
+*,1940s,M,Hispanic,Back pain,5
+*,1960s,M,White,Hypertension,5
+*,1940s,F,Hispanic,Asthma,10
+*,1980s,F,Hispanic,Migraine,8
+*,1940s,F,White,Asthma,12
+*,1940s,M,White,Migraine,7
+*,1970s,M,White,Back pain,5
+*,1980s,M,White,Hypertension,3
+*,1980s,F,White,Asthma,2
+*,1950s,F,Hispanic,Hypertension,8
+*,1980s,F,White,Type 2 diabetes,1
+*,1940s,M,Hispanic,Depression,6
+*,1960s,M,Asian,Hypertension,11
+*,1960s,F,White,Back pain,6
+*,2000s,F,White,Opioid use disorder,5
+*,1970s,M,White,Hypertension,3
+*,1940s,M,White,Hypertension,4
+*,1970s,F,White,Asthma,6
+*,1990s,M,Black,Back pain,6
+*,1940s,M,White,Migraine,2
+*,1960s,F,Hispanic,Depression,5
+*,1940s,F,Hispanic,Depression,7
+*,1960s,F,Black,Migraine,11
+*,1970s,M,White,Asthma,7
+*,1990s,F,White,Back pain,3
+*,1980s,M,Black,Depression,5
+*,1990s,F,White,Back pain,9
+*,2000s,M,White,Type 2 diabetes,7
+*,1970s,F,White,Back pain,4
+*,1950s,M,Hispanic,Depression,6
+*,1960s,F,Hispanic,Migraine,8
+*,1990s,F,White,Back pain,10
+*,1970s,M,White,Depression,12
+*,1980s,F,Hispanic,Hypertension,3
+*,1960s,F,White,Depression,5
+*,1970s,F,Asian,Hypertension,3
+*,1970s,M,White,Hypertension,3
+*,1990s,F,White,Hypertension,8
+*,1970s,M,White,Depression,4
+*,1990s,M,White,Migraine,5
+*,1990s,M,White,Type 2 diabetes,10
+*,1940s,M,Hispanic,Migraine,6
+*,1960s,F,White,Type 2 diabetes,12
+*,1980s,M,White,Hypertension,10
+*,1980s,M,Black,Type 2 diabetes,7
+*,1960s,F,Asian,Type 2 diabetes,5
+*,1940s,M,Asian,Type 2 diabetes,10
+*,1970s,F,White,HIV,10
+*,1960s,M,White,Back pain,8
+*,1970s,F,White,Asthma,4
+*,1970s,M,White,Migraine,11
