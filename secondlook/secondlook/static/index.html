@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Second Look</title>
+<style>
+  :root {
+    --bg: #f7f5f0; --card: #ffffff; --ink: #1d1d1b; --muted: #5d5a53; --line: #e3dfd5;
+    --accent: #2d5a8a; --high: #b42318; --high-bg: #fdecea; --caution: #9a6700;
+    --caution-bg: #fff6e0; --low: #1a7f37; --low-bg: #e8f5ec;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161614; --card: #22211f; --ink: #f1efe9; --muted: #a9a59b; --line: #36342f;
+      --accent: #8ab4e8; --high: #ff8a80; --high-bg: #3a1f1c; --caution: #f2c14e;
+      --caution-bg: #352c15; --low: #6fd08c; --low-bg: #17301f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 19px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 2rem; margin: 0 0 4px; letter-spacing: -0.02em; }
+  .sub { color: var(--muted); margin: 0 0 28px; }
+  label { font-weight: 600; display: block; margin-bottom: 8px; }
+  textarea { width: 100%; min-height: 170px; padding: 14px; font: inherit; color: inherit;
+             background: var(--card); border: 2px solid var(--line); border-radius: 12px;
+             resize: vertical; }
+  textarea:focus, button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  .row { display: flex; gap: 12px; margin-top: 14px; flex-wrap: wrap; }
+  button { font: inherit; font-weight: 600; padding: 12px 22px; border-radius: 10px;
+           border: 2px solid var(--accent); cursor: pointer; }
+  .primary { background: var(--accent); color: var(--bg); }
+  .ghost { background: transparent; color: var(--accent); }
+  .privacy { color: var(--muted); font-size: 0.85rem; margin-top: 12px; }
+  #result { margin-top: 32px; }
+  .verdict { border-radius: 14px; padding: 20px 22px; display: flex; gap: 18px; align-items: center; }
+  .verdict.high { background: var(--high-bg); color: var(--high); }
+  .verdict.caution { background: var(--caution-bg); color: var(--caution); }
+  .verdict.low { background: var(--low-bg); color: var(--low); }
+  .verdict h2 { margin: 0; font-size: 1.5rem; }
+  .meter { flex: 0 0 auto; width: 74px; height: 74px; border-radius: 50%; display: grid;
+           place-items: center; font-weight: 700; font-size: 1.15rem;
+           background: conic-gradient(currentColor calc(var(--p) * 1%), var(--line) 0); }
+  .meter span { background: var(--card); width: 58px; height: 58px; border-radius: 50%;
+                display: grid; place-items: center; color: var(--ink); }
+  h3 { margin: 28px 0 10px; font-size: 1.1rem; }
+  .flag { background: var(--card); border: 1px solid var(--line); border-left: 5px solid var(--muted);
+          border-radius: 10px; padding: 14px 16px; margin-bottom: 10px; }
+  .flag.strong { border-left-color: var(--high); }
+  .flag.medium { border-left-color: var(--caution); }
+  .flag strong { display: block; }
+  .flag p { margin: 4px 0 0; }
+  .flag code { display: block; margin-top: 6px; color: var(--muted); font-size: 0.85rem;
+               word-break: break-word; }
+  ol { padding-left: 1.3em; } li { margin-bottom: 6px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Second Look</h1>
+  <p class="sub">Got a text, email, or call script that feels off? Paste it below and we'll explain any warning signs in plain language.</p>
+
+  <label for="msg">The message</label>
+  <textarea id="msg" placeholder="Paste the message here…"></textarea>
+  <div class="row">
+    <button class="primary" id="go">Check this message</button>
+    <button class="ghost" id="sample">Try an example</button>
+  </div>
+  <p class="privacy">🔒 Runs on this computer. Nothing you paste is saved or sent anywhere.</p>
+
+  <section id="result" aria-live="polite"></section>
+</main>
+<script>
+const $ = (s) => document.querySelector(s);
+const el = (tag, cls, text) => { const e = document.createElement(tag);
+  if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+
+const SAMPLE = "USPS: Your package is on hold due to an incomplete address. " +
+  "Update within 24 hours or it will be returned: https://usps-redelivery.top/track " +
+  "A $1.99 redelivery fee applies.";
+
+async function run() {
+  const message = $("#msg").value.trim();
+  if (!message) return $("#msg").focus();
+  const res = await fetch("/api/check", { method: "POST",
+    headers: { "Content-Type": "application/json" }, body: JSON.stringify({ message }) });
+  show(await res.json());
+}
+
+function show(r) {
+  const out = $("#result"); out.replaceChildren();
+  const pct = Math.round(r.risk * 100);
+  const v = el("div", "verdict " + r.level);
+  const m = el("div", "meter"); m.style.setProperty("--p", pct);
+  m.append(el("span", null, pct + "%"));
+  const t = el("div"); t.append(el("h2", null, r.headline),
+    el("div", null, r.flags.length ? `${r.flags.length} warning sign${r.flags.length > 1 ? "s" : ""}` : "risk score"));
+  v.append(m, t); out.append(v);
+
+  if (r.flags.length) {
+    out.append(el("h3", null, "What we noticed"));
+    for (const f of r.flags) {
+      const d = el("div", "flag " + (f.weight >= 0.65 ? "strong" : f.weight >= 0.4 ? "medium" : ""));
+      d.append(el("strong", null, f.title), el("p", null, f.why), el("code", null, "Found: " + f.evidence));
+      out.append(d);
+    }
+  }
+  out.append(el("h3", null, "What to do"));
+  const ol = el("ol"); r.advice.forEach((a) => ol.append(el("li", null, a))); out.append(ol);
+}
+
+$("#go").addEventListener("click", run);
+$("#sample").addEventListener("click", () => { $("#msg").value = SAMPLE; run(); });
+$("#msg").addEventListener("keydown", (e) => { if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) run(); });
+</script>
+</body>
+</html>

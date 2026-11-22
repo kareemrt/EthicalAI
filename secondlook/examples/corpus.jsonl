@@ -1,0 +1,40 @@
+{"label": "scam", "type": "delivery", "text": "USPS: Your package is on hold due to an incomplete address. Update within 24 hours: https://usps-redelivery.top/track A $1.99 redelivery fee applies."}
+{"label": "scam", "type": "delivery", "text": "FedEx: we attempted delivery of your parcel. Pay the customs fee to reschedule: fedex-parcel-care.com/pay"}
+{"label": "scam", "type": "toll", "text": "E-ZPass notice: You have an unpaid toll of $4.15. Avoid a $50 late fee by paying today at ezpass-tollpay.xyz"}
+{"label": "scam", "type": "bank", "text": "Wells Fargo Alert: unusual sign-in activity detected. Your account will be locked. Verify your account number and PIN at http://wellsfargo-secure.info/verify"}
+{"label": "scam", "type": "bank", "text": "Chase: Suspicious login detected. Reply with the verification code we just sent to cancel the transfer."}
+{"label": "scam", "type": "phishing", "text": "Security alert: sign in at http://paypa1.com/login to verify your password."}
+{"label": "scam", "type": "phishing", "text": "Dear Customer, your Netflix membership has been suspended due to a payment issue. Update your card number here: https://bit.ly/3nflx-renew"}
+{"label": "scam", "type": "phishing", "text": "Apple ID locked. Confirm your password and date of birth at appleid.apple.com.account-restore.live"}
+{"label": "scam", "type": "government", "text": "This is the IRS. A warrant has been issued for your arrest for unpaid taxes. Pay immediately with Google Play gift cards to avoid jail. Do not tell anyone about this call."}
+{"label": "scam", "type": "government", "text": "Social Security Administration: your Social Security number has been suspended due to suspicious activity. Press 1 to speak to an officer or legal action will be taken."}
+{"label": "scam", "type": "government", "text": "Medicare: you qualify for a free back brace. Confirm your Medicare number and Social Security number to receive it today."}
+{"label": "scam", "type": "family", "text": "Grandma it's me, I was in an accident and I'm in jail. Please don't tell mom. A courier will pick up the cash for bail today."}
+{"label": "scam", "type": "family", "text": "Hi mum, this is my new number, I dropped my phone in the toilet. Can you help me pay a bill urgently? I'll pay you back tomorrow."}
+{"label": "scam", "type": "tech-support", "text": "Microsoft Support: your computer is infected with a virus. Call 1-888-555-0199 immediately and install AnyDesk so our technician can fix it."}
+{"label": "scam", "type": "tech-support", "text": "We accidentally deposited $9,000 into your account during your refund. Please send it back by buying gift cards and reading us the numbers."}
+{"label": "scam", "type": "prize", "text": "Congratulations! You've won a $1,000 Walmart gift card. Claim your reward now: http://walmart-winners.click/claim (processing fee $2.95)"}
+{"label": "scam", "type": "prize", "text": "You have been selected to receive $5,000 from the lottery commission. A release fee of $250 is required, payable by Western Union today."}
+{"label": "scam", "type": "investment", "text": "Join our trading platform: guaranteed returns of 30% per month, risk-free. Deposit USDT to start earning."}
+{"label": "scam", "type": "investment", "text": "Hey, it's Lisa from the reunion! My uncle runs a crypto investment opportunity, double your money in two weeks. Send Bitcoin to this wallet."}
+{"label": "scam", "type": "utility", "text": "FINAL NOTICE: your power will be disconnected in 30 minutes due to an unpaid bill. Pay via Zelle immediately to avoid disconnection."}
+{"label": "scam", "type": "account", "text": "Amazon: A purchase of iPhone 15 Pro ($1,299) was placed on your account. If this wasn't you, visit amaz0n-support.com to cancel."}
+{"label": "scam", "type": "account", "text": "Your Coinbase account has been frozen. To restore access, share your screen with our agent and confirm your login."}
+{"label": "scam", "type": "job", "text": "Remote job offer: earn $500/day. We will send you a check; deposit it and wire transfer the overpayment back through Zelle to our supplier."}
+{"label": "scam", "type": "romance", "text": "My love, I am stuck at customs and they need a clearance fee before I can fly to you. Please send it through Western Union now. Keep this between us."}
+{"label": "scam", "type": "phishing", "text": "Your mailbox is full. Login at http://192.168.44.10/owa to keep receiving email."}
+{"label": "legit", "type": "2fa", "text": "Your Chase verification code is 482913. Chase will never ask for this code. Don't share it with anyone."}
+{"label": "legit", "type": "2fa", "text": "G-482913 is your Google verification code. Don't share it with anyone."}
+{"label": "legit", "type": "delivery", "text": "USPS: Your package was delivered at 2:14 pm in or at the mailbox. Details: https://tools.usps.com/go/TrackConfirmAction"}
+{"label": "legit", "type": "delivery", "text": "Amazon: your order of 'Reading glasses (3-pack)' has shipped and will arrive Thursday. Track at https://www.amazon.com/orders"}
+{"label": "legit", "type": "personal", "text": "Hi Sam, dinner at 7 still works? I'll bring dessert."}
+{"label": "legit", "type": "personal", "text": "Mom, landed safely! Calling you when I get to the hotel. Love you."}
+{"label": "legit", "type": "appointment", "text": "Reminder: you have an appointment with Dr. Patel on Tuesday, March 4 at 10:30 AM. Reply C to confirm or call the office to reschedule."}
+{"label": "legit", "type": "bank", "text": "Bank of America: a payment of $54.20 to CITY WATER posted on 03/02. View details in the mobile app."}
+{"label": "legit", "type": "bank", "text": "PayPal: You sent $25.00 USD to Maria Lopez. View the transaction at https://www.paypal.com/activity"}
+{"label": "legit", "type": "marketing", "text": "Spring sale at Green Thumb Nursery: 20% off perennials this weekend. Reply STOP to unsubscribe."}
+{"label": "legit", "type": "marketing", "text": "Last chance! Our annual book fair ends Sunday. Come by the library between 10 and 4."}
+{"label": "legit", "type": "work", "text": "Team, the quarterly report draft is in the shared folder. Please leave comments by Friday so we can finalize it."}
+{"label": "legit", "type": "community", "text": "Neighborhood watch meeting moved to Wednesday at the community center. Coffee provided."}
+{"label": "legit", "type": "pharmacy", "text": "Your prescription is ready for pickup at Main St Pharmacy. Store hours 9am-9pm."}
+{"label": "legit", "type": "government", "text": "Your Medicare Summary Notice for January is available. Log in at https://www.medicare.gov to view it."}

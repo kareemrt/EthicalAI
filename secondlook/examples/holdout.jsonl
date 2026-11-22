@@ -1,0 +1,20 @@
+{"label": "scam", "type": "delivery", "text": "DHL Express: your shipment is awaiting payment of import duties. Settle now to avoid return to sender: dhl-express-duty.shop"}
+{"label": "scam", "type": "bank", "text": "Citi Fraud Dept: did you attempt a $2,400 Zelle payment? If not, reply NO and an agent will call you to secure your funds."}
+{"label": "scam", "type": "government", "text": "IRS Notice: you are eligible for a tax refund of $812.40. Submit your bank details within 48 hours at irs-refund-gov.com"}
+{"label": "scam", "type": "family", "text": "Grandpa, it's Jake. I got arrested after a car accident and need $3,000 for bail. Please don't tell Dad, he'll be furious."}
+{"label": "scam", "type": "tech-support", "text": "WINDOWS DEFENDER ALERT: Your PC has been blocked due to suspicious activity. Do not shut down. Call Microsoft certified technicians at 1-844-555-0142."}
+{"label": "scam", "type": "prize", "text": "Dear winner, your email was picked in the international sweepstakes. To claim your prize of $850,000 send your full name, address and a handling fee of $300."}
+{"label": "scam", "type": "investment", "text": "Hello, wrong number? Anyway nice to meet you. I'm a gold trader, I can teach you to earn 40% profit weekly on my trading platform."}
+{"label": "scam", "type": "account", "text": "Your Instagram account will be deleted in 24 hours for copyright violation. Appeal here: instagram-help-center.site/appeal"}
+{"label": "scam", "type": "utility", "text": "Con Edison: Your account is past due. A technician will disconnect your service within the hour unless payment is made by Bitcoin ATM."}
+{"label": "scam", "type": "rental", "text": "The apartment is still available! I'm out of the country so I can't show it, but if you send the deposit via Cash App today I'll mail you the keys."}
+{"label": "scam", "type": "phishing", "text": "Your Microsoft 365 password expires today. Keep your current password: https://rnicrosoft-365.com/keep"}
+{"label": "scam", "type": "subscription", "text": "Geek Squad: your annual subscription of $399.99 has been renewed. To cancel and get a refund call us within 24 hours."}
+{"label": "legit", "type": "2fa", "text": "Your Amazon one-time password is 739102. Do not share it with anyone. Amazon will never call you to ask for it."}
+{"label": "legit", "type": "bank", "text": "Citi Alert: A $72.18 purchase at SAFEWAY was charged to your card ending 4412. No action needed if this was you."}
+{"label": "legit", "type": "delivery", "text": "UPS: Your package 1Z999 is out for delivery today. Track: https://www.ups.com/track"}
+{"label": "legit", "type": "personal", "text": "Grandpa, thanks for the birthday card! Can't wait to see you at Thanksgiving."}
+{"label": "legit", "type": "school", "text": "Lincoln Elementary: early dismissal tomorrow at 12:30 for teacher conferences."}
+{"label": "legit", "type": "utility", "text": "Your water bill of $41.30 is due on April 15. Pay online through your account or by mail."}
+{"label": "legit", "type": "marketing", "text": "Thanks for shopping at Harbor Books! Here's 15% off your next visit, valid through June 30."}
+{"label": "legit", "type": "health", "text": "Flu shots are now available at our clinic. No appointment needed, walk-ins welcome Monday to Saturday."}

@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "secondlook"
+version = "0.1.0"
+description = "Explainable, offline scam-message checker that tells you why a message looks risky."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+secondlook = "secondlook.cli:main"
+
+[tool.setuptools]
+packages = ["secondlook"]
+
+[tool.setuptools.package-data]
+secondlook = ["static/*.html"]
