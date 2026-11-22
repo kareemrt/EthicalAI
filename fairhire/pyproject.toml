@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fairhire"
+version = "0.1.0"
+description = "Bias audits for automated hiring decisions: impact ratios, four-fifths rule, significance tests."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+keywords = ["fairness", "bias-audit", "hiring", "AEDT", "local-law-144", "four-fifths-rule", "responsible-ai"]
+
+[project.scripts]
+fairhire = "fairhire.cli:main"
+
+[tool.setuptools]
+packages = ["fairhire"]
