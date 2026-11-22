@@ -1,0 +1,27 @@
+name: airlock
+
+on:
+  push:
+    paths: ["airlock/**", ".github/workflows/airlock.yml"]
+  pull_request:
+    paths: ["airlock/**", ".github/workflows/airlock.yml"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.9", "3.13"]
+    defaults:
+      run:
+        working-directory: airlock
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: python -m unittest discover -s tests -v
+      - name: Clean control must pass, poisoned examples must fail
+        run: |
+          python -m airlock scan examples/clean_article.md
+          ! python -m airlock scan -q examples/product_page.html examples/job_application.txt examples/shared_doc.md
