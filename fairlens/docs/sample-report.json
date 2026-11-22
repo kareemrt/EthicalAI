@@ -1,0 +1,198 @@
+{
+  "rows": 2400,
+  "mode": "selection",
+  "threshold": null,
+  "overall_rate": 0.3154166666666667,
+  "has_labels": true,
+  "attributes": [
+    {
+      "attribute": "sex",
+      "groups": [
+        {
+          "group": "Male",
+          "n": 1231,
+          "selected": 416,
+          "share": 0.5129166666666667,
+          "rate": 0.3379366368805849,
+          "ci": [
+            0.3120533835866732,
+            0.3648282504625846
+          ],
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "tpr": 0.7649484536082474,
+          "fpr": 0.06032171581769437,
+          "status": "pass"
+        },
+        {
+          "group": "Female",
+          "n": 1131,
+          "selected": 333,
+          "share": 0.47125,
+          "rate": 0.29442970822281167,
+          "ci": [
+            0.2685979364227265,
+            0.32165324929341216
+          ],
+          "impact_ratio": 0.8712571413997143,
+          "p_value": 0.02321559118931274,
+          "tpr": 0.6538461538461539,
+          "fpr": 0.04072398190045249,
+          "status": "pass"
+        },
+        {
+          "group": "Non-binary",
+          "n": 38,
+          "selected": 8,
+          "share": 0.015833333333333335,
+          "rate": 0.21052631578947367,
+          "ci": [
+            0.1107466035209593,
+            0.36346088376442165
+          ],
+          "impact_ratio": null,
+          "p_value": null,
+          "tpr": 0.7272727272727273,
+          "fpr": 0.0,
+          "status": "n/a"
+        }
+      ],
+      "reference": "Male",
+      "tpr_gap": 0.11110229976209351,
+      "fpr_gap": 0.01959773391724188,
+      "status": "pass",
+      "min_impact_ratio": 0.8712571413997143
+    },
+    {
+      "attribute": "race_ethnicity",
+      "groups": [
+        {
+          "group": "White",
+          "n": 1223,
+          "selected": 430,
+          "share": 0.5095833333333334,
+          "rate": 0.3515944399018806,
+          "ci": [
+            0.325336962211011,
+            0.3787813200513445
+          ],
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "tpr": 0.7753036437246964,
+          "fpr": 0.0644718792866941,
+          "status": "pass"
+        },
+        {
+          "group": "Asian",
+          "n": 294,
+          "selected": 98,
+          "share": 0.1225,
+          "rate": 0.3333333333333333,
+          "ci": [
+            0.2819024982090863,
+            0.38906354548662314
+          ],
+          "impact_ratio": 0.9480620155038759,
+          "p_value": 0.555063438401615,
+          "tpr": 0.6910569105691057,
+          "fpr": 0.07602339181286549,
+          "status": "pass"
+        },
+        {
+          "group": "Hispanic or Latino",
+          "n": 384,
+          "selected": 110,
+          "share": 0.16,
+          "rate": 0.2864583333333333,
+          "ci": [
+            0.24352827250550865,
+            0.33361868645918213
+          ],
+          "impact_ratio": 0.8147407945736433,
+          "p_value": 0.018404432107485234,
+          "tpr": 0.6524390243902439,
+          "fpr": 0.013636363636363636,
+          "status": "pass"
+        },
+        {
+          "group": "Two or More Races",
+          "n": 82,
+          "selected": 20,
+          "share": 0.034166666666666665,
+          "rate": 0.24390243902439024,
+          "ci": [
+            0.1637976208028234,
+            0.3469291130884367
+          ],
+          "impact_ratio": 0.6937039137833239,
+          "p_value": 0.04701286464512154,
+          "tpr": 0.72,
+          "fpr": 0.03508771929824561,
+          "status": "fail"
+        },
+        {
+          "group": "Black or African American",
+          "n": 322,
+          "selected": 67,
+          "share": 0.13416666666666666,
+          "rate": 0.2080745341614907,
+          "ci": [
+            0.16730587043238815,
+            0.2557266705323014
+          ],
+          "impact_ratio": 0.5918026866965189,
+          "p_value": 9.332149494567188e-07,
+          "tpr": 0.5163934426229508,
+          "fpr": 0.02,
+          "status": "fail"
+        },
+        {
+          "group": "American Indian",
+          "n": 44,
+          "selected": 19,
+          "share": 0.018333333333333333,
+          "rate": 0.4318181818181818,
+          "ci": [
+            0.29682504164854573,
+            0.5777610925944561
+          ],
+          "impact_ratio": null,
+          "p_value": null,
+          "tpr": 0.85,
+          "fpr": 0.08333333333333333,
+          "status": "n/a"
+        },
+        {
+          "group": "Unknown",
+          "n": 51,
+          "selected": 13,
+          "share": 0.02125,
+          "rate": 0.2549019607843137,
+          "ci": [
+            0.1554562324126639,
+            0.38868544106148706
+          ],
+          "impact_ratio": null,
+          "p_value": null,
+          "tpr": 0.75,
+          "fpr": 0.02857142857142857,
+          "status": "n/a"
+        }
+      ],
+      "reference": "White",
+      "tpr_gap": 0.25891020110174556,
+      "fpr_gap": 0.06238702817650186,
+      "status": "fail",
+      "min_impact_ratio": 0.5918026866965189
+    }
+  ],
+  "status": "fail",
+  "findings": [
+    "[sex] Among genuinely qualified people, selection rates differ by 11.1% between groups (equal-opportunity gap).",
+    "[sex] Excluded for small size (<2% of data): Non-binary. Their outcomes are still shown but not judged.",
+    "[race_ethnicity] Two or More Races candidates are selected at 0.69× the rate of White (24.4% vs 35.2%); statistically significant (p 0.047).",
+    "[race_ethnicity] Black or African American candidates are selected at 0.59× the rate of White (20.8% vs 35.2%); statistically significant (p <0.001).",
+    "[race_ethnicity] Among genuinely qualified people, selection rates differ by 25.9% between groups (equal-opportunity gap).",
+    "[race_ethnicity] Excluded for small size (<2% of data): American Indian. Their outcomes are still shown but not judged."
+  ]
+}

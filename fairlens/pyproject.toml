@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fairlens"
+version = "0.1.0"
+description = "Audit automated decision systems for adverse impact (EEOC 4/5ths rule, NYC Local Law 144)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+keywords = ["fairness", "bias", "audit", "hiring", "responsible-ai", "ll144"]
+
+[project.scripts]
+fairlens = "fairlens.__main__:main"
+
+[tool.setuptools]
+packages = ["fairlens"]

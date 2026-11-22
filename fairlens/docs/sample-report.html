@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Résumé screener — Q3 audit</title>
+<style>
+:root{--bg:#f7f7f5;--card:#fff;--ink:#1d1d1f;--mute:#6e6e73;--line:#e3e3e0;
+--pass:#1f9d55;--warn:#d98e04;--fail:#d64545;--na:#9a9a9f}
+@media (prefers-color-scheme:dark){:root{--bg:#111113;--card:#1c1c1f;--ink:#f2f2f2;
+--mute:#9a9aa0;--line:#2e2e33}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);
+font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:880px;margin:0 auto;padding:40px 16px}
+header h1{margin:0;font-size:28px;letter-spacing:-.02em}
+.meta{color:var(--mute);margin:4px 0 12px}
+.verdict{display:flex;gap:14px;align-items:center;padding:18px 20px;border-radius:14px;
+background:var(--card);border:1px solid var(--line);margin:20px 0}
+.verdict .big{font-size:30px;width:52px;height:52px;border-radius:50%;display:grid;
+place-items:center;color:#fff}
+.verdict b{font-size:18px}
+section{background:var(--card);border:1px solid var(--line);border-radius:14px;
+padding:20px;margin:16px 0;overflow-x:auto}
+h2{margin:0 0 4px;font-size:18px;display:flex;gap:10px;align-items:center}
+table{width:100%;border-collapse:collapse;margin-top:12px;font-variant-numeric:tabular-nums}
+th,td{text-align:right;padding:7px 8px;border-bottom:1px solid var(--line);white-space:nowrap}
+th:first-child,td:first-child{text-align:left}th{color:var(--mute);font-weight:500;font-size:13px}
+.ci{color:var(--mute);font-size:12px}
+.pill{font-size:12px;font-weight:600;padding:2px 9px;border-radius:99px;color:#fff}
+.pass{background:var(--pass);fill:var(--pass)}.warn{background:var(--warn);fill:var(--warn)}
+.fail{background:var(--fail);fill:var(--fail)}.na{background:var(--na);fill:var(--na)}
+svg{width:100%;max-width:640px;display:block;margin:8px 0}
+svg text{fill:var(--ink);font-size:12px}svg .axis{fill:var(--mute);font-size:11px}
+svg .thr{stroke:var(--fail);stroke-dasharray:4 3;stroke-width:1.5}
+svg .ref{stroke:var(--mute);stroke-width:1}
+li{margin:6px 0}footer{color:var(--mute);font-size:13px;margin-top:24px}
+</style></head><body><main>
+<header><h1>Résumé screener — Q3 audit</h1>
+<p class=meta>2,400 decisions · Selection rate: 31.5% overall · generated 2026-11-22 by FairLens</p></header>
+<div class=verdict><div class="big fail">✗</div><div><b>Adverse impact detected</b>
+<div class=meta>Dashed red line marks the 0.8 four-fifths threshold.</div></div></div>
+<section><h2>Findings</h2><ul><li>[sex] Among genuinely qualified people, selection rates differ by 11.1% between groups (equal-opportunity gap).</li><li>[sex] Excluded for small size (&lt;2% of data): Non-binary. Their outcomes are still shown but not judged.</li><li>[race_ethnicity] Two or More Races candidates are selected at 0.69× the rate of White (24.4% vs 35.2%); statistically significant (p 0.047).</li><li>[race_ethnicity] Black or African American candidates are selected at 0.59× the rate of White (20.8% vs 35.2%); statistically significant (p &lt;0.001).</li><li>[race_ethnicity] Among genuinely qualified people, selection rates differ by 25.9% between groups (equal-opportunity gap).</li><li>[race_ethnicity] Excluded for small size (&lt;2% of data): American Indian. Their outcomes are still shown but not judged.</li></ul></section><section><h2>sex <span class='pill pass'>✓ pass</span></h2><p class=meta>Reference group: <b>Male</b> · Lowest impact ratio: <b>0.87</b></p><p class=meta>Equal-opportunity gap (TPR): <b>11.1%</b> · False-positive gap (FPR): <b>2.0%</b></p><svg viewBox="0 0 610 88" role="img" aria-label="Impact ratios for sex"><text x="180" y="21" text-anchor="end" class="lbl">Male</text><rect x="190" y="6" width="300.0" height="20" rx="4" class="bar pass"/><text x="496.0" y="21" class="val">1.00</text><text x="180" y="51" text-anchor="end" class="lbl">Female</text><rect x="190" y="36" width="261.4" height="20" rx="4" class="bar pass"/><text x="457.4" y="51" class="val">0.87</text><line x1="430.0" x2="430.0" y1="0" y2="68" class="thr"/><text x="430.0" y="82" text-anchor="middle" class="axis">0.8</text><line x1="490.0" x2="490.0" y1="0" y2="68" class="ref"/><text x="490.0" y="82" text-anchor="middle" class="axis">1.0</text></svg><table><thead><tr><th>Group</th><th>n</th><th>Share</th><th>Rate (95% CI)</th><th>Impact</th><th>p</th><th>TPR</th><th>FPR</th><th></th></tr></thead><tbody><tr><td>Male</td><td>1,231</td><td>51.3%</td><td>33.8% <span class=ci>(31%–36%)</span></td><td>1.00</td><td>—</td><td>76.5%</td><td>6.0%</td><td><span class='pill pass'>✓ pass</span></td></tr><tr><td>Female</td><td>1,131</td><td>47.1%</td><td>29.4% <span class=ci>(27%–32%)</span></td><td>0.87</td><td>0.023</td><td>65.4%</td><td>4.1%</td><td><span class='pill pass'>✓ pass</span></td></tr><tr><td>Non-binary</td><td>38</td><td>1.6%</td><td>21.1% <span class=ci>(11%–36%)</span></td><td>—</td><td>—</td><td>72.7%</td><td>0.0%</td><td><span class='pill na'>– n/a</span></td></tr></tbody></table></section><section><h2>race_ethnicity <span class='pill fail'>✗ fail</span></h2><p class=meta>Reference group: <b>White</b> · Lowest impact ratio: <b>0.59</b></p><p class=meta>Equal-opportunity gap (TPR): <b>25.9%</b> · False-positive gap (FPR): <b>6.2%</b></p><svg viewBox="0 0 610 178" role="img" aria-label="Impact ratios for race_ethnicity"><text x="180" y="21" text-anchor="end" class="lbl">White</text><rect x="190" y="6" width="300.0" height="20" rx="4" class="bar pass"/><text x="496.0" y="21" class="val">1.00</text><text x="180" y="51" text-anchor="end" class="lbl">Asian</text><rect x="190" y="36" width="284.4" height="20" rx="4" class="bar pass"/><text x="480.4" y="51" class="val">0.95</text><text x="180" y="81" text-anchor="end" class="lbl">Hispanic or Latino</text><rect x="190" y="66" width="244.4" height="20" rx="4" class="bar pass"/><text x="440.4" y="81" class="val">0.81</text><text x="180" y="111" text-anchor="end" class="lbl">Two or More Races</text><rect x="190" y="96" width="208.1" height="20" rx="4" class="bar fail"/><text x="404.1" y="111" class="val">0.69</text><text x="180" y="141" text-anchor="end" class="lbl">Black or African American</text><rect x="190" y="126" width="177.5" height="20" rx="4" class="bar fail"/><text x="373.5" y="141" class="val">0.59</text><line x1="430.0" x2="430.0" y1="0" y2="158" class="thr"/><text x="430.0" y="172" text-anchor="middle" class="axis">0.8</text><line x1="490.0" x2="490.0" y1="0" y2="158" class="ref"/><text x="490.0" y="172" text-anchor="middle" class="axis">1.0</text></svg><table><thead><tr><th>Group</th><th>n</th><th>Share</th><th>Rate (95% CI)</th><th>Impact</th><th>p</th><th>TPR</th><th>FPR</th><th></th></tr></thead><tbody><tr><td>White</td><td>1,223</td><td>51.0%</td><td>35.2% <span class=ci>(33%–38%)</span></td><td>1.00</td><td>—</td><td>77.5%</td><td>6.4%</td><td><span class='pill pass'>✓ pass</span></td></tr><tr><td>Asian</td><td>294</td><td>12.2%</td><td>33.3% <span class=ci>(28%–39%)</span></td><td>0.95</td><td>0.555</td><td>69.1%</td><td>7.6%</td><td><span class='pill pass'>✓ pass</span></td></tr><tr><td>Hispanic or Latino</td><td>384</td><td>16.0%</td><td>28.6% <span class=ci>(24%–33%)</span></td><td>0.81</td><td>0.018</td><td>65.2%</td><td>1.4%</td><td><span class='pill pass'>✓ pass</span></td></tr><tr><td>Two or More Races</td><td>82</td><td>3.4%</td><td>24.4% <span class=ci>(16%–35%)</span></td><td>0.69</td><td>0.047</td><td>72.0%</td><td>3.5%</td><td><span class='pill fail'>✗ fail</span></td></tr><tr><td>Black or African American</td><td>322</td><td>13.4%</td><td>20.8% <span class=ci>(17%–26%)</span></td><td>0.59</td><td><0.001</td><td>51.6%</td><td>2.0%</td><td><span class='pill fail'>✗ fail</span></td></tr><tr><td>American Indian</td><td>44</td><td>1.8%</td><td>43.2% <span class=ci>(30%–58%)</span></td><td>—</td><td>—</td><td>85.0%</td><td>8.3%</td><td><span class='pill na'>– n/a</span></td></tr><tr><td>Unknown</td><td>51</td><td>2.1%</td><td>25.5% <span class=ci>(16%–39%)</span></td><td>—</td><td>—</td><td>75.0%</td><td>2.9%</td><td><span class='pill na'>– n/a</span></td></tr></tbody></table></section>
+<section><h2>Method</h2><ul><li>Impact ratio = group rate ÷ highest group rate. Below 0.8 fails the EEOC four-fifths rule and is how NYC Local Law 144 audits report results.</li><li>p-value: two-proportion z-test against the highest group; fail requires p &lt; 0.05.</li><li>Groups under 2% of the data and unknown values are shown but not judged.</li><li>A passing audit is evidence, not proof, of fairness. Review job-relatedness and data quality too.</li></ul></section>
+<footer>FairLens is a screening tool. It does not constitute legal advice.</footer>
+</main></body></html>
