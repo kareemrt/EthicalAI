@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "parity-audit"
+version = "0.1.0"
+description = "Zero-dependency bias audits for automated hiring, lending and screening decisions."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+keywords = ["fairness", "bias audit", "disparate impact", "four-fifths rule", "NYC Local Law 144", "AI ethics"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Intended Audience :: Science/Research",
+]
+dependencies = []
+
+[project.scripts]
+parity = "parity.cli:main"
+
+[tool.setuptools]
+packages = ["parity"]
