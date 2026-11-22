@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "recourse"
+version = "0.1.0"
+description = "Tell people what they can change after an automated 'no' — and check whether that burden falls evenly."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+recourse = "recourse.cli:main"
+
+[tool.setuptools]
+packages = ["recourse"]

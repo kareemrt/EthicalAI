@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 112" width="900" height="112" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12">
+<style>.t{fill:#1f2328}.m{fill:#59636e}.b0{fill:#4c6ef5}.b1{fill:#e8590c}.b2{fill:#2b8a3e}.b3{fill:#ae3ec9}.g{stroke:#d0d7de}@media(prefers-color-scheme:dark){.t{fill:#e6edf3}.m{fill:#9198a1}.b0{fill:#748ffc}.b1{fill:#ff922b}.b2{fill:#51cf66}.b3{fill:#da77f2}.g{stroke:#3d444d}}</style>
+<text class="t" x="10" y="20" font-weight="600">Declined</text>
+<line class="g" x1="100" y1="32" x2="100" y2="102"/>
+<text class="m" x="92" y="51" text-anchor="end">Group A</text>
+<rect class="b0" x="100" y="38" width="70.6" height="18" rx="3"/>
+<text class="t" x="176.6" y="51">24%</text>
+<text class="m" x="92" y="77" text-anchor="end">Group B</text>
+<rect class="b1" x="100" y="64" width="150.0" height="18" rx="3"/>
+<text class="t" x="256.0" y="77">51%</text>
+<text class="t" x="310" y="20" font-weight="600">Median effort to flip a decline</text>
+<line class="g" x1="400" y1="32" x2="400" y2="102"/>
+<text class="m" x="392" y="51" text-anchor="end">Group A</text>
+<rect class="b0" x="400" y="38" width="105.6" height="18" rx="3"/>
+<text class="t" x="511.6" y="51">1.14</text>
+<text class="m" x="392" y="77" text-anchor="end">Group B</text>
+<rect class="b1" x="400" y="64" width="150.0" height="18" rx="3"/>
+<text class="t" x="556.0" y="77">1.62</text>
+<text class="t" x="610" y="20" font-weight="600">Declined with no path to approval</text>
+<line class="g" x1="700" y1="32" x2="700" y2="102"/>
+<text class="m" x="692" y="51" text-anchor="end">Group A</text>
+<rect class="b0" x="700" y="38" width="1.0" height="18" rx="3"/>
+<text class="t" x="707.0" y="51">0%</text>
+<text class="m" x="692" y="77" text-anchor="end">Group B</text>
+<rect class="b1" x="700" y="64" width="150.0" height="18" rx="3"/>
+<text class="t" x="856.0" y="77">11%</text>
+</svg>
