@@ -1,0 +1,20 @@
+name: candor
+on:
+  push:
+    paths: ["candor/**", ".github/workflows/candor.yml"]
+  pull_request:
+    paths: ["candor/**", ".github/workflows/candor.yml"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults: { run: { working-directory: candor } }
+    strategy:
+      matrix: { python: ["3.9", "3.13"] }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "${{ matrix.python }}" }
+      - run: python -m unittest -v
+      - name: Honest example must stay at 100
+        run: python -m candor scan examples/checkout_honest.html --fail-under 100
