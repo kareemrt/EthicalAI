@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="526" viewBox="0 0 720 526" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<style>
+  .h { font-size: 15px; font-weight: 600; fill: #1f2328 }
+  .l, .v { font-size: 13px; fill: #1f2328 }
+  .s { font-size: 11px; fill: #59636e }
+  .track { fill: #eef0f2 }
+  .thr { stroke: #1f2328; stroke-width: 1.5; stroke-dasharray: 4 3 }
+  @media (prefers-color-scheme: dark) {
+    .h, .l, .v { fill: #e6edf3 } .s { fill: #9198a1 }
+    .track { fill: #262c36 } .thr { stroke: #e6edf3 }
+  }
+</style>
+<text class="h" x="24" y="40">gender</text>
+<text class="l" x="204" y="73" text-anchor="end">Female</text>
+<rect x="214" y="58" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="58" width="274.8" height="22" rx="4" fill="#d1495b"/>
+<text class="v" x="494.8" y="73">0.64</text>
+<text class="l" x="204" y="103" text-anchor="end">Male</text>
+<rect x="214" y="88" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="88" width="432.0" height="22" rx="4" fill="#2a9d8f"/>
+<text class="v" x="652.0" y="103">1.00</text>
+<text class="l" x="204" y="133" text-anchor="end">Nonbinary</text>
+<rect x="214" y="118" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="118" width="406.9" height="22" rx="4" fill="#2a9d8f"/>
+<text class="v" x="626.9" y="133">0.94</text>
+<line x1="559.6" x2="559.6" y1="52" y2="146" class="thr"/>
+<text class="s" x="559.6" y="48" text-anchor="middle">0.80</text>
+<text class="h" x="24" y="188">race</text>
+<text class="l" x="204" y="221" text-anchor="end">Asian</text>
+<rect x="214" y="206" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="206" width="423.4" height="22" rx="4" fill="#2a9d8f"/>
+<text class="v" x="643.4" y="221">0.98</text>
+<text class="l" x="204" y="251" text-anchor="end">Black</text>
+<rect x="214" y="236" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="236" width="240.4" height="22" rx="4" fill="#d1495b"/>
+<text class="v" x="460.4" y="251">0.56</text>
+<text class="l" x="204" y="281" text-anchor="end">Hispanic</text>
+<rect x="214" y="266" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="266" width="337.3" height="22" rx="4" fill="#d1495b"/>
+<text class="v" x="557.3" y="281">0.78</text>
+<text class="l" x="204" y="311" text-anchor="end">Native American</text>
+<rect x="214" y="296" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="296" width="0.0" height="22" rx="4" fill="#9aa0a6"/>
+<text class="v" x="220.0" y="311">excluded</text>
+<text class="l" x="204" y="341" text-anchor="end">White</text>
+<rect x="214" y="326" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="326" width="432.0" height="22" rx="4" fill="#2a9d8f"/>
+<text class="v" x="652.0" y="341">1.00</text>
+<line x1="559.6" x2="559.6" y1="200" y2="354" class="thr"/>
+<text class="s" x="559.6" y="196" text-anchor="middle">0.80</text>
+<text class="h" x="24" y="396">age_band</text>
+<text class="l" x="204" y="429" text-anchor="end">40+</text>
+<rect x="214" y="414" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="414" width="265.1" height="22" rx="4" fill="#d1495b"/>
+<text class="v" x="485.1" y="429">0.61</text>
+<text class="l" x="204" y="459" text-anchor="end">&lt;40</text>
+<rect x="214" y="444" width="432" height="22" rx="4" class="track"/>
+<rect x="214" y="444" width="432.0" height="22" rx="4" fill="#2a9d8f"/>
+<text class="v" x="652.0" y="459">1.00</text>
+<line x1="559.6" x2="559.6" y1="408" y2="472" class="thr"/>
+<text class="s" x="559.6" y="404" text-anchor="middle">0.80</text>
+<rect x="24" y="498" width="12" height="12" rx="2" fill="#2a9d8f"/><text class="s" x="42" y="509">OK</text><rect x="144" y="498" width="12" height="12" rx="2" fill="#e9a23b"/><text class="s" x="162" y="509">WARN</text><rect x="264" y="498" width="12" height="12" rx="2" fill="#d1495b"/><text class="s" x="282" y="509">FAIL</text><rect x="384" y="498" width="12" height="12" rx="2" fill="#9aa0a6"/><text class="s" x="402" y="509">EXCLUDED</text>
+</svg>
