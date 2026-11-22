@@ -1,0 +1,54 @@
+<!doctype html>
+<!-- A fictional streaming-service checkout that packs in common dark patterns. -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>StreamCo — Start your free trial</title>
+  <style>
+    .fine-print { font-size: 10px; color: #aaa; }
+    .btn-primary { background: #e50914; color: #fff; font-size: 18px; padding: 14px 28px; }
+    .link-quiet { font-size: 11px; color: #ccc; }
+  </style>
+</head>
+<body>
+  <div id="cookie-consent" role="dialog">
+    <p>We use cookies to improve your experience and for advertising.</p>
+    <button class="btn-primary">Accept all</button>
+    <a href="/cookie-settings">Manage settings</a>
+  </div>
+
+  <header>
+    <div class="countdown-timer">Offer ends in 09:59</div>
+    <p>Hurry! Only 3 spots left at this price — 27 people are viewing this offer.</p>
+  </header>
+
+  <main>
+    <h1>Start your 30-day free trial</h1>
+
+    <form>
+      <label for="card">Card number</label>
+      <input id="card" name="card-number" autocomplete="cc-number">
+
+      <label><input type="checkbox" name="news" checked> Send me marketing emails and special offers</label>
+      <label><input type="checkbox" name="share" checked> Share my data with trusted partners</label>
+      <label><input type="checkbox" name="protect" checked> Add Device Protection Plan (+$4.99/mo)</label>
+
+      <label>
+        <input type="checkbox" name="optout">
+        Uncheck this box if you do not want to not receive our partner newsletter.
+      </label>
+
+      <p class="price">$0.00 today</p>
+      <p class="fine-print">Plus a $2.99 service fee per month. After the trial you will be charged $17.99/month and your plan will automatically renew.</p>
+
+      <button class="btn-primary" type="submit">Start free trial</button>
+      <a class="link-quiet" href="/">No thanks, I prefer paying full price</a>
+    </form>
+
+    <aside class="sponsored-card">
+      <h3>The 5 best headphones of 2026</h3>
+      <p>Our editors love the SoundMax Pro.</p>
+    </aside>
+  </main>
+</body>
+</html>

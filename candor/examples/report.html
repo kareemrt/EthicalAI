@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Candor report</title>
+<style>
+:root{--bg:#f7f7f5;--card:#fff;--ink:#1c1c1e;--mute:#6b6b70;--line:#e6e6e3;
+--high:#c62f2f;--medium:#b7791f;--low:#2b7a9b;--ok:#2f855a}
+@media (prefers-color-scheme:dark){:root{--bg:#111113;--card:#1b1b1f;--ink:#ececf0;--mute:#9a9aa3;
+--line:#2c2c31;--high:#ef6b6b;--medium:#e0a84a;--low:#5fb3d3;--ok:#5cc28a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);
+font:15px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;padding:32px 16px}
+main{max-width:820px;margin:auto}h1{font-size:22px;margin:0 0 4px}.lede{color:var(--mute);margin:0 0 24px}
+section{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;margin-bottom:20px}
+header{display:flex;gap:16px;align-items:center}h2{font-size:15px;margin:0;word-break:break-all}
+.grade{flex:none;width:56px;height:56px;border-radius:12px;display:grid;place-items:center;
+font-size:28px;font-weight:700;color:#fff}.gA,.gB{background:var(--ok)}.gC{background:var(--medium)}
+.gD,.gF{background:var(--high)}header>div:last-child{flex:1;min-width:0}
+.meter{height:6px;background:var(--line);border-radius:3px;margin:8px 0 4px;overflow:hidden}
+.meter i{display:block;height:100%;background:var(--ink)}.sum{margin:0;color:var(--mute);font-size:13px}
+b.high{color:var(--high)}b.medium{color:var(--medium)}b.low{color:var(--low)}
+ul{list-style:none;padding:0;margin:16px 0 0}.f{border-left:3px solid;padding:10px 14px;margin-top:10px;
+border-radius:0 8px 8px 0;background:color-mix(in srgb,currentColor 5%,transparent)}
+.f.high{color:var(--high)}.f.medium{color:var(--medium)}.f.low{color:var(--low)}
+.f>*{color:var(--ink)}.h{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.sev{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:inherit!important}
+.f .sev{color:currentColor}.ln{margin-left:auto;color:var(--mute);font-size:12px}
+q{display:block;margin:6px 0;font-style:italic}p{margin:2px 0;font-size:14px}
+p span{display:inline-block;width:34px;color:var(--mute);font-size:12px}
+small{display:block;margin-top:6px;color:var(--mute)!important;font-size:12px}.ok{color:var(--ok);padding:8px 0}
+</style></head><body><main>
+<h1>Candor report</h1><p class="lede">Dark-pattern scan. Heuristic findings: each one is evidence for a human to review.</p>
+
+  <section>
+    <header>
+      <div class="grade gF">F</div>
+      <div><h2>examples/checkout_dark.html</h2>
+        <div class="meter"><i style="width:0%"></i></div>
+        <p class="sum">0/100 · <b class="high">5</b> high ·
+          <b class="medium">7</b> medium · <b class="low">1</b> low</p></div>
+    </header>
+    <ul>
+      <li class="f high">
+        <div class="h"><span class="sev">high</span><b>Pre-ticked consent</b>
+          <span class="ln">line 32</span></div>
+        <q>Send me marketing emails and special offers</q>
+        <p><span>Why</span>Consent must be an affirmative act; silence or a pre-ticked box is not consent.</p>
+        <p><span>Fix</span>Remove the `checked` attribute so the user opts in.</p>
+        <small>GDPR Art. 4(11) &amp; Recital 32; CJEU Planet49 (C-673/17); FTC Dark Patterns report (2022)</small>
+      </li>
+      <li class="f high">
+        <div class="h"><span class="sev">high</span><b>Pre-ticked consent</b>
+          <span class="ln">line 33</span></div>
+        <q>Share my data with trusted partners</q>
+        <p><span>Why</span>Consent must be an affirmative act; silence or a pre-ticked box is not consent.</p>
+        <p><span>Fix</span>Remove the `checked` attribute so the user opts in.</p>
+        <small>GDPR Art. 4(11) &amp; Recital 32; CJEU Planet49 (C-673/17); FTC Dark Patterns report (2022)</small>
+      </li>
+      <li class="f high">
+        <div class="h"><span class="sev">high</span><b>Sneak into basket</b>
+          <span class="ln">line 34</span></div>
+        <q>Add Device Protection Plan (+$4.99/mo)</q>
+        <p><span>Why</span>Extra paid items are added unless the user notices and removes them.</p>
+        <p><span>Fix</span>Leave optional extras unselected and show their price beside the choice.</p>
+        <small>EU Consumer Rights Directive Art. 22; FTC Act §5; UK CMA guidance on online choice architecture</small>
+      </li>
+      <li class="f high">
+        <div class="h"><span class="sev">high</span><b>Forced continuity</b>
+          <span class="ln">line 42</span></div>
+        <q>Plus a $2.99 service fee per month. After the trial you will be charged $17.99/month and …</q>
+        <p><span>Why</span>Trial-to-paid renewal terms are tiny text (10px).</p>
+        <p><span>Fix</span>State the renewal price and date next to the sign-up button, at full size.</p>
+        <small>US ROSCA (15 U.S.C. 8403); California Automatic Renewal Law; EU Digital Fairness fitness check (2024)</small>
+      </li>
+      <li class="f high">
+        <div class="h"><span class="sev">high</span><b>Confirmshaming</b>
+          <span class="ln">line 45</span></div>
+        <q>No thanks, I prefer paying full price</q>
+        <p><span>Why</span>Saying no should not require insulting yourself.</p>
+        <p><span>Fix</span>Use neutral wording such as “No thanks”.</p>
+        <small>FTC Dark Patterns report (2022) §&#x27;Confirmshaming&#x27;; EU DSA Art. 25</small>
+      </li>
+      <li class="f medium">
+        <div class="h"><span class="sev">medium</span><b>Forced continuity</b>
+          <span class="ln">page-wide</span></div>
+        <q>free trial + payment details, no cancellation path</q>
+        <p><span>Why</span>Collecting card details for a &#x27;free&#x27; trial without saying how to cancel traps users.</p>
+        <p><span>Fix</span>Explain how to cancel (ideally online, in as few steps as signing up).</p>
+        <small>US ROSCA (15 U.S.C. 8403); California Automatic Renewal Law; EU Digital Fairness fitness check (2024)</small>
+      </li>
+      <li class="f medium">
+        <div class="h"><span class="sev">medium</span><b>No real choice on cookies</b>
+          <span class="ln">line 14</span></div>
+        <q>We use cookies to improve your experience and for advertising. Accept all Manage settings</q>
+        <p><span>Why</span>Accepting takes one click; refusing is buried behind a settings screen.</p>
+        <p><span>Fix</span>Add a “Reject all” button on the first layer, styled like “Accept all”.</p>
+        <small>GDPR Art. 7(3); EDPB Cookie Banner Taskforce report (2023); CNIL fines vs Google &amp; Facebook (Dec 2021)</small>
+      </li>
+      <li class="f medium">
+        <div class="h"><span class="sev">medium</span><b>False urgency &amp; scarcity</b>
+          <span class="ln">line 21</span></div>
+        <q>Offer ends in 09:59</q>
+        <p><span>Why</span>A countdown timer pressures a decision against the clock.</p>
+        <p><span>Fix</span>Remove the timer unless the deadline is real and the same for everyone.</p>
+        <small>FTC Dark Patterns report (2022); UK CMA Online Choice Architecture (2022); EU UCPD Annex I #7</small>
+      </li>
+      <li class="f medium">
+        <div class="h"><span class="sev">medium</span><b>False urgency &amp; scarcity</b>
+          <span class="ln">line 22</span></div>
+        <q>Hurry! Only 3 spots left at this price — 27 people are viewing this offer.</q>
+        <p><span>Why</span>Time or stock pressure discourages comparison. If it is not real, it is deceptive.</p>
+        <p><span>Fix</span>Show urgency only when it is genuine and verifiable, or remove it.</p>
+        <small>FTC Dark Patterns report (2022); UK CMA Online Choice Architecture (2022); EU UCPD Annex I #7</small>
+      </li>
+      <li class="f medium">
+        <div class="h"><span class="sev">medium</span><b>Trick question</b>
+          <span class="ln">line 36</span></div>
+        <q>Uncheck this box if you do not want to not receive our partner newsletter.</q>
+        <p><span>Why</span>The wording makes it hard to tell what ticking the box will do.</p>
+        <p><span>Fix</span>Use one plain, positive sentence: “Send me offers by email.”</p>
+        <small>FTC Dark Patterns report (2022) §&#x27;Trick questions&#x27;; EDPB Guidelines 03/2022</small>
+      </li>
+      <li class="f medium">
+        <div class="h"><span class="sev">medium</span><b>Hidden costs</b>
+          <span class="ln">line 42</span></div>
+        <q>Plus a $2.99 service fee per month. After the trial you will be charged $17.99/month and …</q>
+        <p><span>Why</span>A cost is disclosed but tiny text (10px).</p>
+        <p><span>Fix</span>Include all mandatory fees in the headline price, at the same size as the price.</p>
+        <small>EU Consumer Rights Directive Art. 6(1)(e); FTC Junk Fees rule (16 CFR 464, 2025)</small>
+      </li>
+      <li class="f medium">
+        <div class="h"><span class="sev">medium</span><b>Asymmetric choice</b>
+          <span class="ln">line 45</span></div>
+        <q>No thanks, I prefer paying full price</q>
+        <p><span>Why</span>The decline option is tiny text (11px), while “Start free trial” is prominent.</p>
+        <p><span>Fix</span>Give accept and decline equal size, colour weight and placement.</p>
+        <small>EDPB Guidelines 03/2022 §&#x27;Hindering&#x27;; CNIL cookie guidance (2020); EU DSA Art. 25(1)</small>
+      </li>
+      <li class="f low">
+        <div class="h"><span class="sev">low</span><b>Disguised advertising</b>
+          <span class="ln">line 48</span></div>
+        <q>The 5 best headphones of 2026 Our editors love the SoundMax Pro.</q>
+        <p><span>Why</span>Marked as an ad in the code but not to the reader.</p>
+        <p><span>Fix</span>Add a clear, visible “Sponsored” or “Ad” label.</p>
+        <small>FTC Native Advertising guidance (2015); EU DSA Art. 26</small>
+      </li></ul>
+  </section>
+  <section>
+    <header>
+      <div class="grade gA">A</div>
+      <div><h2>examples/checkout_fair.html</h2>
+        <div class="meter"><i style="width:100%"></i></div>
+        <p class="sum">100/100 · <b class="high">0</b> high ·
+          <b class="medium">0</b> medium · <b class="low">0</b> low</p></div>
+    </header>
+    <ul><li class="ok">✓ No dark patterns detected.</li></ul>
+  </section>
+  <section>
+    <header>
+      <div class="grade gB">B</div>
+      <div><h2>examples/report.html</h2>
+        <div class="meter"><i style="width:80%"></i></div>
+        <p class="sum">80/100 · <b class="high">0</b> high ·
+          <b class="medium">2</b> medium · <b class="low">0</b> low</p></div>
+    </header>
+    <ul>
+      <li class="f medium">
+        <div class="h"><span class="sev">medium</span><b>False urgency &amp; scarcity</b>
+          <span class="ln">line 101</span></div>
+        <q>Offer ends in 09:59</q>
+        <p><span>Why</span>Time or stock pressure discourages comparison. If it is not real, it is deceptive.</p>
+        <p><span>Fix</span>Show urgency only when it is genuine and verifiable, or remove it.</p>
+        <small>FTC Dark Patterns report (2022); UK CMA Online Choice Architecture (2022); EU UCPD Annex I #7</small>
+      </li>
+      <li class="f medium">
+        <div class="h"><span class="sev">medium</span><b>False urgency &amp; scarcity</b>
+          <span class="ln">line 109</span></div>
+        <q>Hurry! Only 3 spots left at this price — 27 people are viewing this offer.</q>
+        <p><span>Why</span>Time or stock pressure discourages comparison. If it is not real, it is deceptive.</p>
+        <p><span>Fix</span>Show urgency only when it is genuine and verifiable, or remove it.</p>
+        <small>FTC Dark Patterns report (2022); UK CMA Online Choice Architecture (2022); EU UCPD Annex I #7</small>
+      </li></ul>
+  </section>
+</main></body></html>
+

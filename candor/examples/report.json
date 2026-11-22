@@ -1,0 +1,157 @@
+[
+  {
+    "source": "examples/checkout_dark.html",
+    "score": 0,
+    "grade": "F",
+    "counts": {
+      "high": 5,
+      "medium": 7,
+      "low": 1
+    },
+    "findings": [
+      {
+        "rule": "preselected-consent",
+        "severity": "high",
+        "line": 32,
+        "evidence": "Send me marketing emails and special offers",
+        "why": "Consent must be an affirmative act; silence or a pre-ticked box is not consent.",
+        "fix": "Remove the `checked` attribute so the user opts in."
+      },
+      {
+        "rule": "preselected-consent",
+        "severity": "high",
+        "line": 33,
+        "evidence": "Share my data with trusted partners",
+        "why": "Consent must be an affirmative act; silence or a pre-ticked box is not consent.",
+        "fix": "Remove the `checked` attribute so the user opts in."
+      },
+      {
+        "rule": "sneak-into-basket",
+        "severity": "high",
+        "line": 34,
+        "evidence": "Add Device Protection Plan (+$4.99/mo)",
+        "why": "Extra paid items are added unless the user notices and removes them.",
+        "fix": "Leave optional extras unselected and show their price beside the choice."
+      },
+      {
+        "rule": "forced-continuity",
+        "severity": "high",
+        "line": 42,
+        "evidence": "Plus a $2.99 service fee per month. After the trial you will be charged $17.99/month and …",
+        "why": "Trial-to-paid renewal terms are tiny text (10px).",
+        "fix": "State the renewal price and date next to the sign-up button, at full size."
+      },
+      {
+        "rule": "confirmshaming",
+        "severity": "high",
+        "line": 45,
+        "evidence": "No thanks, I prefer paying full price",
+        "why": "Saying no should not require insulting yourself.",
+        "fix": "Use neutral wording such as “No thanks”."
+      },
+      {
+        "rule": "forced-continuity",
+        "severity": "medium",
+        "line": 0,
+        "evidence": "free trial + payment details, no cancellation path",
+        "why": "Collecting card details for a 'free' trial without saying how to cancel traps users.",
+        "fix": "Explain how to cancel (ideally online, in as few steps as signing up)."
+      },
+      {
+        "rule": "cookie-wall",
+        "severity": "medium",
+        "line": 14,
+        "evidence": "We use cookies to improve your experience and for advertising. Accept all Manage settings",
+        "why": "Accepting takes one click; refusing is buried behind a settings screen.",
+        "fix": "Add a “Reject all” button on the first layer, styled like “Accept all”."
+      },
+      {
+        "rule": "false-urgency",
+        "severity": "medium",
+        "line": 21,
+        "evidence": "Offer ends in 09:59",
+        "why": "A countdown timer pressures a decision against the clock.",
+        "fix": "Remove the timer unless the deadline is real and the same for everyone."
+      },
+      {
+        "rule": "false-urgency",
+        "severity": "medium",
+        "line": 22,
+        "evidence": "Hurry! Only 3 spots left at this price — 27 people are viewing this offer.",
+        "why": "Time or stock pressure discourages comparison. If it is not real, it is deceptive.",
+        "fix": "Show urgency only when it is genuine and verifiable, or remove it."
+      },
+      {
+        "rule": "trick-question",
+        "severity": "medium",
+        "line": 36,
+        "evidence": "Uncheck this box if you do not want to not receive our partner newsletter.",
+        "why": "The wording makes it hard to tell what ticking the box will do.",
+        "fix": "Use one plain, positive sentence: “Send me offers by email.”"
+      },
+      {
+        "rule": "hidden-costs",
+        "severity": "medium",
+        "line": 42,
+        "evidence": "Plus a $2.99 service fee per month. After the trial you will be charged $17.99/month and …",
+        "why": "A cost is disclosed but tiny text (10px).",
+        "fix": "Include all mandatory fees in the headline price, at the same size as the price."
+      },
+      {
+        "rule": "visual-interference",
+        "severity": "medium",
+        "line": 45,
+        "evidence": "No thanks, I prefer paying full price",
+        "why": "The decline option is tiny text (11px), while “Start free trial” is prominent.",
+        "fix": "Give accept and decline equal size, colour weight and placement."
+      },
+      {
+        "rule": "disguised-ad",
+        "severity": "low",
+        "line": 48,
+        "evidence": "The 5 best headphones of 2026 Our editors love the SoundMax Pro.",
+        "why": "Marked as an ad in the code but not to the reader.",
+        "fix": "Add a clear, visible “Sponsored” or “Ad” label."
+      }
+    ]
+  },
+  {
+    "source": "examples/checkout_fair.html",
+    "score": 100,
+    "grade": "A",
+    "counts": {
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "findings": []
+  },
+  {
+    "source": "examples/report.html",
+    "score": 80,
+    "grade": "B",
+    "counts": {
+      "high": 0,
+      "medium": 2,
+      "low": 0
+    },
+    "findings": [
+      {
+        "rule": "false-urgency",
+        "severity": "medium",
+        "line": 101,
+        "evidence": "Offer ends in 09:59",
+        "why": "Time or stock pressure discourages comparison. If it is not real, it is deceptive.",
+        "fix": "Show urgency only when it is genuine and verifiable, or remove it."
+      },
+      {
+        "rule": "false-urgency",
+        "severity": "medium",
+        "line": 109,
+        "evidence": "Hurry! Only 3 spots left at this price — 27 people are viewing this offer.",
+        "why": "Time or stock pressure discourages comparison. If it is not real, it is deceptive.",
+        "fix": "Show urgency only when it is genuine and verifiable, or remove it."
+      }
+    ]
+  }
+]

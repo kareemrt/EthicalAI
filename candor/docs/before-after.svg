@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="860" height="340" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Same checkout, two designs</title>
+  <desc id="d">The manipulative checkout scores F, 0 out of 100, with 13 findings. The honest redesign scores A, 100 out of 100, with none.</desc>
+  <style>
+    .card{fill:#fff;stroke:#e4e4e1}.ink{fill:#1c1c1e}.mute{fill:#6b6b70}.bad{fill:#c62f2f}.good{fill:#2f855a}
+    .chip-bad{fill:#c62f2f;fill-opacity:.09}.chip-good{fill:#2f855a;fill-opacity:.1}.arrow{stroke:#9a9aa3}
+    @media (prefers-color-scheme:dark){.card{fill:#1b1b1f;stroke:#2c2c31}.ink{fill:#ececf0}.mute{fill:#9a9aa3}
+      .bad{fill:#ef6b6b}.good{fill:#5cc28a}.arrow{stroke:#6b6b70}}
+  </style>
+
+  <!-- before -->
+  <rect class="card" x="1" y="1" width="378" height="338" rx="16"/>
+  <rect class="bad" x="24" y="24" width="56" height="56" rx="12"/>
+  <text x="52" y="63" text-anchor="middle" font-size="30" font-weight="700" fill="#fff">F</text>
+  <text class="ink" x="96" y="46" font-size="17" font-weight="600">checkout_dark.html</text>
+  <text class="mute" x="96" y="70" font-size="14">0 / 100 · 13 findings</text>
+  <g font-size="14">
+    <rect class="chip-bad" x="24" y="100" width="332" height="30" rx="8"/><text class="ink" x="38" y="120">☑ Marketing + data-sharing boxes pre-ticked</text>
+    <rect class="chip-bad" x="24" y="138" width="332" height="30" rx="8"/><text class="ink" x="38" y="158">☑ Protection plan (+$4.99/mo) added for you</text>
+    <rect class="chip-bad" x="24" y="176" width="332" height="30" rx="8"/><text class="ink" x="38" y="196">“No thanks, I prefer paying full price”</text>
+    <rect class="chip-bad" x="24" y="214" width="332" height="30" rx="8"/><text class="ink" x="38" y="234">⏱ Fake countdown · “only 3 spots left”</text>
+    <rect class="chip-bad" x="24" y="252" width="332" height="30" rx="8"/><text class="ink" x="38" y="272">Fees + auto-renewal in 10px grey text</text>
+    <rect class="chip-bad" x="24" y="290" width="332" height="30" rx="8"/><text class="ink" x="38" y="310">Cookies: “Accept all” but no “Reject”</text>
+  </g>
+
+  <!-- arrow -->
+  <path class="arrow" d="M398 170h52m-12-10 12 10-12 10" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="mute" x="424" y="150" text-anchor="middle" font-size="12">fix</text>
+
+  <!-- after -->
+  <rect class="card" x="481" y="1" width="378" height="338" rx="16"/>
+  <rect class="good" x="504" y="24" width="56" height="56" rx="12"/>
+  <text x="532" y="63" text-anchor="middle" font-size="30" font-weight="700" fill="#fff">A</text>
+  <text class="ink" x="576" y="46" font-size="17" font-weight="600">checkout_fair.html</text>
+  <text class="mute" x="576" y="70" font-size="14">100 / 100 · 0 findings</text>
+  <g font-size="14">
+    <rect class="chip-good" x="504" y="100" width="332" height="30" rx="8"/><text class="ink" x="518" y="120">☐ Every opt-in starts unticked</text>
+    <rect class="chip-good" x="504" y="138" width="332" height="30" rx="8"/><text class="ink" x="518" y="158">☐ Extras offered, never pre-added</text>
+    <rect class="chip-good" x="504" y="176" width="332" height="30" rx="8"/><text class="ink" x="518" y="196">“No thanks”, same size as “Yes”</text>
+    <rect class="chip-good" x="504" y="214" width="332" height="30" rx="8"/><text class="ink" x="518" y="234">No timers, no fake scarcity</text>
+    <rect class="chip-good" x="504" y="252" width="332" height="30" rx="8"/><text class="ink" x="518" y="272">Full price + renewal date, full size</text>
+    <rect class="chip-good" x="504" y="290" width="332" height="30" rx="8"/><text class="ink" x="518" y="310">“Accept all” and “Reject all” side by side</text>
+  </g>
+</svg>
