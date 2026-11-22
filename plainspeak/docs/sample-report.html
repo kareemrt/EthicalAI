@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>plainspeak · examples/benefits_notice_before.txt</title>
+<style>
+:root{--bg:#f7f6f2;--card:#fff;--ink:#1d1d1f;--mute:#6b6b70;--line:#e6e4dd;
+--good:#1f8a5b;--warn:#b7791f;--bad:#c2410c;--jargon:#fde68a;--passive:#bfdbfe;--long:#fecaca}
+@media (prefers-color-scheme:dark){:root{--bg:#151517;--card:#1e1e21;--ink:#ececee;--mute:#9a9aa1;
+--line:#2e2e33;--jargon:#6b5310;--passive:#1e3a5f;--long:#5b1f1f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);
+font:15px/1.6 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:1120px;margin:0 auto;padding:32px 16px;display:grid;gap:20px;grid-template-columns:320px 1fr}
+@media (max-width:820px){.wrap{grid-template-columns:1fr}}
+header{grid-column:1/-1;display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+h1{font-size:20px;margin:0}h1 span{color:var(--mute);font-weight:400}
+h2{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin:0 0 10px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}
+aside{display:grid;gap:16px;align-content:start}
+.score{display:flex;align-items:center;gap:16px}
+.ring{--p:4;width:92px;height:92px;border-radius:50%;display:grid;place-items:center;
+background:conic-gradient(var(--bad) calc(var(--p)*1%),var(--line) 0)}
+.ring b{width:74px;height:74px;border-radius:50%;background:var(--card);display:grid;place-items:center;font-size:26px}
+.score p{margin:0;color:var(--mute)}.score strong{display:block;font-size:22px;color:var(--bad)}
+.stats{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.stats div{border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.stats b{display:block;font-size:18px}.stats small{color:var(--mute)}
+ul{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+li{display:flex;gap:10px}li b{width:22px;height:22px;flex:none;border-radius:50%;display:grid;place-items:center;font-size:12px;color:#fff}
+li.ok b{background:var(--good)}li.no b{background:var(--bad)}
+li small{display:block;color:var(--mute)}
+table{width:100%;border-collapse:collapse;font-size:14px}td{padding:5px 0;border-bottom:1px solid var(--line)}
+td+td{text-align:right;color:var(--good)}
+.hist{display:flex;align-items:flex-end;gap:2px;height:60px;position:relative;margin-top:6px}
+.hist i{flex:1;background:var(--mute);opacity:.45;border-radius:2px 2px 0 0}.hist i.over{background:var(--bad);opacity:.9}
+.hist::after{content:"25 words";position:absolute;left:0;right:0;top:66%;border-top:1px dashed var(--bad);font-size:10px;color:var(--bad);text-align:right}
+.doc{white-space:pre-wrap;font:16px/1.75 ui-serif,Georgia,serif;overflow-wrap:anywhere}
+.legend{display:flex;gap:14px;flex-wrap:wrap;font-size:13px;color:var(--mute);margin-bottom:12px}
+.legend span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;background:var(--k)}
+mark{color:inherit;border-radius:3px;padding:0 2px;cursor:help}mark.jargon{background:var(--jargon)}
+mark.passive{background:var(--passive)}.long{background:linear-gradient(transparent 62%,var(--long) 0)}
+footer{grid-column:1/-1;color:var(--mute);font-size:13px;text-align:center}
+</style></head><body><div class="wrap">
+<header><h1>plainspeak <span>· examples/benefits_notice_before.txt</span></h1><span style="color:var(--mute)">Hover a highlight to see the suggestion</span></header>
+<aside>
+<section class="card"><div class="score"><div class="ring"><b>F</b></div>
+<p><strong>4/100</strong>Grade 20.7 reading level<br>target ≤ 8</p></div></section>
+<section class="card stats">
+<div><b>175</b><small>words</small></div><div><b>35</b><small>words / sentence</small></div>
+<div><b>33</b><small>jargon terms</small></div><div><b>7</b><small>passive phrases</small></div>
+<div><b>4</b><small>long sentences</small></div><div><b>8.9</b><small>reading ease</small></div></section>
+<section class="card"><h2>Can the reader act on it?</h2><ul><li class="no"><b>✗</b><span>Is there a clear date to act by?<small>State the exact date: “by March 3, 2027”, not “promptly”.</small></span></li><li class="no"><b>✗</b><span>Does it say exactly what to do?<small>Start a sentence with a verb: “Call us”, “Send a copy of…”.</small></span></li><li class="no"><b>✗</b><span>Is there a way to get help?<small>Give a phone number, hours, and a website.</small></span></li><li class="ok"><b>✓</b><span>Does it explain how to disagree or appeal?<small>fair hearing</small></span></li><li class="no"><b>✗</b><span>Does it speak to the reader as “you”?<small>Write to the person: “You must…” instead of “The applicant shall…”.</small></span></li></ul></section>
+<section class="card"><h2>Sentence lengths</h2><div class="hist"><i style="height:100%" class="over" title="73 words"></i><i style="height:37%" class="over" title="27 words"></i><i style="height:37%" class="over" title="27 words"></i><i style="height:41%" class="over" title="30 words"></i><i style="height:25%" class="" title="18 words"></i></div></section>
+<section class="card"><h2>Swap these words</h2><table><tr><td>adverse action</td><td>decision against you</td></tr><tr><td>pursuant to</td><td>under</td></tr><tr><td>hereby</td><td>(delete)</td></tr><tr><td>determination</td><td>decision</td></tr><tr><td>terminate</td><td>end</td></tr><tr><td>due to the fact that</td><td>because</td></tr><tr><td>verification</td><td>proof</td></tr><tr><td>household composition</td><td>who lives with you (rephrase)</td></tr><tr><td>monetary</td><td>money</td></tr><tr><td>correspondence</td><td>letter</td></tr><tr><td>prior to</td><td>before</td></tr><tr><td>in the event that</td><td>if</td></tr><tr><td>beneficiary</td><td>you (speak to the reader)</td></tr><tr><td>is in disagreement with</td><td>disagrees with</td></tr><tr><td>aforementioned</td><td>this (or name it)</td></tr><tr><td>in accordance with</td><td>under</td></tr><tr><td>shall</td><td>must</td></tr><tr><td>appropriate</td><td>right</td></tr><tr><td>not later than</td><td>by</td></tr><tr><td>subsequent to</td><td>after</td></tr><tr><td>failure to</td><td>if you do not (rewrite the sentence)</td></tr><tr><td>furnish</td><td>give</td></tr><tr><td>sufficient</td><td>enough</td></tr><tr><td>termination</td><td>end</td></tr><tr><td>overpayment</td><td>money we paid you by mistake (explain it)</td></tr><tr><td>recoupment</td><td>paying back</td></tr><tr><td>additional</td><td>more</td></tr><tr><td>assistance</td><td>help</td></tr><tr><td>pertaining to</td><td>about</td></tr><tr><td>utilizing</td><td>using</td></tr><tr><td>herein</td><td>here</td></tr></table></section>
+<section class="card"><h2>Where the points went</h2><table><tr><td>reading level</td><td>−35</td></tr><tr><td>jargon</td><td>−20</td></tr><tr><td>passive voice</td><td>−10</td></tr><tr><td>long sentences</td><td>−15</td></tr><tr><td>missing essentials</td><td>−16</td></tr></table></section>
+</aside>
+<main class="card"><h2>The notice</h2>
+<div class="legend"><span style="--k:var(--jargon)">jargon</span><span style="--k:var(--passive)">passive voice</span><span style="--k:var(--long)">long sentence</span></div>
+<div class="doc">NOTICE OF <mark class="jargon" title="Bureaucratic word: “ADVERSE ACTION” Try: decision against you">ADVERSE ACTION</mark>
+Re: Supplemental Nutrition Assistance Program
+
+Dear Program Participant,
+
+<span class="long" title="73 words in one sentence (aim for under 25)."><mark class="jargon" title="Bureaucratic word: “Pursuant to” Try: under">Pursuant to</mark> the regulations governing the Supplemental Nutrition Assistance Program, you are <mark class="jargon" title="Bureaucratic word: “hereby” Try: (delete)">hereby</mark> notified that a <mark class="jargon" title="Bureaucratic word: “determination” Try: decision">determination</mark> has <mark class="passive" title="Passive voice hides who acts. Try: Say who does it: “We sent…”, “You must…”">been made by</mark> this agency to <mark class="jargon" title="Bureaucratic word: “terminate” Try: end">terminate</mark> your household&#x27;s benefits effective at the conclusion of the current certification period, <mark class="jargon" title="Bureaucratic word: “due to the fact that” Try: because">due to the fact that</mark> <mark class="jargon" title="Bureaucratic word: “verification” Try: proof">verification</mark> of <mark class="jargon" title="Bureaucratic word: “household composition” Try: who lives with you (rephrase)">household composition</mark> and <mark class="jargon" title="Bureaucratic word: “monetary” Try: money">monetary</mark> income, which <mark class="passive" title="Passive voice hides who acts. Try: Say who does it: “We sent…”, “You must…”">was requested</mark> in <mark class="jargon" title="Bureaucratic word: “correspondence” Try: letter">correspondence</mark> previously transmitted to the address of record, <mark class="passive" title="Passive voice hides who acts. Try: Say who does it: “We sent…”, “You must…”">was not received by</mark> the agency <mark class="jargon" title="Bureaucratic word: “prior to” Try: before">prior to</mark> the established due date.</span>
+
+<span class="long" title="27 words in one sentence (aim for under 25)."><mark class="jargon" title="Bureaucratic word: “In the event that” Try: if">In the event that</mark> the <mark class="jargon" title="Bureaucratic word: “beneficiary” Try: you (speak to the reader)">beneficiary</mark> <mark class="jargon" title="Bureaucratic word: “is in disagreement with” Try: disagrees with">is in disagreement with</mark> the <mark class="jargon" title="Bureaucratic word: “aforementioned” Try: this (or name it)">aforementioned</mark> <mark class="jargon" title="Bureaucratic word: “determination” Try: decision">determination</mark>, a fair hearing may <mark class="passive" title="Passive voice hides who acts. Try: Say who does it: “We sent…”, “You must…”">be requested</mark> <mark class="jargon" title="Bureaucratic word: “in accordance with” Try: under">in accordance with</mark> applicable state and federal regulations.</span> <span class="long" title="27 words in one sentence (aim for under 25).">Requests for a fair hearing <mark class="jargon" title="Bureaucratic word: “shall” Try: must">shall</mark> <mark class="passive" title="Passive voice hides who acts. Try: Say who does it: “We sent…”, “You must…”">be submitted</mark> in writing to the <mark class="jargon" title="Bureaucratic word: “appropriate” Try: right">appropriate</mark> local office <mark class="jargon" title="Bureaucratic word: “not later than” Try: by">not later than</mark> ninety days <mark class="jargon" title="Bureaucratic word: “subsequent to” Try: after">subsequent to</mark> the date of this notice.</span>
+
+<span class="long" title="30 words in one sentence (aim for under 25)."><mark class="jargon" title="Bureaucratic word: “Failure to” Try: if you do not (rewrite the sentence)">Failure to</mark> <mark class="jargon" title="Bureaucratic word: “furnish” Try: give">furnish</mark> <mark class="jargon" title="Bureaucratic word: “sufficient” Try: enough">sufficient</mark> documentation may result in the <mark class="jargon" title="Bureaucratic word: “termination” Try: end">termination</mark> of benefits and the establishment of an <mark class="jargon" title="Bureaucratic word: “overpayment” Try: money we paid you by mistake (explain it)">overpayment</mark> claim, <mark class="jargon" title="Bureaucratic word: “recoupment” Try: paying back">recoupment</mark> of which will <mark class="passive" title="Passive voice hides who acts. Try: Say who does it: “We sent…”, “You must…”">be initiated</mark> <mark class="jargon" title="Bureaucratic word: “in accordance with” Try: under">in accordance with</mark> program requirements.</span> <mark class="jargon" title="Bureaucratic word: “Additional” Try: more">Additional</mark> <mark class="jargon" title="Bureaucratic word: “assistance” Try: help">assistance</mark> <mark class="jargon" title="Bureaucratic word: “pertaining to” Try: about">pertaining to</mark> this matter may <mark class="passive" title="Passive voice hides who acts. Try: Say who does it: “We sent…”, “You must…”">be obtained by</mark> contacting the agency <mark class="jargon" title="Bureaucratic word: “utilizing” Try: using">utilizing</mark> the information provided <mark class="jargon" title="Bureaucratic word: “herein” Try: here">herein</mark>.
+</div></main>
+<footer>Generated by plainspeak. Scores are a guide; test notices with real readers.</footer>
+</div></body></html>

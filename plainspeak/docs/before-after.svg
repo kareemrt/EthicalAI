@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 270" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif">
+<style>.box{fill:#fff;stroke:#d9d6cc;stroke-width:1.5}.h{font-size:16px;font-weight:700}.k{fill:#6b6b70;font-size:14px}.v{fill:#1d1d1f;font-size:14px;font-weight:600}.track{fill:#ece9e1}
+@media (prefers-color-scheme:dark){.box{fill:#1e1e21;stroke:#3a3a40}.k{fill:#9a9aa1}.v{fill:#ececee}.track{fill:#2e2e33}}</style>
+<rect class="box" x="10" y="10" width="420" height="250" rx="14"/>
+<text class="h" x="34" y="44" fill="#c2410c">BEFORE · typical benefits notice</text>
+<text class="k" x="34" y="84">Score</text><text class="v" x="406" y="84" text-anchor="end">4/100  (F)</text>
+<text class="k" x="34" y="114">Reading grade</text><text class="v" x="406" y="114" text-anchor="end">20.7</text>
+<text class="k" x="34" y="144">Words / sentence</text><text class="v" x="406" y="144" text-anchor="end">35</text>
+<text class="k" x="34" y="174">Jargon terms</text><text class="v" x="406" y="174" text-anchor="end">33</text>
+<text class="k" x="34" y="204">Passive phrases</text><text class="v" x="406" y="204" text-anchor="end">7</text>
+<text class="k" x="34" y="234">Essentials met</text><text class="v" x="406" y="234" text-anchor="end">1 of 5</text>
+<rect x="34" y="256" width="372" height="8" rx="4" class="track"/><rect x="34" y="256" width="15" height="8" rx="4" fill="#c2410c"/>
+<rect class="box" x="450" y="10" width="420" height="250" rx="14"/>
+<text class="h" x="474" y="44" fill="#1f8a5b">AFTER · same message, plain language</text>
+<text class="k" x="474" y="84">Score</text><text class="v" x="846" y="84" text-anchor="end">100/100  (A)</text>
+<text class="k" x="474" y="114">Reading grade</text><text class="v" x="846" y="114" text-anchor="end">1.9</text>
+<text class="k" x="474" y="144">Words / sentence</text><text class="v" x="846" y="144" text-anchor="end">8.9</text>
+<text class="k" x="474" y="174">Jargon terms</text><text class="v" x="846" y="174" text-anchor="end">0</text>
+<text class="k" x="474" y="204">Passive phrases</text><text class="v" x="846" y="204" text-anchor="end">0</text>
+<text class="k" x="474" y="234">Essentials met</text><text class="v" x="846" y="234" text-anchor="end">5 of 5</text>
+<rect x="474" y="256" width="372" height="8" rx="4" class="track"/><rect x="474" y="256" width="372" height="8" rx="4" fill="#1f8a5b"/>
+</svg>

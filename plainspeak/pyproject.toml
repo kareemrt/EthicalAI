@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "plainspeak"
+version = "0.1.0"
+description = "Check that official notices can be understood and acted on by the people who receive them."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+plainspeak = "plainspeak.cli:main"
+
+[tool.setuptools]
+packages = ["plainspeak"]
+
+[tool.setuptools.package-data]
+plainspeak = ["data/*.tsv"]
