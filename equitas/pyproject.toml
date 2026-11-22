@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "equitas"
+version = "0.1.0"
+description = "A tiny, dependency-free bias audit for automated hiring and lending decisions."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+keywords = ["fairness", "bias-audit", "adverse-impact", "four-fifths-rule", "responsible-ai"]
+
+[project.scripts]
+equitas = "equitas.cli:main"
+
+[tool.setuptools]
+packages = ["equitas"]

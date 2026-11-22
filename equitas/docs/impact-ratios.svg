@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 236" width="720" role="img" aria-label="Impact ratio by group"><style>
+  .t{font:13px ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;fill:#1f2328}
+  .m{fill:#656d76}.h{font-weight:600;font-size:14px}.track{fill:#eaeef2}
+  .adverse{fill:#cf222e}.review{fill:#bf8700}.ok{fill:#1a7f37}.reference{fill:#0969da}.excluded{fill:#afb8c1}
+  .rule{stroke:#cf222e;stroke-dasharray:4 3;stroke-width:1.5}
+  @media (prefers-color-scheme:dark){
+    .t{fill:#e6edf3}.m{fill:#8d96a0}.track{fill:#21262d}
+    .adverse{fill:#f85149}.review{fill:#d29922}.ok{fill:#3fb950}.reference{fill:#4493f8}.excluded{fill:#484f58}
+    .rule{stroke:#f85149}}
+</style><text class="t h" x="0" y="28">sex</text><text class="t" x="81" y="57" text-anchor="end">Female</text><rect class="track" x="93" y="45" width="507" height="16" rx="4"/><rect class="ok" x="93" y="45" width="477.8" height="16" rx="4"/><text class="t m" x="610" y="57">0.94 · ok</text><text class="t" x="81" y="83" text-anchor="end">Male</text><rect class="track" x="93" y="71" width="507" height="16" rx="4"/><rect class="reference" x="93" y="71" width="507.0" height="16" rx="4"/><text class="t m" x="610" y="83">1.00 · reference</text><text class="t m" x="93" y="107">+ 1 small or unknown group (not scored)</text><text class="t h" x="0" y="142">age_band</text><text class="t" x="81" y="171" text-anchor="end">Under 40</text><rect class="track" x="93" y="159" width="507" height="16" rx="4"/><rect class="reference" x="93" y="159" width="507.0" height="16" rx="4"/><text class="t m" x="610" y="171">1.00 · reference</text><text class="t" x="81" y="197" text-anchor="end">40 and over</text><rect class="track" x="93" y="185" width="507" height="16" rx="4"/><rect class="adverse" x="93" y="185" width="293.4" height="16" rx="4"/><text class="t m" x="610" y="197">0.58 · adverse</text><line class="rule" x1="498.6" y1="4" x2="498.6" y2="214"/><text class="t m" x="498.6" y="230" text-anchor="middle">four-fifths line (0.80)</text></svg>
