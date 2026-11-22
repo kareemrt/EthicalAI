@@ -1,0 +1,1601 @@
+applicant_id,gender,age_band,qualified,advanced
+A0001,Woman,Under 40,1,yes
+A0002,Woman,40 and over,0,yes
+A0003,Man,Under 40,1,yes
+A0004,Man,Under 40,0,no
+A0005,Man,Under 40,0,yes
+A0006,Woman,40 and over,1,yes
+A0007,Woman,Under 40,1,yes
+A0008,Woman,Under 40,0,no
+A0009,Woman,40 and over,1,no
+A0010,Woman,Under 40,0,no
+A0011,Woman,Under 40,1,yes
+A0012,Man,Under 40,1,yes
+A0013,Woman,Under 40,1,yes
+A0014,Man,40 and over,0,no
+A0015,Man,40 and over,1,yes
+A0016,Non-binary,40 and over,0,no
+A0017,Woman,40 and over,1,yes
+A0018,Man,Under 40,1,no
+A0019,Woman,Under 40,0,no
+A0020,Woman,Under 40,1,yes
+A0021,Woman,Under 40,0,no
+A0022,Man,Under 40,0,no
+A0023,Man,Under 40,1,yes
+A0024,Woman,Under 40,1,yes
+A0025,Non-binary,Under 40,0,no
+A0026,Man,40 and over,0,no
+A0027,Man,40 and over,1,yes
+A0028,Man,40 and over,0,no
+A0029,Woman,Under 40,0,no
+A0030,Man,40 and over,0,no
+A0031,Woman,Under 40,0,no
+A0032,Man,Under 40,1,no
+A0033,Woman,40 and over,1,yes
+A0034,Woman,40 and over,1,no
+A0035,Man,40 and over,0,no
+A0036,Man,Under 40,1,no
+A0037,Man,Under 40,0,no
+A0038,Man,Under 40,0,no
+A0039,Man,Under 40,1,yes
+A0040,Man,Under 40,1,yes
+A0041,Man,40 and over,1,no
+A0042,Woman,Under 40,1,no
+A0043,Man,Under 40,0,no
+A0044,Man,40 and over,0,no
+A0045,Man,Under 40,1,yes
+A0046,Woman,40 and over,0,yes
+A0047,Man,Under 40,0,no
+A0048,Man,Under 40,1,yes
+A0049,Man,40 and over,1,no
+A0050,Woman,Under 40,0,no
+A0051,Non-binary,40 and over,0,no
+A0052,Woman,Under 40,1,yes
+A0053,Man,40 and over,1,no
+A0054,Man,Under 40,0,no
+A0055,Woman,40 and over,1,yes
+A0056,Non-binary,Under 40,0,no
+A0057,Man,Under 40,0,no
+A0058,Man,40 and over,1,yes
+A0059,Woman,40 and over,1,yes
+A0060,Woman,Under 40,0,no
+A0061,Man,Under 40,0,no
+A0062,Man,40 and over,1,yes
+A0063,Woman,Under 40,1,no
+A0064,Man,Under 40,0,no
+A0065,Man,Under 40,1,no
+A0066,Woman,40 and over,1,yes
+A0067,Woman,40 and over,0,no
+A0068,Woman,Under 40,0,no
+A0069,Woman,40 and over,1,yes
+A0070,Man,Under 40,1,yes
+A0071,Woman,Under 40,0,no
+A0072,Woman,40 and over,0,yes
+A0073,Man,Under 40,1,no
+A0074,Woman,Under 40,0,no
+A0075,Man,Under 40,1,no
+A0076,Woman,Under 40,0,no
+A0077,Man,Under 40,1,no
+A0078,Woman,40 and over,0,no
+A0079,Man,Under 40,0,no
+A0080,Man,40 and over,1,no
+A0081,Woman,40 and over,0,no
+A0082,Man,40 and over,1,no
+A0083,Woman,40 and over,0,no
+A0084,Woman,Under 40,0,no
+A0085,Man,40 and over,0,no
+A0086,Woman,Under 40,1,yes
+A0087,Man,40 and over,0,no
+A0088,Woman,Under 40,0,no
+A0089,Woman,Under 40,0,no
+A0090,Non-binary,Under 40,1,yes
+A0091,Woman,Under 40,0,no
+A0092,Man,Under 40,1,yes
+A0093,Man,40 and over,0,no
+A0094,Woman,40 and over,1,yes
+A0095,Woman,Under 40,1,no
+A0096,Woman,Under 40,1,yes
+A0097,Man,Under 40,1,yes
+A0098,Woman,40 and over,0,no
+A0099,Man,Under 40,1,yes
+A0100,Man,Under 40,0,no
+A0101,Man,Under 40,0,no
+A0102,Woman,Under 40,1,yes
+A0103,Woman,Under 40,0,no
+A0104,Woman,Under 40,1,yes
+A0105,Man,Under 40,0,yes
+A0106,Man,40 and over,1,no
+A0107,Woman,Under 40,0,yes
+A0108,Woman,40 and over,1,no
+A0109,Man,40 and over,0,yes
+A0110,Man,40 and over,0,no
+A0111,Woman,40 and over,0,no
+A0112,Woman,Under 40,0,no
+A0113,Woman,Under 40,0,no
+A0114,Man,Under 40,1,yes
+A0115,Woman,Under 40,0,no
+A0116,Man,Under 40,1,yes
+A0117,Woman,Under 40,1,no
+A0118,Woman,Under 40,1,no
+A0119,Man,Under 40,1,no
+A0120,Woman,40 and over,0,no
+A0121,Man,Under 40,1,no
+A0122,Woman,40 and over,1,no
+A0123,Woman,Under 40,1,yes
+A0124,Man,Under 40,1,yes
+A0125,Man,Under 40,0,no
+A0126,Woman,Under 40,1,no
+A0127,Man,40 and over,1,yes
+A0128,Man,Under 40,1,yes
+A0129,Woman,Under 40,0,no
+A0130,Man,Under 40,1,yes
+A0131,Non-binary,Under 40,0,no
+A0132,Woman,40 and over,0,no
+A0133,Man,Under 40,1,yes
+A0134,Woman,Under 40,0,no
+A0135,Man,Under 40,0,yes
+A0136,Woman,40 and over,1,yes
+A0137,Man,40 and over,0,no
+A0138,Woman,Under 40,0,no
+A0139,Man,40 and over,0,no
+A0140,Man,40 and over,0,no
+A0141,Man,Under 40,0,no
+A0142,Woman,40 and over,1,no
+A0143,Woman,40 and over,0,no
+A0144,Woman,40 and over,1,no
+A0145,Woman,Under 40,1,no
+A0146,Man,40 and over,0,yes
+A0147,Woman,Under 40,0,no
+A0148,Man,Under 40,0,no
+A0149,Man,40 and over,1,no
+A0150,Woman,Under 40,1,no
+A0151,Man,40 and over,0,no
+A0152,Woman,40 and over,0,no
+A0153,Man,Under 40,0,no
+A0154,Woman,Under 40,0,no
+A0155,Woman,Under 40,0,no
+A0156,Man,Under 40,1,yes
+A0157,Woman,40 and over,1,yes
+A0158,Woman,40 and over,0,no
+A0159,Man,Under 40,1,yes
+A0160,Man,Under 40,0,no
+A0161,Non-binary,Under 40,0,no
+A0162,Woman,Under 40,0,no
+A0163,Man,Under 40,1,yes
+A0164,Woman,Under 40,0,no
+A0165,Man,40 and over,1,yes
+A0166,Woman,Under 40,0,yes
+A0167,Woman,Under 40,0,no
+A0168,Woman,Under 40,1,no
+A0169,Non-binary,Under 40,0,no
+A0170,Woman,40 and over,1,yes
+A0171,Woman,Under 40,1,yes
+A0172,Man,Under 40,0,no
+A0173,Man,40 and over,0,no
+A0174,Woman,40 and over,0,no
+A0175,Woman,40 and over,1,no
+A0176,Woman,40 and over,0,yes
+A0177,Man,Under 40,0,no
+A0178,Man,Under 40,0,no
+A0179,Woman,Under 40,0,yes
+A0180,Man,Under 40,1,yes
+A0181,Man,40 and over,0,no
+A0182,Woman,40 and over,0,no
+A0183,Man,40 and over,0,no
+A0184,Woman,Under 40,0,no
+A0185,Woman,Under 40,1,yes
+A0186,Woman,40 and over,1,no
+A0187,Man,40 and over,0,no
+A0188,Man,Under 40,1,no
+A0189,Man,Under 40,0,no
+A0190,Woman,Under 40,1,yes
+A0191,Woman,40 and over,0,no
+A0192,Woman,40 and over,1,no
+A0193,Man,40 and over,0,no
+A0194,Man,Under 40,0,yes
+A0195,Non-binary,40 and over,0,yes
+A0196,Woman,Under 40,0,no
+A0197,Man,40 and over,0,no
+A0198,Woman,Under 40,0,no
+A0199,Woman,40 and over,1,no
+A0200,Man,40 and over,0,no
+A0201,Man,Under 40,0,no
+A0202,Woman,Under 40,0,no
+A0203,Woman,Under 40,0,no
+A0204,Man,40 and over,0,no
+A0205,Woman,Under 40,0,no
+A0206,Woman,Under 40,0,no
+A0207,Non-binary,Under 40,1,yes
+A0208,Woman,40 and over,0,no
+A0209,Woman,Under 40,0,no
+A0210,Woman,Under 40,0,no
+A0211,Man,40 and over,0,no
+A0212,Woman,40 and over,1,yes
+A0213,Woman,40 and over,0,yes
+A0214,Man,40 and over,0,no
+A0215,Woman,Under 40,1,no
+A0216,Woman,Under 40,0,no
+A0217,Man,40 and over,1,yes
+A0218,Man,Under 40,0,no
+A0219,Man,Under 40,0,no
+A0220,Man,40 and over,1,yes
+A0221,Man,Under 40,1,no
+A0222,Woman,40 and over,1,no
+A0223,Man,Under 40,0,no
+A0224,Man,40 and over,1,yes
+A0225,Woman,Under 40,0,no
+A0226,Non-binary,Under 40,0,no
+A0227,Man,Under 40,0,no
+A0228,Man,Under 40,0,no
+A0229,Man,40 and over,0,no
+A0230,Woman,40 and over,0,no
+A0231,Woman,40 and over,0,no
+A0232,Woman,Under 40,1,no
+A0233,Woman,Under 40,1,no
+A0234,Man,Under 40,0,no
+A0235,Woman,40 and over,0,no
+A0236,Woman,Under 40,0,no
+A0237,Man,Under 40,0,no
+A0238,Non-binary,40 and over,0,no
+A0239,Non-binary,40 and over,1,no
+A0240,Man,Under 40,0,no
+A0241,Woman,Under 40,0,no
+A0242,Man,Under 40,1,no
+A0243,Woman,40 and over,1,yes
+A0244,Woman,40 and over,1,no
+A0245,Man,40 and over,1,yes
+A0246,Man,40 and over,1,yes
+A0247,Woman,40 and over,0,no
+A0248,Woman,Under 40,1,yes
+A0249,Woman,Under 40,0,yes
+A0250,Man,Under 40,0,no
+A0251,Man,40 and over,0,no
+A0252,Man,Under 40,1,yes
+A0253,Woman,Under 40,0,no
+A0254,Woman,Under 40,0,no
+A0255,Man,Under 40,1,no
+A0256,Man,Under 40,0,no
+A0257,Man,40 and over,1,no
+A0258,Man,Under 40,1,yes
+A0259,Woman,Under 40,1,no
+A0260,Man,Under 40,1,yes
+A0261,Woman,Under 40,0,no
+A0262,Woman,Under 40,1,yes
+A0263,Woman,Under 40,0,no
+A0264,Woman,Under 40,0,yes
+A0265,Man,Under 40,0,no
+A0266,Woman,Under 40,1,no
+A0267,Man,Under 40,0,no
+A0268,Man,40 and over,0,no
+A0269,Woman,Under 40,0,no
+A0270,Woman,40 and over,0,no
+A0271,Man,Under 40,1,yes
+A0272,Man,Under 40,1,yes
+A0273,Man,Under 40,0,yes
+A0274,Woman,Under 40,1,no
+A0275,Woman,Under 40,0,no
+A0276,Man,Under 40,1,yes
+A0277,Woman,40 and over,0,no
+A0278,Woman,Under 40,0,no
+A0279,Woman,Under 40,1,no
+A0280,Man,40 and over,0,no
+A0281,Woman,40 and over,0,no
+A0282,Woman,Under 40,0,no
+A0283,Man,Under 40,0,no
+A0284,Man,Under 40,0,no
+A0285,Man,Under 40,0,yes
+A0286,Woman,Under 40,1,yes
+A0287,Man,40 and over,0,no
+A0288,Man,Under 40,1,yes
+A0289,Woman,Under 40,0,no
+A0290,Man,Under 40,0,yes
+A0291,Man,Under 40,0,no
+A0292,Woman,Under 40,1,no
+A0293,Man,Under 40,1,yes
+A0294,Man,Under 40,1,no
+A0295,Man,Under 40,0,no
+A0296,Woman,40 and over,1,no
+A0297,Man,Under 40,0,no
+A0298,Woman,Under 40,0,no
+A0299,Man,Under 40,1,no
+A0300,Woman,40 and over,0,yes
+A0301,Woman,Under 40,0,no
+A0302,Man,Under 40,1,yes
+A0303,Man,Under 40,1,yes
+A0304,Woman,Under 40,0,no
+A0305,Woman,Under 40,1,yes
+A0306,Woman,40 and over,0,no
+A0307,Woman,Under 40,0,no
+A0308,Man,40 and over,0,no
+A0309,Woman,40 and over,0,no
+A0310,Man,Under 40,1,yes
+A0311,Man,Under 40,1,yes
+A0312,Man,40 and over,1,no
+A0313,Woman,Under 40,0,no
+A0314,Woman,40 and over,0,no
+A0315,Woman,40 and over,1,no
+A0316,Man,Under 40,1,no
+A0317,Man,40 and over,0,no
+A0318,Man,Under 40,1,yes
+A0319,Man,Under 40,1,yes
+A0320,Man,Under 40,0,no
+A0321,Man,Under 40,0,no
+A0322,Woman,40 and over,0,no
+A0323,Man,Under 40,1,yes
+A0324,Non-binary,40 and over,1,no
+A0325,Woman,Under 40,1,no
+A0326,Woman,40 and over,0,no
+A0327,Woman,Under 40,0,no
+A0328,Man,Under 40,1,yes
+A0329,Woman,Under 40,1,yes
+A0330,Man,40 and over,1,no
+A0331,Woman,40 and over,1,yes
+A0332,Woman,Under 40,1,yes
+A0333,Woman,40 and over,0,no
+A0334,Man,Under 40,0,no
+A0335,Man,Under 40,0,no
+A0336,Woman,Under 40,0,no
+A0337,Woman,Under 40,0,no
+A0338,Man,Under 40,1,yes
+A0339,Non-binary,40 and over,0,no
+A0340,Man,40 and over,0,no
+A0341,Man,40 and over,0,no
+A0342,Woman,Under 40,0,no
+A0343,Man,40 and over,1,yes
+A0344,Man,Under 40,1,yes
+A0345,Man,40 and over,1,yes
+A0346,Woman,40 and over,0,no
+A0347,Man,Under 40,0,no
+A0348,Man,40 and over,1,yes
+A0349,Man,Under 40,0,no
+A0350,Woman,Under 40,1,yes
+A0351,Man,Under 40,1,no
+A0352,Man,Under 40,0,no
+A0353,Man,Under 40,1,yes
+A0354,Man,Under 40,1,yes
+A0355,Woman,Under 40,0,yes
+A0356,Woman,Under 40,0,no
+A0357,Man,Under 40,0,no
+A0358,Man,Under 40,0,no
+A0359,Woman,40 and over,0,no
+A0360,Man,Under 40,0,no
+A0361,Man,40 and over,0,no
+A0362,Woman,40 and over,1,no
+A0363,Man,Under 40,1,yes
+A0364,Man,40 and over,0,no
+A0365,Woman,Under 40,0,no
+A0366,Man,40 and over,0,no
+A0367,Man,Under 40,0,no
+A0368,Woman,Under 40,0,no
+A0369,Woman,40 and over,0,no
+A0370,Woman,Under 40,0,no
+A0371,Woman,Under 40,1,no
+A0372,Man,Under 40,1,yes
+A0373,Man,Under 40,0,no
+A0374,Non-binary,Under 40,0,no
+A0375,Man,40 and over,1,no
+A0376,Woman,40 and over,1,no
+A0377,Woman,Under 40,1,no
+A0378,Man,Under 40,0,no
+A0379,Woman,40 and over,1,no
+A0380,Woman,Under 40,1,no
+A0381,Man,Under 40,0,no
+A0382,Man,Under 40,1,yes
+A0383,Man,40 and over,1,no
+A0384,Woman,Under 40,0,no
+A0385,Woman,Under 40,1,no
+A0386,Woman,Under 40,1,yes
+A0387,Woman,40 and over,0,no
+A0388,Woman,40 and over,0,no
+A0389,Man,Under 40,1,no
+A0390,Man,Under 40,1,no
+A0391,Woman,Under 40,1,yes
+A0392,Non-binary,40 and over,0,no
+A0393,Woman,Under 40,0,no
+A0394,Man,40 and over,1,no
+A0395,Woman,40 and over,1,no
+A0396,Man,40 and over,1,yes
+A0397,Man,Under 40,1,yes
+A0398,Man,40 and over,0,no
+A0399,Man,40 and over,0,no
+A0400,Man,Under 40,0,no
+A0401,Woman,Under 40,0,no
+A0402,Woman,40 and over,0,no
+A0403,Man,Under 40,0,no
+A0404,Woman,40 and over,1,no
+A0405,Woman,40 and over,1,no
+A0406,Woman,40 and over,0,no
+A0407,Man,Under 40,1,yes
+A0408,Man,Under 40,1,yes
+A0409,Woman,40 and over,0,no
+A0410,Man,Under 40,1,yes
+A0411,Man,Under 40,1,yes
+A0412,Man,Under 40,1,no
+A0413,Man,Under 40,0,no
+A0414,Woman,Under 40,0,no
+A0415,Man,Under 40,0,no
+A0416,Non-binary,Under 40,1,yes
+A0417,Woman,40 and over,0,no
+A0418,Woman,40 and over,1,no
+A0419,Woman,40 and over,1,no
+A0420,Woman,Under 40,0,yes
+A0421,Woman,40 and over,1,no
+A0422,Woman,Under 40,0,no
+A0423,Woman,Under 40,0,no
+A0424,Man,Under 40,0,yes
+A0425,Man,Under 40,0,no
+A0426,Woman,Under 40,1,no
+A0427,Man,40 and over,0,no
+A0428,Man,40 and over,0,no
+A0429,Man,40 and over,1,no
+A0430,Non-binary,Under 40,0,no
+A0431,Woman,Under 40,0,no
+A0432,Woman,40 and over,0,no
+A0433,Woman,Under 40,0,no
+A0434,Woman,Under 40,0,yes
+A0435,Woman,Under 40,1,yes
+A0436,Man,40 and over,1,no
+A0437,Woman,40 and over,0,yes
+A0438,Man,Under 40,1,yes
+A0439,Woman,Under 40,1,no
+A0440,Man,Under 40,0,no
+A0441,Woman,40 and over,0,no
+A0442,Man,Under 40,1,no
+A0443,Man,Under 40,1,yes
+A0444,Man,Under 40,0,no
+A0445,Man,Under 40,0,no
+A0446,Non-binary,40 and over,0,no
+A0447,Man,Under 40,0,no
+A0448,Man,Under 40,0,no
+A0449,Woman,40 and over,0,no
+A0450,Woman,Under 40,1,no
+A0451,Woman,40 and over,1,no
+A0452,Woman,Under 40,0,yes
+A0453,Woman,40 and over,1,no
+A0454,Woman,Under 40,1,no
+A0455,Man,40 and over,0,yes
+A0456,Woman,Under 40,0,no
+A0457,Woman,Under 40,0,no
+A0458,Woman,40 and over,1,no
+A0459,Woman,40 and over,0,no
+A0460,Man,Under 40,1,no
+A0461,Man,40 and over,0,no
+A0462,Woman,40 and over,0,no
+A0463,Man,Under 40,0,no
+A0464,Man,40 and over,0,no
+A0465,Woman,Under 40,0,no
+A0466,Woman,Under 40,1,no
+A0467,Man,Under 40,1,yes
+A0468,Man,Under 40,0,no
+A0469,Man,40 and over,1,no
+A0470,Woman,Under 40,1,yes
+A0471,Man,Under 40,0,no
+A0472,Man,Under 40,0,no
+A0473,Woman,Under 40,1,yes
+A0474,Woman,Under 40,1,no
+A0475,Man,Under 40,0,no
+A0476,Man,40 and over,0,yes
+A0477,Man,40 and over,1,yes
+A0478,Man,Under 40,0,no
+A0479,Man,Under 40,0,yes
+A0480,Man,Under 40,1,yes
+A0481,Woman,Under 40,0,no
+A0482,Man,Under 40,0,no
+A0483,Man,40 and over,0,no
+A0484,Man,Under 40,1,no
+A0485,Woman,Under 40,0,yes
+A0486,Man,40 and over,0,no
+A0487,Woman,Under 40,0,no
+A0488,Woman,40 and over,1,no
+A0489,Woman,Under 40,0,no
+A0490,Man,Under 40,0,no
+A0491,Man,Under 40,1,yes
+A0492,Woman,Under 40,0,no
+A0493,Man,Under 40,1,no
+A0494,Woman,Under 40,0,no
+A0495,Woman,40 and over,1,yes
+A0496,Man,Under 40,0,no
+A0497,Man,40 and over,1,yes
+A0498,Man,40 and over,1,yes
+A0499,Man,40 and over,0,no
+A0500,Woman,40 and over,1,yes
+A0501,Man,40 and over,1,yes
+A0502,Man,40 and over,0,no
+A0503,Woman,Under 40,0,no
+A0504,Woman,40 and over,0,no
+A0505,Man,Under 40,1,no
+A0506,Man,40 and over,1,no
+A0507,Woman,40 and over,0,no
+A0508,Woman,Under 40,1,yes
+A0509,Woman,40 and over,0,yes
+A0510,Woman,Under 40,1,no
+A0511,Woman,40 and over,1,no
+A0512,Woman,Under 40,0,no
+A0513,Man,40 and over,1,no
+A0514,Non-binary,Under 40,0,no
+A0515,Man,Under 40,1,no
+A0516,Woman,40 and over,1,no
+A0517,Man,Under 40,0,no
+A0518,Man,40 and over,0,no
+A0519,Woman,Under 40,1,no
+A0520,Man,Under 40,1,no
+A0521,Woman,Under 40,1,yes
+A0522,Man,40 and over,0,no
+A0523,Woman,Under 40,0,no
+A0524,Woman,Under 40,1,no
+A0525,Man,40 and over,0,no
+A0526,Woman,40 and over,1,yes
+A0527,Woman,40 and over,0,no
+A0528,Man,40 and over,1,no
+A0529,Man,Under 40,1,yes
+A0530,Woman,Under 40,0,no
+A0531,Man,Under 40,1,yes
+A0532,Man,40 and over,1,no
+A0533,Woman,40 and over,0,yes
+A0534,Man,Under 40,1,yes
+A0535,Woman,Under 40,1,yes
+A0536,Man,Under 40,0,no
+A0537,Woman,40 and over,0,no
+A0538,Woman,Under 40,1,no
+A0539,Man,Under 40,1,yes
+A0540,Man,40 and over,0,no
+A0541,Man,Under 40,1,yes
+A0542,Woman,40 and over,0,yes
+A0543,Man,40 and over,0,no
+A0544,Man,40 and over,1,no
+A0545,Woman,40 and over,0,no
+A0546,Man,Under 40,1,no
+A0547,Man,40 and over,1,no
+A0548,Man,40 and over,0,no
+A0549,Non-binary,Under 40,1,no
+A0550,Man,40 and over,0,no
+A0551,Woman,Under 40,1,no
+A0552,Woman,Under 40,0,no
+A0553,Woman,40 and over,1,no
+A0554,Woman,40 and over,1,yes
+A0555,Woman,40 and over,0,no
+A0556,Man,Under 40,1,yes
+A0557,Man,Under 40,1,yes
+A0558,Woman,Under 40,1,yes
+A0559,Man,Under 40,1,yes
+A0560,Man,Under 40,1,no
+A0561,Woman,40 and over,0,no
+A0562,Man,Under 40,1,yes
+A0563,Man,Under 40,1,yes
+A0564,Man,Under 40,1,yes
+A0565,Woman,Under 40,1,yes
+A0566,Woman,Under 40,0,no
+A0567,Man,Under 40,0,no
+A0568,Non-binary,Under 40,1,no
+A0569,Man,Under 40,0,no
+A0570,Man,40 and over,0,no
+A0571,Man,Under 40,0,no
+A0572,Man,Under 40,0,no
+A0573,Woman,Under 40,0,no
+A0574,Woman,Under 40,1,no
+A0575,Woman,40 and over,1,no
+A0576,Woman,Under 40,0,no
+A0577,Woman,Under 40,0,no
+A0578,Man,Under 40,0,no
+A0579,Woman,40 and over,1,no
+A0580,Woman,40 and over,1,no
+A0581,Woman,Under 40,0,yes
+A0582,Non-binary,40 and over,1,no
+A0583,Non-binary,Under 40,1,yes
+A0584,Woman,Under 40,0,no
+A0585,Man,Under 40,0,no
+A0586,Woman,Under 40,1,yes
+A0587,Man,40 and over,1,no
+A0588,Man,Under 40,0,no
+A0589,Woman,Under 40,1,no
+A0590,Man,Under 40,0,yes
+A0591,Woman,40 and over,0,no
+A0592,Non-binary,Under 40,1,yes
+A0593,Woman,40 and over,1,no
+A0594,Man,40 and over,1,yes
+A0595,Woman,Under 40,0,no
+A0596,Woman,Under 40,0,no
+A0597,Man,Under 40,0,no
+A0598,Man,Under 40,1,no
+A0599,Woman,40 and over,0,no
+A0600,Woman,Under 40,0,no
+A0601,Woman,40 and over,1,no
+A0602,Man,Under 40,1,yes
+A0603,Man,40 and over,0,no
+A0604,Man,Under 40,1,yes
+A0605,Woman,40 and over,0,no
+A0606,Woman,Under 40,1,yes
+A0607,Man,Under 40,1,yes
+A0608,Woman,40 and over,0,no
+A0609,Woman,Under 40,0,no
+A0610,Man,Under 40,0,no
+A0611,Man,Under 40,1,yes
+A0612,Woman,40 and over,0,yes
+A0613,Man,40 and over,0,no
+A0614,Woman,Under 40,0,no
+A0615,Non-binary,Under 40,0,no
+A0616,Man,40 and over,1,yes
+A0617,Woman,Under 40,0,no
+A0618,Man,40 and over,0,no
+A0619,Woman,40 and over,1,yes
+A0620,Man,Under 40,1,yes
+A0621,Man,Under 40,1,yes
+A0622,Man,Under 40,0,no
+A0623,Woman,Under 40,0,no
+A0624,Woman,40 and over,0,no
+A0625,Woman,Under 40,0,no
+A0626,Woman,40 and over,0,no
+A0627,Man,Under 40,0,no
+A0628,Woman,Under 40,0,no
+A0629,Woman,Under 40,0,no
+A0630,Man,40 and over,0,no
+A0631,Man,40 and over,1,yes
+A0632,Woman,Under 40,1,yes
+A0633,Man,40 and over,1,yes
+A0634,Woman,Under 40,1,no
+A0635,Man,Under 40,0,no
+A0636,Man,40 and over,1,yes
+A0637,Woman,Under 40,0,no
+A0638,Woman,Under 40,0,no
+A0639,Woman,Under 40,1,no
+A0640,Man,Under 40,1,yes
+A0641,Man,40 and over,0,yes
+A0642,Man,Under 40,1,yes
+A0643,Man,40 and over,0,no
+A0644,Man,Under 40,1,yes
+A0645,Woman,Under 40,1,no
+A0646,Man,40 and over,0,no
+A0647,Non-binary,Under 40,0,yes
+A0648,Woman,Under 40,0,no
+A0649,Man,Under 40,0,no
+A0650,Man,Under 40,0,no
+A0651,Man,40 and over,1,yes
+A0652,Man,Under 40,0,no
+A0653,Woman,40 and over,0,no
+A0654,Woman,Under 40,0,no
+A0655,Woman,Under 40,1,no
+A0656,Woman,Under 40,1,yes
+A0657,Woman,Under 40,0,no
+A0658,Woman,Under 40,0,no
+A0659,Man,40 and over,0,no
+A0660,Woman,Under 40,1,yes
+A0661,Man,Under 40,0,no
+A0662,Woman,Under 40,1,no
+A0663,Man,Under 40,0,no
+A0664,Man,Under 40,1,no
+A0665,Woman,Under 40,0,no
+A0666,Woman,Under 40,0,no
+A0667,Woman,Under 40,1,yes
+A0668,Man,Under 40,1,no
+A0669,Woman,Under 40,0,no
+A0670,Man,40 and over,0,no
+A0671,Woman,Under 40,1,no
+A0672,Man,40 and over,0,yes
+A0673,Woman,Under 40,1,no
+A0674,Woman,Under 40,0,no
+A0675,Woman,Under 40,1,yes
+A0676,Man,Under 40,0,no
+A0677,Woman,Under 40,0,no
+A0678,Man,Under 40,1,no
+A0679,Woman,Under 40,0,no
+A0680,Man,Under 40,1,no
+A0681,Man,Under 40,1,yes
+A0682,Woman,Under 40,0,no
+A0683,Woman,Under 40,0,no
+A0684,Woman,Under 40,0,yes
+A0685,Man,Under 40,1,yes
+A0686,Man,Under 40,0,no
+A0687,Man,40 and over,0,no
+A0688,Man,Under 40,1,yes
+A0689,Woman,40 and over,0,yes
+A0690,Woman,40 and over,0,yes
+A0691,Woman,Under 40,0,yes
+A0692,Non-binary,40 and over,1,no
+A0693,Woman,Under 40,0,no
+A0694,Non-binary,Under 40,1,yes
+A0695,Woman,Under 40,0,no
+A0696,Non-binary,Under 40,1,yes
+A0697,Woman,40 and over,0,no
+A0698,Man,Under 40,1,no
+A0699,Woman,Under 40,1,yes
+A0700,Man,Under 40,0,no
+A0701,Man,Under 40,1,yes
+A0702,Woman,40 and over,0,yes
+A0703,Woman,Under 40,1,yes
+A0704,Man,Under 40,0,no
+A0705,Non-binary,Under 40,1,yes
+A0706,Woman,Under 40,0,no
+A0707,Man,Under 40,0,no
+A0708,Man,40 and over,1,no
+A0709,Woman,Under 40,1,no
+A0710,Man,Under 40,0,no
+A0711,Man,40 and over,0,no
+A0712,Man,Under 40,1,yes
+A0713,Woman,Under 40,1,no
+A0714,Man,Under 40,1,yes
+A0715,Woman,Under 40,0,no
+A0716,Man,Under 40,0,yes
+A0717,Man,Under 40,1,no
+A0718,Woman,40 and over,0,no
+A0719,Non-binary,40 and over,1,no
+A0720,Woman,40 and over,0,no
+A0721,Man,Under 40,1,no
+A0722,Woman,Under 40,0,no
+A0723,Woman,40 and over,0,yes
+A0724,Woman,Under 40,0,no
+A0725,Man,40 and over,1,no
+A0726,Woman,Under 40,0,no
+A0727,Man,Under 40,0,no
+A0728,Woman,Under 40,0,no
+A0729,Woman,Under 40,1,no
+A0730,Woman,Under 40,1,yes
+A0731,Man,Under 40,1,yes
+A0732,Man,40 and over,1,yes
+A0733,Woman,40 and over,0,no
+A0734,Man,Under 40,0,no
+A0735,Woman,40 and over,0,no
+A0736,Woman,Under 40,1,yes
+A0737,Man,Under 40,0,no
+A0738,Non-binary,40 and over,1,no
+A0739,Woman,40 and over,0,no
+A0740,Woman,Under 40,1,no
+A0741,Man,40 and over,0,no
+A0742,Man,40 and over,0,yes
+A0743,Woman,40 and over,0,no
+A0744,Woman,40 and over,1,no
+A0745,Man,40 and over,1,no
+A0746,Man,40 and over,0,no
+A0747,Man,Under 40,1,yes
+A0748,Man,Under 40,1,yes
+A0749,Woman,40 and over,0,no
+A0750,Man,Under 40,1,yes
+A0751,Woman,40 and over,0,no
+A0752,Man,40 and over,1,yes
+A0753,Woman,Under 40,1,yes
+A0754,Woman,Under 40,0,yes
+A0755,Woman,Under 40,0,yes
+A0756,Woman,Under 40,0,no
+A0757,Man,Under 40,1,yes
+A0758,Woman,40 and over,1,yes
+A0759,Man,Under 40,0,no
+A0760,Man,Under 40,1,yes
+A0761,Woman,Under 40,1,yes
+A0762,Man,Under 40,1,no
+A0763,Man,Under 40,0,no
+A0764,Man,Under 40,1,no
+A0765,Man,Under 40,1,yes
+A0766,Man,Under 40,1,no
+A0767,Woman,Under 40,1,no
+A0768,Non-binary,Under 40,0,no
+A0769,Woman,Under 40,0,no
+A0770,Man,40 and over,0,yes
+A0771,Woman,40 and over,0,no
+A0772,Woman,40 and over,0,no
+A0773,Woman,Under 40,0,no
+A0774,Woman,Under 40,1,no
+A0775,Man,40 and over,0,no
+A0776,Man,40 and over,0,yes
+A0777,Man,Under 40,1,yes
+A0778,Man,40 and over,0,no
+A0779,Woman,Under 40,1,yes
+A0780,Woman,40 and over,0,no
+A0781,Woman,Under 40,1,no
+A0782,Man,Under 40,1,yes
+A0783,Woman,Under 40,1,yes
+A0784,Woman,40 and over,1,no
+A0785,Man,Under 40,0,no
+A0786,Woman,Under 40,0,no
+A0787,Man,Under 40,0,yes
+A0788,Woman,Under 40,0,no
+A0789,Woman,Under 40,1,no
+A0790,Man,Under 40,0,no
+A0791,Woman,40 and over,0,no
+A0792,Man,Under 40,0,no
+A0793,Woman,40 and over,1,yes
+A0794,Woman,40 and over,1,no
+A0795,Woman,40 and over,1,no
+A0796,Woman,40 and over,1,yes
+A0797,Man,Under 40,1,no
+A0798,Woman,Under 40,1,no
+A0799,Woman,40 and over,1,no
+A0800,Man,Under 40,0,no
+A0801,Woman,40 and over,1,no
+A0802,Man,40 and over,0,yes
+A0803,Woman,40 and over,0,yes
+A0804,Man,40 and over,1,no
+A0805,Woman,Under 40,1,yes
+A0806,Man,Under 40,0,no
+A0807,Man,Under 40,0,no
+A0808,Woman,Under 40,0,no
+A0809,Man,Under 40,1,no
+A0810,Woman,40 and over,1,no
+A0811,Woman,Under 40,1,no
+A0812,Woman,40 and over,0,no
+A0813,Woman,40 and over,0,no
+A0814,Non-binary,Under 40,1,yes
+A0815,Man,40 and over,0,no
+A0816,Woman,Under 40,0,no
+A0817,Woman,40 and over,0,no
+A0818,Woman,40 and over,1,yes
+A0819,Man,Under 40,0,no
+A0820,Man,40 and over,1,yes
+A0821,Man,40 and over,1,no
+A0822,Man,Under 40,1,no
+A0823,Man,40 and over,0,no
+A0824,Man,40 and over,0,no
+A0825,Man,Under 40,1,no
+A0826,Man,Under 40,1,yes
+A0827,Woman,Under 40,1,no
+A0828,Woman,Under 40,0,no
+A0829,Woman,Under 40,1,no
+A0830,Man,40 and over,0,no
+A0831,Man,Under 40,0,no
+A0832,Non-binary,Under 40,1,yes
+A0833,Man,Under 40,1,no
+A0834,Man,40 and over,0,no
+A0835,Woman,Under 40,1,yes
+A0836,Woman,Under 40,0,no
+A0837,Man,40 and over,0,no
+A0838,Woman,40 and over,1,no
+A0839,Man,Under 40,0,no
+A0840,Man,Under 40,0,no
+A0841,Woman,Under 40,1,yes
+A0842,Woman,Under 40,0,no
+A0843,Woman,Under 40,0,no
+A0844,Woman,Under 40,0,no
+A0845,Man,Under 40,0,no
+A0846,Woman,40 and over,1,no
+A0847,Woman,Under 40,0,no
+A0848,Woman,Under 40,0,yes
+A0849,Man,Under 40,1,yes
+A0850,Man,Under 40,1,yes
+A0851,Man,Under 40,0,no
+A0852,Woman,Under 40,1,no
+A0853,Woman,40 and over,0,no
+A0854,Man,Under 40,0,yes
+A0855,Man,Under 40,0,no
+A0856,Man,Under 40,1,yes
+A0857,Man,40 and over,1,no
+A0858,Man,40 and over,1,no
+A0859,Woman,Under 40,1,yes
+A0860,Woman,40 and over,1,no
+A0861,Man,Under 40,0,no
+A0862,Man,40 and over,0,no
+A0863,Woman,Under 40,0,yes
+A0864,Woman,Under 40,1,no
+A0865,Woman,40 and over,1,yes
+A0866,Man,Under 40,0,no
+A0867,Non-binary,Under 40,0,yes
+A0868,Man,Under 40,1,yes
+A0869,Woman,40 and over,0,no
+A0870,Woman,40 and over,0,no
+A0871,Woman,40 and over,1,no
+A0872,Man,Under 40,0,no
+A0873,Woman,Under 40,0,yes
+A0874,Woman,Under 40,0,no
+A0875,Woman,Under 40,0,no
+A0876,Non-binary,Under 40,1,no
+A0877,Man,Under 40,0,no
+A0878,Man,40 and over,1,yes
+A0879,Woman,40 and over,1,no
+A0880,Woman,Under 40,1,no
+A0881,Woman,Under 40,0,no
+A0882,Woman,40 and over,1,yes
+A0883,Man,Under 40,0,no
+A0884,Man,40 and over,0,yes
+A0885,Woman,Under 40,1,no
+A0886,Non-binary,Under 40,0,no
+A0887,Man,Under 40,1,yes
+A0888,Woman,Under 40,0,no
+A0889,Woman,Under 40,0,no
+A0890,Woman,Under 40,1,no
+A0891,Woman,Under 40,0,no
+A0892,Woman,40 and over,1,no
+A0893,Woman,Under 40,0,no
+A0894,Woman,Under 40,0,no
+A0895,Woman,40 and over,1,no
+A0896,Woman,40 and over,0,no
+A0897,Non-binary,40 and over,0,no
+A0898,Non-binary,40 and over,0,no
+A0899,Man,40 and over,0,no
+A0900,Woman,40 and over,0,no
+A0901,Woman,Under 40,0,no
+A0902,Man,40 and over,0,no
+A0903,Woman,Under 40,0,no
+A0904,Man,Under 40,0,no
+A0905,Woman,Under 40,0,no
+A0906,Man,40 and over,0,no
+A0907,Man,Under 40,0,no
+A0908,Woman,Under 40,1,yes
+A0909,Woman,40 and over,1,no
+A0910,Man,40 and over,1,no
+A0911,Woman,40 and over,0,no
+A0912,Man,40 and over,0,no
+A0913,Woman,40 and over,1,no
+A0914,Non-binary,Under 40,0,yes
+A0915,Man,40 and over,0,no
+A0916,Woman,40 and over,0,no
+A0917,Woman,Under 40,0,no
+A0918,Non-binary,Under 40,1,no
+A0919,Man,Under 40,0,no
+A0920,Man,Under 40,1,yes
+A0921,Man,Under 40,0,no
+A0922,Man,Under 40,1,no
+A0923,Woman,40 and over,0,no
+A0924,Man,40 and over,1,yes
+A0925,Man,Under 40,0,no
+A0926,Woman,Under 40,1,yes
+A0927,Man,Under 40,1,no
+A0928,Woman,40 and over,0,no
+A0929,Man,40 and over,1,no
+A0930,Woman,40 and over,0,no
+A0931,Man,40 and over,0,no
+A0932,Woman,Under 40,0,no
+A0933,Man,40 and over,1,yes
+A0934,Woman,Under 40,0,no
+A0935,Man,40 and over,0,yes
+A0936,Man,40 and over,0,no
+A0937,Man,Under 40,0,no
+A0938,Non-binary,40 and over,0,no
+A0939,Woman,Under 40,0,no
+A0940,Man,Under 40,0,no
+A0941,Woman,Under 40,1,yes
+A0942,Woman,Under 40,1,no
+A0943,Woman,40 and over,0,no
+A0944,Woman,40 and over,1,no
+A0945,Man,40 and over,1,yes
+A0946,Woman,Under 40,1,no
+A0947,Man,Under 40,1,yes
+A0948,Woman,Under 40,0,no
+A0949,Woman,40 and over,0,no
+A0950,Man,40 and over,0,no
+A0951,Man,Under 40,0,no
+A0952,Woman,Under 40,0,no
+A0953,Man,Under 40,0,no
+A0954,Man,Under 40,0,no
+A0955,Man,40 and over,0,no
+A0956,Woman,40 and over,0,no
+A0957,Man,Under 40,1,no
+A0958,Woman,Under 40,1,no
+A0959,Man,Under 40,0,no
+A0960,Man,Under 40,1,yes
+A0961,Woman,Under 40,1,yes
+A0962,Man,Under 40,1,no
+A0963,Man,40 and over,1,no
+A0964,Woman,Under 40,1,yes
+A0965,Woman,Under 40,0,no
+A0966,Woman,Under 40,0,no
+A0967,Woman,Under 40,1,yes
+A0968,Woman,Under 40,0,no
+A0969,Woman,40 and over,0,no
+A0970,Non-binary,Under 40,0,no
+A0971,Man,40 and over,0,no
+A0972,Man,Under 40,1,yes
+A0973,Woman,40 and over,0,no
+A0974,Man,Under 40,1,yes
+A0975,Woman,40 and over,0,no
+A0976,Woman,Under 40,1,yes
+A0977,Man,Under 40,1,yes
+A0978,Woman,Under 40,0,no
+A0979,Man,40 and over,1,no
+A0980,Woman,40 and over,0,no
+A0981,Woman,Under 40,0,no
+A0982,Woman,40 and over,0,no
+A0983,Woman,Under 40,1,no
+A0984,Woman,Under 40,0,no
+A0985,Man,Under 40,1,yes
+A0986,Man,Under 40,1,yes
+A0987,Man,Under 40,0,no
+A0988,Woman,Under 40,1,yes
+A0989,Woman,Under 40,1,no
+A0990,Man,40 and over,1,yes
+A0991,Man,Under 40,1,no
+A0992,Woman,Under 40,1,no
+A0993,Woman,Under 40,1,yes
+A0994,Non-binary,40 and over,1,no
+A0995,Woman,40 and over,0,no
+A0996,Woman,Under 40,0,no
+A0997,Man,Under 40,1,yes
+A0998,Man,Under 40,0,no
+A0999,Man,Under 40,1,yes
+A1000,Woman,Under 40,0,no
+A1001,Man,Under 40,1,yes
+A1002,Woman,40 and over,0,no
+A1003,Woman,Under 40,1,no
+A1004,Man,40 and over,0,no
+A1005,Woman,40 and over,0,no
+A1006,Man,Under 40,0,no
+A1007,Woman,Under 40,0,no
+A1008,Man,40 and over,0,no
+A1009,Man,Under 40,0,no
+A1010,Man,Under 40,1,yes
+A1011,Man,40 and over,1,yes
+A1012,Man,40 and over,0,no
+A1013,Woman,Under 40,1,no
+A1014,Man,Under 40,1,yes
+A1015,Woman,40 and over,0,no
+A1016,Man,40 and over,1,yes
+A1017,Man,Under 40,0,no
+A1018,Woman,Under 40,0,yes
+A1019,Man,Under 40,0,no
+A1020,Man,Under 40,1,yes
+A1021,Man,40 and over,0,no
+A1022,Woman,Under 40,0,no
+A1023,Woman,Under 40,1,no
+A1024,Woman,Under 40,1,no
+A1025,Woman,Under 40,1,yes
+A1026,Man,Under 40,1,no
+A1027,Woman,Under 40,1,no
+A1028,Woman,40 and over,1,yes
+A1029,Man,40 and over,0,no
+A1030,Non-binary,Under 40,0,no
+A1031,Woman,Under 40,1,yes
+A1032,Man,Under 40,1,no
+A1033,Woman,40 and over,0,no
+A1034,Woman,40 and over,0,no
+A1035,Woman,40 and over,0,no
+A1036,Man,Under 40,1,yes
+A1037,Man,40 and over,0,no
+A1038,Man,Under 40,0,no
+A1039,Man,40 and over,1,yes
+A1040,Woman,40 and over,1,no
+A1041,Man,Under 40,0,no
+A1042,Woman,40 and over,0,no
+A1043,Man,40 and over,0,no
+A1044,Man,Under 40,0,no
+A1045,Man,40 and over,0,no
+A1046,Woman,40 and over,0,yes
+A1047,Woman,40 and over,0,no
+A1048,Woman,40 and over,0,no
+A1049,Woman,Under 40,1,no
+A1050,Man,40 and over,0,no
+A1051,Woman,Under 40,0,no
+A1052,Non-binary,40 and over,0,no
+A1053,Man,Under 40,0,no
+A1054,Woman,Under 40,0,no
+A1055,Man,Under 40,1,yes
+A1056,Man,40 and over,1,no
+A1057,Man,Under 40,1,yes
+A1058,Man,Under 40,1,yes
+A1059,Man,Under 40,1,no
+A1060,Man,40 and over,1,yes
+A1061,Non-binary,40 and over,0,no
+A1062,Woman,Under 40,0,no
+A1063,Man,40 and over,1,no
+A1064,Man,40 and over,1,yes
+A1065,Man,Under 40,0,no
+A1066,Man,Under 40,0,no
+A1067,Man,Under 40,0,no
+A1068,Woman,Under 40,0,no
+A1069,Woman,40 and over,1,yes
+A1070,Woman,Under 40,1,no
+A1071,Man,40 and over,0,no
+A1072,Man,Under 40,1,yes
+A1073,Man,Under 40,0,no
+A1074,Man,40 and over,1,no
+A1075,Non-binary,Under 40,1,yes
+A1076,Woman,40 and over,0,no
+A1077,Man,Under 40,1,yes
+A1078,Woman,Under 40,1,yes
+A1079,Woman,Under 40,1,yes
+A1080,Woman,40 and over,1,yes
+A1081,Man,40 and over,1,no
+A1082,Man,40 and over,0,no
+A1083,Man,40 and over,0,no
+A1084,Man,40 and over,0,no
+A1085,Woman,40 and over,0,no
+A1086,Woman,40 and over,1,yes
+A1087,Woman,40 and over,1,yes
+A1088,Man,Under 40,1,no
+A1089,Woman,Under 40,0,yes
+A1090,Woman,40 and over,0,yes
+A1091,Man,Under 40,1,yes
+A1092,Man,Under 40,0,no
+A1093,Man,40 and over,1,yes
+A1094,Man,Under 40,1,no
+A1095,Woman,40 and over,0,no
+A1096,Woman,40 and over,1,no
+A1097,Man,Under 40,0,no
+A1098,Man,40 and over,1,yes
+A1099,Man,Under 40,1,yes
+A1100,Man,40 and over,0,no
+A1101,Man,Under 40,1,yes
+A1102,Woman,40 and over,0,no
+A1103,Man,40 and over,0,yes
+A1104,Woman,Under 40,0,no
+A1105,Woman,40 and over,0,no
+A1106,Woman,Under 40,0,no
+A1107,Woman,Under 40,0,no
+A1108,Woman,40 and over,0,no
+A1109,Man,Under 40,0,yes
+A1110,Woman,Under 40,1,no
+A1111,Man,40 and over,0,no
+A1112,Man,40 and over,1,yes
+A1113,Man,Under 40,0,yes
+A1114,Man,40 and over,0,no
+A1115,Man,Under 40,1,yes
+A1116,Woman,40 and over,0,no
+A1117,Man,40 and over,0,no
+A1118,Man,Under 40,0,no
+A1119,Woman,40 and over,1,yes
+A1120,Woman,Under 40,1,no
+A1121,Woman,Under 40,1,no
+A1122,Man,Under 40,1,no
+A1123,Man,40 and over,0,no
+A1124,Man,Under 40,1,yes
+A1125,Man,Under 40,0,no
+A1126,Man,Under 40,0,no
+A1127,Man,40 and over,0,no
+A1128,Man,Under 40,0,no
+A1129,Woman,Under 40,0,yes
+A1130,Woman,Under 40,0,no
+A1131,Woman,Under 40,0,yes
+A1132,Woman,40 and over,0,no
+A1133,Woman,Under 40,1,no
+A1134,Man,40 and over,1,yes
+A1135,Woman,Under 40,0,yes
+A1136,Woman,40 and over,1,yes
+A1137,Woman,40 and over,1,yes
+A1138,Man,Under 40,0,no
+A1139,Man,40 and over,0,no
+A1140,Woman,Under 40,0,no
+A1141,Woman,Under 40,1,no
+A1142,Man,Under 40,0,no
+A1143,Man,Under 40,1,yes
+A1144,Man,40 and over,1,yes
+A1145,Man,40 and over,1,yes
+A1146,Woman,Under 40,0,no
+A1147,Woman,Under 40,0,no
+A1148,Man,40 and over,1,yes
+A1149,Woman,40 and over,0,no
+A1150,Non-binary,Under 40,1,yes
+A1151,Woman,Under 40,0,no
+A1152,Man,Under 40,0,no
+A1153,Man,Under 40,1,yes
+A1154,Man,Under 40,1,no
+A1155,Man,Under 40,0,no
+A1156,Woman,40 and over,1,no
+A1157,Woman,Under 40,0,no
+A1158,Man,40 and over,0,yes
+A1159,Man,40 and over,1,no
+A1160,Man,40 and over,0,no
+A1161,Woman,Under 40,1,no
+A1162,Man,Under 40,1,yes
+A1163,Man,Under 40,1,yes
+A1164,Woman,Under 40,1,no
+A1165,Woman,Under 40,1,yes
+A1166,Man,Under 40,0,yes
+A1167,Man,Under 40,0,no
+A1168,Man,Under 40,0,no
+A1169,Woman,Under 40,0,no
+A1170,Man,Under 40,0,no
+A1171,Woman,Under 40,0,no
+A1172,Man,Under 40,0,yes
+A1173,Man,40 and over,0,no
+A1174,Man,Under 40,1,no
+A1175,Man,Under 40,0,no
+A1176,Man,Under 40,0,no
+A1177,Woman,40 and over,1,no
+A1178,Man,Under 40,1,yes
+A1179,Woman,Under 40,0,no
+A1180,Woman,40 and over,1,no
+A1181,Man,Under 40,0,yes
+A1182,Man,Under 40,0,no
+A1183,Man,40 and over,1,yes
+A1184,Man,40 and over,0,no
+A1185,Man,40 and over,0,no
+A1186,Man,40 and over,1,yes
+A1187,Woman,Under 40,1,yes
+A1188,Man,40 and over,1,yes
+A1189,Woman,Under 40,1,yes
+A1190,Man,Under 40,0,no
+A1191,Non-binary,Under 40,0,no
+A1192,Woman,40 and over,0,yes
+A1193,Woman,Under 40,1,no
+A1194,Woman,Under 40,1,no
+A1195,Woman,40 and over,1,yes
+A1196,Man,40 and over,0,no
+A1197,Woman,Under 40,1,no
+A1198,Woman,40 and over,1,no
+A1199,Woman,Under 40,0,no
+A1200,Man,40 and over,0,no
+A1201,Woman,40 and over,1,yes
+A1202,Woman,40 and over,0,no
+A1203,Man,Under 40,1,no
+A1204,Woman,40 and over,1,no
+A1205,Man,Under 40,0,no
+A1206,Man,Under 40,1,yes
+A1207,Woman,Under 40,0,no
+A1208,Woman,Under 40,0,no
+A1209,Woman,Under 40,1,yes
+A1210,Man,40 and over,1,yes
+A1211,Man,40 and over,0,no
+A1212,Man,40 and over,0,no
+A1213,Woman,Under 40,0,no
+A1214,Man,Under 40,0,no
+A1215,Man,Under 40,0,no
+A1216,Woman,40 and over,0,no
+A1217,Man,40 and over,1,no
+A1218,Woman,Under 40,0,no
+A1219,Woman,40 and over,1,yes
+A1220,Man,Under 40,0,no
+A1221,Man,Under 40,1,yes
+A1222,Man,40 and over,0,no
+A1223,Man,40 and over,0,no
+A1224,Man,Under 40,0,no
+A1225,Woman,40 and over,1,no
+A1226,Man,40 and over,0,no
+A1227,Woman,Under 40,1,yes
+A1228,Man,Under 40,1,no
+A1229,Woman,40 and over,1,no
+A1230,Woman,40 and over,0,no
+A1231,Man,40 and over,1,no
+A1232,Man,Under 40,0,no
+A1233,Woman,Under 40,1,yes
+A1234,Woman,Under 40,0,no
+A1235,Woman,Under 40,0,no
+A1236,Woman,Under 40,1,yes
+A1237,Woman,Under 40,0,no
+A1238,Woman,40 and over,1,yes
+A1239,Woman,Under 40,0,no
+A1240,Woman,Under 40,0,yes
+A1241,Man,Under 40,0,no
+A1242,Woman,Under 40,0,no
+A1243,Man,Under 40,0,yes
+A1244,Man,Under 40,1,yes
+A1245,Man,Under 40,1,yes
+A1246,Woman,Under 40,0,no
+A1247,Woman,Under 40,1,no
+A1248,Woman,40 and over,0,no
+A1249,Woman,40 and over,1,no
+A1250,Man,Under 40,0,no
+A1251,Man,Under 40,0,no
+A1252,Woman,Under 40,0,no
+A1253,Non-binary,Under 40,1,no
+A1254,Man,40 and over,0,no
+A1255,Man,Under 40,0,no
+A1256,Man,Under 40,1,no
+A1257,Man,Under 40,1,yes
+A1258,Woman,Under 40,0,no
+A1259,Man,Under 40,1,yes
+A1260,Woman,40 and over,0,no
+A1261,Woman,40 and over,0,no
+A1262,Man,40 and over,1,no
+A1263,Woman,Under 40,0,no
+A1264,Woman,Under 40,0,no
+A1265,Woman,Under 40,0,no
+A1266,Man,40 and over,0,no
+A1267,Woman,Under 40,0,no
+A1268,Woman,40 and over,1,yes
+A1269,Man,Under 40,1,yes
+A1270,Woman,Under 40,1,yes
+A1271,Woman,40 and over,0,no
+A1272,Man,Under 40,0,no
+A1273,Woman,40 and over,0,no
+A1274,Man,40 and over,0,no
+A1275,Woman,Under 40,0,no
+A1276,Woman,Under 40,1,no
+A1277,Woman,Under 40,1,yes
+A1278,Man,Under 40,0,no
+A1279,Woman,Under 40,0,no
+A1280,Man,Under 40,1,yes
+A1281,Man,Under 40,1,yes
+A1282,Woman,Under 40,1,yes
+A1283,Man,Under 40,0,no
+A1284,Man,Under 40,0,no
+A1285,Man,Under 40,0,no
+A1286,Man,Under 40,1,yes
+A1287,Woman,Under 40,0,no
+A1288,Woman,Under 40,0,no
+A1289,Woman,Under 40,0,no
+A1290,Man,Under 40,0,no
+A1291,Man,Under 40,0,no
+A1292,Man,Under 40,1,no
+A1293,Woman,40 and over,1,no
+A1294,Woman,40 and over,0,no
+A1295,Man,Under 40,1,yes
+A1296,Man,40 and over,0,no
+A1297,Man,40 and over,0,no
+A1298,Woman,40 and over,0,no
+A1299,Man,40 and over,0,no
+A1300,Man,Under 40,0,no
+A1301,Woman,Under 40,0,no
+A1302,Man,40 and over,1,no
+A1303,Woman,Under 40,0,no
+A1304,Woman,40 and over,1,no
+A1305,Man,Under 40,0,no
+A1306,Man,Under 40,0,yes
+A1307,Woman,40 and over,0,no
+A1308,Man,Under 40,1,yes
+A1309,Man,Under 40,1,yes
+A1310,Man,Under 40,0,no
+A1311,Woman,Under 40,0,no
+A1312,Man,Under 40,0,no
+A1313,Man,Under 40,1,yes
+A1314,Man,40 and over,0,no
+A1315,Woman,40 and over,1,no
+A1316,Man,Under 40,1,yes
+A1317,Woman,40 and over,0,no
+A1318,Man,40 and over,0,no
+A1319,Non-binary,40 and over,1,yes
+A1320,Man,40 and over,0,no
+A1321,Non-binary,Under 40,0,no
+A1322,Man,40 and over,0,no
+A1323,Man,Under 40,0,no
+A1324,Man,Under 40,0,no
+A1325,Woman,Under 40,0,no
+A1326,Woman,Under 40,0,no
+A1327,Woman,Under 40,0,no
+A1328,Man,40 and over,0,no
+A1329,Woman,Under 40,1,no
+A1330,Man,Under 40,0,no
+A1331,Man,40 and over,0,no
+A1332,Man,Under 40,0,no
+A1333,Woman,Under 40,0,no
+A1334,Non-binary,40 and over,1,yes
+A1335,Woman,40 and over,0,no
+A1336,Man,Under 40,1,yes
+A1337,Non-binary,40 and over,0,no
+A1338,Man,Under 40,0,no
+A1339,Man,Under 40,0,yes
+A1340,Man,Under 40,0,no
+A1341,Man,40 and over,1,no
+A1342,Woman,40 and over,0,no
+A1343,Man,Under 40,0,no
+A1344,Woman,40 and over,0,no
+A1345,Man,40 and over,1,no
+A1346,Man,40 and over,0,yes
+A1347,Man,Under 40,1,no
+A1348,Woman,Under 40,1,no
+A1349,Man,Under 40,0,yes
+A1350,Woman,Under 40,0,no
+A1351,Woman,Under 40,0,no
+A1352,Woman,Under 40,0,no
+A1353,Man,Under 40,1,yes
+A1354,Man,40 and over,0,no
+A1355,Woman,Under 40,1,no
+A1356,Man,Under 40,0,no
+A1357,Man,Under 40,1,yes
+A1358,Man,Under 40,1,yes
+A1359,Man,40 and over,0,no
+A1360,Woman,40 and over,0,yes
+A1361,Woman,Under 40,0,no
+A1362,Woman,40 and over,0,no
+A1363,Man,Under 40,0,no
+A1364,Woman,Under 40,1,no
+A1365,Woman,Under 40,1,yes
+A1366,Woman,Under 40,1,yes
+A1367,Woman,Under 40,1,yes
+A1368,Woman,Under 40,1,yes
+A1369,Man,40 and over,1,no
+A1370,Woman,40 and over,1,yes
+A1371,Woman,Under 40,1,no
+A1372,Man,40 and over,0,no
+A1373,Man,40 and over,0,no
+A1374,Woman,40 and over,0,no
+A1375,Woman,40 and over,0,no
+A1376,Man,40 and over,0,no
+A1377,Woman,40 and over,1,no
+A1378,Man,40 and over,0,yes
+A1379,Woman,40 and over,1,no
+A1380,Woman,40 and over,1,yes
+A1381,Man,Under 40,0,no
+A1382,Woman,Under 40,1,no
+A1383,Woman,Under 40,1,no
+A1384,Woman,Under 40,1,no
+A1385,Man,Under 40,0,no
+A1386,Non-binary,Under 40,1,no
+A1387,Man,Under 40,0,no
+A1388,Man,40 and over,0,no
+A1389,Woman,40 and over,1,yes
+A1390,Woman,Under 40,0,yes
+A1391,Woman,Under 40,1,yes
+A1392,Man,40 and over,0,no
+A1393,Woman,40 and over,1,no
+A1394,Woman,Under 40,0,no
+A1395,Woman,40 and over,0,no
+A1396,Non-binary,Under 40,1,no
+A1397,Woman,40 and over,0,no
+A1398,Man,Under 40,1,yes
+A1399,Woman,Under 40,0,yes
+A1400,Man,40 and over,0,no
+A1401,Man,Under 40,1,yes
+A1402,Man,40 and over,0,no
+A1403,Woman,40 and over,0,no
+A1404,Woman,Under 40,1,no
+A1405,Woman,Under 40,1,yes
+A1406,Woman,40 and over,0,no
+A1407,Man,Under 40,1,yes
+A1408,Man,Under 40,0,no
+A1409,Man,40 and over,0,no
+A1410,Man,40 and over,0,no
+A1411,Man,Under 40,0,yes
+A1412,Woman,Under 40,1,yes
+A1413,Woman,40 and over,1,no
+A1414,Woman,Under 40,0,no
+A1415,Man,40 and over,0,no
+A1416,Man,Under 40,0,no
+A1417,Woman,Under 40,1,no
+A1418,Woman,Under 40,1,yes
+A1419,Woman,40 and over,1,no
+A1420,Man,Under 40,1,yes
+A1421,Woman,40 and over,1,yes
+A1422,Woman,Under 40,1,no
+A1423,Man,Under 40,1,no
+A1424,Woman,40 and over,0,no
+A1425,Man,40 and over,0,yes
+A1426,Woman,Under 40,0,no
+A1427,Woman,Under 40,0,no
+A1428,Man,Under 40,0,no
+A1429,Woman,Under 40,0,yes
+A1430,Non-binary,Under 40,0,no
+A1431,Man,Under 40,0,no
+A1432,Woman,Under 40,1,no
+A1433,Man,40 and over,0,no
+A1434,Man,40 and over,1,yes
+A1435,Man,40 and over,0,no
+A1436,Man,Under 40,0,no
+A1437,Man,40 and over,1,yes
+A1438,Woman,40 and over,1,no
+A1439,Man,Under 40,1,yes
+A1440,Woman,Under 40,0,no
+A1441,Man,40 and over,0,yes
+A1442,Woman,40 and over,0,yes
+A1443,Man,Under 40,1,yes
+A1444,Woman,Under 40,0,no
+A1445,Non-binary,Under 40,1,yes
+A1446,Woman,Under 40,0,no
+A1447,Woman,Under 40,1,yes
+A1448,Woman,Under 40,1,yes
+A1449,Woman,Under 40,1,no
+A1450,Woman,Under 40,1,no
+A1451,Woman,40 and over,0,no
+A1452,Man,40 and over,0,yes
+A1453,Woman,Under 40,0,yes
+A1454,Man,40 and over,0,no
+A1455,Woman,40 and over,1,no
+A1456,Woman,Under 40,1,yes
+A1457,Woman,Under 40,1,no
+A1458,Man,40 and over,0,no
+A1459,Man,40 and over,1,no
+A1460,Woman,40 and over,1,yes
+A1461,Man,40 and over,1,yes
+A1462,Woman,40 and over,0,yes
+A1463,Man,Under 40,1,no
+A1464,Woman,Under 40,0,no
+A1465,Woman,40 and over,1,yes
+A1466,Man,Under 40,1,yes
+A1467,Man,Under 40,1,yes
+A1468,Man,Under 40,0,no
+A1469,Man,40 and over,1,yes
+A1470,Man,Under 40,1,yes
+A1471,Woman,40 and over,1,no
+A1472,Man,Under 40,0,no
+A1473,Woman,Under 40,0,no
+A1474,Man,40 and over,0,no
+A1475,Man,Under 40,1,yes
+A1476,Woman,Under 40,1,yes
+A1477,Woman,Under 40,1,no
+A1478,Man,Under 40,0,no
+A1479,Woman,Under 40,0,no
+A1480,Man,Under 40,0,no
+A1481,Man,Under 40,0,no
+A1482,Man,Under 40,1,no
+A1483,Woman,Under 40,0,no
+A1484,Non-binary,40 and over,1,no
+A1485,Non-binary,Under 40,0,no
+A1486,Woman,Under 40,1,yes
+A1487,Woman,40 and over,1,no
+A1488,Woman,Under 40,1,no
+A1489,Man,Under 40,0,no
+A1490,Man,Under 40,1,yes
+A1491,Man,40 and over,0,no
+A1492,Woman,Under 40,1,yes
+A1493,Man,40 and over,0,no
+A1494,Woman,40 and over,1,no
+A1495,Woman,Under 40,1,yes
+A1496,Non-binary,Under 40,0,no
+A1497,Woman,40 and over,0,no
+A1498,Woman,Under 40,0,no
+A1499,Woman,Under 40,1,yes
+A1500,Woman,Under 40,1,yes
+A1501,Man,40 and over,1,yes
+A1502,Woman,40 and over,0,no
+A1503,Man,Under 40,0,no
+A1504,Woman,40 and over,0,no
+A1505,Woman,40 and over,1,no
+A1506,Woman,Under 40,0,no
+A1507,Woman,Under 40,0,yes
+A1508,Man,Under 40,1,no
+A1509,Woman,40 and over,0,no
+A1510,Woman,40 and over,1,no
+A1511,Man,40 and over,0,no
+A1512,Man,Under 40,0,no
+A1513,Woman,40 and over,1,no
+A1514,Man,40 and over,1,no
+A1515,Man,Under 40,1,yes
+A1516,Man,40 and over,0,yes
+A1517,Woman,40 and over,1,yes
+A1518,Woman,Under 40,1,yes
+A1519,Man,Under 40,0,no
+A1520,Woman,40 and over,1,no
+A1521,Man,Under 40,1,no
+A1522,Woman,40 and over,1,yes
+A1523,Woman,40 and over,1,no
+A1524,Man,Under 40,1,yes
+A1525,Man,Under 40,0,no
+A1526,Non-binary,Under 40,1,yes
+A1527,Woman,Under 40,0,no
+A1528,Woman,Under 40,1,yes
+A1529,Man,Under 40,1,no
+A1530,Man,Under 40,1,no
+A1531,Woman,Under 40,1,yes
+A1532,Man,Under 40,0,no
+A1533,Non-binary,Under 40,0,no
+A1534,Woman,Under 40,1,no
+A1535,Man,40 and over,1,no
+A1536,Woman,Under 40,1,no
+A1537,Man,Under 40,1,yes
+A1538,Man,40 and over,0,yes
+A1539,Non-binary,Under 40,0,no
+A1540,Man,40 and over,0,no
+A1541,Woman,Under 40,1,no
+A1542,Woman,Under 40,0,no
+A1543,Man,Under 40,1,no
+A1544,Man,Under 40,0,no
+A1545,Man,Under 40,1,yes
+A1546,Woman,40 and over,1,no
+A1547,Man,40 and over,1,yes
+A1548,Woman,40 and over,0,no
+A1549,Woman,Under 40,1,yes
+A1550,Woman,Under 40,0,yes
+A1551,Man,40 and over,1,yes
+A1552,Man,Under 40,1,yes
+A1553,Woman,Under 40,0,no
+A1554,Man,40 and over,0,yes
+A1555,Woman,40 and over,0,no
+A1556,Man,40 and over,0,no
+A1557,Woman,40 and over,0,no
+A1558,Non-binary,Under 40,1,yes
+A1559,Woman,Under 40,0,yes
+A1560,Woman,Under 40,1,yes
+A1561,Man,Under 40,0,no
+A1562,Woman,Under 40,0,yes
+A1563,Man,Under 40,1,yes
+A1564,Man,40 and over,0,no
+A1565,Man,40 and over,0,no
+A1566,Man,Under 40,0,no
+A1567,Man,40 and over,1,yes
+A1568,Woman,Under 40,0,no
+A1569,Man,Under 40,0,no
+A1570,Woman,Under 40,1,yes
+A1571,Non-binary,Under 40,1,no
+A1572,Man,40 and over,1,yes
+A1573,Man,40 and over,0,no
+A1574,Woman,40 and over,1,no
+A1575,Man,Under 40,1,yes
+A1576,Woman,Under 40,0,no
+A1577,Man,40 and over,0,no
+A1578,Man,40 and over,0,no
+A1579,Woman,Under 40,0,no
+A1580,Man,Under 40,0,no
+A1581,Man,Under 40,1,yes
+A1582,Man,Under 40,1,no
+A1583,Man,Under 40,1,no
+A1584,Woman,Under 40,0,no
+A1585,Man,Under 40,1,no
+A1586,Man,Under 40,1,yes
+A1587,Man,Under 40,1,yes
+A1588,Woman,40 and over,1,no
+A1589,Non-binary,Under 40,1,no
+A1590,Man,Under 40,0,no
+A1591,Man,Under 40,0,yes
+A1592,Woman,40 and over,1,yes
+A1593,Woman,40 and over,0,no
+A1594,Woman,40 and over,1,no
+A1595,Man,Under 40,0,no
+A1596,Woman,Under 40,0,no
+A1597,Man,Under 40,1,no
+A1598,Man,Under 40,0,no
+A1599,Man,40 and over,1,yes
+A1600,Woman,40 and over,0,no
