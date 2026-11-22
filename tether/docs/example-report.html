@@ -1,0 +1,52 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>tether report</title><style>
+:root{--bg:#fbfaf7;--fg:#1d1d1b;--mute:#6b6b66;--card:#fff;--line:#e6e3dc;
+--ok:#1f7a4d;--okbg:#e3f4ea;--warn:#9a6400;--warnbg:#fdf1d8;--bad:#b42318;--badbg:#fde4e1}
+@media (prefers-color-scheme:dark){:root{--bg:#141413;--fg:#ecebe6;--mute:#9b9a94;--card:#1d1d1b;
+--line:#2f2e2b;--ok:#5fd39a;--okbg:#173527;--warn:#f2bb55;--warnbg:#3a2c10;--bad:#ff8a7a;--badbg:#401814}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);
+font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:860px;margin:0 auto;padding:40px 16px 64px}
+h1{font-size:22px;margin:0 0 4px}h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin:36px 0 12px}
+.sub{color:var(--mute);margin:0 0 24px}
+.stats{display:flex;gap:12px;flex-wrap:wrap}.stat{flex:1 1 140px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.stat b{display:block;font-size:26px;line-height:1.2}.stat span{color:var(--mute);font-size:13px}
+.meter{height:8px;border-radius:99px;background:var(--line);overflow:hidden;margin-top:16px;display:flex}
+.meter i{display:block;height:100%}
+.answer{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 22px;white-space:pre-wrap}
+.answer a{color:inherit;text-decoration:none;border-radius:4px;padding:1px 2px}
+.supported{background:var(--okbg)}.weak{background:var(--warnbg)}.unsupported{background:var(--badbg)}
+.answer a.unsupported{text-decoration:underline wavy var(--bad);text-underline-offset:4px}
+.claim{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--line);border-radius:10px;padding:14px 16px;margin:10px 0}
+.claim.v-supported{border-left-color:var(--ok)}.claim.v-weak{border-left-color:var(--warn)}.claim.v-unsupported{border-left-color:var(--bad)}
+.claim:target{outline:2px solid var(--fg)}
+.tag{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.06em}
+.v-supported .tag{color:var(--ok)}.v-weak .tag{color:var(--warn)}.v-unsupported .tag{color:var(--bad)}
+.score{float:right;color:var(--mute);font-size:13px;font-variant-numeric:tabular-nums}
+.flag{color:var(--bad);font-size:14px;margin:6px 0 0}.v-weak .flag{color:var(--warn)}
+.ev{margin:10px 0 0;padding:8px 12px;border-left:2px solid var(--line);color:var(--mute);font-size:14px}
+.miss{color:var(--mute);font-size:13px;margin:6px 0 0}
+footer{color:var(--mute);font-size:13px;margin-top:40px}
+</style></head>
+<body><main><h1>tether report</h1><p class="sub">Every sentence of the answer, checked against 2 source document(s).</p>
+<div class="stats"><div class="stat"><b>33%</b><span>groundedness</span></div>
+<div class="stat"><b style="color:var(--ok)">3</b><span>supported</span></div>
+<div class="stat"><b style="color:var(--warn)">2</b><span>weak — review</span></div>
+<div class="stat"><b style="color:var(--bad)">4</b><span>unsupported</span></div></div>
+<div class="meter"><i style="width:33.3%;background:var(--ok)"></i><i style="width:22.2%;background:var(--warn)"></i><i style="width:44.4%;background:var(--bad)"></i></div>
+<h2>Answer</h2><div class="answer">Here is a summary of Millbrook&#x27;s lead pipe situation:
+
+- <a href="#c2" class="supported" title="supported · 0.82">Millbrook has inventoried 18,412 service lines, and 2,317 of them were confirmed to contain lead [1].</a>
+- <a href="#c3" class="supported" title="supported · 0.75">Replacement work started in the Eastside district, where older housing is concentrated [1].</a>
+- <a href="#c4" class="unsupported" title="unsupported · 0.74">In 2025 the utility replaced 640 lead lines at an average cost of $9,800 per line [1].</a>
+- <a href="#c5" class="weak" title="weak · 1.00">Federal infrastructure grants covered 70% of replacement costs [2].</a>
+- <a href="#c6" class="unsupported" title="unsupported · 0.22">The utility has promised to &quot;replace every lead line by 2030&quot; [1].</a>
+- <a href="#c7" class="unsupported" title="unsupported · 0.50">Boiling water removes lead, so families should boil tap water before drinking it [2].</a>
+- <a href="#c8" class="supported" title="supported · 1.00">Certified filters labeled for lead reduction can lower lead levels [2].</a>
+- <a href="#c9" class="weak" title="weak · 0.62">The health department offers free blood lead testing for all residents.</a>
+- <a href="#c10" class="unsupported" title="unsupported · 0.27">Lead service lines were banned nationwide in 1986.</a>
+</div>
+<h2>Claims</h2><div class="claim v-supported" id="c2"><span class="tag">✔ supported</span><span class="score">#2 · score 0.82</span><div>Millbrook has inventoried 18,412 service lines, and 2,317 of them were confirmed to contain lead [1].</div><blockquote class="ev">[1] <b>1-utility-report.txt</b> — The utility completed its inventory of 18,412 service lines in March 2025. Of these, 2,317 lines were confirmed to contain lead and a further 4,105 were classified as unknown material.</blockquote></div><div class="claim v-supported" id="c3"><span class="tag">✔ supported</span><span class="score">#3 · score 0.75</span><div>Replacement work started in the Eastside district, where older housing is concentrated [1].</div><blockquote class="ev">[1] <b>1-utility-report.txt</b> — Replacement work began in the Eastside district, where older housing stock is concentrated.</blockquote></div><div class="claim v-unsupported" id="c4"><span class="tag">✘ unsupported</span><span class="score">#4 · score 0.74</span><div>In 2025 the utility replaced 640 lead lines at an average cost of $9,800 per line [1].</div><p class="flag">⚠ number 9800 not found in any source</p><p class="miss">Not in evidence: 9800</p><blockquote class="ev">[1] <b>1-utility-report.txt</b> — The utility replaced 640 lead lines during 2025 at an average cost of $8,900 per line.</blockquote></div><div class="claim v-weak" id="c5"><span class="tag">~ weak</span><span class="score">#5 · score 1.00</span><div>Federal infrastructure grants covered 70% of replacement costs [2].</div><p class="flag">⚠ miscited: evidence is in [1], not [2]</p><blockquote class="ev">[1] <b>1-utility-report.txt</b> — Federal infrastructure grants covered 70% of replacement costs.</blockquote></div><div class="claim v-unsupported" id="c6"><span class="tag">✘ unsupported</span><span class="score">#6 · score 0.22</span><div>The utility has promised to &quot;replace every lead line by 2030&quot; [1].</div><p class="flag">⚠ quote not found in any source: &quot;replace every lead line by 2030&quot;</p><p class="flag">⚠ number 2030 not found in any source</p><p class="miss">Not in evidence: promised, every, 2030</p><blockquote class="ev">[1] <b>1-utility-report.txt</b> — The utility replaced 640 lead lines during 2025 at an average cost of $8,900 per line.</blockquote></div><div class="claim v-unsupported" id="c7"><span class="tag">✘ unsupported</span><span class="score">#7 · score 0.50</span><div>Boiling water removes lead, so families should boil tap water before drinking it [2].</div><p class="flag">⚠ contradicts [2]: &quot;Boiling water does not remove lead.&quot;</p><p class="miss">Not in evidence: families, tap, drinking</p><blockquote class="ev">[2] <b>2-health-advisory.txt</b> — Boiling water does not remove lead.</blockquote></div><div class="claim v-supported" id="c8"><span class="tag">✔ supported</span><span class="score">#8 · score 1.00</span><div>Certified filters labeled for lead reduction can lower lead levels [2].</div><blockquote class="ev">[2] <b>2-health-advisory.txt</b> — Certified filters labeled for lead reduction can lower lead levels.</blockquote></div><div class="claim v-weak" id="c9"><span class="tag">~ weak</span><span class="score">#9 · score 0.62</span><div>The health department offers free blood lead testing for all residents.</div><p class="miss">Not in evidence: health, all, residents</p><blockquote class="ev">[2] <b>2-health-advisory.txt</b> — The department offers free blood lead testing for children under six at its Main Street clinic.</blockquote></div><div class="claim v-unsupported" id="c10"><span class="tag">✘ unsupported</span><span class="score">#10 · score 0.27</span><div>Lead service lines were banned nationwide in 1986.</div><p class="flag">⚠ number 1986 not found in any source</p><p class="miss">Not in evidence: banned, nationwide, 1986</p><blockquote class="ev">[2] <b>2-health-advisory.txt</b> — Households with lead service lines should run cold water for at least two minutes before drinking if water has been sitting for several hours.</blockquote></div>
+<h2>Sources</h2><ul><li>[1] 1-utility-report.txt</li><li>[2] 2-health-advisory.txt</li></ul>
+<footer>Generated by tether — a lexical evidence check, not a fact-check. Weak claims need a human look.</footer>
+</main></body></html>
