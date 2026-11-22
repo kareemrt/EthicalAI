@@ -1,0 +1,5 @@
+# One term per line. Prefix with LABEL: to choose the placeholder name.
+PERSON: Dana Whitfield
+PERSON: Marcus Oyelaran
+PERSON: Marcus
+ORG: Northwind

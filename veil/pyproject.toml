@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "veil"
+version = "0.1.0"
+description = "Redact sensitive data before it reaches an AI model, restore it after. Zero dependencies."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+veil = "veil.cli:main"
+
+[tool.setuptools]
+packages = ["veil"]

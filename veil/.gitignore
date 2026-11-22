@@ -1,0 +1,7 @@
+__pycache__/
+*.egg-info/
+build/
+dist/
+# Vaults contain the real, un-redacted values. Never commit them.
+.veil-vault.json
+*.vault.json

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">How veil works</title>
+  <desc id="d">Text is scrubbed locally into placeholders, sent to any AI model, and the reply is restored locally using a vault that never leaves your machine.</desc>
+  <style>
+    .bg{fill:#ffffff}.zone{fill:#f4f6f8;stroke:#c9d1d9}.ext{fill:#fff6ed;stroke:#f0b37e}
+    .box{fill:#ffffff;stroke:#57606a;stroke-width:1.5}.veil{fill:#1f6feb;stroke:#1f6feb}
+    .vault{fill:#fff8c5;stroke:#bf8700;stroke-width:1.5}
+    .t{fill:#1f2328;font-size:14px}.tw{fill:#ffffff;font-size:14px;font-weight:600}
+    .s{fill:#57606a;font-size:12px}.z{fill:#57606a;font-size:12px;font-weight:600;letter-spacing:.08em}
+    .a{stroke:#57606a;stroke-width:1.6;fill:none}.ad{stroke:#bf8700;stroke-width:1.4;stroke-dasharray:4 4;fill:none}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px;fill:#0550ae}
+    @media (prefers-color-scheme: dark){
+      .bg{fill:#0d1117}.zone{fill:#161b22;stroke:#30363d}.ext{fill:#1f1a14;stroke:#9e6a03}
+      .box{fill:#0d1117;stroke:#8b949e}.vault{fill:#2b2111;stroke:#d29922}
+      .t{fill:#e6edf3}.s,.z{fill:#8b949e}.a{stroke:#8b949e}.ad{stroke:#d29922}.mono{fill:#79c0ff}
+    }
+  </style>
+  <defs>
+    <marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="880" height="300" rx="12"/>
+
+  <!-- zones -->
+  <rect class="zone" x="16" y="16" width="560" height="268" rx="10"/>
+  <text class="z" x="32" y="40">YOUR MACHINE</text>
+  <rect class="ext" x="600" y="16" width="264" height="268" rx="10"/>
+  <text class="z" x="616" y="40">ANY AI MODEL / API</text>
+
+  <!-- row 1 -->
+  <rect class="box" x="36" y="62" width="150" height="52" rx="8"/>
+  <text class="t" x="111" y="85" text-anchor="middle">Your text</text>
+  <text class="s" x="111" y="103" text-anchor="middle">tickets, logs, notes</text>
+
+  <rect class="veil" x="236" y="62" width="150" height="52" rx="8"/>
+  <text class="tw" x="311" y="93" text-anchor="middle">veil scrub</text>
+
+  <!-- row 2 -->
+  <rect class="box" x="36" y="194" width="150" height="52" rx="8"/>
+  <text class="t" x="111" y="217" text-anchor="middle">Answer</text>
+  <text class="s" x="111" y="235" text-anchor="middle">real names, real values</text>
+
+  <rect class="veil" x="236" y="194" width="150" height="52" rx="8"/>
+  <text class="tw" x="311" y="225" text-anchor="middle">veil restore</text>
+
+  <!-- vault -->
+  <rect class="vault" x="420" y="128" width="136" height="52" rx="8"/>
+  <text class="t" x="488" y="151" text-anchor="middle">vault.json</text>
+  <text class="s" x="488" y="169" text-anchor="middle">local · chmod 600</text>
+  <path class="ad" d="M386,98 C440,98 488,108 488,128"/>
+  <path class="ad" d="M488,180 C488,200 440,210 386,210"/>
+
+  <!-- model -->
+  <rect class="box" x="640" y="100" width="184" height="108" rx="10"/>
+  <text class="t" x="732" y="140" text-anchor="middle">LLM</text>
+  <text class="s" x="732" y="160" text-anchor="middle">sees placeholders only</text>
+  <text class="mono" x="732" y="182" text-anchor="middle">[EMAIL_1] [AWS_KEY_1]</text>
+
+  <!-- arrows -->
+  <path class="a" d="M186,88 H232" marker-end="url(#h)"/>
+  <path class="a" d="M386,80 H600 C620,80 640,90 660,100" marker-end="url(#h)"/>
+  <text class="mono" x="494" y="72" text-anchor="middle">safe prompt</text>
+  <path class="a" d="M680,208 C660,222 630,228 600,228 H390" marker-end="url(#h)"/>
+  <text class="mono" x="494" y="246" text-anchor="middle">reply with [EMAIL_1]</text>
+  <path class="a" d="M236,220 H190" marker-end="url(#h)"/>
+</svg>
