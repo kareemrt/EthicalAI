@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img" aria-label="Is confidence equally honest for everyone?">
+<style>
+  svg{--bg:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--grid:#e4e3df;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a}
+  @media (prefers-color-scheme:dark){svg{--bg:#1a1a19;--ink:#f0efec;--ink2:#c3c2b7;--grid:#3a3a37;--s1:#3987e5;--s2:#d95926;--s3:#199e70}}
+  text{font:12px system-ui,-apple-system,Segoe UI,sans-serif;fill:var(--ink2)}
+  .t{font-size:15px;font-weight:600;fill:var(--ink)} .k{fill:var(--ink)}
+  .g{stroke:var(--grid);stroke-width:1} .ref{stroke:var(--ink2);stroke-width:1.5;stroke-dasharray:5 4;fill:none}
+</style>
+<rect width="640" height="400" rx="8" fill="var(--bg)"/>
+<text class="t" x="60" y="28">Is confidence equally honest for everyone?</text>
+<line class="g" x1="60" x2="480" y1="348.0" y2="348.0"/>
+<text x="52" y="352.0" text-anchor="end">0%</text>
+<text x="60.0" y="366" text-anchor="middle">0%</text>
+<line class="g" x1="60" x2="480" y1="288.0" y2="288.0"/>
+<text x="52" y="292.0" text-anchor="end">20%</text>
+<text x="144.0" y="366" text-anchor="middle">20%</text>
+<line class="g" x1="60" x2="480" y1="228.0" y2="228.0"/>
+<text x="52" y="232.0" text-anchor="end">40%</text>
+<text x="228.0" y="366" text-anchor="middle">40%</text>
+<line class="g" x1="60" x2="480" y1="168.0" y2="168.0"/>
+<text x="52" y="172.0" text-anchor="end">60%</text>
+<text x="312.0" y="366" text-anchor="middle">60%</text>
+<line class="g" x1="60" x2="480" y1="108.0" y2="108.0"/>
+<text x="52" y="112.0" text-anchor="end">80%</text>
+<text x="396.0" y="366" text-anchor="middle">80%</text>
+<line class="g" x1="60" x2="480" y1="48.0" y2="48.0"/>
+<text x="52" y="52.0" text-anchor="end">100%</text>
+<text x="480.0" y="366" text-anchor="middle">100%</text>
+<text x="270.0" y="388" text-anchor="middle">Model confidence</text>
+<text transform="translate(16 198.0) rotate(-90)" text-anchor="middle">Observed accuracy</text>
+<line class="ref" x1="60" y1="348.0" x2="480" y2="48.0"/>
+<path d="M279.8,228.0 L360.0,204.5 L473.4,75.7" fill="none" stroke="var(--s1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="279.8" cy="228.0" r="4" fill="var(--s1)" stroke="var(--bg)" stroke-width="2"/>
+<circle cx="360.0" cy="204.5" r="4" fill="var(--s1)" stroke="var(--bg)" stroke-width="2"/>
+<circle cx="473.4" cy="75.7" r="4" fill="var(--s1)" stroke="var(--bg)" stroke-width="2"/>
+<path d="M280.0,238.9 L362.8,200.7 L470.8,83.3" fill="none" stroke="var(--s2)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="280.0" cy="238.9" r="4" fill="var(--s2)" stroke="var(--bg)" stroke-width="2"/>
+<circle cx="362.8" cy="200.7" r="4" fill="var(--s2)" stroke="var(--bg)" stroke-width="2"/>
+<circle cx="470.8" cy="83.3" r="4" fill="var(--s2)" stroke="var(--bg)" stroke-width="2"/>
+<path d="M275.1,254.0 L364.1,204.0 L461.8,107.5" fill="none" stroke="var(--s3)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="275.1" cy="254.0" r="4" fill="var(--s3)" stroke="var(--bg)" stroke-width="2"/>
+<circle cx="364.1" cy="204.0" r="4" fill="var(--s3)" stroke="var(--bg)" stroke-width="2"/>
+<circle cx="461.8" cy="107.5" r="4" fill="var(--s3)" stroke="var(--bg)" stroke-width="2"/>
+<line class="ref" x1="498" x2="516" y1="56" y2="56"/>
+<text class="k" x="524" y="60">Perfect calibration</text>
+<line x1="498" x2="516" y1="78" y2="78" stroke="var(--s1)" stroke-width="2"/><circle cx="507" cy="78" r="4" fill="var(--s1)"/>
+<text class="k" x="524" y="82">I-II</text>
+<line x1="498" x2="516" y1="100" y2="100" stroke="var(--s2)" stroke-width="2"/><circle cx="507" cy="100" r="4" fill="var(--s2)"/>
+<text class="k" x="524" y="104">III-IV</text>
+<line x1="498" x2="516" y1="122" y2="122" stroke="var(--s3)" stroke-width="2"/><circle cx="507" cy="122" r="4" fill="var(--s3)"/>
+<text class="k" x="524" y="126">V-VI</text>
+</svg>

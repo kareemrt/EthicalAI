@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "handoff"
+version = "0.1.0"
+description = "Audit a classifier's confidence and decide when it should hand off to a human."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+handoff = "handoff.cli:main"
+
+[tool.setuptools]
+packages = ["handoff"]
