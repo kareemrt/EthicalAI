@@ -1,0 +1,185 @@
+{
+  "outcome": "advanced",
+  "mode": "selection",
+  "total": 1500,
+  "threshold": 0.8,
+  "min_share": 0.02,
+  "attributes": [
+    {
+      "attribute": "sex",
+      "groups": [
+        {
+          "group": "Male",
+          "n": 733,
+          "selected": 295,
+          "rate": 0.4024556616643929,
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "excluded": false
+        },
+        {
+          "group": "Female",
+          "n": 742,
+          "selected": 201,
+          "rate": 0.27088948787061995,
+          "impact_ratio": 0.6730915071497099,
+          "p_value": 8.910940421688814e-08,
+          "excluded": false
+        }
+      ],
+      "unknown": 25,
+      "threshold": 0.8
+    },
+    {
+      "attribute": "race",
+      "groups": [
+        {
+          "group": "White",
+          "n": 693,
+          "selected": 269,
+          "rate": 0.38816738816738816,
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "excluded": false
+        },
+        {
+          "group": "Asian",
+          "n": 220,
+          "selected": 80,
+          "rate": 0.36363636363636365,
+          "impact_ratio": 0.9368029739776952,
+          "p_value": 0.5141791889004308,
+          "excluded": false
+        },
+        {
+          "group": "Hispanic or Latino",
+          "n": 274,
+          "selected": 81,
+          "rate": 0.2956204379562044,
+          "impact_ratio": 0.7615797899763928,
+          "p_value": 0.006962904914217601,
+          "excluded": false
+        },
+        {
+          "group": "Black",
+          "n": 251,
+          "selected": 55,
+          "rate": 0.21912350597609562,
+          "impact_ratio": 0.5645077681837705,
+          "p_value": 1.3446229929474663e-06,
+          "excluded": false
+        },
+        {
+          "group": "Native American",
+          "n": 21,
+          "selected": 8,
+          "rate": 0.38095238095238093,
+          "impact_ratio": null,
+          "p_value": null,
+          "excluded": true
+        }
+      ],
+      "unknown": 41,
+      "threshold": 0.8
+    },
+    {
+      "attribute": "sex \u00d7 race",
+      "groups": [
+        {
+          "group": "Male \u00d7 White",
+          "n": 332,
+          "selected": 148,
+          "rate": 0.4457831325301205,
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "excluded": false
+        },
+        {
+          "group": "Male \u00d7 Asian",
+          "n": 109,
+          "selected": 46,
+          "rate": 0.42201834862385323,
+          "impact_ratio": 0.9466898090751302,
+          "p_value": 0.6645087062378108,
+          "excluded": false
+        },
+        {
+          "group": "Male \u00d7 Hispanic or Latino",
+          "n": 138,
+          "selected": 52,
+          "rate": 0.37681159420289856,
+          "impact_ratio": 0.845280062671367,
+          "p_value": 0.1684175559131636,
+          "excluded": false
+        },
+        {
+          "group": "Female \u00d7 White",
+          "n": 349,
+          "selected": 117,
+          "rate": 0.335243553008596,
+          "impact_ratio": 0.752032835127391,
+          "p_value": 0.0031029025860243526,
+          "excluded": false
+        },
+        {
+          "group": "Male \u00d7 Black",
+          "n": 120,
+          "selected": 39,
+          "rate": 0.325,
+          "impact_ratio": 0.7290540540540541,
+          "p_value": 0.021309442732367057,
+          "excluded": false
+        },
+        {
+          "group": "Female \u00d7 Asian",
+          "n": 110,
+          "selected": 33,
+          "rate": 0.3,
+          "impact_ratio": 0.672972972972973,
+          "p_value": 0.007043388606894291,
+          "excluded": false
+        },
+        {
+          "group": "Female \u00d7 Hispanic or Latino",
+          "n": 130,
+          "selected": 26,
+          "rate": 0.2,
+          "impact_ratio": 0.4486486486486487,
+          "p_value": 9.448703508429802e-07,
+          "excluded": false
+        },
+        {
+          "group": "Female \u00d7 Black",
+          "n": 125,
+          "selected": 15,
+          "rate": 0.12,
+          "impact_ratio": 0.26918918918918916,
+          "p_value": 9.110536624292994e-11,
+          "excluded": false
+        },
+        {
+          "group": "Female \u00d7 Native American",
+          "n": 10,
+          "selected": 4,
+          "rate": 0.4,
+          "impact_ratio": null,
+          "p_value": null,
+          "excluded": true
+        },
+        {
+          "group": "Male \u00d7 Native American",
+          "n": 11,
+          "selected": 4,
+          "rate": 0.36363636363636365,
+          "impact_ratio": null,
+          "p_value": null,
+          "excluded": true
+        }
+      ],
+      "unknown": 66,
+      "threshold": 0.8
+    }
+  ],
+  "median_score": null,
+  "passed": false
+}

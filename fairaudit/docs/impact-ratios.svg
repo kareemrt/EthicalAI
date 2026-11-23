@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="650" viewBox="0 0 720 650" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<style>.t{font-size:16px;font-weight:600;fill:#1f2328}.h{font-size:13px;font-weight:600;fill:#1f2328}.l{font-size:12px;fill:#1f2328}.v{font-size:12px;font-weight:600}.s{font-size:11px;fill:#656d76}</style>
+<rect width="100%" height="100%" rx="10" fill="#ffffff"/>
+<text x="24" y="32" class="t">Impact ratio by group · advanced</text>
+<text x="696" y="32" class="v" text-anchor="end" fill="#d6453d">8 group(s) flagged</text>
+<text x="24" y="76" class="h">sex</text>
+<text x="244" y="109" class="l" text-anchor="end">Male</text>
+<rect x="254" y="97" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="97" width="378.0" height="16" rx="3" fill="#2f9e6b"/>
+<text x="640" y="109" class="v" fill="#2f9e6b">1.00</text>
+<text x="244" y="135" class="l" text-anchor="end">Female</text>
+<rect x="254" y="123" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="123" width="254.4" height="16" rx="3" fill="#d6453d"/>
+<text x="640" y="135" class="v" fill="#d6453d">0.67</text>
+<text x="24" y="170" class="h">race</text>
+<text x="244" y="203" class="l" text-anchor="end">White</text>
+<rect x="254" y="191" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="191" width="378.0" height="16" rx="3" fill="#2f9e6b"/>
+<text x="640" y="203" class="v" fill="#2f9e6b">1.00</text>
+<text x="244" y="229" class="l" text-anchor="end">Asian</text>
+<rect x="254" y="217" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="217" width="354.1" height="16" rx="3" fill="#2f9e6b"/>
+<text x="640" y="229" class="v" fill="#2f9e6b">0.94</text>
+<text x="244" y="255" class="l" text-anchor="end">Hispanic or Latino</text>
+<rect x="254" y="243" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="243" width="287.9" height="16" rx="3" fill="#d6453d"/>
+<text x="640" y="255" class="v" fill="#d6453d">0.76</text>
+<text x="244" y="281" class="l" text-anchor="end">Black</text>
+<rect x="254" y="269" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="269" width="213.4" height="16" rx="3" fill="#d6453d"/>
+<text x="640" y="281" class="v" fill="#d6453d">0.56</text>
+<text x="244" y="307" class="l" text-anchor="end">Native American</text>
+<rect x="254" y="295" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<text x="640" y="307" class="v" fill="#b8bcc4">small n</text>
+<text x="24" y="342" class="h">sex × race</text>
+<text x="244" y="375" class="l" text-anchor="end">Male × White</text>
+<rect x="254" y="363" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="363" width="378.0" height="16" rx="3" fill="#2f9e6b"/>
+<text x="640" y="375" class="v" fill="#2f9e6b">1.00</text>
+<text x="244" y="401" class="l" text-anchor="end">Male × Asian</text>
+<rect x="254" y="389" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="389" width="357.8" height="16" rx="3" fill="#2f9e6b"/>
+<text x="640" y="401" class="v" fill="#2f9e6b">0.95</text>
+<text x="244" y="427" class="l" text-anchor="end">Male × Hispanic or Latino</text>
+<rect x="254" y="415" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="415" width="319.5" height="16" rx="3" fill="#2f9e6b"/>
+<text x="640" y="427" class="v" fill="#2f9e6b">0.85</text>
+<text x="244" y="453" class="l" text-anchor="end">Female × White</text>
+<rect x="254" y="441" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="441" width="284.3" height="16" rx="3" fill="#d6453d"/>
+<text x="640" y="453" class="v" fill="#d6453d">0.75</text>
+<text x="244" y="479" class="l" text-anchor="end">Male × Black</text>
+<rect x="254" y="467" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="467" width="275.6" height="16" rx="3" fill="#d6453d"/>
+<text x="640" y="479" class="v" fill="#d6453d">0.73</text>
+<text x="244" y="505" class="l" text-anchor="end">Female × Asian</text>
+<rect x="254" y="493" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="493" width="254.4" height="16" rx="3" fill="#d6453d"/>
+<text x="640" y="505" class="v" fill="#d6453d">0.67</text>
+<text x="244" y="531" class="l" text-anchor="end">Female × Hispanic or Latino</text>
+<rect x="254" y="519" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="519" width="169.6" height="16" rx="3" fill="#d6453d"/>
+<text x="640" y="531" class="v" fill="#d6453d">0.45</text>
+<text x="244" y="557" class="l" text-anchor="end">Female × Black</text>
+<rect x="254" y="545" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<rect x="254" y="545" width="101.8" height="16" rx="3" fill="#d6453d"/>
+<text x="640" y="557" class="v" fill="#d6453d">0.27</text>
+<text x="244" y="583" class="l" text-anchor="end">Female × Native American</text>
+<rect x="254" y="571" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<text x="640" y="583" class="v" fill="#b8bcc4">small n</text>
+<text x="244" y="609" class="l" text-anchor="end">Male × Native American</text>
+<rect x="254" y="597" width="378" height="16" rx="3" fill="#e4e7eb" opacity=".45"/>
+<text x="640" y="609" class="v" fill="#b8bcc4">small n</text>
+<line x1="556.4" x2="556.4" y1="64" y2="626" stroke="#d6453d" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="560.4" y="58" class="s">0.80 threshold</text>
+</svg>

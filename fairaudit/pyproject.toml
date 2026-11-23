@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fairaudit"
+version = "0.1.0"
+description = "Zero-dependency bias audit for automated decisions (four-fifths rule, NYC LL144 impact ratios)."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+keywords = ["fairness", "bias", "audit", "ai-ethics", "hiring", "ll144"]
+
+[project.scripts]
+fairaudit = "fairaudit.cli:main"
+
+[tool.setuptools]
+packages = ["fairaudit"]
