@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 542 84" width="542" role="img" aria-label="Impact ratios by sex"><style>
+.lbl{font:12px system-ui,sans-serif;fill:var(--ink,#1f2328)}
+.val{font:600 11px ui-monospace,monospace;fill:var(--ink,#1f2328);paint-order:stroke;
+ stroke:var(--bg,#ffffff);stroke-width:4px;stroke-linejoin:round}
+.axis{font:10px ui-monospace,monospace;fill:var(--muted,#6e7781)}
+.grid{stroke:var(--line,#d0d7de);stroke-width:1}
+.thr{stroke:var(--warn,#cf222e);stroke-width:1.5;stroke-dasharray:4 3}
+.b-reference{fill:var(--ref,#0969da)}.b-ok{fill:var(--ok,#54aeff)}
+.b-adverse{fill:var(--warn,#cf222e)}.b-excluded{fill:var(--muted,#8c959f);opacity:.55}
+@media (prefers-color-scheme:dark){
+ .lbl,.val{fill:var(--ink,#e6edf3)}.val{stroke:var(--bg,#0d1117)}.axis{fill:var(--muted,#8b949e)}
+ .grid{stroke:var(--line,#30363d)}.thr{stroke:var(--warn,#ff7b72)}
+ .b-reference{fill:var(--ref,#58a6ff)}.b-ok{fill:var(--ok,#1f6feb)}
+ .b-adverse{fill:var(--warn,#ff7b72)}}
+</style><line class="grid" x1="62.0" x2="62.0" y1="18" y2="78"/><text class="axis" x="62.0" y="14" text-anchor="middle">0</text><line class="grid" x1="167.0" x2="167.0" y1="18" y2="78"/><text class="axis" x="167.0" y="14" text-anchor="middle">0.25</text><line class="grid" x1="272.0" x2="272.0" y1="18" y2="78"/><text class="axis" x="272.0" y="14" text-anchor="middle">0.5</text><line class="grid" x1="377.0" x2="377.0" y1="18" y2="78"/><text class="axis" x="377.0" y="14" text-anchor="middle">0.75</text><line class="grid" x1="482.0" x2="482.0" y1="18" y2="78"/><text class="axis" x="482.0" y="14" text-anchor="middle">1</text><line class="thr" x1="398.0" x2="398.0" y1="18" y2="78"><title>threshold 0.8</title></line><text class="lbl" x="52" y="39" text-anchor="end">Male</text><rect class="b-reference" x="62" y="28" width="420.0" height="17" rx="3"><title>Male: 1.00 (n=1188, reference)</title></rect><text class="val" x="488.0" y="39">1.00</text><text class="lbl" x="52" y="65" text-anchor="end">Female</text><rect class="b-adverse" x="62" y="54" width="314.5" height="17" rx="3"><title>Female: 0.75 (n=1153, adverse)</title></rect><text class="val" x="382.5" y="65">0.75</text></svg>

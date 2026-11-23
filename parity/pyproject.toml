@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "parity-audit"
+version = "0.1.0"
+description = "Zero-dependency disparate-impact audits for automated hiring and other high-stakes decisions."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+parity = "parity.cli:main"
+
+[tool.setuptools]
+packages = ["parity"]
