@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ghostcite"
+version = "0.1.0"
+description = "Catch fabricated citations in AI-generated text."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+keywords = ["ai", "llm", "hallucination", "citations", "doi", "research-integrity"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Environment :: Console",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Legal Industry",
+  "Intended Audience :: Education",
+  "Topic :: Text Processing",
+]
+
+[project.scripts]
+ghostcite = "ghostcite.cli:main"
+
+[tool.setuptools]
+packages = ["ghostcite"]
