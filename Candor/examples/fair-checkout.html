@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Leafbox · Checkout</title>
+  <!-- The same store and the same offer, presented honestly. Candor finds nothing. -->
+  <style>
+    body { font: 16px/1.5 system-ui, sans-serif; max-width: 640px; margin: 40px auto; padding: 0 16px; color: #222; }
+    .cta, .secondary { border: 0; padding: 14px 28px; font-size: 18px; border-radius: 8px; }
+    .cta { background: #2e7d32; color: #fff; }
+    .secondary { background: #e0e0e0; color: #222; }
+    .cookie { position: fixed; bottom: 0; left: 0; right: 0; background: #111; color: #eee; padding: 16px; }
+  </style>
+</head>
+<body>
+  <p>Spring sale: 60% off your first box, until 31 May 2026.</p>
+
+  <h1>Leafbox Fresh Meal Plan</h1>
+  <p class="price"><strong>$5.74</strong>/meal, all fees included</p>
+
+  <form>
+    <label><input type="checkbox" name="news"> Send me Leafbox offers by email</label><br>
+    <label><input type="checkbox" name="protect"> Add Delivery Protection Plan (+$3.99/box)</label><br><br>
+
+    <p><strong>7-day free trial, then $89.99/month.</strong> We'll email you 3 days before
+      your first charge. Cancel anytime online from your account page in two clicks.</p>
+
+    <button class="cta" type="submit">Start 7-day free trial</button>
+    <a href="/plans" class="decline">No thanks</a>
+  </form>
+
+  <div class="cookie" id="cookie-banner">
+    We'd like to use cookies for analytics and advertising. Only essential cookies are set unless you agree.
+    <button class="accept">Accept all</button>
+    <button class="reject">Reject all</button>
+    <button class="settings">Choose</button>
+  </div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Leafbox · Checkout</title>
+  <!-- Fictional store. Every deceptive pattern Candor detects appears here once. -->
+  <style>
+    body { font: 16px/1.5 system-ui, sans-serif; max-width: 640px; margin: 40px auto; padding: 0 16px; color: #222; }
+    .banner { background: #c0392b; color: #fff; padding: 8px 12px; border-radius: 6px; }
+    .cta { background: #2e7d32; color: #fff; border: 0; padding: 14px 28px; font-size: 18px; border-radius: 8px; }
+    .cookie { position: fixed; bottom: 0; left: 0; right: 0; background: #111; color: #eee; padding: 16px; }
+    .toast { position: fixed; left: 16px; bottom: 96px; background: #fff; box-shadow: 0 2px 12px #0003; padding: 10px 14px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <div class="banner">Hurry! Your 60% discount ends in <span id="countdown">09:59</span></div>
+
+  <h1>Leafbox Fresh Meal Plan</h1>
+  <p class="price">Just <strong>$4.99</strong>/meal <small>+ service fee</small></p>
+  <p class="stock">Only 3 left at this price · 14 people are viewing this right now</p>
+
+  <form>
+    <label><input type="checkbox" name="news" checked> Send me Leafbox offers and share my details with partners</label><br>
+    <label><input type="checkbox" name="protect" checked> Add Delivery Protection Plan (+$3.99/box)</label><br>
+    <label><input type="checkbox" name="sms"> Uncheck this box if you do not want to not receive SMS updates</label><br><br>
+
+    <button class="cta" type="submit">Start my FREE trial</button>
+    <a href="#" class="decline">No thanks, I prefer paying full price for sad food</a>
+
+    <p style="font-size:10px;color:#ccc">Your membership renews automatically at $89.99/month after the 7-day trial
+      until cancelled. To cancel, you must call our member services line during business hours.</p>
+  </form>
+
+  <div class="toast">Priya in Austin just bought the Family Plan</div>
+
+  <div class="cookie" id="cookie-banner">
+    We use cookies to personalise your experience and for advertising.
+    <button class="accept">Accept all</button>
+    <a href="/privacy" class="settings">Manage settings</a>
+  </div>
+</body>
+</html>

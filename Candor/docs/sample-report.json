@@ -1,0 +1,198 @@
+{
+  "tool": "candor",
+  "version": "0.1.0",
+  "reports": [
+    {
+      "source": "examples/dark-checkout.html",
+      "title": "Leafbox Fresh Meal Plan",
+      "score": 0,
+      "grade": "F",
+      "summary": {
+        "high": 4,
+        "medium": 6,
+        "low": 1
+      },
+      "findings": [
+        {
+          "rule": "CD01",
+          "name": "Pre-ticked consent",
+          "category": "Sneaking",
+          "severity": "high",
+          "evidence": "Send me Leafbox offers and share my details with partners",
+          "where": "input[name=news]",
+          "line": 23,
+          "why": "Consent you didn't give is not consent. Pre-ticked boxes quietly sign people up for marketing or data sharing they never chose.",
+          "fix": "Leave every consent checkbox unticked by default and let people opt in.",
+          "refs": [
+            "GDPR Recital 32 & Art. 7",
+            "CJEU Planet49 (C-673/17, 2019)",
+            "CCPA Regs, 11 CCR §7004"
+          ]
+        },
+        {
+          "rule": "CD02",
+          "name": "Sneak into basket",
+          "category": "Sneaking",
+          "severity": "high",
+          "evidence": "Add Delivery Protection Plan (+$3.99/box)",
+          "where": "input[name=protect]",
+          "line": 24,
+          "why": "Paid extras that are pre-selected end up in the basket unless the shopper notices and removes them.",
+          "fix": "Offer extras unticked; only add them to the order after an explicit choice.",
+          "refs": [
+            "EU Consumer Rights Directive 2011/83/EU, Art. 22",
+            "FTC Act §5"
+          ]
+        },
+        {
+          "rule": "CD04",
+          "name": "Hidden subscription terms",
+          "category": "Forced continuity",
+          "severity": "high",
+          "evidence": "Your membership renews automatically at $89.99/month after the 7-day trial until cancelled. To cancel, you must call our member services line during business h…",
+          "where": "p",
+          "line": 30,
+          "why": "Burying auto-renewal or post-trial charges in fine print turns a 'free trial' into a subscription people didn't knowingly agree to.",
+          "fix": "State the price, billing frequency and renewal date clearly next to the sign-up button, at the same size as the offer.",
+          "refs": [
+            "ROSCA, 15 U.S.C. §8403",
+            "California Automatic Renewal Law, Bus. & Prof. Code §17600 et seq."
+          ]
+        },
+        {
+          "rule": "CD10",
+          "name": "Asymmetric consent",
+          "category": "Obstruction",
+          "severity": "high",
+          "evidence": "'Accept all' offered with no equally easy way to refuse",
+          "where": "div#cookie-banner",
+          "line": 36,
+          "why": "When 'Accept' is one bright click and 'Reject' is hidden, tiny or missing, the banner manufactures consent rather than asking for it.",
+          "fix": "Put 'Reject all' on the first layer, with the same size, style and number of clicks as 'Accept all'.",
+          "refs": [
+            "ePrivacy Directive Art. 5(3) & GDPR Art. 7(3)",
+            "EDPB Cookie Banner Taskforce report (2023)",
+            "CNIL sanctions against Google & Meta (2021-22)"
+          ]
+        },
+        {
+          "rule": "CD06",
+          "name": "False urgency",
+          "category": "Urgency",
+          "severity": "medium",
+          "evidence": "Hurry! Your 60% discount ends in 09:59",
+          "where": "div.banner",
+          "line": 16,
+          "why": "Countdown timers and 'ends soon' banners pressure people into deciding before they can compare or think. They are often fake and reset on reload.",
+          "fix": "Only show deadlines that are real, and state the actual end date.",
+          "refs": [
+            "EU Unfair Commercial Practices Directive, Annex I point 7",
+            "FTC, Bringing Dark Patterns to Light (2022)"
+          ]
+        },
+        {
+          "rule": "CD03",
+          "name": "Drip pricing",
+          "category": "Sneaking",
+          "severity": "medium",
+          "evidence": "+ service fee",
+          "where": "small",
+          "line": 19,
+          "why": "Advertising a low price and revealing mandatory fees later makes honest comparison impossible and exploits sunk-cost at checkout.",
+          "fix": "Show the total price, including mandatory fees, wherever a price is shown.",
+          "refs": [
+            "FTC Rule on Unfair or Deceptive Fees, 16 CFR Part 464 (2025)",
+            "California SB 478 (Honest Pricing Law, 2024)"
+          ]
+        },
+        {
+          "rule": "CD11",
+          "name": "Trick question",
+          "category": "Misdirection",
+          "severity": "medium",
+          "evidence": "Uncheck this box if you do not want to not receive SMS updates",
+          "where": "input[name=sms]",
+          "line": 25,
+          "why": "Double negatives and inverted checkboxes ('untick to not receive') make people choose the opposite of what they intend.",
+          "fix": "Phrase every option positively: 'Send me offers by email' with an unticked box.",
+          "refs": [
+            "CCPA Regs, 11 CCR §7004",
+            "FTC, Bringing Dark Patterns to Light (2022)"
+          ]
+        },
+        {
+          "rule": "CD09",
+          "name": "Confirmshaming",
+          "category": "Misdirection",
+          "severity": "medium",
+          "evidence": "No thanks, I prefer paying full price for sad food",
+          "where": "a.decline",
+          "line": 28,
+          "why": "Wording the 'no' option as a self-insult guilts people into accepting.",
+          "fix": "Use neutral labels for every choice, e.g. 'No thanks'.",
+          "refs": [
+            "FTC, Bringing Dark Patterns to Light (2022)",
+            "EU Digital Services Act, Art. 25"
+          ]
+        },
+        {
+          "rule": "CD05",
+          "name": "Obstructed cancellation",
+          "category": "Obstruction",
+          "severity": "medium",
+          "evidence": "Your membership renews automatically at $89.99/month after the 7-day trial until cancelled. To cancel, you must call our member services line during business h…",
+          "where": "p",
+          "line": 30,
+          "why": "Easy to join, hard to leave: forcing a phone call or letter to cancel keeps people paying for things they no longer want.",
+          "fix": "Let people cancel the same way they signed up, online, in a few clicks.",
+          "refs": [
+            "ROSCA, 15 U.S.C. §8403(3)",
+            "California Automatic Renewal Law, Bus. & Prof. Code §17602"
+          ]
+        },
+        {
+          "rule": "CD08",
+          "name": "Activity notifications",
+          "category": "Social proof",
+          "severity": "medium",
+          "evidence": "Priya in Austin just bought the Family Plan",
+          "where": "div.toast",
+          "line": 34,
+          "why": "Pop-ups like 'Sarah in Leeds just bought this' simulate popularity and are frequently fabricated.",
+          "fix": "Remove simulated activity feeds; if you show real activity, make it verifiable and aggregate.",
+          "refs": [
+            "EU Unfair Commercial Practices Directive, Art. 6 (misleading actions)",
+            "Mathur et al., Dark Patterns at Scale (2019)"
+          ]
+        },
+        {
+          "rule": "CD07",
+          "name": "Scarcity pressure",
+          "category": "Scarcity",
+          "severity": "low",
+          "evidence": "Only 3 left at this price · 14 people are viewing this right now",
+          "where": "p.stock",
+          "line": 20,
+          "why": "Low-stock and high-demand messages push people to buy now. They are legal when true, but often generated without real inventory data.",
+          "fix": "Show stock levels only when they come from live inventory, and avoid manufactured 'people are looking' counters.",
+          "refs": [
+            "EU Unfair Commercial Practices Directive, Art. 6",
+            "Mathur et al., Dark Patterns at Scale (2019)"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "examples/fair-checkout.html",
+      "title": "Leafbox Fresh Meal Plan",
+      "score": 100,
+      "grade": "A",
+      "summary": {
+        "high": 0,
+        "medium": 0,
+        "low": 0
+      },
+      "findings": []
+    }
+  ]
+}

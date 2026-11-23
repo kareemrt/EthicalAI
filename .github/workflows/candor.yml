@@ -1,0 +1,28 @@
+name: Candor
+
+on:
+  push:
+    paths: ["Candor/**", ".github/workflows/candor.yml"]
+  pull_request:
+    paths: ["Candor/**", ".github/workflows/candor.yml"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.9", "3.12", "3.13"]
+    defaults:
+      run:
+        working-directory: Candor
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Honest example passes the strictest gate
+        run: python -m candor examples/fair-checkout.html --fail-on low
+      - name: Deceptive example is caught
+        run: "! python -m candor examples/dark-checkout.html --fail-on high"
