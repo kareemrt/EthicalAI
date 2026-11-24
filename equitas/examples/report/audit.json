@@ -1,0 +1,288 @@
+{
+  "source": "hiring.csv",
+  "outcome": "advanced",
+  "mode": "selection",
+  "population": 2400,
+  "overall_rate": 0.43333333333333335,
+  "threshold": 0.8,
+  "min_share": 0.02,
+  "alpha": 0.05,
+  "median_cut": null,
+  "dimensions": [
+    {
+      "name": "sex",
+      "unknown": 69,
+      "groups": [
+        {
+          "group": "Male",
+          "total": 1243,
+          "selected": 617,
+          "rate": 0.49637972646822204,
+          "share": 0.5332475332475333,
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "shortfall": 0,
+          "status": "ok"
+        },
+        {
+          "group": "Female",
+          "total": 1088,
+          "selected": 396,
+          "rate": 0.3639705882352941,
+          "share": 0.46675246675246673,
+          "impact_ratio": 0.7332503098484126,
+          "p_value": 1.2434191736262145e-10,
+          "shortfall": 37,
+          "status": "adverse"
+        }
+      ],
+      "status": "adverse"
+    },
+    {
+      "name": "race",
+      "unknown": 0,
+      "groups": [
+        {
+          "group": "White",
+          "total": 1133,
+          "selected": 570,
+          "rate": 0.5030891438658429,
+          "share": 0.47208333333333335,
+          "impact_ratio": 0.9066661493845959,
+          "p_value": 0.09840150613425697,
+          "shortfall": 0,
+          "status": "ok"
+        },
+        {
+          "group": "Hispanic or Latino",
+          "total": 416,
+          "selected": 127,
+          "rate": 0.30528846153846156,
+          "share": 0.17333333333333334,
+          "impact_ratio": 0.5501901944209636,
+          "p_value": 6.925348661127372e-12,
+          "shortfall": 58,
+          "status": "adverse"
+        },
+        {
+          "group": "Asian",
+          "total": 328,
+          "selected": 182,
+          "rate": 0.5548780487804879,
+          "share": 0.13666666666666666,
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "shortfall": 0,
+          "status": "ok"
+        },
+        {
+          "group": "Black or African American",
+          "total": 320,
+          "selected": 71,
+          "rate": 0.221875,
+          "share": 0.13333333333333333,
+          "impact_ratio": 0.39986263736263733,
+          "p_value": 3.70894087736116e-18,
+          "shortfall": 72,
+          "status": "adverse"
+        },
+        {
+          "group": "Two or More Races",
+          "total": 132,
+          "selected": 52,
+          "rate": 0.3939393939393939,
+          "share": 0.055,
+          "impact_ratio": 0.7099567099567099,
+          "p_value": 0.0017889077814420783,
+          "shortfall": 7,
+          "status": "adverse"
+        },
+        {
+          "group": "Native American or Alaska Native",
+          "total": 49,
+          "selected": 25,
+          "rate": 0.5102040816326531,
+          "share": 0.020416666666666666,
+          "impact_ratio": 0.9194886745907154,
+          "p_value": 0.5577368499921476,
+          "shortfall": 0,
+          "status": "ok"
+        },
+        {
+          "group": "Native Hawaiian or Pacific Islander",
+          "total": 22,
+          "selected": 13,
+          "rate": 0.5909090909090909,
+          "share": 0.009166666666666667,
+          "impact_ratio": null,
+          "p_value": null,
+          "shortfall": 0,
+          "status": "excluded"
+        }
+      ],
+      "status": "adverse"
+    },
+    {
+      "name": "sex × race",
+      "unknown": 69,
+      "groups": [
+        {
+          "group": "Male · White",
+          "total": 591,
+          "selected": 341,
+          "rate": 0.5769881556683587,
+          "share": 0.25353925353925355,
+          "impact_ratio": 1.0,
+          "p_value": null,
+          "shortfall": 0,
+          "status": "ok"
+        },
+        {
+          "group": "Female · White",
+          "total": 509,
+          "selected": 215,
+          "rate": 0.4223968565815324,
+          "share": 0.21836121836121836,
+          "impact_ratio": 0.7320719713773773,
+          "p_value": 3.166598319605926e-07,
+          "shortfall": 20,
+          "status": "adverse"
+        },
+        {
+          "group": "Male · Hispanic or Latino",
+          "total": 216,
+          "selected": 81,
+          "rate": 0.375,
+          "share": 0.09266409266409266,
+          "impact_ratio": 0.6499266862170088,
+          "p_value": 3.652352566025682e-07,
+          "shortfall": 19,
+          "status": "adverse"
+        },
+        {
+          "group": "Female · Hispanic or Latino",
+          "total": 187,
+          "selected": 44,
+          "rate": 0.23529411764705882,
+          "share": 0.08022308022308022,
+          "impact_ratio": 0.40779713644988785,
+          "p_value": 3.778727172125764e-16,
+          "shortfall": 43,
+          "status": "adverse"
+        },
+        {
+          "group": "Male · Asian",
+          "total": 174,
+          "selected": 100,
+          "rate": 0.5747126436781609,
+          "share": 0.07464607464607464,
+          "impact_ratio": 0.9960562240873697,
+          "p_value": 0.9574185779944648,
+          "shortfall": 0,
+          "status": "ok"
+        },
+        {
+          "group": "Male · Black or African American",
+          "total": 160,
+          "selected": 42,
+          "rate": 0.2625,
+          "share": 0.06864006864006864,
+          "impact_ratio": 0.45494868035190617,
+          "p_value": 1.674793521079647e-12,
+          "shortfall": 32,
+          "status": "adverse"
+        },
+        {
+          "group": "Female · Black or African American",
+          "total": 148,
+          "selected": 28,
+          "rate": 0.1891891891891892,
+          "share": 0.06349206349206349,
+          "impact_ratio": 0.32789094079416664,
+          "p_value": 3.228190751212166e-17,
+          "shortfall": 41,
+          "status": "adverse"
+        },
+        {
+          "group": "Female · Asian",
+          "total": 145,
+          "selected": 73,
+          "rate": 0.503448275862069,
+          "share": 0.0622050622050622,
+          "impact_ratio": 0.8725452523005359,
+          "p_value": 0.1096872973010382,
+          "shortfall": 0,
+          "status": "ok"
+        },
+        {
+          "group": "Male · Two or More Races",
+          "total": 68,
+          "selected": 30,
+          "rate": 0.4411764705882353,
+          "share": 0.02917202917202917,
+          "impact_ratio": 0.7646196308435398,
+          "p_value": 0.032501905210758,
+          "shortfall": 2,
+          "status": "adverse"
+        },
+        {
+          "group": "Female · Two or More Races",
+          "total": 62,
+          "selected": 21,
+          "rate": 0.3387096774193548,
+          "share": 0.026598026598026597,
+          "impact_ratio": 0.5870305552927821,
+          "p_value": 0.0003292568871135041,
+          "shortfall": 8,
+          "status": "adverse"
+        },
+        {
+          "group": "Male · Native American or Alaska Native",
+          "total": 26,
+          "selected": 18,
+          "rate": 0.6923076923076923,
+          "share": 0.011154011154011155,
+          "impact_ratio": null,
+          "p_value": null,
+          "shortfall": 0,
+          "status": "excluded"
+        },
+        {
+          "group": "Female · Native American or Alaska Native",
+          "total": 23,
+          "selected": 7,
+          "rate": 0.30434782608695654,
+          "share": 0.009867009867009866,
+          "impact_ratio": null,
+          "p_value": null,
+          "shortfall": 0,
+          "status": "excluded"
+        },
+        {
+          "group": "Female · Native Hawaiian or Pacific Islander",
+          "total": 14,
+          "selected": 8,
+          "rate": 0.5714285714285714,
+          "share": 0.006006006006006006,
+          "impact_ratio": null,
+          "p_value": null,
+          "shortfall": 0,
+          "status": "excluded"
+        },
+        {
+          "group": "Male · Native Hawaiian or Pacific Islander",
+          "total": 8,
+          "selected": 5,
+          "rate": 0.625,
+          "share": 0.003432003432003432,
+          "impact_ratio": null,
+          "p_value": null,
+          "shortfall": 0,
+          "status": "excluded"
+        }
+      ],
+      "status": "adverse"
+    }
+  ],
+  "status": "adverse"
+}

@@ -1,0 +1,2401 @@
+applicant_id,sex,race,score,advanced
+A00001,Male,White,59,no
+A00002,Female,White,54,no
+A00003,Male,Hispanic or Latino,68,yes
+A00004,Male,White,65,yes
+A00005,Male,Asian,68,yes
+A00006,Female,Two or More Races,61,yes
+A00007,Female,White,62,yes
+A00008,Female,White,57,no
+A00009,Male,White,54,no
+A00010,Male,Hispanic or Latino,77,yes
+A00011,Female,White,54,no
+A00012,Male,White,61,yes
+A00013,Female,White,52,no
+A00014,Male,White,77,yes
+A00015,Female,Black or African American,50,no
+A00016,Female,Asian,74,yes
+A00017,Female,White,64,yes
+A00018,Male,Black or African American,52,no
+A00019,Male,Hispanic or Latino,73,yes
+A00020,Female,Hispanic or Latino,56,no
+A00021,Female,White,53,no
+A00022,Female,White,43,no
+A00023,Female,Two or More Races,38,no
+A00024,Male,Black or African American,56,no
+A00025,Female,Native Hawaiian or Pacific Islander,62,yes
+A00026,Male,Black or African American,44,no
+A00027,Male,Hispanic or Latino,59,no
+A00028,Male,Black or African American,58,no
+A00029,Male,White,43,no
+A00030,Male,White,77,yes
+A00031,Female,Asian,68,yes
+A00032,Male,White,40,no
+A00033,Male,Asian,69,yes
+A00034,Male,White,60,yes
+A00035,Male,Hispanic or Latino,48,no
+A00036,Male,White,57,no
+A00037,Male,Hispanic or Latino,74,yes
+A00038,Female,Hispanic or Latino,47,no
+A00039,Female,White,75,yes
+A00040,Female,Asian,46,no
+A00041,Male,White,76,yes
+A00042,Male,White,72,yes
+A00043,Male,White,60,yes
+A00044,Male,White,65,yes
+A00045,Male,White,86,yes
+A00046,Female,White,62,yes
+A00047,Male,White,58,no
+A00048,Female,Native Hawaiian or Pacific Islander,63,yes
+A00049,Male,Hispanic or Latino,61,yes
+A00050,Male,White,65,yes
+A00051,Female,White,87,yes
+A00052,Female,White,62,yes
+A00053,Female,White,25,no
+A00054,Female,Black or African American,43,no
+A00055,Male,White,72,yes
+A00056,Female,Black or African American,67,yes
+A00057,Male,White,75,yes
+A00058,Female,Asian,26,no
+A00059,Female,Black or African American,51,no
+A00060,Male,White,76,yes
+A00061,Male,White,61,yes
+A00062,Female,White,76,yes
+A00063,Female,Native American or Alaska Native,65,yes
+A00064,Male,White,59,no
+A00065,Male,White,44,no
+A00066,Female,Hispanic or Latino,34,no
+A00067,Female,Asian,73,yes
+A00068,Female,Black or African American,58,no
+A00069,Female,Hispanic or Latino,61,yes
+A00070,Male,Asian,81,yes
+A00071,,White,38,no
+A00072,Female,White,75,yes
+A00073,Male,White,80,yes
+A00074,Male,Asian,50,no
+A00075,,Black or African American,44,no
+A00076,Male,White,74,yes
+A00077,,Hispanic or Latino,28,no
+A00078,Male,Asian,57,no
+A00079,Female,White,58,no
+A00080,Male,Hispanic or Latino,66,yes
+A00081,Male,White,80,yes
+A00082,Male,White,81,yes
+A00083,Female,Asian,34,no
+A00084,Female,Hispanic or Latino,65,yes
+A00085,Female,White,51,no
+A00086,Male,Asian,65,yes
+A00087,Male,Hispanic or Latino,54,no
+A00088,Male,Hispanic or Latino,41,no
+A00089,Female,Black or African American,61,yes
+A00090,Male,White,72,yes
+A00091,Female,Hispanic or Latino,33,no
+A00092,Female,White,50,no
+A00093,Female,Hispanic or Latino,34,no
+A00094,Male,Hispanic or Latino,55,no
+A00095,Male,Two or More Races,51,no
+A00096,Female,White,35,no
+A00097,Female,Two or More Races,58,no
+A00098,Male,White,56,no
+A00099,Male,White,78,yes
+A00100,Female,Asian,66,yes
+A00101,Male,Black or African American,49,no
+A00102,Female,Two or More Races,49,no
+A00103,Male,Two or More Races,48,no
+A00104,,Asian,70,yes
+A00105,Male,White,51,no
+A00106,Male,White,61,yes
+A00107,Female,White,46,no
+A00108,Male,White,58,no
+A00109,Female,Hispanic or Latino,84,yes
+A00110,Female,Native American or Alaska Native,68,yes
+A00111,Male,White,82,yes
+A00112,Male,White,67,yes
+A00113,Male,Asian,66,yes
+A00114,Male,Asian,54,no
+A00115,Female,Black or African American,52,no
+A00116,Female,White,60,yes
+A00117,Male,Two or More Races,45,no
+A00118,Male,Asian,46,no
+A00119,Male,Asian,52,no
+A00120,Female,Two or More Races,58,no
+A00121,Male,White,53,no
+A00122,Male,White,61,yes
+A00123,Male,White,58,no
+A00124,Female,White,67,yes
+A00125,Female,White,57,no
+A00126,Male,White,64,yes
+A00127,Female,Hispanic or Latino,57,no
+A00128,Female,White,71,yes
+A00129,Female,White,35,no
+A00130,Male,Hispanic or Latino,57,no
+A00131,Female,Native American or Alaska Native,42,no
+A00132,Female,Hispanic or Latino,71,yes
+A00133,Male,White,68,yes
+A00134,Male,Black or African American,55,no
+A00135,Male,White,82,yes
+A00136,Female,Black or African American,61,yes
+A00137,Male,White,58,no
+A00138,Male,White,75,yes
+A00139,Male,Two or More Races,74,yes
+A00140,Male,Two or More Races,56,no
+A00141,Male,White,74,yes
+A00142,Male,Hispanic or Latino,56,no
+A00143,Male,Hispanic or Latino,65,yes
+A00144,Male,White,62,yes
+A00145,Male,White,59,no
+A00146,Female,Hispanic or Latino,60,yes
+A00147,Female,Black or African American,44,no
+A00148,Male,White,38,no
+A00149,,White,59,no
+A00150,Male,Asian,45,no
+A00151,Female,Hispanic or Latino,50,no
+A00152,Male,Hispanic or Latino,34,no
+A00153,Female,Asian,66,yes
+A00154,Female,Asian,37,no
+A00155,Female,Black or African American,49,no
+A00156,Male,White,65,yes
+A00157,Male,Asian,46,no
+A00158,Female,Black or African American,43,no
+A00159,Male,White,68,yes
+A00160,Female,Hispanic or Latino,33,no
+A00161,Female,White,57,no
+A00162,Male,White,53,no
+A00163,Female,White,56,no
+A00164,Male,White,29,no
+A00165,Male,Black or African American,55,no
+A00166,Female,White,41,no
+A00167,Male,White,62,yes
+A00168,Female,White,48,no
+A00169,Male,White,53,no
+A00170,Female,White,42,no
+A00171,Female,Hispanic or Latino,46,no
+A00172,Female,White,59,no
+A00173,,Two or More Races,72,yes
+A00174,Female,Two or More Races,56,no
+A00175,Male,White,69,yes
+A00176,Male,Hispanic or Latino,84,yes
+A00177,Male,Hispanic or Latino,62,yes
+A00178,Female,Hispanic or Latino,50,no
+A00179,Female,Black or African American,52,no
+A00180,Male,White,87,yes
+A00181,Male,Hispanic or Latino,46,no
+A00182,Male,White,65,yes
+A00183,Male,Asian,82,yes
+A00184,Female,White,58,no
+A00185,Female,Black or African American,57,no
+A00186,Male,White,56,no
+A00187,,Hispanic or Latino,48,no
+A00188,Male,White,72,yes
+A00189,Male,Asian,56,no
+A00190,Male,White,89,yes
+A00191,Female,White,37,no
+A00192,Female,Asian,79,yes
+A00193,Female,Asian,72,yes
+A00194,Female,White,52,no
+A00195,Female,White,58,no
+A00196,Male,White,45,no
+A00197,Female,White,47,no
+A00198,Male,Black or African American,55,no
+A00199,,White,56,no
+A00200,Female,White,50,no
+A00201,Male,White,69,yes
+A00202,Male,White,87,yes
+A00203,Female,Native Hawaiian or Pacific Islander,52,no
+A00204,Male,White,64,yes
+A00205,Male,White,63,yes
+A00206,Female,Asian,67,yes
+A00207,Female,White,45,no
+A00208,Male,White,70,yes
+A00209,Male,White,68,yes
+A00210,Female,Hispanic or Latino,51,no
+A00211,Female,White,57,no
+A00212,Male,White,71,yes
+A00213,Female,Asian,60,yes
+A00214,Male,Black or African American,51,no
+A00215,Female,Hispanic or Latino,52,no
+A00216,Male,Two or More Races,59,no
+A00217,Female,Asian,67,yes
+A00218,Male,White,60,yes
+A00219,Female,Black or African American,67,yes
+A00220,Female,Black or African American,42,no
+A00221,Male,Hispanic or Latino,76,yes
+A00222,Male,Asian,67,yes
+A00223,Female,White,64,yes
+A00224,Female,Black or African American,56,no
+A00225,Male,White,46,no
+A00226,Male,White,60,yes
+A00227,Female,White,54,no
+A00228,Female,Hispanic or Latino,65,yes
+A00229,Female,Hispanic or Latino,53,no
+A00230,Female,Black or African American,58,no
+A00231,Male,White,44,no
+A00232,Male,White,62,yes
+A00233,Female,Two or More Races,55,no
+A00234,Male,White,65,yes
+A00235,Female,White,64,yes
+A00236,Female,White,39,no
+A00237,Female,White,62,yes
+A00238,Male,Black or African American,45,no
+A00239,Male,Two or More Races,51,no
+A00240,Male,White,62,yes
+A00241,Female,Two or More Races,62,yes
+A00242,Male,Native American or Alaska Native,68,yes
+A00243,Male,White,73,yes
+A00244,Female,Asian,62,yes
+A00245,Female,Native Hawaiian or Pacific Islander,68,yes
+A00246,Male,Two or More Races,55,no
+A00247,Female,White,52,no
+A00248,Male,White,52,no
+A00249,Male,White,60,yes
+A00250,Female,White,69,yes
+A00251,Female,White,44,no
+A00252,Female,White,75,yes
+A00253,Male,Hispanic or Latino,37,no
+A00254,Male,White,81,yes
+A00255,Female,White,39,no
+A00256,Female,White,70,yes
+A00257,Male,White,70,yes
+A00258,Female,Asian,54,no
+A00259,Male,White,78,yes
+A00260,Male,Black or African American,49,no
+A00261,Male,White,82,yes
+A00262,Female,Hispanic or Latino,52,no
+A00263,Female,White,59,no
+A00264,Female,Two or More Races,69,yes
+A00265,Male,White,49,no
+A00266,Female,White,64,yes
+A00267,Female,Black or African American,58,no
+A00268,Female,White,39,no
+A00269,Male,White,63,yes
+A00270,Male,Black or African American,48,no
+A00271,Male,White,77,yes
+A00272,Male,Native American or Alaska Native,61,yes
+A00273,Female,Native American or Alaska Native,54,no
+A00274,Male,Hispanic or Latino,61,yes
+A00275,Female,White,59,no
+A00276,Female,Black or African American,61,yes
+A00277,Female,Asian,55,no
+A00278,Female,White,53,no
+A00279,Female,White,57,no
+A00280,Male,White,54,no
+A00281,Male,Asian,53,no
+A00282,Male,Native Hawaiian or Pacific Islander,57,no
+A00283,Female,White,64,yes
+A00284,,White,46,no
+A00285,Male,Asian,76,yes
+A00286,Male,White,40,no
+A00287,Male,White,78,yes
+A00288,Female,White,55,no
+A00289,Female,White,57,no
+A00290,Female,White,79,yes
+A00291,Female,Hispanic or Latino,54,no
+A00292,Male,White,73,yes
+A00293,Male,Hispanic or Latino,51,no
+A00294,Male,White,55,no
+A00295,Female,White,55,no
+A00296,Female,Hispanic or Latino,59,no
+A00297,Male,White,50,no
+A00298,Female,White,67,yes
+A00299,Male,Black or African American,45,no
+A00300,Male,Two or More Races,64,yes
+A00301,Male,Hispanic or Latino,48,no
+A00302,Female,Native Hawaiian or Pacific Islander,68,yes
+A00303,Male,White,61,yes
+A00304,Male,Asian,54,no
+A00305,Male,Asian,41,no
+A00306,Male,White,76,yes
+A00307,Male,Hispanic or Latino,39,no
+A00308,Male,Hispanic or Latino,36,no
+A00309,Male,Hispanic or Latino,62,yes
+A00310,Female,Two or More Races,63,yes
+A00311,Male,Hispanic or Latino,67,yes
+A00312,Male,White,33,no
+A00313,Female,Native American or Alaska Native,50,no
+A00314,Female,White,58,no
+A00315,Female,Hispanic or Latino,55,no
+A00316,Female,White,52,no
+A00317,Male,Asian,66,yes
+A00318,Male,White,55,no
+A00319,Female,White,64,yes
+A00320,Female,Asian,64,yes
+A00321,Male,Hispanic or Latino,56,no
+A00322,Female,White,55,no
+A00323,Female,Hispanic or Latino,45,no
+A00324,Male,Hispanic or Latino,49,no
+A00325,Male,Black or African American,41,no
+A00326,Male,Hispanic or Latino,60,yes
+A00327,Male,White,64,yes
+A00328,Male,White,41,no
+A00329,Male,White,71,yes
+A00330,Male,White,71,yes
+A00331,Female,White,55,no
+A00332,Female,Black or African American,45,no
+A00333,Female,White,46,no
+A00334,Female,White,58,no
+A00335,Female,Native Hawaiian or Pacific Islander,56,no
+A00336,Male,Native American or Alaska Native,36,no
+A00337,Male,Two or More Races,65,yes
+A00338,Female,Two or More Races,51,no
+A00339,Male,White,62,yes
+A00340,Female,White,51,no
+A00341,Female,White,31,no
+A00342,Male,White,62,yes
+A00343,Female,White,65,yes
+A00344,Male,Two or More Races,61,yes
+A00345,Female,Asian,68,yes
+A00346,Male,Hispanic or Latino,74,yes
+A00347,Female,White,69,yes
+A00348,Female,Asian,47,no
+A00349,Male,Native Hawaiian or Pacific Islander,54,no
+A00350,Female,White,49,no
+A00351,,Hispanic or Latino,43,no
+A00352,Male,White,78,yes
+A00353,Female,White,62,yes
+A00354,Female,Native American or Alaska Native,46,no
+A00355,Female,Black or African American,49,no
+A00356,Male,White,63,yes
+A00357,Female,White,33,no
+A00358,Male,White,60,yes
+A00359,Female,White,69,yes
+A00360,Male,White,62,yes
+A00361,Male,Hispanic or Latino,49,no
+A00362,Female,Hispanic or Latino,48,no
+A00363,Male,Two or More Races,59,no
+A00364,Male,Hispanic or Latino,63,yes
+A00365,Female,Black or African American,41,no
+A00366,Male,Hispanic or Latino,61,yes
+A00367,Female,White,50,no
+A00368,Female,Black or African American,39,no
+A00369,Male,Asian,76,yes
+A00370,Male,White,66,yes
+A00371,Male,Black or African American,68,yes
+A00372,Female,White,59,no
+A00373,Male,Hispanic or Latino,39,no
+A00374,Female,White,57,no
+A00375,Male,White,86,yes
+A00376,Female,Black or African American,57,no
+A00377,Male,Asian,62,yes
+A00378,Female,White,45,no
+A00379,Male,White,62,yes
+A00380,Male,Black or African American,56,no
+A00381,Female,Asian,56,no
+A00382,Female,White,49,no
+A00383,Female,Hispanic or Latino,50,no
+A00384,Female,White,75,yes
+A00385,Female,White,57,no
+A00386,Female,Two or More Races,64,yes
+A00387,Female,White,66,yes
+A00388,Male,Asian,55,no
+A00389,Female,Black or African American,32,no
+A00390,Male,Asian,33,no
+A00391,Female,Asian,40,no
+A00392,Female,White,65,yes
+A00393,Male,Hispanic or Latino,79,yes
+A00394,Male,White,74,yes
+A00395,Male,Two or More Races,55,no
+A00396,Male,White,67,yes
+A00397,Female,Hispanic or Latino,46,no
+A00398,Male,Hispanic or Latino,37,no
+A00399,Male,Asian,73,yes
+A00400,Male,Asian,39,no
+A00401,Female,Two or More Races,61,yes
+A00402,Male,White,67,yes
+A00403,Female,Asian,43,no
+A00404,Female,White,41,no
+A00405,Male,White,62,yes
+A00406,Male,White,54,no
+A00407,Male,White,58,no
+A00408,Male,White,81,yes
+A00409,Female,Hispanic or Latino,62,yes
+A00410,Male,White,49,no
+A00411,Male,Black or African American,42,no
+A00412,Female,White,73,yes
+A00413,Female,White,61,yes
+A00414,Male,White,55,no
+A00415,Female,Native American or Alaska Native,68,yes
+A00416,Male,Asian,62,yes
+A00417,Male,Hispanic or Latino,43,no
+A00418,Male,Two or More Races,78,yes
+A00419,Male,White,58,no
+A00420,Male,Hispanic or Latino,43,no
+A00421,Male,Black or African American,46,no
+A00422,Female,White,38,no
+A00423,Male,White,66,yes
+A00424,Female,White,55,no
+A00425,Male,White,74,yes
+A00426,Male,Asian,54,no
+A00427,Male,Hispanic or Latino,36,no
+A00428,Female,Hispanic or Latino,48,no
+A00429,Male,White,75,yes
+A00430,Female,Black or African American,68,yes
+A00431,Male,White,64,yes
+A00432,Male,Hispanic or Latino,40,no
+A00433,Female,White,62,yes
+A00434,Female,Asian,67,yes
+A00435,Male,White,62,yes
+A00436,Female,White,69,yes
+A00437,Male,White,81,yes
+A00438,Male,Two or More Races,56,no
+A00439,Male,White,83,yes
+A00440,Female,White,56,no
+A00441,Male,Hispanic or Latino,62,yes
+A00442,Male,White,67,yes
+A00443,Male,Asian,57,no
+A00444,Female,Hispanic or Latino,39,no
+A00445,Male,Hispanic or Latino,40,no
+A00446,Female,White,69,yes
+A00447,Female,Black or African American,41,no
+A00448,Female,Asian,62,yes
+A00449,Female,Black or African American,60,yes
+A00450,Female,White,44,no
+A00451,Male,Hispanic or Latino,66,yes
+A00452,Female,Black or African American,56,no
+A00453,Female,White,46,no
+A00454,Female,White,64,yes
+A00455,Female,Two or More Races,62,yes
+A00456,Female,White,74,yes
+A00457,Male,Native American or Alaska Native,73,yes
+A00458,Male,Black or African American,57,no
+A00459,Female,Hispanic or Latino,65,yes
+A00460,Female,Black or African American,58,no
+A00461,Female,Hispanic or Latino,59,no
+A00462,Male,Two or More Races,46,no
+A00463,Male,Black or African American,37,no
+A00464,Male,Native American or Alaska Native,71,yes
+A00465,Male,White,60,yes
+A00466,Male,White,74,yes
+A00467,Male,Black or African American,47,no
+A00468,Male,Black or African American,61,yes
+A00469,Female,Hispanic or Latino,56,no
+A00470,Male,White,83,yes
+A00471,Male,Black or African American,59,no
+A00472,Male,Hispanic or Latino,40,no
+A00473,Male,Two or More Races,49,no
+A00474,Female,Asian,72,yes
+A00475,Male,White,56,no
+A00476,Female,White,56,no
+A00477,Female,White,51,no
+A00478,Male,White,68,yes
+A00479,Male,Black or African American,51,no
+A00480,Male,Hispanic or Latino,65,yes
+A00481,Male,Hispanic or Latino,50,no
+A00482,Female,Asian,48,no
+A00483,Male,Asian,79,yes
+A00484,Male,Asian,50,no
+A00485,Female,White,87,yes
+A00486,Female,White,60,yes
+A00487,Male,White,64,yes
+A00488,Male,White,83,yes
+A00489,Female,Asian,70,yes
+A00490,Female,Black or African American,71,yes
+A00491,Female,Asian,63,yes
+A00492,Male,Black or African American,31,no
+A00493,Female,Black or African American,26,no
+A00494,Female,White,67,yes
+A00495,Male,White,58,no
+A00496,Male,White,62,yes
+A00497,Male,Hispanic or Latino,33,no
+A00498,Male,Asian,56,no
+A00499,Male,Hispanic or Latino,44,no
+A00500,Male,White,42,no
+A00501,Female,White,47,no
+A00502,Male,Hispanic or Latino,43,no
+A00503,Female,Two or More Races,39,no
+A00504,Female,Hispanic or Latino,82,yes
+A00505,Female,White,55,no
+A00506,Male,Asian,46,no
+A00507,Male,Hispanic or Latino,36,no
+A00508,Male,White,59,no
+A00509,Male,Hispanic or Latino,61,yes
+A00510,Female,White,49,no
+A00511,Female,White,25,no
+A00512,Female,Asian,57,no
+A00513,Male,White,57,no
+A00514,Female,Black or African American,64,yes
+A00515,Male,Black or African American,64,yes
+A00516,Male,White,52,no
+A00517,Male,White,76,yes
+A00518,Female,Black or African American,41,no
+A00519,Female,Hispanic or Latino,39,no
+A00520,Female,Hispanic or Latino,41,no
+A00521,Female,White,51,no
+A00522,Female,White,46,no
+A00523,Male,White,66,yes
+A00524,Female,White,32,no
+A00525,Female,Black or African American,40,no
+A00526,Male,White,58,no
+A00527,Male,White,44,no
+A00528,Male,Hispanic or Latino,34,no
+A00529,Male,White,68,yes
+A00530,Female,White,43,no
+A00531,Male,White,38,no
+A00532,,Hispanic or Latino,41,no
+A00533,Male,White,57,no
+A00534,Male,White,55,no
+A00535,Male,Black or African American,76,yes
+A00536,Male,Asian,84,yes
+A00537,Male,White,60,yes
+A00538,Female,White,49,no
+A00539,Male,Black or African American,48,no
+A00540,Female,White,35,no
+A00541,Female,Black or African American,22,no
+A00542,Male,Two or More Races,66,yes
+A00543,Female,White,75,yes
+A00544,Female,White,60,yes
+A00545,Male,Black or African American,65,yes
+A00546,Male,White,83,yes
+A00547,Male,Hispanic or Latino,39,no
+A00548,Male,Asian,69,yes
+A00549,Male,Hispanic or Latino,47,no
+A00550,Male,Black or African American,44,no
+A00551,Female,Black or African American,40,no
+A00552,Male,Native American or Alaska Native,54,no
+A00553,Female,Asian,50,no
+A00554,,Asian,76,yes
+A00555,Female,White,35,no
+A00556,Male,Black or African American,64,yes
+A00557,Female,Asian,61,yes
+A00558,Male,White,53,no
+A00559,Male,Hispanic or Latino,66,yes
+A00560,Male,Asian,39,no
+A00561,Female,Asian,49,no
+A00562,Female,Asian,54,no
+A00563,Female,Asian,55,no
+A00564,Female,Asian,62,yes
+A00565,Male,Black or African American,61,yes
+A00566,Female,Black or African American,45,no
+A00567,Male,White,61,yes
+A00568,Female,White,78,yes
+A00569,Male,Asian,63,yes
+A00570,Female,Asian,49,no
+A00571,Female,Hispanic or Latino,36,no
+A00572,Male,White,64,yes
+A00573,Male,Black or African American,43,no
+A00574,Male,Hispanic or Latino,68,yes
+A00575,Male,White,74,yes
+A00576,Male,Hispanic or Latino,56,no
+A00577,Female,White,49,no
+A00578,Female,White,52,no
+A00579,Male,Native Hawaiian or Pacific Islander,71,yes
+A00580,Female,White,48,no
+A00581,Female,White,77,yes
+A00582,Female,Two or More Races,48,no
+A00583,Male,White,64,yes
+A00584,Male,White,69,yes
+A00585,Female,Asian,30,no
+A00586,Female,White,66,yes
+A00587,Female,White,80,yes
+A00588,Male,Hispanic or Latino,77,yes
+A00589,Female,Two or More Races,49,no
+A00590,Male,White,52,no
+A00591,Female,Native Hawaiian or Pacific Islander,59,no
+A00592,Male,White,65,yes
+A00593,Female,Asian,60,yes
+A00594,Female,Black or African American,46,no
+A00595,Female,Native American or Alaska Native,60,yes
+A00596,Female,Two or More Races,57,no
+A00597,Female,White,41,no
+A00598,Male,White,51,no
+A00599,Male,White,55,no
+A00600,Male,White,63,yes
+A00601,Female,White,56,no
+A00602,Male,Two or More Races,51,no
+A00603,Male,Two or More Races,76,yes
+A00604,Male,White,43,no
+A00605,Male,Two or More Races,68,yes
+A00606,Male,White,48,no
+A00607,Female,Hispanic or Latino,47,no
+A00608,Male,White,57,no
+A00609,Female,Hispanic or Latino,67,yes
+A00610,Male,White,81,yes
+A00611,Male,White,68,yes
+A00612,Male,Hispanic or Latino,47,no
+A00613,Male,Asian,87,yes
+A00614,Male,Asian,84,yes
+A00615,Female,White,48,no
+A00616,Male,White,63,yes
+A00617,Male,Native Hawaiian or Pacific Islander,89,yes
+A00618,Male,White,62,yes
+A00619,Female,White,57,no
+A00620,,White,52,no
+A00621,Female,White,58,no
+A00622,Female,Hispanic or Latino,53,no
+A00623,Male,White,69,yes
+A00624,Female,White,54,no
+A00625,Male,Black or African American,51,no
+A00626,Male,White,54,no
+A00627,Female,Hispanic or Latino,51,no
+A00628,Female,Black or African American,57,no
+A00629,Female,Hispanic or Latino,53,no
+A00630,Female,White,62,yes
+A00631,Female,White,62,yes
+A00632,Female,Asian,48,no
+A00633,Male,White,74,yes
+A00634,Female,White,51,no
+A00635,Male,Asian,57,no
+A00636,Male,Hispanic or Latino,61,yes
+A00637,Male,Hispanic or Latino,42,no
+A00638,Male,Black or African American,58,no
+A00639,Female,Asian,50,no
+A00640,Male,Black or African American,70,yes
+A00641,Male,Asian,75,yes
+A00642,Female,Hispanic or Latino,48,no
+A00643,Female,White,66,yes
+A00644,Male,White,60,yes
+A00645,Male,Asian,67,yes
+A00646,Female,White,59,no
+A00647,Male,Hispanic or Latino,43,no
+A00648,Female,White,51,no
+A00649,Female,Black or African American,55,no
+A00650,Male,Hispanic or Latino,58,no
+A00651,Male,White,57,no
+A00652,Female,Asian,62,yes
+A00653,Male,Hispanic or Latino,56,no
+A00654,Female,Two or More Races,48,no
+A00655,Male,White,70,yes
+A00656,Male,Two or More Races,47,no
+A00657,Female,White,59,no
+A00658,Male,Native American or Alaska Native,69,yes
+A00659,Female,Asian,67,yes
+A00660,Male,Hispanic or Latino,35,no
+A00661,Female,Two or More Races,55,no
+A00662,Female,White,71,yes
+A00663,Female,White,45,no
+A00664,Male,White,68,yes
+A00665,Female,Black or African American,65,yes
+A00666,Female,Asian,51,no
+A00667,Female,White,52,no
+A00668,Female,White,51,no
+A00669,Female,Two or More Races,48,no
+A00670,Female,White,52,no
+A00671,Female,White,52,no
+A00672,Male,Hispanic or Latino,72,yes
+A00673,Female,Hispanic or Latino,50,no
+A00674,Female,White,71,yes
+A00675,Male,White,59,no
+A00676,Male,White,74,yes
+A00677,Male,Hispanic or Latino,65,yes
+A00678,Female,Black or African American,35,no
+A00679,Male,Black or African American,38,no
+A00680,Female,Hispanic or Latino,56,no
+A00681,Male,White,65,yes
+A00682,Male,Hispanic or Latino,70,yes
+A00683,Male,White,68,yes
+A00684,Female,Hispanic or Latino,45,no
+A00685,Male,Native American or Alaska Native,52,no
+A00686,Male,White,82,yes
+A00687,Female,White,69,yes
+A00688,Male,Black or African American,58,no
+A00689,Male,White,81,yes
+A00690,Male,White,57,no
+A00691,Male,Black or African American,36,no
+A00692,Female,Hispanic or Latino,36,no
+A00693,Female,Black or African American,50,no
+A00694,Female,Black or African American,35,no
+A00695,Female,White,59,no
+A00696,Female,Hispanic or Latino,51,no
+A00697,Male,Two or More Races,48,no
+A00698,Female,Asian,53,no
+A00699,Female,White,45,no
+A00700,Female,White,62,yes
+A00701,Male,Hispanic or Latino,48,no
+A00702,Female,Asian,65,yes
+A00703,Male,White,66,yes
+A00704,Male,Hispanic or Latino,65,yes
+A00705,Female,White,67,yes
+A00706,Female,Asian,53,no
+A00707,Female,White,34,no
+A00708,Male,White,74,yes
+A00709,Female,Hispanic or Latino,70,yes
+A00710,Female,Native Hawaiian or Pacific Islander,48,no
+A00711,Female,Hispanic or Latino,47,no
+A00712,Male,Hispanic or Latino,45,no
+A00713,Male,Two or More Races,52,no
+A00714,Male,White,49,no
+A00715,Male,Hispanic or Latino,34,no
+A00716,Female,Hispanic or Latino,41,no
+A00717,Male,Hispanic or Latino,67,yes
+A00718,Female,Asian,58,no
+A00719,Male,White,84,yes
+A00720,Female,White,55,no
+A00721,Female,Black or African American,65,yes
+A00722,Female,White,25,no
+A00723,Male,White,48,no
+A00724,Male,White,61,yes
+A00725,Female,Hispanic or Latino,29,no
+A00726,Female,White,88,yes
+A00727,Male,Black or African American,47,no
+A00728,Male,White,79,yes
+A00729,Female,Hispanic or Latino,48,no
+A00730,Male,Hispanic or Latino,49,no
+A00731,Male,Hispanic or Latino,16,no
+A00732,Female,White,50,no
+A00733,Male,White,62,yes
+A00734,Male,White,56,no
+A00735,Female,Asian,42,no
+A00736,Male,White,48,no
+A00737,Female,White,56,no
+A00738,Male,White,51,no
+A00739,Male,Asian,52,no
+A00740,Male,White,57,no
+A00741,Male,Asian,36,no
+A00742,Male,Hispanic or Latino,41,no
+A00743,Male,White,83,yes
+A00744,Male,Asian,52,no
+A00745,Female,White,34,no
+A00746,Male,Two or More Races,41,no
+A00747,Male,White,60,yes
+A00748,Male,Asian,54,no
+A00749,Male,Asian,62,yes
+A00750,Male,White,69,yes
+A00751,,White,57,no
+A00752,Female,White,56,no
+A00753,Male,White,78,yes
+A00754,Male,White,78,yes
+A00755,Male,White,62,yes
+A00756,Female,White,61,yes
+A00757,Male,Black or African American,61,yes
+A00758,Female,White,63,yes
+A00759,Male,Asian,64,yes
+A00760,Male,Black or African American,46,no
+A00761,Male,Two or More Races,67,yes
+A00762,Female,White,86,yes
+A00763,Male,White,59,no
+A00764,Female,Hispanic or Latino,43,no
+A00765,Male,White,56,no
+A00766,Female,White,53,no
+A00767,Female,Hispanic or Latino,49,no
+A00768,Male,Black or African American,73,yes
+A00769,Female,White,54,no
+A00770,Male,Asian,65,yes
+A00771,Male,Black or African American,65,yes
+A00772,Male,Hispanic or Latino,66,yes
+A00773,Male,White,59,no
+A00774,Male,Black or African American,61,yes
+A00775,Male,White,79,yes
+A00776,Female,Asian,47,no
+A00777,Male,White,80,yes
+A00778,Female,White,61,yes
+A00779,Male,Black or African American,50,no
+A00780,Female,White,49,no
+A00781,Female,White,78,yes
+A00782,Female,Black or African American,67,yes
+A00783,Male,White,66,yes
+A00784,Male,White,69,yes
+A00785,Male,White,57,no
+A00786,Female,Hispanic or Latino,46,no
+A00787,Female,White,41,no
+A00788,Male,White,69,yes
+A00789,Female,Black or African American,48,no
+A00790,Female,Hispanic or Latino,55,no
+A00791,Male,White,78,yes
+A00792,Male,Asian,76,yes
+A00793,Female,White,54,no
+A00794,Female,Asian,47,no
+A00795,Male,White,74,yes
+A00796,Female,Black or African American,45,no
+A00797,Female,Asian,49,no
+A00798,Male,Black or African American,44,no
+A00799,Male,Hispanic or Latino,62,yes
+A00800,Female,White,55,no
+A00801,Female,Asian,57,no
+A00802,Female,Hispanic or Latino,67,yes
+A00803,Female,White,69,yes
+A00804,Male,White,66,yes
+A00805,Male,White,57,no
+A00806,Male,White,45,no
+A00807,Female,White,68,yes
+A00808,Male,Asian,58,no
+A00809,Male,Hispanic or Latino,45,no
+A00810,Female,Black or African American,68,yes
+A00811,Male,Black or African American,42,no
+A00812,Female,Asian,50,no
+A00813,Male,White,57,no
+A00814,Male,White,68,yes
+A00815,Male,Black or African American,47,no
+A00816,Male,Hispanic or Latino,58,no
+A00817,Male,White,64,yes
+A00818,,Black or African American,54,no
+A00819,Male,Black or African American,68,yes
+A00820,Male,Hispanic or Latino,54,no
+A00821,Male,White,61,yes
+A00822,Female,Hispanic or Latino,52,no
+A00823,Female,Two or More Races,50,no
+A00824,Male,White,55,no
+A00825,Male,Black or African American,58,no
+A00826,Male,Hispanic or Latino,47,no
+A00827,Female,Two or More Races,65,yes
+A00828,Female,Black or African American,67,yes
+A00829,Male,White,67,yes
+A00830,Male,Hispanic or Latino,47,no
+A00831,Male,Asian,62,yes
+A00832,Female,Hispanic or Latino,55,no
+A00833,Female,Black or African American,73,yes
+A00834,Male,Hispanic or Latino,40,no
+A00835,Male,White,58,no
+A00836,Female,White,56,no
+A00837,Male,Two or More Races,62,yes
+A00838,Male,White,64,yes
+A00839,Female,White,71,yes
+A00840,Female,White,38,no
+A00841,Male,Black or African American,41,no
+A00842,Male,White,61,yes
+A00843,Female,Asian,64,yes
+A00844,Male,White,58,no
+A00845,Female,White,60,yes
+A00846,Male,Hispanic or Latino,61,yes
+A00847,,Asian,84,yes
+A00848,Female,Hispanic or Latino,28,no
+A00849,Female,White,51,no
+A00850,Male,Hispanic or Latino,41,no
+A00851,Female,Hispanic or Latino,46,no
+A00852,Male,Asian,54,no
+A00853,Male,White,56,no
+A00854,Male,Black or African American,41,no
+A00855,Male,Hispanic or Latino,43,no
+A00856,Female,White,65,yes
+A00857,Male,White,74,yes
+A00858,Male,Asian,52,no
+A00859,Male,White,53,no
+A00860,Male,Hispanic or Latino,54,no
+A00861,Male,Hispanic or Latino,67,yes
+A00862,Female,White,67,yes
+A00863,Male,White,40,no
+A00864,Female,Black or African American,58,no
+A00865,Female,White,77,yes
+A00866,Male,Asian,61,yes
+A00867,Male,White,77,yes
+A00868,Female,White,54,no
+A00869,Female,White,59,no
+A00870,Male,Hispanic or Latino,68,yes
+A00871,Male,White,59,no
+A00872,Female,Hispanic or Latino,40,no
+A00873,Female,Hispanic or Latino,73,yes
+A00874,Male,Black or African American,41,no
+A00875,Male,Black or African American,44,no
+A00876,Male,White,42,no
+A00877,Female,Two or More Races,54,no
+A00878,Female,White,54,no
+A00879,Female,Asian,79,yes
+A00880,Female,White,76,yes
+A00881,Male,White,70,yes
+A00882,Male,White,49,no
+A00883,Male,Asian,68,yes
+A00884,Male,Black or African American,67,yes
+A00885,Male,White,73,yes
+A00886,Female,Asian,47,no
+A00887,Female,White,54,no
+A00888,Female,Asian,64,yes
+A00889,Female,White,67,yes
+A00890,Female,White,78,yes
+A00891,Male,White,69,yes
+A00892,Female,Hispanic or Latino,42,no
+A00893,Male,White,67,yes
+A00894,Female,White,83,yes
+A00895,Male,White,47,no
+A00896,Male,White,65,yes
+A00897,Male,Hispanic or Latino,55,no
+A00898,Male,Native American or Alaska Native,60,yes
+A00899,Male,White,57,no
+A00900,Male,Hispanic or Latino,48,no
+A00901,Male,Hispanic or Latino,26,no
+A00902,,White,57,no
+A00903,Female,Black or African American,63,yes
+A00904,Female,Hispanic or Latino,37,no
+A00905,Male,White,69,yes
+A00906,Female,Black or African American,26,no
+A00907,Male,Black or African American,52,no
+A00908,Female,White,44,no
+A00909,Female,White,68,yes
+A00910,Male,Native American or Alaska Native,62,yes
+A00911,Male,White,62,yes
+A00912,Male,White,71,yes
+A00913,Male,Asian,50,no
+A00914,Female,White,62,yes
+A00915,Male,White,59,no
+A00916,Female,Hispanic or Latino,62,yes
+A00917,Female,White,72,yes
+A00918,Male,White,54,no
+A00919,Female,Native American or Alaska Native,41,no
+A00920,Male,Asian,78,yes
+A00921,Male,Hispanic or Latino,64,yes
+A00922,Male,White,56,no
+A00923,Male,White,60,yes
+A00924,Male,White,54,no
+A00925,Female,Asian,53,no
+A00926,Female,Two or More Races,49,no
+A00927,Female,White,67,yes
+A00928,Male,White,39,no
+A00929,Male,Hispanic or Latino,68,yes
+A00930,Female,White,46,no
+A00931,Male,Black or African American,46,no
+A00932,Female,White,48,no
+A00933,Male,White,78,yes
+A00934,Male,Hispanic or Latino,61,yes
+A00935,Female,White,56,no
+A00936,Female,Hispanic or Latino,52,no
+A00937,,White,47,no
+A00938,Male,White,49,no
+A00939,Male,White,63,yes
+A00940,Female,White,53,no
+A00941,Female,Hispanic or Latino,35,no
+A00942,Female,White,52,no
+A00943,Female,White,53,no
+A00944,Female,White,38,no
+A00945,Female,Native American or Alaska Native,45,no
+A00946,Female,Two or More Races,58,no
+A00947,Male,White,45,no
+A00948,Female,White,61,yes
+A00949,,White,62,yes
+A00950,Male,White,57,no
+A00951,Male,Hispanic or Latino,49,no
+A00952,Female,White,55,no
+A00953,Male,White,60,yes
+A00954,Male,White,35,no
+A00955,Female,White,72,yes
+A00956,Female,White,56,no
+A00957,Female,Hispanic or Latino,40,no
+A00958,Male,Black or African American,76,yes
+A00959,Male,Hispanic or Latino,36,no
+A00960,Male,Hispanic or Latino,70,yes
+A00961,Male,Asian,78,yes
+A00962,Male,White,56,no
+A00963,Male,White,63,yes
+A00964,Female,Hispanic or Latino,60,yes
+A00965,Male,Native Hawaiian or Pacific Islander,65,yes
+A00966,Male,Asian,77,yes
+A00967,Female,White,58,no
+A00968,Male,White,40,no
+A00969,Male,Asian,72,yes
+A00970,Female,White,73,yes
+A00971,Female,Asian,64,yes
+A00972,Male,Black or African American,77,yes
+A00973,Female,White,84,yes
+A00974,Male,White,33,no
+A00975,Male,Native American or Alaska Native,84,yes
+A00976,Male,Black or African American,55,no
+A00977,Male,White,60,yes
+A00978,Male,Asian,57,no
+A00979,Female,Asian,61,yes
+A00980,Male,Asian,62,yes
+A00981,Female,White,49,no
+A00982,Male,White,62,yes
+A00983,Male,Native Hawaiian or Pacific Islander,52,no
+A00984,Male,Hispanic or Latino,79,yes
+A00985,Male,White,70,yes
+A00986,Male,Black or African American,69,yes
+A00987,Female,White,49,no
+A00988,Female,White,69,yes
+A00989,Male,Two or More Races,73,yes
+A00990,Male,White,49,no
+A00991,Male,White,76,yes
+A00992,Male,Hispanic or Latino,60,yes
+A00993,Male,White,55,no
+A00994,Female,Hispanic or Latino,36,no
+A00995,Female,Native American or Alaska Native,67,yes
+A00996,Male,White,48,no
+A00997,Male,Native American or Alaska Native,49,no
+A00998,Male,White,70,yes
+A00999,,White,41,no
+A01000,Male,Hispanic or Latino,39,no
+A01001,Male,White,64,yes
+A01002,Female,Black or African American,55,no
+A01003,Female,White,54,no
+A01004,Female,Hispanic or Latino,42,no
+A01005,Male,Native American or Alaska Native,78,yes
+A01006,Female,Hispanic or Latino,52,no
+A01007,Female,Native Hawaiian or Pacific Islander,60,yes
+A01008,Female,White,75,yes
+A01009,Female,White,42,no
+A01010,Female,White,55,no
+A01011,Female,Hispanic or Latino,55,no
+A01012,Male,Asian,78,yes
+A01013,Male,Black or African American,39,no
+A01014,Male,White,60,yes
+A01015,Female,Hispanic or Latino,37,no
+A01016,Female,White,56,no
+A01017,Male,Asian,45,no
+A01018,Female,Asian,62,yes
+A01019,Female,White,41,no
+A01020,Female,White,73,yes
+A01021,Male,White,71,yes
+A01022,Female,Hispanic or Latino,59,no
+A01023,Male,White,30,no
+A01024,Female,White,83,yes
+A01025,Male,Asian,62,yes
+A01026,Female,White,51,no
+A01027,Female,White,50,no
+A01028,Male,White,70,yes
+A01029,Male,Hispanic or Latino,63,yes
+A01030,Female,White,61,yes
+A01031,Male,White,65,yes
+A01032,Female,Asian,53,no
+A01033,Male,White,66,yes
+A01034,Male,White,46,no
+A01035,Male,White,60,yes
+A01036,Male,Hispanic or Latino,46,no
+A01037,Female,White,46,no
+A01038,Female,White,68,yes
+A01039,,Black or African American,41,no
+A01040,Male,White,75,yes
+A01041,Female,White,44,no
+A01042,Female,Black or African American,47,no
+A01043,Male,Hispanic or Latino,43,no
+A01044,Female,White,61,yes
+A01045,Male,Asian,49,no
+A01046,Female,Asian,63,yes
+A01047,Female,Black or African American,46,no
+A01048,Female,Hispanic or Latino,54,no
+A01049,Female,Black or African American,55,no
+A01050,Male,Asian,68,yes
+A01051,Male,White,62,yes
+A01052,Male,Black or African American,38,no
+A01053,Female,Hispanic or Latino,69,yes
+A01054,Male,Hispanic or Latino,62,yes
+A01055,,Asian,67,yes
+A01056,Male,Hispanic or Latino,51,no
+A01057,Male,Native American or Alaska Native,57,no
+A01058,Male,White,71,yes
+A01059,Female,Hispanic or Latino,40,no
+A01060,Male,White,61,yes
+A01061,Female,Asian,64,yes
+A01062,Male,White,55,no
+A01063,Female,White,44,no
+A01064,Female,White,61,yes
+A01065,Female,White,71,yes
+A01066,Male,White,55,no
+A01067,Female,White,48,no
+A01068,Male,Asian,58,no
+A01069,Male,Black or African American,58,no
+A01070,Male,Two or More Races,44,no
+A01071,Male,Asian,74,yes
+A01072,Female,White,63,yes
+A01073,Female,White,52,no
+A01074,Female,Hispanic or Latino,48,no
+A01075,Female,Hispanic or Latino,44,no
+A01076,Male,White,46,no
+A01077,Female,White,65,yes
+A01078,Male,White,58,no
+A01079,Female,Two or More Races,40,no
+A01080,Male,Asian,71,yes
+A01081,Female,White,75,yes
+A01082,Male,Asian,68,yes
+A01083,Male,White,53,no
+A01084,Female,White,53,no
+A01085,Female,White,62,yes
+A01086,Female,Native American or Alaska Native,48,no
+A01087,Male,White,49,no
+A01088,Male,Hispanic or Latino,68,yes
+A01089,Male,Hispanic or Latino,54,no
+A01090,Female,White,45,no
+A01091,Female,White,93,yes
+A01092,Female,Hispanic or Latino,33,no
+A01093,Male,White,62,yes
+A01094,Female,White,44,no
+A01095,Male,Asian,50,no
+A01096,Male,White,53,no
+A01097,Male,Asian,67,yes
+A01098,Female,White,51,no
+A01099,Female,Two or More Races,39,no
+A01100,Female,White,82,yes
+A01101,Male,White,62,yes
+A01102,Male,Black or African American,73,yes
+A01103,Male,White,57,no
+A01104,Female,Black or African American,47,no
+A01105,Female,Hispanic or Latino,66,yes
+A01106,Male,Hispanic or Latino,59,no
+A01107,Male,Hispanic or Latino,49,no
+A01108,Female,White,67,yes
+A01109,Male,Two or More Races,48,no
+A01110,Female,Hispanic or Latino,72,yes
+A01111,Male,White,66,yes
+A01112,Male,Hispanic or Latino,52,no
+A01113,Male,Hispanic or Latino,64,yes
+A01114,Female,White,71,yes
+A01115,Male,White,64,yes
+A01116,Male,Asian,68,yes
+A01117,Female,Asian,87,yes
+A01118,Male,Asian,65,yes
+A01119,Female,Black or African American,52,no
+A01120,Male,White,82,yes
+A01121,Male,White,52,no
+A01122,Female,White,57,no
+A01123,Female,White,41,no
+A01124,Female,White,46,no
+A01125,Male,Hispanic or Latino,59,no
+A01126,Female,Black or African American,49,no
+A01127,Female,White,63,yes
+A01128,Female,White,46,no
+A01129,Female,White,54,no
+A01130,Male,Black or African American,56,no
+A01131,Female,White,54,no
+A01132,Male,White,67,yes
+A01133,Male,Native American or Alaska Native,79,yes
+A01134,Male,Hispanic or Latino,56,no
+A01135,Female,Asian,58,no
+A01136,Male,Hispanic or Latino,39,no
+A01137,Female,Black or African American,65,yes
+A01138,Male,White,72,yes
+A01139,Female,Black or African American,49,no
+A01140,Female,Two or More Races,49,no
+A01141,Female,Black or African American,60,yes
+A01142,Female,White,39,no
+A01143,Female,Black or African American,56,no
+A01144,Female,Hispanic or Latino,45,no
+A01145,Female,White,79,yes
+A01146,Male,Asian,58,no
+A01147,Male,White,53,no
+A01148,Male,Asian,64,yes
+A01149,Female,Black or African American,33,no
+A01150,Female,Black or African American,62,yes
+A01151,Female,Asian,54,no
+A01152,Female,Asian,61,yes
+A01153,Male,Hispanic or Latino,67,yes
+A01154,Male,Hispanic or Latino,38,no
+A01155,Male,White,67,yes
+A01156,Female,White,46,no
+A01157,Male,White,48,no
+A01158,Female,White,76,yes
+A01159,Male,White,58,no
+A01160,Female,Asian,46,no
+A01161,Male,Black or African American,75,yes
+A01162,Male,White,68,yes
+A01163,Female,White,62,yes
+A01164,Female,Asian,83,yes
+A01165,Male,Hispanic or Latino,70,yes
+A01166,,White,58,no
+A01167,Female,White,58,no
+A01168,Male,Two or More Races,59,no
+A01169,Male,Asian,62,yes
+A01170,Male,Hispanic or Latino,67,yes
+A01171,Female,Hispanic or Latino,32,no
+A01172,Female,Black or African American,68,yes
+A01173,Male,Hispanic or Latino,28,no
+A01174,Male,Black or African American,63,yes
+A01175,Female,White,40,no
+A01176,Female,Hispanic or Latino,49,no
+A01177,Male,Native American or Alaska Native,79,yes
+A01178,Female,Hispanic or Latino,60,yes
+A01179,Male,Black or African American,68,yes
+A01180,Female,White,46,no
+A01181,Male,White,86,yes
+A01182,Male,Hispanic or Latino,49,no
+A01183,Female,White,42,no
+A01184,Female,White,70,yes
+A01185,Female,White,46,no
+A01186,,Hispanic or Latino,53,no
+A01187,Female,Black or African American,26,no
+A01188,Female,Black or African American,70,yes
+A01189,Male,White,42,no
+A01190,Female,White,48,no
+A01191,Male,Hispanic or Latino,61,yes
+A01192,Female,White,53,no
+A01193,Male,White,59,no
+A01194,Female,Two or More Races,66,yes
+A01195,Male,White,69,yes
+A01196,Male,White,59,no
+A01197,Male,White,53,no
+A01198,Female,White,65,yes
+A01199,Male,Asian,40,no
+A01200,Female,Black or African American,56,no
+A01201,Male,White,63,yes
+A01202,Female,Black or African American,35,no
+A01203,Female,White,41,no
+A01204,Female,White,78,yes
+A01205,Female,White,58,no
+A01206,Female,Hispanic or Latino,49,no
+A01207,Male,Two or More Races,58,no
+A01208,Male,Hispanic or Latino,65,yes
+A01209,Female,Black or African American,30,no
+A01210,Male,White,73,yes
+A01211,Female,Two or More Races,43,no
+A01212,Female,White,44,no
+A01213,Female,Black or African American,42,no
+A01214,Female,White,68,yes
+A01215,Male,Asian,48,no
+A01216,Female,Asian,55,no
+A01217,Male,White,73,yes
+A01218,Female,Asian,63,yes
+A01219,Female,Hispanic or Latino,39,no
+A01220,Male,Asian,71,yes
+A01221,Female,Asian,68,yes
+A01222,Female,Hispanic or Latino,67,yes
+A01223,Female,Asian,57,no
+A01224,Female,Asian,36,no
+A01225,Male,Black or African American,48,no
+A01226,Male,White,46,no
+A01227,Female,Asian,57,no
+A01228,Male,White,70,yes
+A01229,Female,Native American or Alaska Native,58,no
+A01230,Female,White,47,no
+A01231,Female,White,75,yes
+A01232,Male,White,62,yes
+A01233,Male,White,42,no
+A01234,Male,Asian,55,no
+A01235,Male,White,54,no
+A01236,Male,Hispanic or Latino,48,no
+A01237,Male,Asian,68,yes
+A01238,Female,Hispanic or Latino,74,yes
+A01239,Male,Black or African American,67,yes
+A01240,Male,White,65,yes
+A01241,Female,Black or African American,39,no
+A01242,Female,Hispanic or Latino,46,no
+A01243,Male,Asian,84,yes
+A01244,Female,White,57,no
+A01245,,White,56,no
+A01246,Male,Black or African American,54,no
+A01247,Female,White,54,no
+A01248,Male,White,69,yes
+A01249,Male,Black or African American,40,no
+A01250,Male,Black or African American,52,no
+A01251,Male,White,45,no
+A01252,,Black or African American,46,no
+A01253,Female,Asian,55,no
+A01254,Male,White,43,no
+A01255,Male,Asian,59,no
+A01256,Male,White,45,no
+A01257,Male,Hispanic or Latino,66,yes
+A01258,Male,White,61,yes
+A01259,Male,Asian,66,yes
+A01260,Male,White,50,no
+A01261,Male,Black or African American,17,no
+A01262,Female,Asian,65,yes
+A01263,Male,Asian,66,yes
+A01264,Female,Hispanic or Latino,56,no
+A01265,Male,White,88,yes
+A01266,Female,Two or More Races,58,no
+A01267,,White,61,yes
+A01268,Female,Asian,46,no
+A01269,Male,White,66,yes
+A01270,Male,White,78,yes
+A01271,Female,Black or African American,46,no
+A01272,Female,Hispanic or Latino,53,no
+A01273,Male,White,44,no
+A01274,Male,Hispanic or Latino,38,no
+A01275,Male,White,72,yes
+A01276,Male,Hispanic or Latino,49,no
+A01277,Male,White,47,no
+A01278,Female,Black or African American,53,no
+A01279,Male,White,61,yes
+A01280,Male,White,58,no
+A01281,Female,Black or African American,50,no
+A01282,Female,Hispanic or Latino,69,yes
+A01283,Male,Asian,58,no
+A01284,Male,Native American or Alaska Native,55,no
+A01285,Male,White,67,yes
+A01286,Female,Black or African American,27,no
+A01287,Male,White,83,yes
+A01288,Male,White,59,no
+A01289,Male,Two or More Races,62,yes
+A01290,Female,Hispanic or Latino,70,yes
+A01291,Female,White,59,no
+A01292,Female,White,60,yes
+A01293,,Black or African American,61,yes
+A01294,Male,Hispanic or Latino,76,yes
+A01295,Male,Black or African American,74,yes
+A01296,Male,Asian,45,no
+A01297,Female,Asian,41,no
+A01298,Female,Asian,58,no
+A01299,Male,White,52,no
+A01300,Male,White,59,no
+A01301,Female,White,69,yes
+A01302,Male,White,43,no
+A01303,Female,White,53,no
+A01304,,Hispanic or Latino,59,no
+A01305,Male,White,59,no
+A01306,Female,White,35,no
+A01307,Male,White,63,yes
+A01308,Female,Native American or Alaska Native,47,no
+A01309,Female,White,63,yes
+A01310,Female,Hispanic or Latino,55,no
+A01311,Female,White,44,no
+A01312,Female,Asian,67,yes
+A01313,Female,Asian,78,yes
+A01314,Female,White,46,no
+A01315,Female,Asian,36,no
+A01316,Male,Two or More Races,69,yes
+A01317,Male,Black or African American,53,no
+A01318,Male,White,72,yes
+A01319,Male,White,79,yes
+A01320,Female,Black or African American,47,no
+A01321,Female,Native Hawaiian or Pacific Islander,58,no
+A01322,Male,White,52,no
+A01323,Male,White,82,yes
+A01324,Male,Black or African American,35,no
+A01325,Female,Asian,62,yes
+A01326,Male,Asian,48,no
+A01327,Male,Hispanic or Latino,46,no
+A01328,Female,White,69,yes
+A01329,Female,Hispanic or Latino,25,no
+A01330,Male,Asian,55,no
+A01331,Female,Two or More Races,62,yes
+A01332,Male,Asian,66,yes
+A01333,Male,White,54,no
+A01334,Male,White,27,no
+A01335,Female,Black or African American,48,no
+A01336,Male,White,42,no
+A01337,Male,Black or African American,55,no
+A01338,Female,Hispanic or Latino,61,yes
+A01339,Female,Black or African American,34,no
+A01340,Male,White,51,no
+A01341,Male,White,58,no
+A01342,Male,Hispanic or Latino,61,yes
+A01343,Female,Black or African American,46,no
+A01344,Male,White,82,yes
+A01345,Male,White,57,no
+A01346,Female,White,46,no
+A01347,Female,White,59,no
+A01348,Female,White,55,no
+A01349,Female,Asian,53,no
+A01350,Male,White,53,no
+A01351,Female,White,49,no
+A01352,Female,White,45,no
+A01353,Male,White,74,yes
+A01354,Female,Hispanic or Latino,51,no
+A01355,Male,White,85,yes
+A01356,Male,Two or More Races,61,yes
+A01357,Male,Black or African American,67,yes
+A01358,Male,White,78,yes
+A01359,Female,White,58,no
+A01360,Male,White,83,yes
+A01361,Female,White,61,yes
+A01362,Male,White,70,yes
+A01363,Female,Hispanic or Latino,55,no
+A01364,Female,Asian,55,no
+A01365,Male,White,56,no
+A01366,Male,Black or African American,55,no
+A01367,Male,White,55,no
+A01368,Male,White,63,yes
+A01369,Male,White,53,no
+A01370,Female,Hispanic or Latino,62,yes
+A01371,Male,White,61,yes
+A01372,Female,Two or More Races,40,no
+A01373,Female,White,72,yes
+A01374,Male,White,57,no
+A01375,Female,White,66,yes
+A01376,Female,Hispanic or Latino,57,no
+A01377,Female,White,48,no
+A01378,Male,Black or African American,56,no
+A01379,Male,White,76,yes
+A01380,Male,White,61,yes
+A01381,Female,Hispanic or Latino,65,yes
+A01382,Female,Hispanic or Latino,54,no
+A01383,Male,Hispanic or Latino,42,no
+A01384,Male,Asian,51,no
+A01385,Female,Black or African American,56,no
+A01386,Female,White,49,no
+A01387,Male,Hispanic or Latino,60,yes
+A01388,Male,White,59,no
+A01389,Male,White,69,yes
+A01390,Female,Two or More Races,74,yes
+A01391,Male,Black or African American,82,yes
+A01392,Male,Hispanic or Latino,58,no
+A01393,Female,Two or More Races,18,no
+A01394,Female,White,60,yes
+A01395,Female,White,71,yes
+A01396,Male,Two or More Races,59,no
+A01397,Male,White,52,no
+A01398,Male,White,77,yes
+A01399,Male,Asian,78,yes
+A01400,Male,White,62,yes
+A01401,Female,Black or African American,55,no
+A01402,Male,Two or More Races,66,yes
+A01403,Male,White,46,no
+A01404,Female,White,56,no
+A01405,Male,White,51,no
+A01406,Male,Asian,55,no
+A01407,Female,Asian,67,yes
+A01408,Female,White,55,no
+A01409,Male,Asian,64,yes
+A01410,Male,White,63,yes
+A01411,Female,Asian,45,no
+A01412,Female,Asian,65,yes
+A01413,Female,Hispanic or Latino,59,no
+A01414,Female,Hispanic or Latino,58,no
+A01415,Female,Asian,66,yes
+A01416,Male,Asian,60,yes
+A01417,Female,White,55,no
+A01418,Male,White,53,no
+A01419,Female,Black or African American,67,yes
+A01420,Female,Hispanic or Latino,61,yes
+A01421,Female,Asian,72,yes
+A01422,Female,Black or African American,50,no
+A01423,Female,White,78,yes
+A01424,Male,White,57,no
+A01425,Female,White,32,no
+A01426,Female,White,75,yes
+A01427,Female,White,47,no
+A01428,Male,White,44,no
+A01429,Male,White,68,yes
+A01430,Male,White,63,yes
+A01431,Male,Hispanic or Latino,71,yes
+A01432,Male,Black or African American,47,no
+A01433,Male,White,60,yes
+A01434,Female,White,58,no
+A01435,Male,Two or More Races,61,yes
+A01436,Female,Hispanic or Latino,29,no
+A01437,Female,Two or More Races,62,yes
+A01438,Male,White,81,yes
+A01439,Female,Hispanic or Latino,66,yes
+A01440,Female,White,38,no
+A01441,Male,Hispanic or Latino,55,no
+A01442,Male,White,53,no
+A01443,Male,Black or African American,62,yes
+A01444,Male,Black or African American,53,no
+A01445,,White,83,yes
+A01446,Female,White,76,yes
+A01447,Male,Hispanic or Latino,51,no
+A01448,Male,White,73,yes
+A01449,Male,White,65,yes
+A01450,Female,Black or African American,53,no
+A01451,Male,Asian,61,yes
+A01452,Male,White,51,no
+A01453,Female,Hispanic or Latino,59,no
+A01454,Female,White,60,yes
+A01455,Female,White,64,yes
+A01456,Male,Hispanic or Latino,35,no
+A01457,Male,Black or African American,60,yes
+A01458,Male,White,42,no
+A01459,Female,Hispanic or Latino,57,no
+A01460,Female,White,64,yes
+A01461,Female,White,57,no
+A01462,Female,Black or African American,62,yes
+A01463,Male,Black or African American,55,no
+A01464,Female,Black or African American,59,no
+A01465,Female,Asian,61,yes
+A01466,Female,White,68,yes
+A01467,Male,White,65,yes
+A01468,Female,Two or More Races,33,no
+A01469,Female,White,50,no
+A01470,Male,Hispanic or Latino,74,yes
+A01471,Male,White,55,no
+A01472,Female,Asian,57,no
+A01473,Male,White,72,yes
+A01474,Female,White,68,yes
+A01475,Female,Hispanic or Latino,53,no
+A01476,Male,White,56,no
+A01477,Male,White,58,no
+A01478,Male,Hispanic or Latino,49,no
+A01479,Female,Black or African American,40,no
+A01480,Female,Two or More Races,64,yes
+A01481,Female,White,42,no
+A01482,Male,White,67,yes
+A01483,,Asian,71,yes
+A01484,Female,White,68,yes
+A01485,Male,Black or African American,55,no
+A01486,Male,White,49,no
+A01487,Male,Two or More Races,68,yes
+A01488,Female,White,61,yes
+A01489,Male,White,70,yes
+A01490,Female,White,71,yes
+A01491,Male,Black or African American,43,no
+A01492,Male,White,67,yes
+A01493,,White,61,yes
+A01494,Female,Asian,78,yes
+A01495,Male,Two or More Races,51,no
+A01496,Male,Black or African American,47,no
+A01497,Female,White,68,yes
+A01498,Male,Asian,90,yes
+A01499,Male,White,62,yes
+A01500,,White,75,yes
+A01501,Female,White,67,yes
+A01502,Male,White,80,yes
+A01503,Male,Asian,72,yes
+A01504,Male,Black or African American,41,no
+A01505,Female,Asian,68,yes
+A01506,Female,Asian,55,no
+A01507,Male,White,54,no
+A01508,Male,White,70,yes
+A01509,Male,Asian,48,no
+A01510,Female,Black or African American,58,no
+A01511,Male,Asian,74,yes
+A01512,Female,Black or African American,14,no
+A01513,Female,White,51,no
+A01514,Female,White,48,no
+A01515,Female,White,63,yes
+A01516,Female,Asian,48,no
+A01517,Female,White,76,yes
+A01518,Female,Black or African American,42,no
+A01519,Male,Asian,49,no
+A01520,Male,Black or African American,49,no
+A01521,Female,Asian,60,yes
+A01522,Male,White,73,yes
+A01523,Male,White,64,yes
+A01524,Male,White,54,no
+A01525,Female,White,46,no
+A01526,Female,Two or More Races,58,no
+A01527,Male,Hispanic or Latino,67,yes
+A01528,Female,Black or African American,41,no
+A01529,Male,Asian,57,no
+A01530,Female,Asian,55,no
+A01531,Female,Hispanic or Latino,31,no
+A01532,Female,White,70,yes
+A01533,Male,White,80,yes
+A01534,Male,Asian,57,no
+A01535,Male,Hispanic or Latino,39,no
+A01536,Male,White,70,yes
+A01537,Female,Asian,61,yes
+A01538,Male,Black or African American,42,no
+A01539,Female,White,86,yes
+A01540,Male,White,37,no
+A01541,Female,Two or More Races,58,no
+A01542,Male,Black or African American,63,yes
+A01543,Male,Hispanic or Latino,38,no
+A01544,Male,Two or More Races,59,no
+A01545,,Hispanic or Latino,58,no
+A01546,Female,Hispanic or Latino,45,no
+A01547,Female,Asian,40,no
+A01548,Male,White,83,yes
+A01549,Female,Asian,82,yes
+A01550,Female,Two or More Races,38,no
+A01551,Female,White,43,no
+A01552,Male,Hispanic or Latino,40,no
+A01553,Male,White,49,no
+A01554,Male,White,69,yes
+A01555,Male,White,58,no
+A01556,Male,White,42,no
+A01557,Female,White,37,no
+A01558,Male,Hispanic or Latino,40,no
+A01559,Female,Black or African American,45,no
+A01560,Male,Asian,44,no
+A01561,Female,White,70,yes
+A01562,Male,White,58,no
+A01563,Female,Black or African American,57,no
+A01564,Female,Native Hawaiian or Pacific Islander,68,yes
+A01565,Male,Black or African American,53,no
+A01566,Male,White,70,yes
+A01567,Female,White,62,yes
+A01568,Male,White,69,yes
+A01569,Male,Hispanic or Latino,62,yes
+A01570,Male,Native American or Alaska Native,71,yes
+A01571,Male,Two or More Races,51,no
+A01572,Female,White,59,no
+A01573,Male,White,53,no
+A01574,Male,White,32,no
+A01575,Male,White,58,no
+A01576,Male,Asian,51,no
+A01577,Female,White,69,yes
+A01578,Male,Hispanic or Latino,40,no
+A01579,Female,White,49,no
+A01580,Female,Black or African American,53,no
+A01581,Female,Two or More Races,62,yes
+A01582,Female,Asian,67,yes
+A01583,Female,Black or African American,34,no
+A01584,Female,White,82,yes
+A01585,Male,White,79,yes
+A01586,Male,White,49,no
+A01587,Male,Hispanic or Latino,39,no
+A01588,Male,Hispanic or Latino,75,yes
+A01589,Female,Hispanic or Latino,41,no
+A01590,Male,Hispanic or Latino,58,no
+A01591,Female,White,50,no
+A01592,Male,Asian,71,yes
+A01593,Female,White,47,no
+A01594,Male,Black or African American,72,yes
+A01595,Male,White,82,yes
+A01596,Male,White,70,yes
+A01597,Male,White,60,yes
+A01598,Female,Two or More Races,36,no
+A01599,Female,Two or More Races,78,yes
+A01600,Male,White,77,yes
+A01601,Female,Asian,54,no
+A01602,Female,Black or African American,52,no
+A01603,Female,Native American or Alaska Native,58,no
+A01604,Male,White,63,yes
+A01605,Female,Hispanic or Latino,57,no
+A01606,Male,Hispanic or Latino,61,yes
+A01607,Female,Two or More Races,34,no
+A01608,Male,White,88,yes
+A01609,Male,White,100,yes
+A01610,Female,White,52,no
+A01611,Male,White,50,no
+A01612,Male,Hispanic or Latino,72,yes
+A01613,Female,White,38,no
+A01614,Female,White,66,yes
+A01615,Female,Hispanic or Latino,46,no
+A01616,Female,Asian,68,yes
+A01617,Female,Hispanic or Latino,57,no
+A01618,Male,Black or African American,59,no
+A01619,Male,Asian,65,yes
+A01620,Male,Asian,48,no
+A01621,Male,Black or African American,35,no
+A01622,Male,Two or More Races,51,no
+A01623,Female,Two or More Races,47,no
+A01624,Male,White,55,no
+A01625,Female,Asian,63,yes
+A01626,,Black or African American,31,no
+A01627,Male,Black or African American,52,no
+A01628,Male,Asian,78,yes
+A01629,Male,White,66,yes
+A01630,Female,Black or African American,47,no
+A01631,Male,Black or African American,30,no
+A01632,Female,White,46,no
+A01633,Female,White,59,no
+A01634,Male,White,56,no
+A01635,Female,White,57,no
+A01636,Female,Hispanic or Latino,43,no
+A01637,Male,Hispanic or Latino,55,no
+A01638,Female,White,50,no
+A01639,Male,Asian,100,yes
+A01640,Male,Hispanic or Latino,41,no
+A01641,Female,Black or African American,26,no
+A01642,Male,Two or More Races,66,yes
+A01643,Male,White,62,yes
+A01644,Female,White,51,no
+A01645,,Hispanic or Latino,56,no
+A01646,Female,White,52,no
+A01647,Male,Asian,75,yes
+A01648,Male,Asian,65,yes
+A01649,Female,White,45,no
+A01650,Female,Black or African American,52,no
+A01651,Male,Two or More Races,62,yes
+A01652,Female,White,64,yes
+A01653,Male,Hispanic or Latino,52,no
+A01654,Female,Hispanic or Latino,58,no
+A01655,Female,White,65,yes
+A01656,Female,Hispanic or Latino,48,no
+A01657,,Black or African American,43,no
+A01658,Female,White,47,no
+A01659,Male,Asian,68,yes
+A01660,Female,White,41,no
+A01661,Male,Asian,88,yes
+A01662,Male,Black or African American,47,no
+A01663,Female,White,61,yes
+A01664,Male,Hispanic or Latino,62,yes
+A01665,Male,White,43,no
+A01666,Female,White,51,no
+A01667,Female,White,91,yes
+A01668,Male,Hispanic or Latino,48,no
+A01669,Female,White,48,no
+A01670,Male,White,59,no
+A01671,Male,White,51,no
+A01672,Female,Black or African American,38,no
+A01673,Male,Two or More Races,49,no
+A01674,Female,Black or African American,38,no
+A01675,Male,Hispanic or Latino,46,no
+A01676,Male,Native American or Alaska Native,88,yes
+A01677,Male,White,54,no
+A01678,Female,White,55,no
+A01679,Female,Black or African American,38,no
+A01680,,Black or African American,28,no
+A01681,Female,White,70,yes
+A01682,Female,White,62,yes
+A01683,Female,White,36,no
+A01684,Female,Asian,71,yes
+A01685,Male,White,72,yes
+A01686,Male,Two or More Races,79,yes
+A01687,Male,Asian,51,no
+A01688,Female,White,57,no
+A01689,Female,White,74,yes
+A01690,Male,Black or African American,23,no
+A01691,Male,White,50,no
+A01692,Female,Native Hawaiian or Pacific Islander,71,yes
+A01693,,Hispanic or Latino,52,no
+A01694,Female,Hispanic or Latino,46,no
+A01695,Male,Asian,62,yes
+A01696,Male,White,69,yes
+A01697,Female,Asian,66,yes
+A01698,Female,Hispanic or Latino,64,yes
+A01699,Male,Hispanic or Latino,60,yes
+A01700,Male,White,62,yes
+A01701,Female,White,62,yes
+A01702,Male,Hispanic or Latino,48,no
+A01703,Male,White,63,yes
+A01704,Female,Asian,50,no
+A01705,Male,Hispanic or Latino,70,yes
+A01706,Male,White,54,no
+A01707,Male,White,77,yes
+A01708,Male,White,71,yes
+A01709,Female,Two or More Races,55,no
+A01710,Male,White,69,yes
+A01711,Female,Black or African American,42,no
+A01712,Male,White,65,yes
+A01713,Female,Hispanic or Latino,61,yes
+A01714,Male,Hispanic or Latino,70,yes
+A01715,Male,White,61,yes
+A01716,Female,White,39,no
+A01717,Female,White,55,no
+A01718,Female,White,54,no
+A01719,Male,White,64,yes
+A01720,Female,Native Hawaiian or Pacific Islander,63,yes
+A01721,Male,White,58,no
+A01722,Male,Black or African American,46,no
+A01723,Male,White,76,yes
+A01724,,Asian,68,yes
+A01725,Male,Hispanic or Latino,48,no
+A01726,Female,Hispanic or Latino,53,no
+A01727,Female,White,78,yes
+A01728,Male,White,53,no
+A01729,Male,White,55,no
+A01730,Female,Native American or Alaska Native,37,no
+A01731,Male,Black or African American,55,no
+A01732,Male,White,56,no
+A01733,Female,Black or African American,38,no
+A01734,Male,Black or African American,68,yes
+A01735,Male,Native American or Alaska Native,57,no
+A01736,Male,Black or African American,53,no
+A01737,Female,Hispanic or Latino,66,yes
+A01738,Female,White,78,yes
+A01739,Male,Black or African American,57,no
+A01740,Male,Asian,62,yes
+A01741,,White,80,yes
+A01742,Female,Hispanic or Latino,41,no
+A01743,Female,Hispanic or Latino,67,yes
+A01744,Male,Hispanic or Latino,51,no
+A01745,Male,White,52,no
+A01746,Female,White,68,yes
+A01747,Male,Hispanic or Latino,44,no
+A01748,Female,White,58,no
+A01749,Female,White,60,yes
+A01750,Female,Hispanic or Latino,33,no
+A01751,Male,Two or More Races,47,no
+A01752,Male,White,61,yes
+A01753,Female,Asian,39,no
+A01754,Male,White,64,yes
+A01755,Male,White,49,no
+A01756,Female,White,74,yes
+A01757,Male,Black or African American,43,no
+A01758,Female,Black or African American,34,no
+A01759,Male,White,60,yes
+A01760,Female,Hispanic or Latino,54,no
+A01761,Female,Two or More Races,58,no
+A01762,Male,White,54,no
+A01763,Female,Black or African American,38,no
+A01764,Male,Hispanic or Latino,57,no
+A01765,Female,Asian,72,yes
+A01766,Male,White,42,no
+A01767,Male,Native American or Alaska Native,61,yes
+A01768,Male,Two or More Races,65,yes
+A01769,Female,White,73,yes
+A01770,Male,White,42,no
+A01771,Female,White,77,yes
+A01772,Male,White,80,yes
+A01773,Female,White,70,yes
+A01774,Male,White,64,yes
+A01775,Male,Black or African American,44,no
+A01776,Female,White,74,yes
+A01777,Male,Black or African American,45,no
+A01778,Male,Asian,56,no
+A01779,Female,White,45,no
+A01780,Male,White,54,no
+A01781,Male,Hispanic or Latino,45,no
+A01782,Male,White,53,no
+A01783,Male,White,45,no
+A01784,Male,Native American or Alaska Native,78,yes
+A01785,Male,Asian,63,yes
+A01786,Male,White,78,yes
+A01787,Female,Asian,56,no
+A01788,Male,Native American or Alaska Native,79,yes
+A01789,Male,White,64,yes
+A01790,Female,Asian,75,yes
+A01791,Female,White,60,yes
+A01792,Male,Black or African American,48,no
+A01793,Male,Native Hawaiian or Pacific Islander,73,yes
+A01794,Male,White,69,yes
+A01795,Male,White,53,no
+A01796,Female,White,67,yes
+A01797,Female,Hispanic or Latino,59,no
+A01798,Female,Hispanic or Latino,51,no
+A01799,Male,Asian,68,yes
+A01800,Male,White,86,yes
+A01801,Female,Hispanic or Latino,51,no
+A01802,Female,White,63,yes
+A01803,Male,Black or African American,43,no
+A01804,Male,Asian,60,yes
+A01805,Male,White,73,yes
+A01806,Male,White,59,no
+A01807,Female,Black or African American,37,no
+A01808,Male,Black or African American,57,no
+A01809,Male,Asian,48,no
+A01810,Male,White,76,yes
+A01811,Female,Black or African American,43,no
+A01812,Male,White,49,no
+A01813,Male,Hispanic or Latino,53,no
+A01814,Female,White,49,no
+A01815,Female,White,48,no
+A01816,Female,White,57,no
+A01817,Male,Hispanic or Latino,63,yes
+A01818,Female,Hispanic or Latino,60,yes
+A01819,Female,Black or African American,41,no
+A01820,Male,Asian,58,no
+A01821,Female,Black or African American,40,no
+A01822,Female,Asian,68,yes
+A01823,Female,White,56,no
+A01824,Female,Native American or Alaska Native,52,no
+A01825,Female,White,62,yes
+A01826,Female,Hispanic or Latino,46,no
+A01827,Male,Asian,41,no
+A01828,Female,Hispanic or Latino,60,yes
+A01829,Female,White,67,yes
+A01830,Male,White,56,no
+A01831,Male,White,58,no
+A01832,Male,White,58,no
+A01833,Male,Two or More Races,79,yes
+A01834,,White,48,no
+A01835,Female,White,78,yes
+A01836,Female,White,48,no
+A01837,Male,Two or More Races,43,no
+A01838,Female,White,53,no
+A01839,Female,Hispanic or Latino,55,no
+A01840,Male,Two or More Races,46,no
+A01841,Male,Black or African American,57,no
+A01842,Female,White,50,no
+A01843,Male,White,73,yes
+A01844,Female,Hispanic or Latino,49,no
+A01845,Male,Black or African American,52,no
+A01846,Male,White,37,no
+A01847,Male,Black or African American,46,no
+A01848,Female,White,48,no
+A01849,Female,Hispanic or Latino,31,no
+A01850,Male,Black or African American,52,no
+A01851,Male,Asian,70,yes
+A01852,Female,Hispanic or Latino,57,no
+A01853,Male,Hispanic or Latino,59,no
+A01854,Male,Asian,75,yes
+A01855,Male,Asian,47,no
+A01856,Female,White,53,no
+A01857,Female,White,72,yes
+A01858,Female,Asian,42,no
+A01859,Male,Black or African American,60,yes
+A01860,Male,White,60,yes
+A01861,Female,White,62,yes
+A01862,Male,White,86,yes
+A01863,Male,Hispanic or Latino,61,yes
+A01864,Female,White,71,yes
+A01865,Female,Asian,86,yes
+A01866,Male,White,65,yes
+A01867,Female,Hispanic or Latino,44,no
+A01868,Female,White,56,no
+A01869,Female,White,42,no
+A01870,Male,Hispanic or Latino,48,no
+A01871,Male,Hispanic or Latino,54,no
+A01872,Female,Black or African American,43,no
+A01873,Male,Asian,65,yes
+A01874,Male,White,59,no
+A01875,Male,White,53,no
+A01876,Male,Hispanic or Latino,57,no
+A01877,Male,Black or African American,52,no
+A01878,Male,White,56,no
+A01879,Male,White,55,no
+A01880,,White,42,no
+A01881,Male,Black or African American,29,no
+A01882,Male,White,77,yes
+A01883,Male,Two or More Races,46,no
+A01884,Male,Black or African American,52,no
+A01885,Female,Hispanic or Latino,57,no
+A01886,Female,White,69,yes
+A01887,Female,Hispanic or Latino,37,no
+A01888,Male,Hispanic or Latino,60,yes
+A01889,Female,White,41,no
+A01890,,White,80,yes
+A01891,Female,Hispanic or Latino,59,no
+A01892,Male,White,51,no
+A01893,Female,Black or African American,54,no
+A01894,Female,Black or African American,66,yes
+A01895,Male,White,55,no
+A01896,Male,White,76,yes
+A01897,Female,White,61,yes
+A01898,Female,Asian,48,no
+A01899,Male,Black or African American,79,yes
+A01900,Male,Black or African American,65,yes
+A01901,Male,White,51,no
+A01902,Male,White,71,yes
+A01903,Female,White,70,yes
+A01904,Male,White,60,yes
+A01905,Female,White,44,no
+A01906,Male,Black or African American,35,no
+A01907,Male,White,75,yes
+A01908,Female,White,61,yes
+A01909,Male,Black or African American,52,no
+A01910,Female,White,65,yes
+A01911,Female,Asian,59,no
+A01912,Male,White,77,yes
+A01913,Male,Asian,57,no
+A01914,Female,White,73,yes
+A01915,Female,White,52,no
+A01916,Male,White,80,yes
+A01917,Male,Hispanic or Latino,63,yes
+A01918,Male,White,63,yes
+A01919,Male,White,56,no
+A01920,Female,White,57,no
+A01921,Male,White,64,yes
+A01922,Female,White,55,no
+A01923,Female,White,38,no
+A01924,Male,White,48,no
+A01925,Female,Hispanic or Latino,50,no
+A01926,Male,White,52,no
+A01927,Male,White,53,no
+A01928,Male,Hispanic or Latino,51,no
+A01929,Male,Asian,53,no
+A01930,Male,Hispanic or Latino,56,no
+A01931,Female,Black or African American,40,no
+A01932,Female,White,67,yes
+A01933,,Asian,91,yes
+A01934,Male,Asian,60,yes
+A01935,Female,White,75,yes
+A01936,Female,Hispanic or Latino,52,no
+A01937,Male,Asian,66,yes
+A01938,Female,White,66,yes
+A01939,Male,Black or African American,68,yes
+A01940,Male,Hispanic or Latino,66,yes
+A01941,Female,Black or African American,57,no
+A01942,Female,White,60,yes
+A01943,Male,White,55,no
+A01944,Female,White,39,no
+A01945,Female,Hispanic or Latino,63,yes
+A01946,Female,Black or African American,76,yes
+A01947,,Hispanic or Latino,61,yes
+A01948,Female,Black or African American,41,no
+A01949,Female,Asian,65,yes
+A01950,Female,Hispanic or Latino,45,no
+A01951,Male,White,69,yes
+A01952,Female,Black or African American,27,no
+A01953,Male,White,54,no
+A01954,Male,White,59,no
+A01955,Male,Black or African American,57,no
+A01956,Male,Asian,85,yes
+A01957,Male,White,61,yes
+A01958,Male,White,63,yes
+A01959,Male,Asian,62,yes
+A01960,Female,White,58,no
+A01961,Male,White,77,yes
+A01962,Female,Hispanic or Latino,63,yes
+A01963,Male,White,73,yes
+A01964,,Asian,60,yes
+A01965,Male,Asian,81,yes
+A01966,Female,Black or African American,51,no
+A01967,Female,Asian,66,yes
+A01968,Male,White,74,yes
+A01969,Male,Black or African American,34,no
+A01970,Female,Hispanic or Latino,43,no
+A01971,Female,Asian,48,no
+A01972,Female,White,54,no
+A01973,Male,White,54,no
+A01974,Female,Black or African American,22,no
+A01975,Female,Black or African American,36,no
+A01976,Female,White,62,yes
+A01977,Male,Hispanic or Latino,59,no
+A01978,Female,Asian,50,no
+A01979,Male,White,51,no
+A01980,Female,Native Hawaiian or Pacific Islander,58,no
+A01981,Male,Asian,57,no
+A01982,,White,57,no
+A01983,Male,White,76,yes
+A01984,Male,Two or More Races,61,yes
+A01985,Male,Asian,65,yes
+A01986,Male,White,46,no
+A01987,Male,White,53,no
+A01988,Male,Hispanic or Latino,45,no
+A01989,,White,61,yes
+A01990,Male,White,64,yes
+A01991,Male,Asian,52,no
+A01992,Female,Hispanic or Latino,22,no
+A01993,Female,White,51,no
+A01994,Female,White,64,yes
+A01995,Female,White,46,no
+A01996,Male,Black or African American,54,no
+A01997,Female,Hispanic or Latino,64,yes
+A01998,Female,Native American or Alaska Native,65,yes
+A01999,Female,White,71,yes
+A02000,Male,Two or More Races,47,no
+A02001,Female,Asian,58,no
+A02002,Male,White,78,yes
+A02003,Female,Hispanic or Latino,45,no
+A02004,Female,Hispanic or Latino,65,yes
+A02005,Female,Hispanic or Latino,55,no
+A02006,Male,Hispanic or Latino,56,no
+A02007,Female,Two or More Races,45,no
+A02008,Female,Hispanic or Latino,42,no
+A02009,Female,Two or More Races,66,yes
+A02010,Female,White,59,no
+A02011,Female,White,45,no
+A02012,Male,White,45,no
+A02013,Male,Black or African American,37,no
+A02014,Male,Hispanic or Latino,53,no
+A02015,Female,Black or African American,58,no
+A02016,Female,White,55,no
+A02017,Male,Asian,69,yes
+A02018,Female,Two or More Races,69,yes
+A02019,Male,White,34,no
+A02020,Male,Asian,63,yes
+A02021,Male,Hispanic or Latino,60,yes
+A02022,Male,White,60,yes
+A02023,Male,White,57,no
+A02024,Male,Asian,47,no
+A02025,Female,White,68,yes
+A02026,Male,Two or More Races,39,no
+A02027,Female,White,82,yes
+A02028,Female,White,58,no
+A02029,Female,Black or African American,34,no
+A02030,,White,45,no
+A02031,Female,Two or More Races,48,no
+A02032,Female,Asian,75,yes
+A02033,Female,White,58,no
+A02034,Male,Asian,77,yes
+A02035,Female,White,52,no
+A02036,Male,Black or African American,36,no
+A02037,Female,White,66,yes
+A02038,Female,Hispanic or Latino,58,no
+A02039,Female,White,67,yes
+A02040,Female,White,65,yes
+A02041,Male,Black or African American,68,yes
+A02042,Male,White,72,yes
+A02043,Female,Asian,47,no
+A02044,Male,White,69,yes
+A02045,Male,Black or African American,48,no
+A02046,Female,Black or African American,29,no
+A02047,Male,White,59,no
+A02048,Female,White,67,yes
+A02049,Male,White,73,yes
+A02050,Male,White,49,no
+A02051,Female,Two or More Races,40,no
+A02052,Female,White,63,yes
+A02053,Male,White,41,no
+A02054,Male,White,62,yes
+A02055,,Hispanic or Latino,39,no
+A02056,Female,White,73,yes
+A02057,Male,Hispanic or Latino,54,no
+A02058,Female,White,31,no
+A02059,Female,White,45,no
+A02060,Female,Asian,62,yes
+A02061,Female,Hispanic or Latino,58,no
+A02062,Female,Hispanic or Latino,51,no
+A02063,Female,White,61,yes
+A02064,Female,Asian,58,no
+A02065,Male,Asian,67,yes
+A02066,Male,White,82,yes
+A02067,Male,Asian,61,yes
+A02068,,White,57,no
+A02069,Male,White,40,no
+A02070,Female,Hispanic or Latino,40,no
+A02071,Male,White,75,yes
+A02072,Female,White,64,yes
+A02073,,White,55,no
+A02074,Male,Two or More Races,69,yes
+A02075,Female,Hispanic or Latino,44,no
+A02076,Male,Hispanic or Latino,60,yes
+A02077,Male,Native American or Alaska Native,50,no
+A02078,Male,White,59,no
+A02079,Male,Black or African American,60,yes
+A02080,Female,White,52,no
+A02081,Female,Hispanic or Latino,56,no
+A02082,Female,Black or African American,50,no
+A02083,Male,Asian,66,yes
+A02084,Male,Hispanic or Latino,47,no
+A02085,Female,White,71,yes
+A02086,Male,Black or African American,57,no
+A02087,Female,White,50,no
+A02088,Male,White,65,yes
+A02089,Female,White,56,no
+A02090,Female,Hispanic or Latino,41,no
+A02091,Female,White,51,no
+A02092,,Black or African American,50,no
+A02093,Female,Hispanic or Latino,61,yes
+A02094,Male,Asian,68,yes
+A02095,Male,White,76,yes
+A02096,Female,White,43,no
+A02097,Male,Black or African American,47,no
+A02098,Male,Black or African American,71,yes
+A02099,Female,Asian,70,yes
+A02100,,White,61,yes
+A02101,Female,White,47,no
+A02102,Female,White,55,no
+A02103,Male,Black or African American,34,no
+A02104,Male,White,56,no
+A02105,Female,White,58,no
+A02106,Male,Black or African American,53,no
+A02107,Female,Hispanic or Latino,34,no
+A02108,Female,White,65,yes
+A02109,Female,Hispanic or Latino,51,no
+A02110,Male,White,54,no
+A02111,Male,White,60,yes
+A02112,Male,Black or African American,37,no
+A02113,Male,Black or African American,56,no
+A02114,Male,Hispanic or Latino,60,yes
+A02115,Male,Asian,71,yes
+A02116,Female,Black or African American,45,no
+A02117,Female,White,87,yes
+A02118,Male,White,53,no
+A02119,Male,White,39,no
+A02120,Male,Asian,73,yes
+A02121,Male,White,70,yes
+A02122,Male,White,56,no
+A02123,Male,White,66,yes
+A02124,Female,White,66,yes
+A02125,Male,Hispanic or Latino,59,no
+A02126,Male,Asian,43,no
+A02127,Female,Hispanic or Latino,41,no
+A02128,Male,Asian,64,yes
+A02129,Female,White,80,yes
+A02130,Male,Black or African American,42,no
+A02131,Male,Hispanic or Latino,62,yes
+A02132,Male,Black or African American,43,no
+A02133,Male,Hispanic or Latino,26,no
+A02134,Male,Black or African American,68,yes
+A02135,Male,White,67,yes
+A02136,Female,White,63,yes
+A02137,Female,White,41,no
+A02138,Male,White,45,no
+A02139,Female,Hispanic or Latino,62,yes
+A02140,Male,Two or More Races,54,no
+A02141,Male,Two or More Races,65,yes
+A02142,Female,Two or More Races,50,no
+A02143,Male,Asian,65,yes
+A02144,Female,White,38,no
+A02145,Female,White,62,yes
+A02146,Male,Black or African American,34,no
+A02147,Male,Black or African American,80,yes
+A02148,Male,Asian,70,yes
+A02149,Male,Asian,57,no
+A02150,Male,Hispanic or Latino,70,yes
+A02151,Male,Asian,56,no
+A02152,,Two or More Races,48,no
+A02153,Female,White,52,no
+A02154,Female,White,39,no
+A02155,Female,White,40,no
+A02156,Male,White,50,no
+A02157,Female,White,64,yes
+A02158,,Black or African American,55,no
+A02159,Male,White,76,yes
+A02160,Female,White,47,no
+A02161,Male,Two or More Races,72,yes
+A02162,Male,Native Hawaiian or Pacific Islander,62,yes
+A02163,Male,Two or More Races,70,yes
+A02164,Male,Black or African American,37,no
+A02165,Male,Hispanic or Latino,65,yes
+A02166,Female,White,69,yes
+A02167,Female,White,57,no
+A02168,Male,Hispanic or Latino,65,yes
+A02169,Female,Asian,44,no
+A02170,,White,61,yes
+A02171,Male,White,60,yes
+A02172,Male,White,68,yes
+A02173,Female,Hispanic or Latino,65,yes
+A02174,Female,Black or African American,36,no
+A02175,Male,Black or African American,57,no
+A02176,Female,Black or African American,64,yes
+A02177,Male,White,72,yes
+A02178,,White,43,no
+A02179,Male,White,59,no
+A02180,Female,Black or African American,29,no
+A02181,Female,Hispanic or Latino,67,yes
+A02182,Female,Hispanic or Latino,44,no
+A02183,Male,Black or African American,47,no
+A02184,Male,White,59,no
+A02185,Male,Hispanic or Latino,48,no
+A02186,Male,White,71,yes
+A02187,,White,81,yes
+A02188,Male,White,64,yes
+A02189,Female,White,58,no
+A02190,Female,Two or More Races,57,no
+A02191,Male,Hispanic or Latino,54,no
+A02192,Female,Asian,62,yes
+A02193,Male,White,55,no
+A02194,Male,White,42,no
+A02195,Male,Asian,78,yes
+A02196,Male,Hispanic or Latino,38,no
+A02197,,Black or African American,46,no
+A02198,Male,Black or African American,55,no
+A02199,Male,Asian,55,no
+A02200,Female,Two or More Races,43,no
+A02201,Female,White,47,no
+A02202,Male,Two or More Races,52,no
+A02203,Female,White,59,no
+A02204,Female,White,69,yes
+A02205,Male,Asian,70,yes
+A02206,Male,Two or More Races,76,yes
+A02207,Female,White,53,no
+A02208,Male,Hispanic or Latino,52,no
+A02209,Female,White,64,yes
+A02210,Female,White,59,no
+A02211,Male,Hispanic or Latino,68,yes
+A02212,Male,Hispanic or Latino,48,no
+A02213,Male,Black or African American,58,no
+A02214,Male,Asian,70,yes
+A02215,Male,White,68,yes
+A02216,Male,White,68,yes
+A02217,Female,White,46,no
+A02218,Female,Asian,60,yes
+A02219,Male,Two or More Races,59,no
+A02220,Female,Black or African American,82,yes
+A02221,Male,White,78,yes
+A02222,Male,Black or African American,72,yes
+A02223,Male,Hispanic or Latino,58,no
+A02224,Male,Black or African American,60,yes
+A02225,Female,White,55,no
+A02226,Male,White,50,no
+A02227,Male,Asian,52,no
+A02228,Male,White,59,no
+A02229,Male,White,67,yes
+A02230,Female,Asian,38,no
+A02231,Female,White,65,yes
+A02232,Male,Hispanic or Latino,58,no
+A02233,Female,Hispanic or Latino,44,no
+A02234,,Black or African American,57,no
+A02235,Male,White,71,yes
+A02236,Female,White,57,no
+A02237,Female,White,66,yes
+A02238,Male,White,56,no
+A02239,Female,Native American or Alaska Native,43,no
+A02240,Male,White,48,no
+A02241,Male,Native American or Alaska Native,74,yes
+A02242,Male,White,66,yes
+A02243,Male,Two or More Races,59,no
+A02244,Female,Black or African American,56,no
+A02245,Female,White,62,yes
+A02246,Male,White,58,no
+A02247,Female,Hispanic or Latino,34,no
+A02248,Female,Hispanic or Latino,46,no
+A02249,Male,Asian,72,yes
+A02250,Male,Hispanic or Latino,57,no
+A02251,Female,White,52,no
+A02252,Female,White,81,yes
+A02253,Female,Asian,52,no
+A02254,Female,White,62,yes
+A02255,Male,White,57,no
+A02256,Male,Hispanic or Latino,60,yes
+A02257,Female,White,60,yes
+A02258,Male,Two or More Races,54,no
+A02259,Female,Two or More Races,56,no
+A02260,Female,Hispanic or Latino,37,no
+A02261,Male,White,82,yes
+A02262,Male,White,76,yes
+A02263,Female,White,52,no
+A02264,Female,Asian,37,no
+A02265,Male,White,63,yes
+A02266,Male,White,44,no
+A02267,Male,Asian,41,no
+A02268,Male,White,67,yes
+A02269,Female,Black or African American,57,no
+A02270,Female,White,50,no
+A02271,Female,Black or African American,38,no
+A02272,Male,Asian,58,no
+A02273,Female,White,65,yes
+A02274,Female,White,62,yes
+A02275,Female,Hispanic or Latino,38,no
+A02276,Male,Hispanic or Latino,51,no
+A02277,Male,Asian,67,yes
+A02278,Female,Hispanic or Latino,56,no
+A02279,Female,Black or African American,53,no
+A02280,Male,White,60,yes
+A02281,Female,White,38,no
+A02282,Male,Hispanic or Latino,52,no
+A02283,Female,Black or African American,38,no
+A02284,Male,Two or More Races,67,yes
+A02285,Female,Black or African American,42,no
+A02286,Male,Asian,80,yes
+A02287,Male,Asian,57,no
+A02288,Female,Asian,46,no
+A02289,Female,Two or More Races,81,yes
+A02290,Female,Hispanic or Latino,53,no
+A02291,Female,White,48,no
+A02292,Female,White,74,yes
+A02293,,Hispanic or Latino,62,yes
+A02294,Male,Hispanic or Latino,58,no
+A02295,Male,White,57,no
+A02296,Female,Asian,60,yes
+A02297,Female,White,52,no
+A02298,Male,Native American or Alaska Native,73,yes
+A02299,Female,Black or African American,51,no
+A02300,Male,White,58,no
+A02301,Male,White,85,yes
+A02302,Female,White,56,no
+A02303,Male,White,61,yes
+A02304,Female,White,62,yes
+A02305,Female,Hispanic or Latino,44,no
+A02306,Female,Black or African American,43,no
+A02307,Female,Hispanic or Latino,42,no
+A02308,Male,Hispanic or Latino,58,no
+A02309,Female,White,74,yes
+A02310,Female,Asian,39,no
+A02311,Male,White,59,no
+A02312,,White,81,yes
+A02313,Male,White,53,no
+A02314,Male,Asian,75,yes
+A02315,Male,Asian,57,no
+A02316,Male,Two or More Races,68,yes
+A02317,Female,Asian,72,yes
+A02318,Female,Native American or Alaska Native,60,yes
+A02319,Female,White,27,no
+A02320,Female,Two or More Races,86,yes
+A02321,Male,White,71,yes
+A02322,Female,White,55,no
+A02323,Female,Two or More Races,78,yes
+A02324,Male,Asian,54,no
+A02325,Male,White,71,yes
+A02326,Male,Hispanic or Latino,53,no
+A02327,Male,Black or African American,50,no
+A02328,Female,White,54,no
+A02329,Female,White,61,yes
+A02330,,Asian,66,yes
+A02331,Male,Asian,89,yes
+A02332,Female,White,53,no
+A02333,Female,Native American or Alaska Native,52,no
+A02334,Female,White,40,no
+A02335,Female,Asian,65,yes
+A02336,Male,Hispanic or Latino,79,yes
+A02337,Female,White,69,yes
+A02338,Male,White,56,no
+A02339,Female,White,63,yes
+A02340,Female,White,58,no
+A02341,Male,Asian,78,yes
+A02342,Male,White,43,no
+A02343,Female,Hispanic or Latino,50,no
+A02344,Male,White,64,yes
+A02345,Female,Native American or Alaska Native,55,no
+A02346,Female,White,63,yes
+A02347,Male,White,73,yes
+A02348,Male,Hispanic or Latino,55,no
+A02349,Male,White,59,no
+A02350,Female,White,48,no
+A02351,Male,Hispanic or Latino,30,no
+A02352,Male,Black or African American,61,yes
+A02353,Female,White,69,yes
+A02354,Female,Hispanic or Latino,64,yes
+A02355,Male,Black or African American,43,no
+A02356,Male,Hispanic or Latino,48,no
+A02357,Female,Asian,73,yes
+A02358,Male,White,62,yes
+A02359,Female,Black or African American,49,no
+A02360,,White,80,yes
+A02361,Female,White,44,no
+A02362,Male,White,42,no
+A02363,,White,57,no
+A02364,Female,Hispanic or Latino,65,yes
+A02365,Female,Black or African American,54,no
+A02366,Male,White,62,yes
+A02367,Male,Hispanic or Latino,51,no
+A02368,Female,White,52,no
+A02369,Female,White,47,no
+A02370,Male,Black or African American,43,no
+A02371,Male,White,51,no
+A02372,Female,White,80,yes
+A02373,Male,Hispanic or Latino,58,no
+A02374,Female,White,53,no
+A02375,Female,White,24,no
+A02376,Female,Asian,72,yes
+A02377,Female,Black or African American,51,no
+A02378,Female,Black or African American,51,no
+A02379,Female,White,55,no
+A02380,Female,White,85,yes
+A02381,Male,White,92,yes
+A02382,Female,Asian,72,yes
+A02383,Male,White,77,yes
+A02384,Female,Black or African American,61,yes
+A02385,Female,White,63,yes
+A02386,Female,Asian,58,no
+A02387,Female,White,62,yes
+A02388,Male,White,57,no
+A02389,,White,65,yes
+A02390,Female,Native American or Alaska Native,33,no
+A02391,Female,Two or More Races,60,yes
+A02392,Female,White,57,no
+A02393,Male,White,66,yes
+A02394,Male,White,62,yes
+A02395,,Hispanic or Latino,52,no
+A02396,Female,White,44,no
+A02397,Male,Black or African American,46,no
+A02398,Male,Asian,38,no
+A02399,Female,Hispanic or Latino,39,no
+A02400,Male,White,70,yes

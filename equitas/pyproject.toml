@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "equitas"
+version = "0.1.0"
+description = "Lightweight, dependency-free bias audits for automated decision systems (NYC LL144 / EEOC four-fifths rule)."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+equitas = "equitas.cli:main"
+
+[tool.setuptools]
+packages = ["equitas"]

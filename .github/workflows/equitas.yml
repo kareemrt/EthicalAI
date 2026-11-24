@@ -1,0 +1,23 @@
+name: equitas
+on:
+  push:
+    paths: ["equitas/**"]
+  pull_request:
+    paths: ["equitas/**"]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.10", "3.12"]
+    defaults:
+      run:
+        working-directory: equitas
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: python -m unittest discover -s tests -v
+      - name: Example audit renders
+        run: python -m equitas audit examples/hiring.csv -o advanced -g sex race --out /tmp/report || test $? -eq 1

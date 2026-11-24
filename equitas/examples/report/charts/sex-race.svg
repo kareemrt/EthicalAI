@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="452" viewBox="0 0 720 452" role="img" aria-label="Impact ratios by sex × race">
+<style>
+text{font:12px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#3b3f45}
+.t{font-weight:600;font-size:14px}.m{fill:#80868f}.grid{stroke:#d8dce1}
+.thr{stroke:#3b3f45;stroke-dasharray:4 3}
+@media (prefers-color-scheme:dark){text{fill:#d6d9dd}.grid{stroke:#3a3f46}.thr{stroke:#d6d9dd}}
+</style>
+<text class="t" x="16" y="22">Impact ratio by sex × race</text>
+<circle cx="674" cy="18" r="4" fill="#2f9e6e"/><text class="m" x="682" y="22">ok</text>
+<circle cx="602" cy="18" r="4" fill="#d99a00"/><text class="m" x="610" y="22">review</text>
+<circle cx="523" cy="18" r="4" fill="#d64545"/><text class="m" x="531" y="22">adverse</text>
+<line class="grid" x1="286.0" x2="286.0" y1="50" y2="428"/>
+<text class="m" x="286.0" y="444" text-anchor="middle">0</text>
+<line class="grid" x1="378.5" x2="378.5" y1="50" y2="428"/>
+<text class="m" x="378.5" y="444" text-anchor="middle">0.25</text>
+<line class="grid" x1="471.0" x2="471.0" y1="50" y2="428"/>
+<text class="m" x="471.0" y="444" text-anchor="middle">0.5</text>
+<line class="grid" x1="563.5" x2="563.5" y1="50" y2="428"/>
+<text class="m" x="563.5" y="444" text-anchor="middle">0.75</text>
+<line class="grid" x1="656.0" x2="656.0" y1="50" y2="428"/>
+<text class="m" x="656.0" y="444" text-anchor="middle">1</text>
+<line class="thr" x1="582.0" x2="582.0" y1="48" y2="428"/>
+<text class="m" x="582.0" y="44" text-anchor="middle">0.8 threshold</text>
+<text x="276" y="71" text-anchor="end"><title>Male · White</title>Male · White</text>
+<rect x="286" y="58" width="370.0" height="18" rx="3" fill="#2f9e6e"/>
+<text x="700" y="71" text-anchor="end">1.00</text>
+<text x="276" y="97" text-anchor="end"><title>Female · White</title>Female · White</text>
+<rect x="286" y="84" width="270.9" height="18" rx="3" fill="#d64545"/>
+<text x="700" y="97" text-anchor="end">0.73</text>
+<text x="276" y="123" text-anchor="end"><title>Male · Hispanic or Latino</title>Male · Hispanic or Latino</text>
+<rect x="286" y="110" width="240.5" height="18" rx="3" fill="#d64545"/>
+<text x="700" y="123" text-anchor="end">0.65</text>
+<text x="276" y="149" text-anchor="end"><title>Female · Hispanic or Latino</title>Female · Hispanic or Latino</text>
+<rect x="286" y="136" width="150.9" height="18" rx="3" fill="#d64545"/>
+<text x="700" y="149" text-anchor="end">0.41</text>
+<text x="276" y="175" text-anchor="end"><title>Male · Asian</title>Male · Asian</text>
+<rect x="286" y="162" width="368.5" height="18" rx="3" fill="#2f9e6e"/>
+<text x="700" y="175" text-anchor="end">1.00</text>
+<text x="276" y="201" text-anchor="end"><title>Male · Black or African American</title>Male · Black or African American</text>
+<rect x="286" y="188" width="168.3" height="18" rx="3" fill="#d64545"/>
+<text x="700" y="201" text-anchor="end">0.45</text>
+<text x="276" y="227" text-anchor="end"><title>Female · Black or African American</title>Female · Black or African American</text>
+<rect x="286" y="214" width="121.3" height="18" rx="3" fill="#d64545"/>
+<text x="700" y="227" text-anchor="end">0.33</text>
+<text x="276" y="253" text-anchor="end"><title>Female · Asian</title>Female · Asian</text>
+<rect x="286" y="240" width="322.8" height="18" rx="3" fill="#2f9e6e"/>
+<text x="700" y="253" text-anchor="end">0.87</text>
+<text x="276" y="279" text-anchor="end"><title>Male · Two or More Races</title>Male · Two or More Races</text>
+<rect x="286" y="266" width="282.9" height="18" rx="3" fill="#d64545"/>
+<text x="700" y="279" text-anchor="end">0.76</text>
+<text x="276" y="305" text-anchor="end"><title>Female · Two or More Races</title>Female · Two or More Races</text>
+<rect x="286" y="292" width="217.2" height="18" rx="3" fill="#d64545"/>
+<text x="700" y="305" text-anchor="end">0.59</text>
+<text x="276" y="331" text-anchor="end"><title>Male · Native American or Alaska Native</title>Male · Native American or Alaska Native</text>
+<text class="m" x="290" y="331">excluded · n=26 (1.1%)</text>
+<text x="276" y="357" text-anchor="end"><title>Female · Native American or Alaska Native</title>Female · Native American or Alaska Nati…</text>
+<text class="m" x="290" y="357">excluded · n=23 (1.0%)</text>
+<text x="276" y="383" text-anchor="end"><title>Female · Native Hawaiian or Pacific Islander</title>Female · Native Hawaiian or Pacific Isl…</text>
+<text class="m" x="290" y="383">excluded · n=14 (0.6%)</text>
+<text x="276" y="409" text-anchor="end"><title>Male · Native Hawaiian or Pacific Islander</title>Male · Native Hawaiian or Pacific Islan…</text>
+<text class="m" x="290" y="409">excluded · n=8 (0.3%)</text>
+</svg>
