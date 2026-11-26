@@ -1,0 +1,30 @@
+# Fairness gate: fails the build when a model's decisions show adverse impact.
+# Copy to .github/workflows/fairness.yml and adapt the predict step.
+name: fairness
+
+on: [pull_request]
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install ./fairscope
+
+      # Produce a CSV with one row per holdout record: protected attributes,
+      # the model's decision, and (optionally) the ground-truth outcome.
+      - run: python model/predict.py --data data/holdout.csv --out predictions.csv
+
+      - name: Audit for adverse impact
+        run: >
+          fairscope audit predictions.csv
+          --by sex --by race --intersect
+          --outcome approved --label repaid
+          --fail-on review
+          -o fairness.html
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: fairness-report, path: fairness.html }

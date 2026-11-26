@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fairscope"
+version = "0.1.0"
+description = "Zero-dependency bias auditor for automated decisions (impact ratios, four-fifths rule, NYC LL144-style reports)."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+keywords = ["fairness", "bias", "audit", "ai-ethics", "four-fifths-rule", "ll144"]
+
+[project.scripts]
+fairscope = "fairscope.cli:main"
+
+[tool.setuptools]
+packages = ["fairscope"]
