@@ -1,0 +1,145 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Bias Audit Report</title><style>
+:root{--bg:#f6f8fa;--card:#fff;--ink:#1f2328;--mute:#57606a;--line:#d0d7de}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--card:#161b22;--ink:#e6edf3;--mute:#8b949e;--line:#30363d}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:900px;margin:0 auto;padding:32px 16px}h1{margin:0 0 4px;font-size:26px}.mute{color:var(--mute)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;margin:18px 0;overflow-x:auto}
+.pill{display:inline-block;padding:2px 10px;border-radius:999px;color:#fff;font-weight:600;font-size:12px}
+table{border-collapse:collapse;width:100%;font-size:13px;margin-top:12px}th,td{padding:7px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+th:first-child,td:first-child,td:last-child,th:last-child{text-align:left}svg{max-width:100%;height:auto;border-radius:10px}
+footer{font-size:12px;margin-top:28px}
+</style></head>
+<body><main><h1>Bias Audit Report <span class='pill' style='background:#d6455d'>FAIL</span></h1>
+<div class="mute">examples/hiring_sample.csv · 2400 rows · 2026-11-27</div>
+<section class='card'><h2 style='margin:0 0 4px'>sex <span class='pill' style='background:#d6455d'>FAIL</span></h2><div class='mute'>Reference group: <b>Male</b> · Unknown/missing: 0</div><div style='margin-top:12px'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 148' width='640' height='148' font-family='system-ui,-apple-system,Segoe UI,sans-serif' role='img' aria-label='Impact ratios by sex'>
+<rect width='100%' height='100%' fill='#ffffff' rx='10'/>
+<text x='16' y='22' font-size='14' font-weight='600' fill='#1f2328'>Impact ratio · sex</text>
+<line x1='190.0' y1='28' x2='190.0' y2='122' stroke='#eaeef2'/>
+<text x='190.0' y='138' font-size='11' fill='#6e7781' text-anchor='middle'>0.0</text>
+<line x1='253.3' y1='28' x2='253.3' y2='122' stroke='#eaeef2'/>
+<text x='253.3' y='138' font-size='11' fill='#6e7781' text-anchor='middle'>0.2</text>
+<line x1='316.7' y1='28' x2='316.7' y2='122' stroke='#eaeef2'/>
+<text x='316.7' y='138' font-size='11' fill='#6e7781' text-anchor='middle'>0.4</text>
+<line x1='380.0' y1='28' x2='380.0' y2='122' stroke='#eaeef2'/>
+<text x='380.0' y='138' font-size='11' fill='#6e7781' text-anchor='middle'>0.6</text>
+<line x1='443.3' y1='28' x2='443.3' y2='122' stroke='#eaeef2'/>
+<text x='443.3' y='138' font-size='11' fill='#6e7781' text-anchor='middle'>0.8</text>
+<line x1='506.7' y1='28' x2='506.7' y2='122' stroke='#eaeef2'/>
+<text x='506.7' y='138' font-size='11' fill='#6e7781' text-anchor='middle'>1.0</text>
+<line x1='570.0' y1='28' x2='570.0' y2='122' stroke='#eaeef2'/>
+<text x='570.0' y='138' font-size='11' fill='#6e7781' text-anchor='middle'>1.2</text>
+<text x='180' y='51' font-size='12' fill='#1f2328' text-anchor='end'>Male</text>
+<rect x='190' y='39' width='316.7' height='18' rx='4' fill='#2f9e6e'><title>Male: ratio 1.00, rate 38.1%, n=1273</title></rect>
+<text x='512.7' y='51' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>1.00</text>
+<text x='180' y='79' font-size='12' fill='#1f2328' text-anchor='end'>Female</text>
+<rect x='190' y='67' width='174.2' height='18' rx='4' fill='#d6455d'><title>Female: ratio 0.55, rate 21.0%, n=1083</title></rect>
+<text x='370.2' y='79' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.55</text>
+<text x='180' y='107' font-size='12' fill='#1f2328' text-anchor='end'>Non-binary</text>
+<rect x='190' y='95' width='245.6' height='18' rx='4' fill='#9aa0a6'><title>Non-binary: ratio 0.78, rate 29.5%, n=44</title></rect>
+<text x='441.6' y='107' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.78</text>
+<line x1='443.3' y1='26' x2='443.3' y2='122' stroke='#d6455d' stroke-width='1.5' stroke-dasharray='4 3'/>
+<text x='447.3' y='24' font-size='10' fill='#d6455d'>0.80 threshold</text>
+</svg></div><table><tr><th>Group</th><th>Applicants</th><th>Selected</th><th>Rate (95% CI)</th><th>Impact ratio</th><th>p-value</th><th>Status</th></tr><tr><td>Male</td><td>1273</td><td>485</td><td>38.1% <span class='mute'>(35.5%–40.8%)</span></td><td>1.00</td><td>—</td><td><span class='pill' style='background:#2f9e6e'>PASS</span></td></tr><tr><td>Female</td><td>1083</td><td>227</td><td>21.0% <span class='mute'>(18.6%–23.5%)</span></td><td>0.55</td><td><0.001</td><td><span class='pill' style='background:#d6455d'>FAIL</span></td></tr><tr><td>Non-binary</td><td>44</td><td>13</td><td>29.5% <span class='mute'>(18.2%–44.2%)</span></td><td>0.78</td><td>0.250</td><td><span class='pill' style='background:#9aa0a6'>EXCLUDED</span></td></tr></table></section><section class='card'><h2 style='margin:0 0 4px'>race_ethnicity <span class='pill' style='background:#d6455d'>FAIL</span></h2><div class='mute'>Reference group: <b>White</b> · Unknown/missing: 56</div><div style='margin-top:12px'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 204' width='640' height='204' font-family='system-ui,-apple-system,Segoe UI,sans-serif' role='img' aria-label='Impact ratios by race_ethnicity'>
+<rect width='100%' height='100%' fill='#ffffff' rx='10'/>
+<text x='16' y='22' font-size='14' font-weight='600' fill='#1f2328'>Impact ratio · race_ethnicity</text>
+<line x1='190.0' y1='28' x2='190.0' y2='178' stroke='#eaeef2'/>
+<text x='190.0' y='194' font-size='11' fill='#6e7781' text-anchor='middle'>0.0</text>
+<line x1='253.3' y1='28' x2='253.3' y2='178' stroke='#eaeef2'/>
+<text x='253.3' y='194' font-size='11' fill='#6e7781' text-anchor='middle'>0.2</text>
+<line x1='316.7' y1='28' x2='316.7' y2='178' stroke='#eaeef2'/>
+<text x='316.7' y='194' font-size='11' fill='#6e7781' text-anchor='middle'>0.4</text>
+<line x1='380.0' y1='28' x2='380.0' y2='178' stroke='#eaeef2'/>
+<text x='380.0' y='194' font-size='11' fill='#6e7781' text-anchor='middle'>0.6</text>
+<line x1='443.3' y1='28' x2='443.3' y2='178' stroke='#eaeef2'/>
+<text x='443.3' y='194' font-size='11' fill='#6e7781' text-anchor='middle'>0.8</text>
+<line x1='506.7' y1='28' x2='506.7' y2='178' stroke='#eaeef2'/>
+<text x='506.7' y='194' font-size='11' fill='#6e7781' text-anchor='middle'>1.0</text>
+<line x1='570.0' y1='28' x2='570.0' y2='178' stroke='#eaeef2'/>
+<text x='570.0' y='194' font-size='11' fill='#6e7781' text-anchor='middle'>1.2</text>
+<text x='180' y='51' font-size='12' fill='#1f2328' text-anchor='end'>White</text>
+<rect x='190' y='39' width='316.7' height='18' rx='4' fill='#2f9e6e'><title>White: ratio 1.00, rate 37.2%, n=1093</title></rect>
+<text x='512.7' y='51' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>1.00</text>
+<text x='180' y='79' font-size='12' fill='#1f2328' text-anchor='end'>Asian</text>
+<rect x='190' y='67' width='315.4' height='18' rx='4' fill='#2f9e6e'><title>Asian: ratio 1.00, rate 37.1%, n=337</title></rect>
+<text x='511.4' y='79' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>1.00</text>
+<text x='180' y='107' font-size='12' fill='#1f2328' text-anchor='end'>Hispanic or Latino</text>
+<rect x='190' y='95' width='191.5' height='18' rx='4' fill='#d6455d'><title>Hispanic or Latino: ratio 0.60, rate 22.5%, n=484</title></rect>
+<text x='387.5' y='107' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.60</text>
+<text x='180' y='135' font-size='12' fill='#1f2328' text-anchor='end'>Black</text>
+<rect x='190' y='123' width='138.3' height='18' rx='4' fill='#d6455d'><title>Black: ratio 0.44, rate 16.3%, n=412</title></rect>
+<text x='334.3' y='135' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.44</text>
+<text x='180' y='163' font-size='12' fill='#1f2328' text-anchor='end'>Native American</text>
+<rect x='190' y='151' width='236.2' height='18' rx='4' fill='#9aa0a6'><title>Native American: ratio 0.75, rate 27.8%, n=18</title></rect>
+<text x='432.2' y='163' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.75</text>
+<line x1='443.3' y1='26' x2='443.3' y2='178' stroke='#d6455d' stroke-width='1.5' stroke-dasharray='4 3'/>
+<text x='447.3' y='24' font-size='10' fill='#d6455d'>0.80 threshold</text>
+</svg></div><table><tr><th>Group</th><th>Applicants</th><th>Selected</th><th>Rate (95% CI)</th><th>Impact ratio</th><th>p-value</th><th>Status</th></tr><tr><td>White</td><td>1093</td><td>407</td><td>37.2% <span class='mute'>(34.4%–40.1%)</span></td><td>1.00</td><td>—</td><td><span class='pill' style='background:#2f9e6e'>PASS</span></td></tr><tr><td>Asian</td><td>337</td><td>125</td><td>37.1% <span class='mute'>(32.1%–42.4%)</span></td><td>1.00</td><td>0.962</td><td><span class='pill' style='background:#2f9e6e'>PASS</span></td></tr><tr><td>Hispanic or Latino</td><td>484</td><td>109</td><td>22.5% <span class='mute'>(19.0%–26.5%)</span></td><td>0.60</td><td><0.001</td><td><span class='pill' style='background:#d6455d'>FAIL</span></td></tr><tr><td>Black</td><td>412</td><td>67</td><td>16.3% <span class='mute'>(13.0%–20.1%)</span></td><td>0.44</td><td><0.001</td><td><span class='pill' style='background:#d6455d'>FAIL</span></td></tr><tr><td>Native American</td><td>18</td><td>5</td><td>27.8% <span class='mute'>(12.5%–50.9%)</span></td><td>0.75</td><td>0.410</td><td><span class='pill' style='background:#9aa0a6'>EXCLUDED</span></td></tr></table></section><section class='card'><h2 style='margin:0 0 4px'>sex × race_ethnicity <span class='pill' style='background:#d6455d'>FAIL</span></h2><div class='mute'>Reference group: <b>Male × White</b> · Unknown/missing: 56</div><div style='margin-top:12px'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 484' width='640' height='484' font-family='system-ui,-apple-system,Segoe UI,sans-serif' role='img' aria-label='Impact ratios by sex × race_ethnicity'>
+<rect width='100%' height='100%' fill='#ffffff' rx='10'/>
+<text x='16' y='22' font-size='14' font-weight='600' fill='#1f2328'>Impact ratio · sex × race_ethnicity</text>
+<line x1='190.0' y1='28' x2='190.0' y2='458' stroke='#eaeef2'/>
+<text x='190.0' y='474' font-size='11' fill='#6e7781' text-anchor='middle'>0.0</text>
+<line x1='253.3' y1='28' x2='253.3' y2='458' stroke='#eaeef2'/>
+<text x='253.3' y='474' font-size='11' fill='#6e7781' text-anchor='middle'>0.2</text>
+<line x1='316.7' y1='28' x2='316.7' y2='458' stroke='#eaeef2'/>
+<text x='316.7' y='474' font-size='11' fill='#6e7781' text-anchor='middle'>0.4</text>
+<line x1='380.0' y1='28' x2='380.0' y2='458' stroke='#eaeef2'/>
+<text x='380.0' y='474' font-size='11' fill='#6e7781' text-anchor='middle'>0.6</text>
+<line x1='443.3' y1='28' x2='443.3' y2='458' stroke='#eaeef2'/>
+<text x='443.3' y='474' font-size='11' fill='#6e7781' text-anchor='middle'>0.8</text>
+<line x1='506.7' y1='28' x2='506.7' y2='458' stroke='#eaeef2'/>
+<text x='506.7' y='474' font-size='11' fill='#6e7781' text-anchor='middle'>1.0</text>
+<line x1='570.0' y1='28' x2='570.0' y2='458' stroke='#eaeef2'/>
+<text x='570.0' y='474' font-size='11' fill='#6e7781' text-anchor='middle'>1.2</text>
+<text x='180' y='51' font-size='12' fill='#1f2328' text-anchor='end'>Male × White</text>
+<rect x='190' y='39' width='316.7' height='18' rx='4' fill='#2f9e6e'><title>Male × White: ratio 1.00, rate 47.1%, n=567</title></rect>
+<text x='512.7' y='51' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>1.00</text>
+<text x='180' y='79' font-size='12' fill='#1f2328' text-anchor='end'>Male × Asian</text>
+<rect x='190' y='67' width='289.9' height='18' rx='4' fill='#2f9e6e'><title>Male × Asian: ratio 0.92, rate 43.1%, n=174</title></rect>
+<text x='485.9' y='79' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.92</text>
+<text x='180' y='107' font-size='12' fill='#1f2328' text-anchor='end'>Male × Hispanic or Latino</text>
+<rect x='190' y='95' width='205.5' height='18' rx='4' fill='#d6455d'><title>Male × Hispanic or Latino: ratio 0.65, rate 30.6%, n=265</title></rect>
+<text x='401.5' y='107' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.65</text>
+<text x='180' y='135' font-size='12' fill='#1f2328' text-anchor='end'>Female × Asian</text>
+<rect x='190' y='123' width='198.3' height='18' rx='4' fill='#d6455d'><title>Female × Asian: ratio 0.63, rate 29.5%, n=156</title></rect>
+<text x='394.3' y='135' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.63</text>
+<text x='180' y='163' font-size='12' fill='#1f2328' text-anchor='end'>Female × White</text>
+<rect x='190' y='151' width='177.4' height='18' rx='4' fill='#d6455d'><title>Female × White: ratio 0.56, rate 26.4%, n=508</title></rect>
+<text x='373.4' y='163' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.56</text>
+<text x='180' y='191' font-size='12' fill='#1f2328' text-anchor='end'>Male × Black</text>
+<rect x='190' y='179' width='146.2' height='18' rx='4' fill='#d6455d'><title>Male × Black: ratio 0.46, rate 21.7%, n=230</title></rect>
+<text x='342.2' y='191' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.46</text>
+<text x='180' y='219' font-size='12' fill='#1f2328' text-anchor='end'>Female × Hispanic or Latino</text>
+<rect x='190' y='207' width='84.8' height='18' rx='4' fill='#d6455d'><title>Female × Hispanic or Latino: ratio 0.27, rate 12.6%, n=214</title></rect>
+<text x='280.8' y='219' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.27</text>
+<text x='180' y='247' font-size='12' fill='#1f2328' text-anchor='end'>Female × Black</text>
+<rect x='190' y='235' width='66.5' height='18' rx='4' fill='#d6455d'><title>Female × Black: ratio 0.21, rate 9.9%, n=172</title></rect>
+<text x='262.5' y='247' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.21</text>
+<text x='180' y='275' font-size='12' fill='#1f2328' text-anchor='end'>Non-binary × Asian</text>
+<rect x='190' y='263' width='380.0' height='18' rx='4' fill='#9aa0a6'><title>Non-binary × Asian: ratio 1.21, rate 57.1%, n=7</title></rect>
+<text x='576.0' y='275' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>1.21</text>
+<text x='180' y='303' font-size='12' fill='#1f2328' text-anchor='end'>Male × Native American</text>
+<rect x='190' y='291' width='288.2' height='18' rx='4' fill='#9aa0a6'><title>Male × Native American: ratio 0.91, rate 42.9%, n=7</title></rect>
+<text x='484.2' y='303' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.91</text>
+<text x='180' y='331' font-size='12' fill='#1f2328' text-anchor='end'>Non-binary × Native American</text>
+<rect x='190' y='319' width='224.2' height='18' rx='4' fill='#9aa0a6'><title>Non-binary × Native American: ratio 0.71, rate 33.3%, n=3</title></rect>
+<text x='420.2' y='331' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.71</text>
+<text x='180' y='359' font-size='12' fill='#1f2328' text-anchor='end'>Non-binary × White</text>
+<rect x='190' y='347' width='224.2' height='18' rx='4' fill='#9aa0a6'><title>Non-binary × White: ratio 0.71, rate 33.3%, n=18</title></rect>
+<text x='420.2' y='359' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.71</text>
+<text x='180' y='387' font-size='12' fill='#1f2328' text-anchor='end'>Non-binary × Hispanic or Latino</text>
+<rect x='190' y='375' width='134.5' height='18' rx='4' fill='#9aa0a6'><title>Non-binary × Hispanic or Latino: ratio 0.42, rate 20.0%, n=5</title></rect>
+<text x='330.5' y='387' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.42</text>
+<text x='180' y='415' font-size='12' fill='#1f2328' text-anchor='end'>Female × Native American</text>
+<rect x='190' y='403' width='84.1' height='18' rx='4' fill='#9aa0a6'><title>Female × Native American: ratio 0.27, rate 12.5%, n=8</title></rect>
+<text x='280.1' y='415' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.27</text>
+<text x='180' y='443' font-size='12' fill='#1f2328' text-anchor='end'>Non-binary × Black</text>
+<rect x='190' y='431' width='1.0' height='18' rx='4' fill='#9aa0a6'><title>Non-binary × Black: ratio 0.00, rate 0.0%, n=10</title></rect>
+<text x='196.0' y='443' font-size='11' fill='#57606a' stroke='#fff' stroke-width='3' paint-order='stroke'>0.00</text>
+<line x1='443.3' y1='26' x2='443.3' y2='458' stroke='#d6455d' stroke-width='1.5' stroke-dasharray='4 3'/>
+<text x='447.3' y='24' font-size='10' fill='#d6455d'>0.80 threshold</text>
+</svg></div><table><tr><th>Group</th><th>Applicants</th><th>Selected</th><th>Rate (95% CI)</th><th>Impact ratio</th><th>p-value</th><th>Status</th></tr><tr><td>Male × White</td><td>567</td><td>267</td><td>47.1% <span class='mute'>(43.0%–51.2%)</span></td><td>1.00</td><td>—</td><td><span class='pill' style='background:#2f9e6e'>PASS</span></td></tr><tr><td>Male × Asian</td><td>174</td><td>75</td><td>43.1% <span class='mute'>(36.0%–50.5%)</span></td><td>0.92</td><td>0.356</td><td><span class='pill' style='background:#2f9e6e'>PASS</span></td></tr><tr><td>Male × Hispanic or Latino</td><td>265</td><td>81</td><td>30.6% <span class='mute'>(25.3%–36.4%)</span></td><td>0.65</td><td><0.001</td><td><span class='pill' style='background:#d6455d'>FAIL</span></td></tr><tr><td>Female × Asian</td><td>156</td><td>46</td><td>29.5% <span class='mute'>(22.9%–37.1%)</span></td><td>0.63</td><td><0.001</td><td><span class='pill' style='background:#d6455d'>FAIL</span></td></tr><tr><td>Female × White</td><td>508</td><td>134</td><td>26.4% <span class='mute'>(22.7%–30.4%)</span></td><td>0.56</td><td><0.001</td><td><span class='pill' style='background:#d6455d'>FAIL</span></td></tr><tr><td>Male × Black</td><td>230</td><td>50</td><td>21.7% <span class='mute'>(16.9%–27.5%)</span></td><td>0.46</td><td><0.001</td><td><span class='pill' style='background:#d6455d'>FAIL</span></td></tr><tr><td>Female × Hispanic or Latino</td><td>214</td><td>27</td><td>12.6% <span class='mute'>(8.8%–17.7%)</span></td><td>0.27</td><td><0.001</td><td><span class='pill' style='background:#d6455d'>FAIL</span></td></tr><tr><td>Female × Black</td><td>172</td><td>17</td><td>9.9% <span class='mute'>(6.3%–15.3%)</span></td><td>0.21</td><td><0.001</td><td><span class='pill' style='background:#d6455d'>FAIL</span></td></tr><tr><td>Non-binary × Asian</td><td>7</td><td>4</td><td>57.1% <span class='mute'>(25.0%–84.2%)</span></td><td>1.21</td><td>0.596</td><td><span class='pill' style='background:#9aa0a6'>EXCLUDED</span></td></tr><tr><td>Male × Native American</td><td>7</td><td>3</td><td>42.9% <span class='mute'>(15.8%–75.0%)</span></td><td>0.91</td><td>0.824</td><td><span class='pill' style='background:#9aa0a6'>EXCLUDED</span></td></tr><tr><td>Non-binary × Native American</td><td>3</td><td>1</td><td>33.3% <span class='mute'>(6.1%–79.2%)</span></td><td>0.71</td><td>0.634</td><td><span class='pill' style='background:#9aa0a6'>EXCLUDED</span></td></tr><tr><td>Non-binary × White</td><td>18</td><td>6</td><td>33.3% <span class='mute'>(16.3%–56.3%)</span></td><td>0.71</td><td>0.249</td><td><span class='pill' style='background:#9aa0a6'>EXCLUDED</span></td></tr><tr><td>Non-binary × Hispanic or Latino</td><td>5</td><td>1</td><td>20.0% <span class='mute'>(3.6%–62.4%)</span></td><td>0.42</td><td>0.227</td><td><span class='pill' style='background:#9aa0a6'>EXCLUDED</span></td></tr><tr><td>Female × Native American</td><td>8</td><td>1</td><td>12.5% <span class='mute'>(2.2%–47.1%)</span></td><td>0.27</td><td>0.051</td><td><span class='pill' style='background:#9aa0a6'>EXCLUDED</span></td></tr><tr><td>Non-binary × Black</td><td>10</td><td>0</td><td>0.0% <span class='mute'>(0.0%–27.8%)</span></td><td>0.00</td><td>0.003</td><td><span class='pill' style='background:#9aa0a6'>EXCLUDED</span></td></tr></table></section>
+<footer class="mute"><b>How to read this:</b> impact ratio = group selection rate ÷ highest group's rate. Below 0.80 signals potential adverse impact
+(EEOC four-fifths rule, NYC Local Law 144). <b>FAIL</b> = gap is statistically significant; <b>REVIEW</b> = gap exists but evidence is not conclusive;
+<b>EXCLUDED</b> = group is too small a share of the data to score. This report is a screening tool, not legal advice. Generated by Impartial.</footer>
+</main></body></html>

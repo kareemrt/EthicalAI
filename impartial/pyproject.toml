@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "impartial"
+version = "0.1.0"
+description = "Zero-dependency bias audits for automated hiring and other high-stakes decisions."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = ["fairness", "bias-audit", "ai-ethics", "four-fifths-rule", "local-law-144"]
+dependencies = []
+
+[project.scripts]
+impartial = "impartial.cli:main"
+
+[tool.setuptools]
+packages = ["impartial"]
