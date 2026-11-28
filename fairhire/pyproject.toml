@@ -1,0 +1,18 @@
+[project]
+name = "fairhire"
+version = "0.1.0"
+description = "Zero-dependency bias audits for automated hiring tools (four-fifths rule, NYC LL144 impact ratios, intersectional and error-rate parity)."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+fairhire = "fairhire.__main__:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["fairhire"]
